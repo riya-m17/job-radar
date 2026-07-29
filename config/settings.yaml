@@ -23,17 +23,17 @@ geography:
 
 sources:
   # Employer career pages. This is the backbone and needs no API keys.
-  ats: false
+  ats: true
   # Free public job feeds, no keys needed.
-  remotive: false
-  arbeitnow: false
-  himalayas: false
+  remotive: true
+  arbeitnow: true
+  himalayas: true
   simplify_newgrad: true
   # Specialist science and conservation boards.
-  specialist_boards: false
+  specialist_boards: true
   # Optional, only run if the matching secret is set in GitHub.
-  adzuna: false        # needs ADZUNA_APP_ID and ADZUNA_APP_KEY
-  usajobs: false       # needs USAJOBS_KEY and USAJOBS_EMAIL
+  adzuna: true        # needs ADZUNA_APP_ID and ADZUNA_APP_KEY
+  usajobs: true       # needs USAJOBS_KEY and USAJOBS_EMAIL
 
 adzuna:
   countries: [us, gb, de, in, nl, ca, au, sg]
