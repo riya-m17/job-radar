@@ -1,0 +1,365 @@
+# The deadline calendar.
+#
+# These are structured programmes: post-bacs, fellowships, internships and
+# graduate recruiting cycles. Most never appear on any job board, they open
+# once a year, and the way people miss them is not failing to find them but
+# finding them in February when they closed in November.
+#
+# IMPORTANT, READ THIS ONCE:
+# The months below are TYPICAL windows based on how these programmes have run
+# historically. They are not scraped and they are not guaranteed for this
+# cycle. Every entry has a url. Two weeks before a window opens, open the url
+# and confirm the real date, then correct the file if it has moved. The job of
+# this calendar is to stop you missing a window, not to be the source of truth
+# for a date.
+#
+# opens / closes are month numbers. A window that wraps the new year, such as
+# opens 11 closes 2, is handled correctly.
+# effort: rough hours to submit a good application. Used for the today panel.
+
+programs:
+
+  # ---------------------------------------------------- post-bac and research
+  - name: NIH Postbaccalaureate IRTA
+    org: National Institutes of Health
+    cat: institute
+    type: post-bac
+    opens: 8
+    closes: 12
+    effort: 6
+    url: https://www.training.nih.gov/programs/postbac_irta
+    note: >
+      Two paid years of full time research at NIH. Applications are reviewed on
+      a rolling basis and investigators recruit directly, so applying early in
+      the window and emailing PIs matters more than the formal deadline.
+      Open to non-citizens on the appropriate status, which is unusual for a
+      federal programme and worth confirming for your case.
+
+  - name: New York Genome Center Post-Baccalaureate
+    org: New York Genome Center
+    cat: institute
+    type: post-bac
+    opens: 12
+    closes: 2
+    effort: 5
+    url: https://www.nygenome.org/careers/
+    note: >
+      One to two years of computational genomics in New York. Cap exempt.
+      You already had this on your list from the outreach campaign.
+
+  - name: Broad Institute Research Associate hiring cycle
+    org: Broad Institute
+    cat: institute
+    type: full time
+    opens: 9
+    closes: 3
+    effort: 4
+    url: https://www.broadinstitute.org/careers
+    note: >
+      Not a programme with a deadline, but a real cycle. Most RA postings for
+      a summer start appear between September and March, and they go fast.
+      Cap exempt. Watch the openings list rather than waiting for an intake.
+
+  - name: Jackson Laboratory Summer Student Program
+    org: The Jackson Laboratory
+    cat: institute
+    type: internship
+    opens: 11
+    closes: 1
+    effort: 6
+    url: https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/summer-student-program
+    note: Ten week paid genomics research internship in Maine or Connecticut.
+
+  - name: Cold Spring Harbor Undergraduate Research Program
+    org: Cold Spring Harbor Laboratory
+    cat: institute
+    type: internship
+    opens: 12
+    closes: 1
+    effort: 6
+    url: https://www.cshl.edu/education/undergraduate-research-program/
+    note: Competitive, ten weeks, strong signal on a CV for genomics work.
+
+  - name: Janelia Undergraduate Scholars
+    org: HHMI Janelia Research Campus
+    cat: institute
+    type: internship
+    opens: 11
+    closes: 1
+    effort: 6
+    url: https://www.janelia.org/you-janelia/students-postdocs
+    note: Neuroscience and imaging heavy. Paid, housing provided.
+
+  - name: Fred Hutch Summer Undergraduate Research
+    org: Fred Hutchinson Cancer Center
+    cat: institute
+    type: internship
+    opens: 11
+    closes: 1
+    effort: 5
+    url: https://www.fredhutch.org/en/education-training/undergraduate-students.html
+    note: Cancer genomics and computational biology tracks. Cap exempt.
+
+  - name: Whitehead Institute Summer Research
+    org: Whitehead Institute
+    cat: institute
+    type: internship
+    opens: 12
+    closes: 2
+    effort: 5
+    url: https://wi.mit.edu/education/summer
+    note: Small intake, molecular biology focused.
+
+  # ------------------------------------------------------- marine and field
+  - name: WHOI Summer Student Fellowship
+    org: Woods Hole Oceanographic Institution
+    cat: marine
+    type: fellowship
+    opens: 12
+    closes: 2
+    effort: 8
+    url: https://www.whoi.edu/what-we-do/educate/undergraduate-programs/summer-student-fellowship/
+    note: >
+      Ten to twelve weeks with a WHOI scientist, and the acoustics and marine
+      mammal groups there are a direct line from the narwhal work. Open to
+      international students. Probably the single best fit on this list.
+
+  - name: MBARI Summer Internship Program
+    org: MBARI
+    cat: marine
+    type: internship
+    opens: 11
+    closes: 1
+    effort: 7
+    url: https://www.mbari.org/internship/
+    note: >
+      Ocean technology and data heavy, including bioacoustics and autonomous
+      platforms. Paid, housing stipend, open to international students.
+
+  - name: Smithsonian Internship Program
+    org: Smithsonian Institution
+    cat: museum
+    type: internship
+    opens: 9
+    closes: 10
+    effort: 5
+    url: https://www.smithsonianofi.com/internship-opportunities/
+    note: >
+      Three intakes a year, roughly October, January and June deadlines, across
+      the natural history museum, the environmental research center in Maryland
+      and the tropical research institute in Panama. Explicitly open to
+      international applicants.
+
+  - name: Mote Marine Laboratory Internships
+    org: Mote Marine Laboratory
+    cat: marine
+    type: internship
+    opens: 9
+    closes: 10
+    effort: 4
+    url: https://mote.org/education/internships-fellowships/
+    note: Three cycles a year. Field heavy, coral and marine mammal work.
+
+  - name: NSF Research Experiences for Undergraduates
+    org: National Science Foundation sites
+    cat: institute
+    type: internship
+    opens: 11
+    closes: 2
+    effort: 6
+    url: https://www.nsf.gov/crssprgm/reu/reu_search.jsp
+    note: >
+      Hundreds of separate sites, each with its own deadline clustered in
+      January and February. Most are US citizen or permanent resident only,
+      but a minority accept international students at private institutions.
+      Filter hard before spending time here.
+
+  - name: Cornell Lab of Ornithology internships
+    org: Cornell Lab of Ornithology
+    cat: bioacoustics
+    type: internship
+    opens: 10
+    closes: 2
+    effort: 4
+    url: https://www.birds.cornell.edu/home/join-our-team/
+    note: >
+      The K. Lisa Yang Center for Conservation Bioacoustics sits here. You have
+      already met them, which makes this a warm application rather than a cold
+      one. Cap exempt.
+
+  # ------------------------------------------------------ conservation NGOs
+  - name: WWF internships and early career roles
+    org: World Wildlife Fund US
+    cat: conservation
+    type: internship
+    opens: 1
+    closes: 12
+    effort: 3
+    url: https://www.worldwildlife.org/about/careers
+    note: >
+      Rolling rather than an intake, but conservation NGOs cluster their hiring
+      in late winter as annual budgets land. Cap exempt.
+
+  - name: Conservation International early career
+    org: Conservation International
+    cat: conservation
+    type: full time
+    opens: 1
+    closes: 12
+    effort: 3
+    url: https://www.conservation.org/about/careers
+    note: Rolling. Watch the science and data teams specifically.
+
+  - name: Wildlife Conservation Society internships
+    org: Wildlife Conservation Society
+    cat: conservation
+    type: internship
+    opens: 10
+    closes: 3
+    effort: 4
+    url: https://www.wcs.org/about-us/careers
+    note: Zoo, aquarium and global conservation programme roles. Cap exempt.
+
+  # ------------------------------------------------- science media and comms
+  - name: AAAS Mass Media Science and Engineering Fellowship
+    org: AAAS
+    cat: media
+    type: fellowship
+    opens: 11
+    closes: 1
+    effort: 10
+    url: https://www.aaas.org/programs/mass-media-fellowship
+    note: >
+      Ten weeks placed inside a newsroom writing science journalism, paid.
+      Open to undergraduates in their final year. Given the newsletter, this is
+      a much better fit for you than it is for most science students, and the
+      application is mostly writing samples you already have.
+
+  - name: National Geographic Society early career grants
+    org: National Geographic Society
+    cat: media
+    type: grant
+    opens: 1
+    closes: 12
+    effort: 12
+    url: https://www.nationalgeographic.org/society/grants-and-investments/
+    note: >
+      Rolling with several review cycles a year. Funds your own project rather
+      than employing you, which is a different route entirely, but it is the
+      realistic way in to Nat Geo and it stacks with the photography.
+
+  - name: Nature Portfolio and Springer Nature internships
+    org: Springer Nature
+    cat: media
+    type: internship
+    opens: 9
+    closes: 11
+    effort: 4
+    url: https://careers.springernature.com/
+    note: Editorial and publishing internships, London and New York.
+
+  # ---------------------------------------------------- consulting recruiting
+  - name: Life science consulting new grad recruiting
+    org: ZS, LEK, Clearview, Trinity, Putnam, Health Advances
+    cat: consulting
+    type: full time
+    opens: 8
+    closes: 11
+    effort: 12
+    url: https://www.clearviewhcp.com/careers/
+    note: >
+      The most time critical thing on this calendar. These firms recruit
+      undergraduates for full time analyst roles in the autumn a full year
+      before the start date, so a May 2027 start is decided between roughly
+      August and November 2026. Case interview practice is the bottleneck, not
+      the application. Several sponsor visas; ask early rather than late.
+
+  - name: Guidehouse and Huron life sciences analyst intake
+    org: Guidehouse, Huron
+    cat: consulting
+    type: full time
+    opens: 8
+    closes: 11
+    effort: 8
+    url: https://guidehouse.com/careers
+    note: Same autumn cycle, larger intakes, more structured process.
+
+  # ------------------------------------------------------ biotech and industry
+  - name: Genentech and Roche internship cycle
+    org: Genentech
+    cat: biotech
+    type: internship
+    opens: 9
+    closes: 12
+    effort: 4
+    url: https://www.gene.com/careers/university-and-internships
+    note: Computational biology and bioinformatics tracks. Sponsors visas.
+
+  - name: Regeneron early career programmes
+    org: Regeneron
+    cat: biotech
+    type: internship
+    opens: 9
+    closes: 12
+    effort: 4
+    url: https://careers.regeneron.com/students
+    note: Large intake, genetics centre does population scale genomics.
+
+  - name: Illumina internships
+    org: Illumina
+    cat: genomics
+    type: internship
+    opens: 9
+    closes: 1
+    effort: 4
+    url: https://www.illumina.com/company/careers/students.html
+    note: Bioinformatics and sequencing operations tracks.
+
+  - name: Octant Apprentice Program
+    org: Octant Bio
+    cat: biotech
+    type: apprenticeship
+    opens: 11
+    closes: 1
+    effort: 6
+    url: https://www.octant.bio/careers
+    note: >
+      Paid one year position. Sri Kosuri personally encouraged you to apply,
+      which means this is a warm application and should be treated as a
+      priority rather than one of many. Confirm the opening date with him
+      directly rather than waiting for a posting.
+
+  # ------------------------------------------------------------ Europe and DK
+  - name: Novo Nordisk Foundation and DTU Biosustain positions
+    org: DTU Biosustain
+    cat: institute
+    type: full time
+    opens: 1
+    closes: 12
+    effort: 4
+    url: https://www.biosustain.dtu.dk/careers
+    note: >
+      Rolling. Relevant while you are in Copenhagen and the EU route avoids
+      the F-1 question entirely.
+
+  - name: EMBL-EBI traineeships
+    org: EMBL European Bioinformatics Institute
+    cat: institute
+    type: internship
+    opens: 10
+    closes: 1
+    effort: 6
+    url: https://www.ebi.ac.uk/training/
+    note: >
+      Bioinformatics traineeships near Cambridge, open internationally, and
+      one of the strongest names in the field for computational work.
+
+  - name: Wellcome Sanger Institute summer placements
+    org: Wellcome Sanger Institute
+    cat: institute
+    type: internship
+    opens: 11
+    closes: 1
+    effort: 5
+    url: https://www.sanger.ac.uk/about/careers/
+    note: Genomics at scale. Competitive, open to international students.

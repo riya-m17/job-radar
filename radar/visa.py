@@ -1,4 +1,8 @@
-"""Judge how workable a posting is for someone on an F-1 visa.
+"""Judge how workable a posting is for someone who needs sponsorship.
+
+The default assumption everywhere is that sponsorship is required. That is the
+safe reading and it needs no personal detail in any config file: a posting is
+only treated as workable when it says something that makes it workable.
 
 No job board reliably tags sponsorship, so this reads the posting language and
 combines it with what is known about the employer. Five verdicts:
@@ -44,7 +48,24 @@ POSITIVE = [
     "relocation and visa", "opt", "cpt", "f-1", "f1 visa", "stem opt",
     "cap exempt", "cap-exempt", "international candidates welcome",
     "open to international applicants", "work permit support",
-    "we support work visas", "eligible to work in the",
+    "we support work visas", "support work permit", "support work permits",
+    "work permits and relocation", "assist with work permit",
+    "relocation package", "relocation assistance", "relocation support",
+    "help with relocation", "we welcome applicants from",
+    "regardless of nationality", "visa and relocation",
+]
+
+
+# Non-US phrasing for "you must already have the right to work here", which is
+# the European and UK equivalent of the US no-sponsorship line.
+WORK_RIGHTS_REQUIRED = [
+    "right to work in the uk", "right to work in the united kingdom",
+    "must have the right to work", "existing right to work",
+    "eu work permit", "eu citizenship", "eea citizen",
+    "valid work permit", "already hold a work permit",
+    "must hold a valid residence permit", "danish work permit",
+    "no relocation support", "we do not offer relocation",
+    "applicants must be eligible to work in",
 ]
 
 
@@ -82,11 +103,21 @@ def assess(job: dict) -> dict:
     if hit:
         return _verdict("explicit", f"posting mentions {hit}")
 
+    hit = _flag(text, WORK_RIGHTS_REQUIRED)
+    if hit:
+        return _verdict(
+            "unlikely",
+            f"posting expects existing work rights: {hit}")
+
     region = job.get("region", "")
     if region not in ("US", "US remote"):
+        # An F-1 is irrelevant here, but a work permit is not. Nothing in this
+        # posting says the employer helps with one, so it stays an open
+        # question rather than a free pass.
         return _verdict(
-            "n/a",
-            "outside the US, so F-1 does not apply and local work rights decide it")
+            "permit",
+            "outside the US, so this needs a local work permit and the posting "
+            "does not mention supporting one")
 
     if job.get("cap_exempt"):
         return _verdict(
@@ -97,6 +128,6 @@ def assess(job: dict) -> dict:
 
 
 def _verdict(status: str, why: str) -> dict:
-    rank = {"explicit": 5, "likely": 4, "unknown": 3, "n/a": 2,
+    rank = {"explicit": 5, "likely": 4, "unknown": 3, "permit": 2,
             "unlikely": 1, "blocked": 0}[status]
     return {"visa_status": status, "visa_reason": why, "visa_rank": rank}

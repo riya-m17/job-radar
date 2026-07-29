@@ -1,0 +1,149 @@
+# What you actually have, so postings can be scored against you rather than
+# against generic keywords.
+#
+# This file is in a public repository. Skills and coursework are fine here.
+# Do not put visa status, citizenship, grades or contact details in it. The
+# sponsorship logic does not read this file and does not need to.
+#
+# Every term is matched as lowercase substring against the posting text. Add
+# anything you can honestly claim; remove anything you would not want to be
+# asked about in an interview.
+
+graduating: "2027-05"
+
+skills:
+
+  # Weight 8. Rare enough that a posting naming one is a strong signal.
+  signature:
+    - passive acoustic
+    - bioacoustic
+    - acoustic detection
+    - hydrophone
+    - spectrogram
+    - marine mammal
+    - harbor porpoise
+    - cetacean
+    - narwhal
+    - bowhead
+    - hi-c
+    - chromosome conformation
+    - rnascope
+    - phage
+    - bacteriophage
+    - biopython
+    - blast
+    - comparative genomics
+    - variant calling
+
+  # Weight 5. Real, demonstrable, and commonly asked for.
+  core:
+    - python
+    - r programming
+    - bioinformatics
+    - computational biology
+    - genomics
+    - sequencing analysis
+    - ngs
+    - pipeline development
+    - snakemake
+    - nextflow
+    - bash
+    - linux
+    - command line
+    - git
+    - jupyter
+    - pandas
+    - numpy
+    - scikit-learn
+    - data visualization
+    - statistical analysis
+    - evolutionary genetics
+    - population genetics
+    - cancer genomics
+    - machine learning
+
+  # Weight 5. Bench work. Many research assistant roles are mostly this.
+  wet_lab:
+    - cell culture
+    - pcr
+    - qpcr
+    - western blot
+    - gel electrophoresis
+    - dna extraction
+    - rna extraction
+    - library preparation
+    - microscopy
+    - immunohistochemistry
+    - in situ hybridization
+    - drosophila
+    - model organism
+    - hplc
+    - aseptic technique
+    - sample preparation
+
+  # Weight 5. Field work, which is what conservation and marine roles want.
+  field:
+    - field work
+    - fieldwork
+    - field season
+    - arctic
+    - svalbard
+    - wildlife tracking
+    - telemetry
+    - gps collar
+    - animal monitoring
+    - survey design
+    - data collection protocol
+    - boat
+    - small vessel
+    - remote field site
+    - species identification
+
+  # Weight 3. Genuine, and it separates you from most applicants for the
+  # communication, outreach and program roles.
+  communication:
+    - science communication
+    - science writing
+    - newsletter
+    - technical writing
+    - public speaking
+    - outreach
+    - curriculum
+    - teaching
+    - mentoring
+    - literacy
+    - nonprofit
+    - founded
+    - program development
+    - photography
+    - visual storytelling
+
+# Things you are still learning. Half weight. Honest to list, and a posting
+# asking for these is worth seeing even though it is a stretch.
+learning:
+  - deep learning
+  - pytorch
+  - tensorflow
+  - convolutional neural network
+  - cloud computing
+  - aws
+  - docker
+  - sql
+  - gis
+  - qgis
+  - arcgis
+  - remote sensing
+  - r shiny
+  - tableau
+
+# Degrees and coursework, matched against requirement lines.
+education:
+  - bachelor
+  - b.s.
+  - bs in biology
+  - biology degree
+  - undergraduate degree
+  - life sciences degree
+  - quantitative background
+  - computational background
+  - scientific computing

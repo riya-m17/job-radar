@@ -155,6 +155,18 @@ employer. You do not need to know which system they use:
 Then run the workflow once with rediscovery, or just wait for Sunday, when it
 re-probes everything automatically.
 
+**`profile.yaml`** is you: the skills, techniques and field experience a
+posting gets matched against. This is what produces the green overlap tags and
+the "your niche" flag. Add anything you can honestly claim, remove anything you
+would not want asked about in an interview. Do not put visa status or personal
+details in it; the sponsorship logic does not read this file.
+
+**`programs.yaml`** is the deadline calendar: post-bacs, fellowships,
+internships and the autumn consulting cycle, none of which appear on job
+boards. The months are typical windows, not scraped dates. Two weeks before a
+window opens, open the link, confirm the real date, and correct the file if it
+moved. The job of this calendar is to stop you missing a window.
+
 **`taxonomy.yaml`** decides what counts. Four tiers:
 
 - `core` is the strongest signal and always qualifies a posting

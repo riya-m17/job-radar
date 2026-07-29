@@ -47,6 +47,26 @@ RELIEFWEB_QUERIES = [
 ]
 
 
+# Several of these sites publish one site-wide feed with articles, podcasts
+# and jobs mixed together, so the feed alone is not evidence of a posting.
+# Judge the link instead. This throws away some real postings whose urls do
+# not say job anywhere, which is the right trade: employer career pages are
+# the backbone and these feeds are a bonus.
+BLOG_PATHS = ("/founders-desk/", "/blog/", "/news/", "/article", "/advice",
+              "/guide", "/podcast", "/webinar", "/course", "/story", "/tips",
+              "/opinion", "/interview", "/press-", "/event", "/resources/",
+              "/how-to", "/why-", "/what-", "/report/", "/insight")
+JOB_PATHS = ("/job", "/career", "/vacanc", "/position", "/opportunit",
+             "/employment", "/opening", "/recruit", "/apply", "/post/")
+
+
+def _is_posting(link: str) -> bool:
+    low = (link or "").lower()
+    if any(b in low for b in BLOG_PATHS):
+        return False
+    return any(j in low for j in JOB_PATHS)
+
+
 def _base(title, company, location, url, desc, posted, source):
     return {
         "title": title or "",
@@ -103,6 +123,8 @@ def _rss_one(name: str, url: str) -> list[dict]:
                 posted = parsedate_to_datetime(pub).date().isoformat()
             except (TypeError, ValueError):
                 posted = pub[:10]
+        if not _is_posting(link):
+            continue
         out.append(_base(title, name, "", link, desc, posted, name))
     if out:
         log.info("%-38s %d", name, len(out))
