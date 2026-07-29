@@ -20,7 +20,7 @@
   "slug": "awf"
  },
  "Agilent Technologies": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "agilent"
  },
  "Akoya Biosciences": {
@@ -88,7 +88,7 @@
   "slug": "azenta"
  },
  "BBC Studios Natural History Unit": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "bbc"
  },
  "Back Bay Life Science Advisors": {
@@ -108,7 +108,7 @@
   "slug": "bavariannordic"
  },
  "Bayer Crop Science": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "bayer"
  },
  "BeZero Carbon": {
@@ -144,7 +144,7 @@
   "slug": "biomarin"
  },
  "BioNTech": {
-  "provider": "workable",
+  "provider": "smartrecruiters",
   "slug": "biontech"
  },
  "Bionest Partners": {
@@ -180,7 +180,7 @@
   "slug": "wcs"
  },
  "Brookhaven National Laboratory": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "bnl"
  },
  "Brookings Institution": {
@@ -192,7 +192,7 @@
   "slug": "bruker"
  },
  "CGIAR": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "cgiar"
  },
  "COWI": {
@@ -468,7 +468,7 @@
   "slug": "ghd"
  },
  "GRAIL": {
-  "provider": "workable",
+  "provider": "smartrecruiters",
   "slug": "grail"
  },
  "Gates Foundation": {
@@ -544,7 +544,7 @@
   "slug": "icf"
  },
  "IQVIA": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "iqvia"
  },
  "IUCN": {
@@ -572,7 +572,7 @@
   "slug": "integral-corp"
  },
  "Invitae": {
-  "provider": "workable",
+  "provider": "smartrecruiters",
   "slug": "invitae"
  },
  "Ionis Pharmaceuticals": {
@@ -616,7 +616,7 @@
   "slug": "lek"
  },
  "Labcorp": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "labcorp"
  },
  "Latch Bio": {
@@ -748,7 +748,7 @@
   "slug": "neaq"
  },
  "New York Botanical Garden": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "nybg"
  },
  "New York Genome Center": {
@@ -768,11 +768,11 @@
   "slug": "novonordisk"
  },
  "Novo Nordisk Foundation Center for Biosustainability": {
-  "provider": "workable",
+  "provider": "smartrecruiters",
   "slug": "dtu"
  },
  "Oak Ridge National Laboratory": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "ornl"
  },
  "Ocean Conservancy": {
@@ -904,7 +904,7 @@
   "slug": "rpsgroup"
  },
  "RSPB": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "rspb"
  },
  "RTI International": {
@@ -1044,7 +1044,7 @@
   "slug": "sierraclub"
  },
  "Simon-Kucher": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "simon-kucher"
  },
  "Singular Genomics": {
@@ -1104,7 +1104,7 @@
   "slug": "tangotx"
  },
  "Tempus AI": {
-  "provider": "workable",
+  "provider": "smartrecruiters",
   "slug": "tempus"
  },
  "Terra Bio": {
@@ -1200,7 +1200,7 @@
   "slug": "vanandel"
  },
  "Verily": {
-  "provider": "workable",
+  "provider": "smartrecruiters",
   "slug": "verily"
  },
  "Vertex Pharmaceuticals": {
