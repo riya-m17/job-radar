@@ -4,6 +4,34 @@ run:
   # Only postings scoring at least this much survive. Lower it to widen the
   # net, raise it if the dashboard gets noisy. 6 is deliberately generous.
   min_relevance: 6
+
+  # Sources that arrive with no structured data, meaning the RSS boards, have
+  # to clear a higher bar. They give a title and a link and nothing else, so a
+  # weak match from one of them is almost always noise.
+  min_relevance_lowtrust: 16
+
+  # Freshness. A posting older than this is dropped outright, because applying
+  # to something filled two months ago wastes your time and theirs. Postings
+  # whose date cannot be established are kept but flagged, since throwing them
+  # away would lose real openings from feeds that simply do not publish a date.
+  max_age_days: 75
+  # Past this, a posting is shown but marked as ageing.
+  stale_after_days: 30
+  # Drop rather than merely rank down anything requiring citizenship, a
+  # clearance, or permanent work authorisation. You cannot apply to these.
+  drop_blocked: true
+
+  # The experience bar. A posting asking for more years than this is dropped,
+  # because it will not hire a 2027 graduate however well it matches. The
+  # employer stays in the registry, so it is still watched for better roles.
+  max_years_experience: 2
+  # Bench technician roles in a named professor's lab at a university. Removed.
+  # This does not touch non-university research institutes such as the Broad,
+  # the New York Genome Center or Woods Hole.
+  drop_academic_bench: true
+  # Roles requiring a master's. Off by default, since some say master's
+  # "or equivalent experience" and are worth a look.
+  drop_masters_required: false
   # A posting is marked closed once it stops appearing for this many runs.
   stale_runs_before_closed: 3
   # Requests

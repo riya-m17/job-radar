@@ -150,6 +150,11 @@ details.drawer[open]>summary::after{content:'close'}
 .meta{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--fog);
   margin-top:5px;display:flex;flex-wrap:wrap;gap:4px 12px}
 .meta .co{color:var(--ice)}
+.meta .fresh{color:var(--kelp)}
+.meta .old{color:#B08A4E}
+.meta .nodate{color:var(--dim)}
+.oldtag{font-family:'IBM Plex Mono',monospace;font-size:9.5px;letter-spacing:.1em;
+  border:1px solid #5A452C;color:#C79A5E;padding:2px 6px;border-radius:2px}
 .tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:9px}
 .tag{font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.05em;
   border:1px solid var(--rule);color:var(--fog);padding:2px 7px;border-radius:2px}
@@ -159,6 +164,8 @@ details.drawer[open]>summary::after{content:'close'}
 .tag.visa-unlikely{color:#C79A5E;border-color:#5A452C}
 .tag.contact{color:var(--amber);border-color:#5A4720}
 .tag.skill{color:var(--kelp);border-color:#2C5442}
+.tag.exp-ok{color:var(--kelp);border-color:#2C5442}
+.tag.exp-stretch{color:#C79A5E;border-color:#5A452C}
 .side{padding:15px 0;text-align:right;display:flex;flex-direction:column;
   align-items:flex-end;gap:7px;min-width:104px}
 .score{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--dim)}
@@ -193,14 +200,22 @@ footer{border-top:1px solid var(--rule);margin-top:44px;padding:22px 0 60px;
 JS = """
 const DATA = __DATA__;
 const state = {q:'', type:new Set(), cat:new Set(), visa:new Set(), region:new Set(),
-               newOnly:false, exemptOnly:false, starOnly:false, hideApplied:false,
-               sort:'fit'};
+               fresh:new Set(), exp:new Set(), newOnly:false, exemptOnly:false,
+               starOnly:false, hideApplied:false, hideUndated:false, sort:'best'};
 let applied = {};
 try{ applied = JSON.parse(localStorage.getItem('radar-applied')||'{}'); }catch(e){}
 
 const esc = s => (s||'').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const TYPE_LABEL = {full_time:'full time', new_grad:'new grad', internship:'internship',
                     fellowship:'fellowship', seasonal:'seasonal'};
+
+function dateLine(j){
+  if(j.posted_confidence === 'unknown') return 'no date published';
+  const d = j.age_days;
+  const ago = d <= 0 ? 'today' : d === 1 ? 'yesterday' : d + 'd ago';
+  const hedge = j.posted_confidence === 'approximate' ? '~' : '';
+  return 'posted ' + hedge + ago;
+}
 
 function matches(j){
   if(state.newOnly && !j.is_new) return false;
@@ -211,6 +226,9 @@ function matches(j){
   if(state.cat.size && !state.cat.has(j.org_cat)) return false;
   if(state.visa.size && !state.visa.has(j.visa_status)) return false;
   if(state.region.size && !state.region.has(j.region)) return false;
+  if(state.fresh.size && !state.fresh.has(j.freshness)) return false;
+  if(state.exp.size && !state.exp.has(j.experience_verdict)) return false;
+  if(state.hideUndated && j.posted_confidence === 'unknown') return false;
   if(state.q){
     const hay = (j.title+' '+j.company+' '+j.location+' '+
                  (j.skill_hits||[]).join(' ')+' '+(j.match_terms||[]).join(' ')).toLowerCase();
@@ -219,10 +237,14 @@ function matches(j){
   return true;
 }
 
+// Undated postings sort as if they were a month old: not hidden, but never
+// allowed to sit above something with a real recent date on it.
+const ageOf = j => j.posted_confidence === 'unknown' ? 30 : j.age_days;
 const SORTS = {
   fit:   (a,b) => b.total_score-a.total_score,
   skill: (a,b) => b.skill_score-a.skill_score || b.total_score-a.total_score,
-  date:  (a,b) => (b.first_seen||'').localeCompare(a.first_seen||'') || b.total_score-a.total_score
+  date:  (a,b) => ageOf(a)-ageOf(b) || b.total_score-a.total_score,
+  best:  (a,b) => (ageOf(a)-ageOf(b))*0.6 - (a.total_score-b.total_score)
 };
 
 function render(){
@@ -249,23 +271,31 @@ function render(){
           '<h2 class="jtitle"><a href="'+esc(j.url)+'" target="_blank" rel="noopener">'+esc(j.title)+'</a></h2>'+
           (j.is_new?'<span class="newtag">NEW</span>':'')+
           (j.has_signature?'<span class="startag">YOUR NICHE</span>':'')+
+          (j.freshness==='ageing'?'<span class="oldtag">'+j.age_days+'D OLD</span>':'')+
         '</div>'+
         '<div class="meta"><span class="co">'+esc(j.company)+'</span>'+
           '<span>'+esc(j.location||j.region||'location not stated')+'</span>'+
-          '<span>'+esc(j.first_seen)+'</span></div>'+
+          '<span class="'+(j.freshness==='ageing'?'old':j.freshness==='undated'?'nodate':'fresh')+'">'+
+            dateLine(j)+'</span></div>'+
         '<div class="tags">'+
           '<span class="tag visa-'+j.visa_status.replace('/','')+'">F-1 '+esc(j.visa_status)+'</span>'+
           '<span class="tag">'+esc(TYPE_LABEL[j.role_type]||j.role_type)+'</span>'+
           '<span class="tag">'+esc(j.cat_label)+'</span>'+
           (j.cap_exempt?'<span class="tag visa-likely">cap exempt</span>':'')+
           (j.already_contacted?'<span class="tag contact">already contacted</span>':'')+
+          (j.years_required!==null&&j.years_required!==undefined
+            ?'<span class="tag '+(j.experience_verdict==='stretch'?'exp-stretch':'exp-ok')+'">'+
+              j.years_required+'y experience</span>':'')+
           skills+
         '</div>'+
         '<details class="more"><summary>why this surfaced</summary><div class="detail">'+
           '<div class="why">F-1 read: '+esc(j.visa_reason)+'</div>'+
           '<div class="why" style="margin-top:6px">'+overlap+'</div>'+
           (j.snippet?'<p style="margin-top:8px">'+esc(j.snippet)+'</p>':'')+
-          '<div class="why">topic score '+j.relevance+', skill score '+j.skill_score+
+          '<div class="why" style="margin-top:6px">experience: '+esc(j.experience_detail)+'</div>'+
+          '<div class="why">topic '+j.relevance+', skill '+j.skill_score+
+          ', date '+esc(j.posted_confidence)+
+          (j.posted_date?' ('+esc(j.posted_date)+')':'')+
           ', source '+esc(j.source)+'</div>'+
         '</div></details>'+
       '</div>'+
@@ -405,6 +435,13 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
             "already_contacted": bool(j.get("already_contacted")),
             "first_seen": j.get("first_seen", today),
             "is_new": j.get("first_seen") == today,
+            "posted_date": j.get("posted_date"),
+            "posted_confidence": j.get("posted_confidence", "unknown"),
+            "age_days": j.get("age_days", 0),
+            "freshness": j.get("freshness", "undated"),
+            "experience_verdict": j.get("experience_verdict", "unstated"),
+            "experience_detail": j.get("experience_detail", ""),
+            "years_required": j.get("years_required"),
             "source": j.get("source", ""),
             "snippet": (j.get("description") or "")[:340],
         })
@@ -419,12 +456,21 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
     new_count = sum(1 for p in payload if p["is_new"])
     exempt_count = sum(1 for p in payload if p["cap_exempt"])
     niche_count = sum(1 for p in payload if p["has_signature"])
+    week_count = sum(1 for p in payload if p["freshness"] == "this week")
 
     labels = {"full_time": "full time", "new_grad": "new grad",
               "internship": "internship", "fellowship": "fellowship",
               "seasonal": "seasonal"}
     type_chips = "".join(_chip("type", k, labels.get(k, k), v)
                          for k, v in tally("role_type").items())
+    fresh_order = ["this week", "recent", "ageing", "undated"]
+    fresh_counts = tally("freshness")
+    fresh_chips = "".join(_chip("fresh", k, k, fresh_counts[k])
+                          for k in fresh_order if k in fresh_counts)
+    exp_order = ["new grad ok", "unstated", "stretch"]
+    exp_counts = tally("experience_verdict")
+    exp_chips = "".join(_chip("exp", k, k, exp_counts[k])
+                        for k in exp_order if k in exp_counts)
     cat_chips = "".join(_chip("cat", k, CATEGORIES.get(k, k), v)
                         for k, v in tally("org_cat").items() if v >= 2)
     visa_chips = "".join(_chip("visa", k, k, v) for k, v in tally("visa_status").items())
@@ -463,6 +509,7 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
   <div class="count new"><div class="n">{new_count}</div><div class="k">new today</div></div>
   <div class="count exempt"><div class="n">{exempt_count}</div><div class="k">cap exempt</div></div>
   <div class="count"><div class="n">{niche_count}</div><div class="k">your niche</div></div>
+  <div class="count"><div class="n">{week_count}</div><div class="k">posted this week</div></div>
 </div></div></section>
 
 <div class="controls"><div class="wrap">
@@ -473,13 +520,17 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
     {_chip("flag", "starOnly", "your niche only")}
     {_chip("flag", "exemptOnly", "cap exempt only")}
     {_chip("flag", "hideApplied", "hide applied")}
+    {_chip("flag", "hideUndated", "hide undated")}
     <span class="grouplabel">sort</span>
-    <button class="chip" data-group="sort" data-value="fit" aria-pressed="true">best fit</button>
-    <button class="chip" data-group="sort" data-value="skill" aria-pressed="false">skill overlap</button>
+    <button class="chip" data-group="sort" data-value="best" aria-pressed="true">fit and fresh</button>
     <button class="chip" data-group="sort" data-value="date" aria-pressed="false">newest</button>
+    <button class="chip" data-group="sort" data-value="fit" aria-pressed="false">best fit</button>
+    <button class="chip" data-group="sort" data-value="skill" aria-pressed="false">skill overlap</button>
   </div>
   <details class="drawer"><summary>filters</summary>
     <div class="drawerbody">
+      <div class="chips"><span class="grouplabel">posted</span>{fresh_chips}</div>
+      <div class="chips"><span class="grouplabel">experience</span>{exp_chips}</div>
       <div class="chips"><span class="grouplabel">type</span>{type_chips}</div>
       <div class="chips"><span class="grouplabel">F-1</span>{visa_chips}</div>
       <div class="chips"><span class="grouplabel">field</span>{cat_chips}</div>
@@ -502,6 +553,14 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
   which can file an H-1B outside the annual lottery.<br>
   Permit means a role outside the US: no F-1 question, but a local work permit is still
   needed and the posting says nothing about supporting one.<br>
+  Roles asking for more than two years of experience, a doctorate, or bench work
+  in a named professor's university laboratory are removed. The employer stays in
+  the registry either way, so it is still watched for roles you could actually get.<br>
+  Posting dates come from the employer's own system where possible. A tilde means
+  the date came from a feed and is roughly right; no date published means the board
+  does not publish one, and those never rank as fresh. Anything the employer dated
+  more than 75 days ago is dropped, and roles requiring citizenship, permanent
+  residence or a clearance are removed rather than shown.<br>
   Skill overlap is matched against config/profile.yaml. Applied marks live in this browser only.
 </div></footer>
 

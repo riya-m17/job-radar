@@ -13,7 +13,8 @@ import argparse
 import collections
 from pathlib import Path
 
-from radar import classify, discovery, profile_match, programs, render, store, visa
+from radar import (classify, discovery, freshness, profile_match, programs,
+                   render, requirements, store, visa)
 from radar.sources import ats, boards, feeds
 from radar.util import ROOT, log, setup_logging, settings
 
@@ -29,6 +30,7 @@ def main() -> None:
 
     setup_logging(args.verbose)
     cfg = settings()["sources"]
+    cfg_run = settings()["run"]
 
     # 1. Where does each employer post?
     boards_cache = discovery.run(force=args.rediscover) if cfg["ats"] else {}
@@ -54,6 +56,24 @@ def main() -> None:
             dropped[reason.split(":")[0]] += 1
             continue
         result.update(visa.assess(result))
+
+        # You cannot apply to these, so they are removed rather than sorted
+        # to the bottom where they still take up space.
+        if cfg_run["drop_blocked"] and result["visa_status"] == "blocked":
+            dropped["needs citizenship or clearance"] += 1
+            continue
+
+        result.update(freshness.assess(result))
+        if freshness.too_old(result):
+            dropped["older than %dd" % cfg_run["max_age_days"]] += 1
+            continue
+
+        result.update(requirements.assess(result))
+        why = requirements.rejected(result)
+        if why:
+            dropped[why.split("(")[0].strip()] += 1
+            continue
+
         result.update(profile_match.assess(result))
         # Ranking combines topic relevance with how much of the posting she can
         # actually already do. The two are shown separately on the dashboard.
@@ -67,6 +87,11 @@ def main() -> None:
     # 4. Remember, then publish.
     open_jobs, new_today = store.merge(kept)
     open_jobs.sort(key=lambda j: (-j.get("visa_rank", 3), -j.get("total_score", 0)))
+    dated = sum(1 for j in open_jobs if j.get("posted_confidence") == "exact")
+    log.info("dates: %d exact, %d approximate, %d unknown",
+             dated,
+             sum(1 for j in open_jobs if j.get("posted_confidence") == "approximate"),
+             sum(1 for j in open_jobs if j.get("posted_confidence") == "unknown"))
     calendar = programs.load()
     render.write(open_jobs, store.history(), calendar)
     log.info("calendar: %d programmes, %d need attention now",

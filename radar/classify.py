@@ -155,7 +155,9 @@ def region(job: dict) -> str:
     if base:
         return "Remote"
     if not loc:
-        return job.get("country_hint") or "Unspecified"
+        # Say what is true. Calling this a region invites the visa scorer to
+        # assert something it cannot know.
+        return job.get("country_hint") or "Not stated"
     for token, label in (("united kingdom", "UK"), ("london", "UK"), ("england", "UK"),
                          ("denmark", "Denmark"), ("copenhagen", "Denmark"),
                          ("germany", "Germany"), ("netherlands", "Netherlands"),
@@ -174,8 +176,12 @@ def classify(job: dict) -> dict | None:
         job["_dropped"] = reason
         return None
     score, hits = relevance(job)
-    if score < SET["run"]["min_relevance"]:
-        job["_dropped"] = f"below threshold ({score})"
+    from .freshness import trust
+    floor = SET["run"]["min_relevance"]
+    if trust(job.get("source", "")) == "low":
+        floor = SET["run"]["min_relevance_lowtrust"]
+    if score < floor:
+        job["_dropped"] = f"below threshold ({score} < {floor})"
         return None
     job["relevance"] = score
     job["match_terms"] = hits

@@ -180,8 +180,21 @@ moved. The job of this calendar is to stop you missing a window.
 learning lists are checked against the title, the sector list against the whole
 posting.
 
-**`settings.yaml`** has `min_relevance`, currently 6. Lower it to widen, raise
-it if the dashboard gets noisy.
+**`settings.yaml`** holds the knobs worth touching:
+
+| Setting | Does what |
+|---|---|
+| `min_relevance` | how strong a match has to be. Lower widens, raise if noisy |
+| `min_relevance_lowtrust` | the higher bar RSS boards must clear, since they send a title and a link and nothing else |
+| `max_age_days` | anything the employer dated older than this is dropped |
+| `stale_after_days` | past this a posting is shown but marked ageing |
+| `drop_blocked` | removes roles needing citizenship, permanent residence or a clearance |
+
+**On dates.** Employer career pages publish a real publication date and those
+are marked exact. Feeds publish one but re-date items when they re-syndicate,
+so those show a tilde and are treated as roughly right. Some conservation
+boards publish no date at all; those are kept, marked "no date published", and
+never allowed to rank as fresh. Nothing is invented.
 
 **`config/outreach_companies.txt`** is optional. Put one company name per line,
 straight out of your outreach tracker, and any opening at those companies gets

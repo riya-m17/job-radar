@@ -317,7 +317,8 @@ exclude:
     - post-doctoral
     - postdoc
 
-# Phrases in the body that mean too much experience is required.
+# Kept as a coarse backstop. The real work is done by radar/requirements.py,
+# which parses the actual number of years out of the posting text.
 experience_ceiling:
   - 3+ years
   - 4+ years

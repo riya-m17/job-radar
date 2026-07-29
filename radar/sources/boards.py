@@ -76,7 +76,10 @@ def _base(title, company, location, url, desc, posted, source):
         "description": strip_html(desc)[:6000],
         "posted": posted,
         "source": source,
-        "org_cat": "conservation",
+        # These feeds carry every kind of role. Calling them all conservation
+        # made the category filter lie, so they are labelled by where they came
+        # from and the scoring decides whether they are worth showing.
+        "org_cat": "aggregator",
         "country_hint": "",
         "cap_exempt": False,
         "department": "",
@@ -157,14 +160,19 @@ def reliefweb() -> list[dict]:
             f = row.get("fields", {})
             src = f.get("source") or [{}]
             country = f.get("country") or [{}]
-            out.append(_base(
+            item = _base(
                 f.get("title"),
                 src[0].get("name") if src else "ReliefWeb",
                 ", ".join(c.get("name", "") for c in country[:2]),
                 f.get("url"),
                 f.get("body"),
                 (f.get("date", {}).get("created") or "")[:10],
-                "reliefweb"))
+                "reliefweb")
+            # ReliefWeb publishes a real closing date. Honour it.
+            closing = (f.get("date", {}) or {}).get("closing")
+            if closing:
+                item["closes"] = closing[:10]
+            out.append(item)
     log.info("reliefweb: %d", len(out))
     return out
 

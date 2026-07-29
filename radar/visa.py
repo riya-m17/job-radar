@@ -24,12 +24,24 @@ advantage available, and it is why those employers are scored up.
 
 from __future__ import annotations
 
+# Hard stops. If a posting says one of these, you cannot apply, so these are
+# dropped from the dashboard entirely rather than ranked down.
 BLOCKING = [
+    # Citizenship
     "u.s. citizenship is required", "us citizenship is required",
     "must be a u.s. citizen", "must be a us citizen", "citizenship required",
-    "citizens only", "security clearance", "active clearance", "top secret",
-    "public trust clearance", "itar", "export control", "must be a citizen",
-    "national of the united states", "federal employment eligibility",
+    "citizens only", "must be a citizen", "national of the united states",
+    "federal employment eligibility", "u.s. citizenship required",
+    # Permanent residence, which an F-1 is not
+    "citizen or permanent resident", "citizens or permanent residents",
+    "citizens and permanent residents", "lawful permanent resident",
+    "must be a permanent resident", "permanent resident status required",
+    "green card required", "green card holders only",
+    "u.s. person", "us person as defined",
+    # Clearance and export control, which require citizenship in practice
+    "security clearance", "active clearance", "top secret", "ts/sci",
+    "public trust clearance", "itar", "export control", "export-controlled",
+    "ability to obtain a clearance", "dod clearance",
 ]
 
 NEGATIVE = [
@@ -40,6 +52,12 @@ NEGATIVE = [
     "must have permanent work authorization", "permanent authorization to work",
     "authorized to work without sponsorship", "not provide immigration sponsorship",
     "not eligible for visa sponsorship", "sponsorship is not available",
+    "without the need for sponsorship", "without requiring sponsorship",
+    "sponsorship will not be provided", "no sponsorship will be offered",
+    "legally authorized to work in the united states without sponsorship",
+    "authorized to work in the us without sponsorship",
+    "now or in the future require sponsorship",
+    "do not provide visa sponsorship",
 ]
 
 POSITIVE = [
@@ -110,6 +128,15 @@ def assess(job: dict) -> dict:
             f"posting expects existing work rights: {hit}")
 
     region = job.get("region", "")
+
+    if region == "Not stated":
+        # The posting did not say where the work is. Asserting a permit
+        # requirement here would be inventing a fact, so say what is true.
+        return _verdict(
+            "unknown",
+            "the posting does not state a location, so eligibility cannot be "
+            "read from it. Check the listing before spending time on it")
+
     if region not in ("US", "US remote"):
         # An F-1 is irrelevant here, but a work permit is not. Nothing in this
         # posting says the employer helps with one, so it stays an open

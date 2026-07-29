@@ -34,7 +34,9 @@ def _greenhouse(slug, sess):
             "location": (j.get("location") or {}).get("name", ""),
             "url": j.get("absolute_url", ""),
             "description": strip_html(j.get("content", "")),
-            "posted": _iso(j.get("updated_at") or j.get("first_published")),
+            # first_published is when the posting went live. updated_at moves
+            # every time anyone edits it, so it overstates freshness badly.
+            "posted": _iso(j.get("first_published") or j.get("updated_at")),
             "department": ", ".join(d.get("name", "") for d in j.get("departments", [])),
         })
     return out
