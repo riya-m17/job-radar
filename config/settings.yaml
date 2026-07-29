@@ -1,0 +1,71 @@
+# Runtime settings. Safe to edit.
+
+run:
+  # Only postings scoring at least this much survive. Lower it to widen the
+  # net, raise it if the dashboard gets noisy. 6 is deliberately generous.
+  min_relevance: 6
+  # A posting is marked closed once it stops appearing for this many runs.
+  stale_runs_before_closed: 3
+  # Requests
+  timeout_seconds: 25
+  max_workers: 12
+  retries: 2
+  user_agent: "job-radar/1.0 (personal job search tool)"
+
+geography:
+  # She said anywhere. These only affect the region label and the F-1 logic,
+  # not whether a posting is kept.
+  us_markers: [", ca", ", ny", ", ma", ", md", ", wa", ", tx", ", il", ", pa",
+               ", nc", ", nj", ", co", ", ga", ", va", ", dc", ", fl", ", mn",
+               ", mi", ", oh", ", az", ", or", ", wi", ", ct", ", tn", ", mo",
+               ", ut", ", in", ", ak", ", hi", "united states", "usa", "u.s."]
+  remote_markers: [remote, "work from home", distributed, anywhere, telework]
+
+sources:
+  # Employer career pages. This is the backbone and needs no API keys.
+  ats: false
+  # Free public job feeds, no keys needed.
+  remotive: false
+  arbeitnow: false
+  himalayas: false
+  simplify_newgrad: true
+  # Specialist science and conservation boards.
+  specialist_boards: false
+  # Optional, only run if the matching secret is set in GitHub.
+  adzuna: false        # needs ADZUNA_APP_ID and ADZUNA_APP_KEY
+  usajobs: false       # needs USAJOBS_KEY and USAJOBS_EMAIL
+
+adzuna:
+  countries: [us, gb, de, in, nl, ca, au, sg]
+  queries:
+    - bioinformatics
+    - computational biology
+    - genomics analyst
+    - conservation science
+    - wildlife biologist
+    - marine biology
+    - research assistant biology
+    - science communication
+    - environmental data analyst
+    - biodiversity
+    - laboratory technician
+    - ecology technician
+    - remote sensing ecology
+
+usajobs:
+  # Federal roles rarely take F-1 candidates. Kept on because a handful of
+  # positions at NOAA, NIH and the Smithsonian are open to non-citizens, and
+  # the visa scorer flags the rest as blocked so they sink to the bottom.
+  keywords:
+    - biological science
+    - fishery biologist
+    - wildlife biologist
+    - bioinformatics
+    - ecologist
+    - museum specialist
+    - physical scientist
+
+output:
+  dashboard: docs/index.html
+  json_feed: docs/jobs.json
+  data_dir: data

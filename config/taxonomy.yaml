@@ -1,0 +1,386 @@
+# What counts as relevant, and what gets thrown out.
+# Everything here is lowercase substring matching. Edit freely.
+
+categories:
+  genomics:      Genomics and sequencing
+  biotech:       Biotech and therapeutics
+  health_data:   Clinical genomics and health data
+  bio_software:  Research software and lab tools
+  institute:     Research institutes
+  conservation:  Conservation and environment
+  marine:        Marine, ocean and aquaria
+  bioacoustics:  Bioacoustics and sensing
+  museum:        Museums, zoos and collections
+  media:         Science media and communication
+  climate:       Climate, geospatial and remote sensing
+  public_health: Public and global health
+  policy:        Science policy and think tanks
+  plant_science: Plant and agricultural science
+  lab_services:  Instruments, CROs and lab services
+  consulting:    Life science consulting
+  env_consulting: Environmental and ecological consulting
+  aggregator:    Found via a job board rather than an employer page
+
+# ---------------------------------------------------------------------------
+# INCLUDE. A posting needs at least one hit here to be kept. Weighted: the
+# score decides sort order on the dashboard, not just pass or fail.
+# ---------------------------------------------------------------------------
+include:
+  core:            # strongest match, weight 10
+    - bioinformatic
+    - computational biolog
+    - computational genomic
+    - genomic data
+    - genome analysis
+    - sequencing analysis
+    - biostatistic
+    - statistical genetic
+    - population genomic
+    - phylogenetic
+    - metagenomic
+    - transcriptomic
+    - single cell analysis
+    - variant interpretation
+    - variant analysis
+    - scientific programmer
+    - research software engineer
+    - computational scientist
+    - bioacoustic
+    - ecoacoustic
+    - passive acoustic monitoring
+    - acoustic monitoring
+    - conservation technolog
+    - conservation science
+    - conservation data
+    - wildlife data
+    - biodiversity data
+    - marine data
+    - fisheries data
+
+  domain:          # subject matter, weight 6
+    - life science consult
+    - life sciences consult
+    - healthcare consult
+    - biopharma consult
+    - pharma strategy
+    - market access
+    - commercial strategy
+    - competitive intelligence
+    - due diligence
+    - environmental consult
+    - environmental impact
+    - permitting
+    - nepa
+    - endangered species act
+    - wetland delineation
+    - protected species observer
+    - genomics
+    - molecular biolog
+    - cell biolog
+    - microbiolog
+    - immunolog
+    - cancer biolog
+    - oncology research
+    - neuroscience
+    - epidemiolog
+    - public health analyst
+    - clinical data
+    - conservation
+    - biodiversity
+    - ecolog
+    - wildlife
+    - marine biolog
+    - marine scien
+    - oceanograph
+    - fisheries
+    - coral
+    - cetacean
+    - whale
+    - seabird
+    - ornitholog
+    - herpetolog
+    - mammalog
+    - entomolog
+    - botan
+    - habitat restoration
+    - restoration ecolog
+    - remote sensing
+    - geospatial
+    - gis analyst
+    - science communicat
+    - science writer
+    - science journalis
+    - science education
+    - science policy
+    - environmental policy
+    - museum
+    - aquarium
+    - field biolog
+
+  role:            # job shape, weight 5. Only anchors at a relevant employer.
+    - research assistant
+    - research associate
+    - research technician
+    - research analyst
+    - laboratory technician
+    - lab technician
+    - lab associate
+    - post-bac
+    - postbac
+    - postbaccalaureate
+    - post baccalaureate
+    - research fellow
+    - fellowship
+    - data analyst
+    - data scientist
+    - data curator
+    - data manager
+    - data steward
+    - program associate
+    - program coordinator
+    - project coordinator
+    - collections assistant
+    - field technician
+    - field assistant
+    - survey technician
+    - scientific curator
+    - biocurator
+    - associate consultant
+    - consulting analyst
+    - business analyst
+    - decision analyst
+    - research consultant
+    - strategy analyst
+    - engagement analyst
+    - environmental scientist
+    - environmental analyst
+    - environmental planner
+    - staff scientist i
+    - biologist i
+    - ecologist i
+
+  supporting:      # weight 2, never anchors on its own
+    - biology
+    - environmental
+    - sustainability
+    - climate
+    - ecosystem
+    - species
+    - specimen
+    - herbarium
+    - outreach
+    - curriculum
+    - editorial
+    - grants
+    - python
+    - r programming
+    - sql
+    - laboratory
+    - assay
+    - pcr
+    - cell culture
+    - microscopy
+    - imaging
+
+# ---------------------------------------------------------------------------
+# EXCLUDE. Any hit kills the posting outright.
+# ---------------------------------------------------------------------------
+exclude:
+  # Heavy machine learning engineering. Riya does not want these.
+  hard_ml:
+    - machine learning engineer
+    - ml engineer
+    - llm
+    - genai
+    - gen ai
+    - agentic
+    - transformer
+    - diffusion model
+    - autonomous driving
+    - self-driving
+    - perception engineer
+    - robotics engineer
+    - deep learning engineer
+    - mlops
+    - ml infrastructure
+    - ml platform
+    - large language model
+    - llm engineer
+    - llm researcher
+    - generative ai engineer
+    - foundation model
+    - prompt engineer
+    - computer vision engineer
+    - nlp engineer
+    - reinforcement learning
+    - ai research scientist
+    - research scientist, machine learning
+    - machine learning scientist
+    - applied scientist, machine learning
+    - gpu
+    - cuda kernel
+    - model training infrastructure
+
+  # Off-domain
+  off_domain:
+    - quantitative
+    - quant
+    - trader
+    - trading
+    - portfolio
+    - equity research
+    - credit risk
+    - fraud
+    - underwriting
+    - military
+    - defense
+    - defence
+    - weapons
+    - aerospace
+    - semiconductor
+    - wireless
+    - telecom
+    - advertis
+    - marketing analytics
+    - supply chain
+    - logistics
+    - merchandis
+    - e-commerce
+    - customer success
+    - hedge fund
+    - investment banking
+    - actuarial
+    - tax accountant
+    - payroll
+    - real estate agent
+    - insurance agent
+    - truck driver
+    - warehouse associate
+    - retail associate
+    - barista
+    - security guard
+    - custodian
+    - janitorial
+    - phlebotom
+    - registered nurse
+    - nurse practitioner
+    - physician assistant
+    - pharmacist
+    - dental
+    - veterinary technician
+    - salesforce administrator
+    - devops engineer
+    - site reliability
+    - android developer
+    - ios developer
+    - frontend engineer
+    - game developer
+
+  # Riya's standing exclusions
+  standing:
+    - alternative protein
+    - alt protein
+    - cultivated meat
+    - cultured meat
+    - plant-based meat
+    - plant based meat
+    - precision fermentation
+    - food science
+    - food technolog
+    - beverage
+    - brewing
+    - dairy
+    - meat processing
+
+  # Seniority. She graduates May 2027.
+  seniority:
+    - senior
+    - staff scientist
+    - principal
+    - distinguished
+    - director
+    - "vice president"
+    - "vp,"
+    - "head of"
+    - chief
+    - executive
+    - lead engineer
+    - engineering manager
+    - group leader
+    - team lead
+    - tenure-track
+    - tenure track
+    - assistant professor
+    - associate professor
+    - faculty position
+    - postdoctoral
+    - post-doctoral
+    - postdoc
+
+# Phrases in the body that mean too much experience is required.
+experience_ceiling:
+  - 3+ years
+  - 4+ years
+  - 5+ years
+  - 6+ years
+  - 7+ years
+  - 8+ years
+  - 10+ years
+  - three or more years
+  - five or more years
+  - minimum of 3 years
+  - minimum of 5 years
+  - phd required
+  - ph.d. required
+  - phd is required
+  - requires a phd
+  - md required
+  - must have a doctorate
+
+# ---------------------------------------------------------------------------
+# ROLE TYPE. Used for the type filter on the dashboard.
+# ---------------------------------------------------------------------------
+role_types:
+  internship:
+    - intern
+    - internship
+    - co-op
+    - coop program
+    - summer analyst
+    - summer associate
+    - summer scholar
+    - student worker
+    - undergraduate research
+    - reu
+  fellowship:
+    - fellow
+    - fellowship
+    - post-bac
+    - postbac
+    - postbaccalaureate
+    - traineeship
+    - trainee program
+    - apprentice
+    - residency program
+    - scholars program
+    - early career program
+  new_grad:
+    - new grad
+    - new graduate
+    - university graduate
+    - graduate program
+    - entry level
+    - entry-level
+    - associate i
+    - scientist i
+    - engineer i
+    - analyst i
+    - level 1
+    - "i "
+  seasonal:
+    - seasonal
+    - temporary
+    - term position
+    - field season
+    - summer field
+    - contract
