@@ -50,9 +50,21 @@ jobs:
         run: |
           git config user.name  "job-radar"
           git config user.email "job-radar@users.noreply.github.com"
-          git add data docs
-          git diff --staged --quiet || git commit -m "radar: $(date -u +%Y-%m-%d)"
-          git push
+          mkdir -p data docs
+          git add -A data docs
+          if git diff --staged --quiet; then
+            echo "nothing new to save"
+            exit 0
+          fi
+          git commit -m "radar: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            git fetch origin "$GITHUB_REF_NAME" \
+              && git rebase "origin/$GITHUB_REF_NAME" \
+              && git push && exit 0
+            sleep 5
+          done
+          echo "could not push results"
+          exit 1
 
       - name: Publish the dashboard
         uses: actions/upload-pages-artifact@v3
