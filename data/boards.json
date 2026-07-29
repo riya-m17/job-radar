@@ -180,7 +180,7 @@
   "slug": "wcs"
  },
  "Brookhaven National Laboratory": {
-  "provider": "workable",
+  "provider": "smartrecruiters",
   "slug": "bnl"
  },
  "Brookings Institution": {
@@ -196,7 +196,7 @@
   "slug": "cgiar"
  },
  "COWI": {
-  "provider": "workable",
+  "provider": "smartrecruiters",
   "slug": "cowi"
  },
  "Calico Life Sciences": {
@@ -468,7 +468,7 @@
   "slug": "ghd"
  },
  "GRAIL": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "grail"
  },
  "Gates Foundation": {
@@ -544,7 +544,7 @@
   "slug": "icf"
  },
  "IQVIA": {
-  "provider": "workable",
+  "provider": "smartrecruiters",
   "slug": "iqvia"
  },
  "IUCN": {
@@ -572,7 +572,7 @@
   "slug": "integral-corp"
  },
  "Invitae": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "invitae"
  },
  "Ionis Pharmaceuticals": {
@@ -616,7 +616,7 @@
   "slug": "lek"
  },
  "Labcorp": {
-  "provider": "workable",
+  "provider": "smartrecruiters",
   "slug": "labcorp"
  },
  "Latch Bio": {
@@ -768,7 +768,7 @@
   "slug": "novonordisk"
  },
  "Novo Nordisk Foundation Center for Biosustainability": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "dtu"
  },
  "Oak Ridge National Laboratory": {
@@ -1104,7 +1104,7 @@
   "slug": "tangotx"
  },
  "Tempus AI": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "tempus"
  },
  "Terra Bio": {
@@ -1200,7 +1200,7 @@
   "slug": "vanandel"
  },
  "Verily": {
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "verily"
  },
  "Vertex Pharmaceuticals": {
