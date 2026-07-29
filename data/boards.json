@@ -1,0 +1,1318 @@
+{
+ "10x Genomics": {
+  "provider": "greenhouse",
+  "slug": "10xgenomics"
+ },
+ "AAAS and Science": {
+  "provider": "smartrecruiters",
+  "slug": "aaas"
+ },
+ "AECOM": {
+  "provider": "smartrecruiters",
+  "slug": "aecom"
+ },
+ "Academy of Natural Sciences Drexel": {
+  "provider": "smartrecruiters",
+  "slug": "ansp"
+ },
+ "African Wildlife Foundation": {
+  "provider": "smartrecruiters",
+  "slug": "awf"
+ },
+ "Agilent Technologies": {
+  "provider": "smartrecruiters",
+  "slug": "agilent"
+ },
+ "Akoya Biosciences": {
+  "provider": "smartrecruiters",
+  "slug": "akoyabio"
+ },
+ "Alira Health": {
+  "provider": "smartrecruiters",
+  "slug": "alirahealth"
+ },
+ "Allen Institute": {
+  "provider": "smartrecruiters",
+  "slug": "alleninstitute"
+ },
+ "Alnylam Pharmaceuticals": {
+  "provider": "smartrecruiters",
+  "slug": "alnylam"
+ },
+ "Altos Labs": {
+  "provider": "greenhouse",
+  "slug": "altoslabs"
+ },
+ "American Bird Conservancy": {
+  "provider": "smartrecruiters",
+  "slug": "abcbirds"
+ },
+ "American Museum of Natural History": {
+  "provider": "greenhouse",
+  "slug": "amnh"
+ },
+ "Anchor QEA": {
+  "provider": "smartrecruiters",
+  "slug": "anchorqea"
+ },
+ "Arc Institute": {
+  "provider": "greenhouse",
+  "slug": "arcinstitute"
+ },
+ "Arcadis": {
+  "provider": "smartrecruiters",
+  "slug": "arcadis"
+ },
+ "Arcus Biosciences": {
+  "provider": "smartrecruiters",
+  "slug": "arcusbio"
+ },
+ "Argonne National Laboratory": {
+  "provider": "smartrecruiters",
+  "slug": "argonne"
+ },
+ "Atlas Obscura": {
+  "provider": "smartrecruiters",
+  "slug": "atlasobscura"
+ },
+ "Avalere Health": {
+  "provider": "lever",
+  "slug": "avalerehealth"
+ },
+ "Axtria": {
+  "provider": "smartrecruiters",
+  "slug": "axtria"
+ },
+ "Azenta Life Sciences": {
+  "provider": "smartrecruiters",
+  "slug": "azenta"
+ },
+ "BBC Studios Natural History Unit": {
+  "provider": "smartrecruiters",
+  "slug": "bbc"
+ },
+ "Back Bay Life Science Advisors": {
+  "provider": "smartrecruiters",
+  "slug": "backbaylifescience"
+ },
+ "Basecamp Research": {
+  "provider": "smartrecruiters",
+  "slug": "basecampresearch"
+ },
+ "Battelle": {
+  "provider": "smartrecruiters",
+  "slug": "battelle"
+ },
+ "Bavarian Nordic": {
+  "provider": "smartrecruiters",
+  "slug": "bavariannordic"
+ },
+ "Bayer Crop Science": {
+  "provider": "smartrecruiters",
+  "slug": "bayer"
+ },
+ "BeZero Carbon": {
+  "provider": "smartrecruiters",
+  "slug": "bezero"
+ },
+ "Beacon Development Denmark": {
+  "provider": "smartrecruiters",
+  "slug": "beacon"
+ },
+ "Bedrock Ocean Exploration": {
+  "provider": "ashby",
+  "slug": "bedrockocean"
+ },
+ "Beghou Consulting": {
+  "provider": "smartrecruiters",
+  "slug": "beghou"
+ },
+ "Benchling": {
+  "provider": "ashby",
+  "slug": "benchling"
+ },
+ "Bigelow Laboratory for Ocean Sciences": {
+  "provider": "smartrecruiters",
+  "slug": "bigelow"
+ },
+ "Bio-Rad Laboratories": {
+  "provider": "smartrecruiters",
+  "slug": "biorad"
+ },
+ "BioMarin": {
+  "provider": "workable",
+  "slug": "biomarin"
+ },
+ "BioNTech": {
+  "provider": "workable",
+  "slug": "biontech"
+ },
+ "Bionest Partners": {
+  "provider": "smartrecruiters",
+  "slug": "bionest"
+ },
+ "BirdLife International": {
+  "provider": "smartrecruiters",
+  "slug": "birdlife"
+ },
+ "Blue Matter Consulting": {
+  "provider": "smartrecruiters",
+  "slug": "bluematter"
+ },
+ "Blueprint Medicines": {
+  "provider": "greenhouse",
+  "slug": "blueprintmedicines"
+ },
+ "Boston Healthcare Associates": {
+  "provider": "smartrecruiters",
+  "slug": "bostonhealthcare"
+ },
+ "Boyce Thompson Institute": {
+  "provider": "smartrecruiters",
+  "slug": "btiscience"
+ },
+ "Broad Institute": {
+  "provider": "smartrecruiters",
+  "slug": "broadinstitute"
+ },
+ "Bronx Zoo": {
+  "provider": "smartrecruiters",
+  "slug": "wcs"
+ },
+ "Brookhaven National Laboratory": {
+  "provider": "workable",
+  "slug": "bnl"
+ },
+ "Brookings Institution": {
+  "provider": "lever",
+  "slug": "brookings"
+ },
+ "Bruker": {
+  "provider": "smartrecruiters",
+  "slug": "bruker"
+ },
+ "CGIAR": {
+  "provider": "smartrecruiters",
+  "slug": "cgiar"
+ },
+ "COWI": {
+  "provider": "workable",
+  "slug": "cowi"
+ },
+ "Calico Life Sciences": {
+  "provider": "greenhouse",
+  "slug": "calicolabs"
+ },
+ "California Academy of Sciences": {
+  "provider": "smartrecruiters",
+  "slug": "calacademy"
+ },
+ "CarbonPlan": {
+  "provider": "smartrecruiters",
+  "slug": "carbonplan"
+ },
+ "Cell Press Elsevier": {
+  "provider": "greenhouse",
+  "slug": "elsevier"
+ },
+ "Center for Biological Diversity": {
+  "provider": "smartrecruiters",
+  "slug": "biologicaldiversity"
+ },
+ "Certara": {
+  "provider": "smartrecruiters",
+  "slug": "certara"
+ },
+ "Chan Zuckerberg Initiative": {
+  "provider": "greenhouse",
+  "slug": "chanzuckerberginitiative"
+ },
+ "Character Biosciences": {
+  "provider": "smartrecruiters",
+  "slug": "characterbio"
+ },
+ "Charles River Associates": {
+  "provider": "smartrecruiters",
+  "slug": "crai"
+ },
+ "Charles River Laboratories": {
+  "provider": "smartrecruiters",
+  "slug": "criver"
+ },
+ "Chicago Botanic Garden": {
+  "provider": "smartrecruiters",
+  "slug": "chicagobotanic"
+ },
+ "Chorus Ecology": {
+  "provider": "smartrecruiters",
+  "slug": "chorusecology"
+ },
+ "Clearview Healthcare Partners": {
+  "provider": "smartrecruiters",
+  "slug": "clearviewhcp"
+ },
+ "Climate TRACE": {
+  "provider": "smartrecruiters",
+  "slug": "climatetrace"
+ },
+ "ClimateAi": {
+  "provider": "greenhouse",
+  "slug": "climateai"
+ },
+ "Clinton Health Access Initiative": {
+  "provider": "smartrecruiters",
+  "slug": "chai"
+ },
+ "Cold Spring Harbor Laboratory": {
+  "provider": "smartrecruiters",
+  "slug": "cshl"
+ },
+ "Color Health": {
+  "provider": "smartrecruiters",
+  "slug": "colorgenomics"
+ },
+ "Complete Genomics": {
+  "provider": "smartrecruiters",
+  "slug": "completegenomics"
+ },
+ "Conservation International": {
+  "provider": "smartrecruiters",
+  "slug": "conservation"
+ },
+ "Conservation Metrics": {
+  "provider": "smartrecruiters",
+  "slug": "conservationmetrics"
+ },
+ "Consortium for Ocean Leadership": {
+  "provider": "smartrecruiters",
+  "slug": "oceanleadership"
+ },
+ "Coral Restoration Foundation": {
+  "provider": "smartrecruiters",
+  "slug": "coralrestoration"
+ },
+ "Cornell Lab of Ornithology": {
+  "provider": "smartrecruiters",
+  "slug": "cornell"
+ },
+ "Corteva Agriscience": {
+  "provider": "smartrecruiters",
+  "slug": "corteva"
+ },
+ "Cradle Bio": {
+  "provider": "ashby",
+  "slug": "cradlebio"
+ },
+ "Cramer Fish Sciences": {
+  "provider": "smartrecruiters",
+  "slug": "fishsciences"
+ },
+ "DHI Group Water and Environment": {
+  "provider": "smartrecruiters",
+  "slug": "dhigroup"
+ },
+ "DNAnexus": {
+  "provider": "smartrecruiters",
+  "slug": "dnanexus"
+ },
+ "Dana-Farber Cancer Institute": {
+  "provider": "smartrecruiters",
+  "slug": "danafarber"
+ },
+ "Danaher": {
+  "provider": "smartrecruiters",
+  "slug": "danaher"
+ },
+ "Deallus": {
+  "provider": "smartrecruiters",
+  "slug": "deallus"
+ },
+ "Defenders of Wildlife": {
+  "provider": "smartrecruiters",
+  "slug": "defenders"
+ },
+ "Denali Therapeutics": {
+  "provider": "smartrecruiters",
+  "slug": "denalitherapeutics"
+ },
+ "Dendra Systems": {
+  "provider": "smartrecruiters",
+  "slug": "dendra"
+ },
+ "Denver Museum of Nature and Science": {
+  "provider": "smartrecruiters",
+  "slug": "dmns"
+ },
+ "Descartes Labs": {
+  "provider": "smartrecruiters",
+  "slug": "descarteslabs"
+ },
+ "Donald Danforth Plant Science Center": {
+  "provider": "smartrecruiters",
+  "slug": "danforthcenter"
+ },
+ "Dotmatics": {
+  "provider": "greenhouse",
+  "slug": "dotmatics"
+ },
+ "Ducks Unlimited": {
+  "provider": "smartrecruiters",
+  "slug": "ducks"
+ },
+ "Dyno Therapeutics": {
+  "provider": "smartrecruiters",
+  "slug": "dynotx"
+ },
+ "EMBL European Bioinformatics Institute": {
+  "provider": "smartrecruiters",
+  "slug": "embl"
+ },
+ "ERM": {
+  "provider": "smartrecruiters",
+  "slug": "erm"
+ },
+ "EVERSANA": {
+  "provider": "smartrecruiters",
+  "slug": "eversana"
+ },
+ "Earthjustice": {
+  "provider": "smartrecruiters",
+  "slug": "earthjustice"
+ },
+ "Ecosia": {
+  "provider": "smartrecruiters",
+  "slug": "ecosia"
+ },
+ "Element Biosciences": {
+  "provider": "greenhouse",
+  "slug": "elementbiosciences"
+ },
+ "Emerald Cloud Lab": {
+  "provider": "smartrecruiters",
+  "slug": "emeraldcloudlab"
+ },
+ "Environmental Defense Fund": {
+  "provider": "smartrecruiters",
+  "slug": "edf"
+ },
+ "Environmental Law Institute": {
+  "provider": "ashby",
+  "slug": "eli"
+ },
+ "Environmental Science Associates": {
+  "provider": "smartrecruiters",
+  "slug": "esassoc"
+ },
+ "Environmental Working Group": {
+  "provider": "smartrecruiters",
+  "slug": "ewg"
+ },
+ "Evaxion Biotech": {
+  "provider": "smartrecruiters",
+  "slug": "evaxion"
+ },
+ "Exact Sciences": {
+  "provider": "smartrecruiters",
+  "slug": "exactsciences"
+ },
+ "Exploratorium": {
+  "provider": "smartrecruiters",
+  "slug": "exploratorium"
+ },
+ "Fauna and Flora International": {
+  "provider": "smartrecruiters",
+  "slug": "faunaflora"
+ },
+ "Federation of American Scientists": {
+  "provider": "smartrecruiters",
+  "slug": "fas"
+ },
+ "Field Museum": {
+  "provider": "smartrecruiters",
+  "slug": "fieldmuseum"
+ },
+ "Flatiron Health": {
+  "provider": "smartrecruiters",
+  "slug": "flatiron"
+ },
+ "Fluent BioSciences": {
+  "provider": "smartrecruiters",
+  "slug": "fluentbio"
+ },
+ "FluoGuide": {
+  "provider": "smartrecruiters",
+  "slug": "fluoguide"
+ },
+ "Foghorn Therapeutics": {
+  "provider": "smartrecruiters",
+  "slug": "foghorntx"
+ },
+ "Form Bio": {
+  "provider": "greenhouse",
+  "slug": "formbio"
+ },
+ "Foundation Medicine": {
+  "provider": "smartrecruiters",
+  "slug": "foundationmedicine"
+ },
+ "Fred Hutchinson Cancer Center": {
+  "provider": "smartrecruiters",
+  "slug": "fredhutch"
+ },
+ "Freenome": {
+  "provider": "greenhouse",
+  "slug": "freenome"
+ },
+ "GHD": {
+  "provider": "smartrecruiters",
+  "slug": "ghd"
+ },
+ "GRAIL": {
+  "provider": "smartrecruiters",
+  "slug": "grail"
+ },
+ "Gates Foundation": {
+  "provider": "smartrecruiters",
+  "slug": "gatesfoundation"
+ },
+ "Gavi the Vaccine Alliance": {
+  "provider": "smartrecruiters",
+  "slug": "gavi"
+ },
+ "Genentech": {
+  "provider": "workable",
+  "slug": "genentech"
+ },
+ "Generate Biomedicines": {
+  "provider": "greenhouse",
+  "slug": "generatebiomedicines"
+ },
+ "Genmab": {
+  "provider": "smartrecruiters",
+  "slug": "genmab"
+ },
+ "Georgia Aquarium": {
+  "provider": "smartrecruiters",
+  "slug": "georgiaaquarium"
+ },
+ "Ginkgo Bioworks": {
+  "provider": "greenhouse",
+  "slug": "ginkgobioworks"
+ },
+ "Gladstone Institutes": {
+  "provider": "smartrecruiters",
+  "slug": "gladstone"
+ },
+ "Guardant Health": {
+  "provider": "smartrecruiters",
+  "slug": "guardanthealth"
+ },
+ "Guidehouse": {
+  "provider": "smartrecruiters",
+  "slug": "guidehouse"
+ },
+ "H. T. Harvey and Associates": {
+  "provider": "smartrecruiters",
+  "slug": "harveyecology"
+ },
+ "HHMI Janelia Research Campus": {
+  "provider": "smartrecruiters",
+  "slug": "janelia"
+ },
+ "Health Advances": {
+  "provider": "smartrecruiters",
+  "slug": "healthadvances"
+ },
+ "Howard Hughes Medical Institute Tangled Bank Studios": {
+  "provider": "smartrecruiters",
+  "slug": "hhmi"
+ },
+ "Hubbs-SeaWorld Research Institute": {
+  "provider": "smartrecruiters",
+  "slug": "hswri"
+ },
+ "Huron Consulting Group": {
+  "provider": "smartrecruiters",
+  "slug": "huron"
+ },
+ "Hybrid Reef Solutions": {
+  "provider": "smartrecruiters",
+  "slug": "hybridreef"
+ },
+ "ICF": {
+  "provider": "smartrecruiters",
+  "slug": "icf"
+ },
+ "IQVIA": {
+  "provider": "workable",
+  "slug": "iqvia"
+ },
+ "IUCN": {
+  "provider": "smartrecruiters",
+  "slug": "iucn"
+ },
+ "Illumina": {
+  "provider": "workable",
+  "slug": "illumina"
+ },
+ "Inari Agriculture": {
+  "provider": "smartrecruiters",
+  "slug": "inari"
+ },
+ "Inizio": {
+  "provider": "greenhouse",
+  "slug": "inizio"
+ },
+ "Institute for Health Metrics and Evaluation": {
+  "provider": "smartrecruiters",
+  "slug": "ihme"
+ },
+ "Integral Consulting": {
+  "provider": "smartrecruiters",
+  "slug": "integral-corp"
+ },
+ "Invitae": {
+  "provider": "smartrecruiters",
+  "slug": "invitae"
+ },
+ "Ionis Pharmaceuticals": {
+  "provider": "smartrecruiters",
+  "slug": "ionis"
+ },
+ "Island Conservation": {
+  "provider": "smartrecruiters",
+  "slug": "islandconservation"
+ },
+ "Isomorphic Labs": {
+  "provider": "greenhouse",
+  "slug": "isomorphiclabs"
+ },
+ "JASCO Applied Sciences": {
+  "provider": "smartrecruiters",
+  "slug": "jasco"
+ },
+ "Jacobs": {
+  "provider": "smartrecruiters",
+  "slug": "jacobs"
+ },
+ "Jane Goodall Institute": {
+  "provider": "smartrecruiters",
+  "slug": "janegoodall"
+ },
+ "Joint Genome Institute": {
+  "provider": "smartrecruiters",
+  "slug": "jgi"
+ },
+ "Komodo Health": {
+  "provider": "greenhouse",
+  "slug": "komodohealth"
+ },
+ "Kymera Therapeutics": {
+  "provider": "smartrecruiters",
+  "slug": "kymeratx"
+ },
+ "L.E.K. Consulting": {
+  "provider": "smartrecruiters",
+  "slug": "lek"
+ },
+ "Labcorp": {
+  "provider": "workable",
+  "slug": "labcorp"
+ },
+ "Latch Bio": {
+  "provider": "ashby",
+  "slug": "latchbio"
+ },
+ "Lawrence Berkeley National Laboratory": {
+  "provider": "smartrecruiters",
+  "slug": "lbl"
+ },
+ "Loggerhead Instruments": {
+  "provider": "smartrecruiters",
+  "slug": "loggerhead"
+ },
+ "Los Alamos National Laboratory": {
+  "provider": "smartrecruiters",
+  "slug": "lanl"
+ },
+ "Lumanity": {
+  "provider": "smartrecruiters",
+  "slug": "lumanity"
+ },
+ "Lundbeck": {
+  "provider": "smartrecruiters",
+  "slug": "lundbeck"
+ },
+ "MBARI": {
+  "provider": "smartrecruiters",
+  "slug": "mbari"
+ },
+ "Marine Acoustics Inc": {
+  "provider": "smartrecruiters",
+  "slug": "marineacoustics"
+ },
+ "Marine Biological Laboratory": {
+  "provider": "smartrecruiters",
+  "slug": "mbl"
+ },
+ "Mathematica": {
+  "provider": "smartrecruiters",
+  "slug": "mathematica"
+ },
+ "Memorial Sloan Kettering": {
+  "provider": "smartrecruiters",
+  "slug": "mskcc"
+ },
+ "Mission Bio": {
+  "provider": "smartrecruiters",
+  "slug": "missionbio"
+ },
+ "Missouri Botanical Garden": {
+  "provider": "smartrecruiters",
+  "slug": "missouribotanicalgarden"
+ },
+ "Moderna": {
+  "provider": "smartrecruiters",
+  "slug": "modernatx"
+ },
+ "Monterey Bay Aquarium": {
+  "provider": "smartrecruiters",
+  "slug": "montereybayaquarium"
+ },
+ "Mote Marine Laboratory": {
+  "provider": "smartrecruiters",
+  "slug": "mote"
+ },
+ "Museum of Science Boston": {
+  "provider": "greenhouse",
+  "slug": "mos"
+ },
+ "Myriad Genetics": {
+  "provider": "smartrecruiters",
+  "slug": "myriadgenetics"
+ },
+ "NCX": {
+  "provider": "smartrecruiters",
+  "slug": "ncx"
+ },
+ "NIRAS": {
+  "provider": "smartrecruiters",
+  "slug": "niras"
+ },
+ "Nanostring": {
+  "provider": "smartrecruiters",
+  "slug": "nanostring"
+ },
+ "Natera": {
+  "provider": "greenhouse",
+  "slug": "natera"
+ },
+ "National Aquarium": {
+  "provider": "smartrecruiters",
+  "slug": "aqua"
+ },
+ "National Audubon Society": {
+  "provider": "smartrecruiters",
+  "slug": "audubon"
+ },
+ "National Geographic Partners": {
+  "provider": "greenhouse",
+  "slug": "disney"
+ },
+ "National Geographic Society": {
+  "provider": "smartrecruiters",
+  "slug": "nationalgeographic"
+ },
+ "National Renewable Energy Laboratory": {
+  "provider": "smartrecruiters",
+  "slug": "nrel"
+ },
+ "Natural History Museum London": {
+  "provider": "smartrecruiters",
+  "slug": "nhm"
+ },
+ "Natural Resources Defense Council": {
+  "provider": "smartrecruiters",
+  "slug": "nrdc"
+ },
+ "Nature Conservancy of Canada": {
+  "provider": "smartrecruiters",
+  "slug": "natureconservancy"
+ },
+ "Nature Portfolio Springer Nature": {
+  "provider": "smartrecruiters",
+  "slug": "springernature"
+ },
+ "New England Aquarium": {
+  "provider": "smartrecruiters",
+  "slug": "neaq"
+ },
+ "New York Botanical Garden": {
+  "provider": "smartrecruiters",
+  "slug": "nybg"
+ },
+ "New York Genome Center": {
+  "provider": "smartrecruiters",
+  "slug": "nygenome"
+ },
+ "Nimbus Therapeutics": {
+  "provider": "smartrecruiters",
+  "slug": "nimbustx"
+ },
+ "Normandeau Associates": {
+  "provider": "smartrecruiters",
+  "slug": "normandeau"
+ },
+ "Novo Nordisk": {
+  "provider": "workable",
+  "slug": "novonordisk"
+ },
+ "Novo Nordisk Foundation Center for Biosustainability": {
+  "provider": "smartrecruiters",
+  "slug": "dtu"
+ },
+ "Oak Ridge National Laboratory": {
+  "provider": "smartrecruiters",
+  "slug": "ornl"
+ },
+ "Ocean Conservancy": {
+  "provider": "smartrecruiters",
+  "slug": "oceanconservancy"
+ },
+ "Ocean Discovery League": {
+  "provider": "smartrecruiters",
+  "slug": "oceandiscoveryleague"
+ },
+ "Ocean Infinity": {
+  "provider": "smartrecruiters",
+  "slug": "oceaninfinity"
+ },
+ "Ocean Networks Canada": {
+  "provider": "smartrecruiters",
+  "slug": "oceannetworkscanada"
+ },
+ "Ocean Sonics": {
+  "provider": "smartrecruiters",
+  "slug": "oceansonics"
+ },
+ "OceanX": {
+  "provider": "greenhouse",
+  "slug": "oceanx"
+ },
+ "Oceana": {
+  "provider": "smartrecruiters",
+  "slug": "oceana"
+ },
+ "Octant Bio": {
+  "provider": "smartrecruiters",
+  "slug": "octant"
+ },
+ "Opentrons": {
+  "provider": "smartrecruiters",
+  "slug": "opentrons"
+ },
+ "Overstory": {
+  "provider": "greenhouse",
+  "slug": "overstory"
+ },
+ "Owkin": {
+  "provider": "ashby",
+  "slug": "owkin"
+ },
+ "Oxford Nanopore Technologies": {
+  "provider": "smartrecruiters",
+  "slug": "nanoporetech"
+ },
+ "PATH": {
+  "provider": "smartrecruiters",
+  "slug": "path"
+ },
+ "PLOS": {
+  "provider": "greenhouse",
+  "slug": "plos"
+ },
+ "Pachama": {
+  "provider": "lever",
+  "slug": "pachama"
+ },
+ "Pacific Biosciences": {
+  "provider": "smartrecruiters",
+  "slug": "pacbio"
+ },
+ "Pacific Northwest National Laboratory": {
+  "provider": "smartrecruiters",
+  "slug": "pnnl"
+ },
+ "Pairwise": {
+  "provider": "greenhouse",
+  "slug": "pairwise"
+ },
+ "Panthera": {
+  "provider": "smartrecruiters",
+  "slug": "panthera"
+ },
+ "Parexel": {
+  "provider": "smartrecruiters",
+  "slug": "parexel"
+ },
+ "Parse Biosciences": {
+  "provider": "greenhouse",
+  "slug": "parsebiosciences"
+ },
+ "Partners In Health": {
+  "provider": "smartrecruiters",
+  "slug": "pih"
+ },
+ "Pew Charitable Trusts": {
+  "provider": "smartrecruiters",
+  "slug": "pewtrusts"
+ },
+ "Planet Labs": {
+  "provider": "ashby",
+  "slug": "planet"
+ },
+ "Prescient Healthcare Group": {
+  "provider": "smartrecruiters",
+  "slug": "prescienthg"
+ },
+ "Profluent Bio": {
+  "provider": "greenhouse",
+  "slug": "profluent"
+ },
+ "Psomagen": {
+  "provider": "smartrecruiters",
+  "slug": "psomagen"
+ },
+ "Putnam Associates": {
+  "provider": "smartrecruiters",
+  "slug": "putnam"
+ },
+ "Qiagen": {
+  "provider": "smartrecruiters",
+  "slug": "qiagen"
+ },
+ "Quanta Magazine": {
+  "provider": "ashby",
+  "slug": "quanta"
+ },
+ "RAND Corporation": {
+  "provider": "smartrecruiters",
+  "slug": "rand"
+ },
+ "RPS Group": {
+  "provider": "smartrecruiters",
+  "slug": "rpsgroup"
+ },
+ "RSPB": {
+  "provider": "smartrecruiters",
+  "slug": "rspb"
+ },
+ "RTI International": {
+  "provider": "greenhouse",
+  "slug": "rti"
+ },
+ "Rainforest Alliance": {
+  "provider": "smartrecruiters",
+  "slug": "rainforestalliance"
+ },
+ "Rainforest Connection": {
+  "provider": "smartrecruiters",
+  "slug": "rfcx"
+ },
+ "Ramboll": {
+  "provider": "smartrecruiters",
+  "slug": "ramboll"
+ },
+ "Rare": {
+  "provider": "smartrecruiters",
+  "slug": "rare"
+ },
+ "Re:wild": {
+  "provider": "smartrecruiters",
+  "slug": "rewild"
+ },
+ "Real Chemistry": {
+  "provider": "greenhouse",
+  "slug": "realchemistry"
+ },
+ "Recursion Pharmaceuticals": {
+  "provider": "greenhouse",
+  "slug": "recursionpharmaceuticals"
+ },
+ "Red Nucleus": {
+  "provider": "smartrecruiters",
+  "slug": "rednucleus"
+ },
+ "Regeneron": {
+  "provider": "workable",
+  "slug": "regeneron"
+ },
+ "Regrow Ag": {
+  "provider": "smartrecruiters",
+  "slug": "regrow"
+ },
+ "Relay Therapeutics": {
+  "provider": "smartrecruiters",
+  "slug": "relaytx"
+ },
+ "Resolve to Save Lives": {
+  "provider": "greenhouse",
+  "slug": "resolvetosavelives"
+ },
+ "Resources for the Future": {
+  "provider": "smartrecruiters",
+  "slug": "rff"
+ },
+ "Revolution Medicines": {
+  "provider": "greenhouse",
+  "slug": "revolutionmedicines"
+ },
+ "Revvity": {
+  "provider": "smartrecruiters",
+  "slug": "revvity"
+ },
+ "Roche Sequencing": {
+  "provider": "workable",
+  "slug": "roche"
+ },
+ "Royal Botanic Gardens Kew": {
+  "provider": "smartrecruiters",
+  "slug": "kew"
+ },
+ "SLR Consulting": {
+  "provider": "smartrecruiters",
+  "slug": "slrconsulting"
+ },
+ "STAT News": {
+  "provider": "smartrecruiters",
+  "slug": "statnews"
+ },
+ "Saildrone": {
+  "provider": "smartrecruiters",
+  "slug": "saildrone"
+ },
+ "Salk Institute": {
+  "provider": "smartrecruiters",
+  "slug": "salk"
+ },
+ "Saltwater Inc": {
+  "provider": "smartrecruiters",
+  "slug": "saltwaterinc"
+ },
+ "Samplix": {
+  "provider": "smartrecruiters",
+  "slug": "samplix"
+ },
+ "San Diego Zoo Wildlife Alliance": {
+  "provider": "smartrecruiters",
+  "slug": "sdzwa"
+ },
+ "Sarepta Therapeutics": {
+  "provider": "smartrecruiters",
+  "slug": "sarepta"
+ },
+ "Schmidt Ocean Institute": {
+  "provider": "smartrecruiters",
+  "slug": "schmidtocean"
+ },
+ "Scorpion Therapeutics": {
+  "provider": "smartrecruiters",
+  "slug": "scorpiontx"
+ },
+ "Scripps Institution of Oceanography": {
+  "provider": "smartrecruiters",
+  "slug": "scrippsoceanography"
+ },
+ "Scripps Research": {
+  "provider": "smartrecruiters",
+  "slug": "scrippsresearch"
+ },
+ "Seattle Aquarium": {
+  "provider": "smartrecruiters",
+  "slug": "seattleaquarium"
+ },
+ "Seqera Labs": {
+  "provider": "smartrecruiters",
+  "slug": "seqera"
+ },
+ "Shedd Aquarium": {
+  "provider": "smartrecruiters",
+  "slug": "sheddaquarium"
+ },
+ "Sierra Club": {
+  "provider": "lever",
+  "slug": "sierraclub"
+ },
+ "Simon-Kucher": {
+  "provider": "smartrecruiters",
+  "slug": "simon-kucher"
+ },
+ "Singular Genomics": {
+  "provider": "smartrecruiters",
+  "slug": "singulargenomics"
+ },
+ "Smithsonian Environmental Research Center": {
+  "provider": "greenhouse",
+  "slug": "serc"
+ },
+ "Smithsonian Institution": {
+  "provider": "smartrecruiters",
+  "slug": "smithsonian"
+ },
+ "Smithsonian Magazine": {
+  "provider": "smartrecruiters",
+  "slug": "smithsonian"
+ },
+ "Smithsonian Tropical Research Institute": {
+  "provider": "smartrecruiters",
+  "slug": "stri"
+ },
+ "Sofar Ocean": {
+  "provider": "ashby",
+  "slug": "sofarocean"
+ },
+ "St. Jude Children's Research Hospital": {
+  "provider": "smartrecruiters",
+  "slug": "stjude"
+ },
+ "Stantec": {
+  "provider": "smartrecruiters",
+  "slug": "stantec"
+ },
+ "Stowers Institute": {
+  "provider": "smartrecruiters",
+  "slug": "stowers"
+ },
+ "Surfrider Foundation": {
+  "provider": "smartrecruiters",
+  "slug": "surfrider"
+ },
+ "Sylvera": {
+  "provider": "ashby",
+  "slug": "sylvera"
+ },
+ "Syneos Health": {
+  "provider": "smartrecruiters",
+  "slug": "syneoshealth"
+ },
+ "Syngenta": {
+  "provider": "smartrecruiters",
+  "slug": "syngenta"
+ },
+ "Tango Therapeutics": {
+  "provider": "smartrecruiters",
+  "slug": "tangotx"
+ },
+ "Tempus AI": {
+  "provider": "smartrecruiters",
+  "slug": "tempus"
+ },
+ "Terra Bio": {
+  "provider": "smartrecruiters",
+  "slug": "terrabio"
+ },
+ "Terradepth": {
+  "provider": "smartrecruiters",
+  "slug": "terradepth"
+ },
+ "Terraformation": {
+  "provider": "smartrecruiters",
+  "slug": "terraformation"
+ },
+ "Tetra Tech": {
+  "provider": "smartrecruiters",
+  "slug": "tetratech"
+ },
+ "The Global Fund": {
+  "provider": "smartrecruiters",
+  "slug": "theglobalfund"
+ },
+ "The Jackson Laboratory": {
+  "provider": "smartrecruiters",
+  "slug": "jacksonlaboratory"
+ },
+ "The Marine Mammal Center": {
+  "provider": "smartrecruiters",
+  "slug": "marinemammalcenter"
+ },
+ "The Nature Conservancy": {
+  "provider": "smartrecruiters",
+  "slug": "nature"
+ },
+ "The Scientist": {
+  "provider": "smartrecruiters",
+  "slug": "thescientist"
+ },
+ "Thermo Fisher Scientific": {
+  "provider": "smartrecruiters",
+  "slug": "thermofisher"
+ },
+ "Treeline Biosciences": {
+  "provider": "smartrecruiters",
+  "slug": "treelinebio"
+ },
+ "Triangle Insights Group": {
+  "provider": "smartrecruiters",
+  "slug": "triangleinsights"
+ },
+ "Trinity Life Sciences": {
+  "provider": "smartrecruiters",
+  "slug": "trinitylifesciences"
+ },
+ "Trust for Public Land": {
+  "provider": "smartrecruiters",
+  "slug": "tpl"
+ },
+ "Truveta": {
+  "provider": "greenhouse",
+  "slug": "truveta"
+ },
+ "Twist Bioscience": {
+  "provider": "greenhouse",
+  "slug": "twistbioscience"
+ },
+ "Two Labs": {
+  "provider": "smartrecruiters",
+  "slug": "twolabs"
+ },
+ "Ultima Genomics": {
+  "provider": "greenhouse",
+  "slug": "ultimagenomics"
+ },
+ "Union of Concerned Scientists": {
+  "provider": "smartrecruiters",
+  "slug": "ucsusa"
+ },
+ "Universities Space Research Association": {
+  "provider": "smartrecruiters",
+  "slug": "usra"
+ },
+ "Unseen Bio": {
+  "provider": "smartrecruiters",
+  "slug": "unseenbio"
+ },
+ "Upstream Tech": {
+  "provider": "smartrecruiters",
+  "slug": "upstreamtech"
+ },
+ "Van Andel Institute": {
+  "provider": "smartrecruiters",
+  "slug": "vanandel"
+ },
+ "Verily": {
+  "provider": "smartrecruiters",
+  "slug": "verily"
+ },
+ "Vertex Pharmaceuticals": {
+  "provider": "workable",
+  "slug": "vertex"
+ },
+ "Vibrant Planet": {
+  "provider": "smartrecruiters",
+  "slug": "vibrantplanet"
+ },
+ "Vital Strategies": {
+  "provider": "smartrecruiters",
+  "slug": "vitalstrategies"
+ },
+ "Vizgen": {
+  "provider": "smartrecruiters",
+  "slug": "vizgen"
+ },
+ "Vynamic": {
+  "provider": "greenhouse",
+  "slug": "vynamic"
+ },
+ "WSP": {
+  "provider": "smartrecruiters",
+  "slug": "wsp"
+ },
+ "WWF International": {
+  "provider": "smartrecruiters",
+  "slug": "wwfinternational"
+ },
+ "Watershed": {
+  "provider": "greenhouse",
+  "slug": "watershed"
+ },
+ "Wellcome Sanger Institute": {
+  "provider": "smartrecruiters",
+  "slug": "sanger"
+ },
+ "Wellcome Trust": {
+  "provider": "smartrecruiters",
+  "slug": "wellcome"
+ },
+ "Westat": {
+  "provider": "smartrecruiters",
+  "slug": "westat"
+ },
+ "Wetlands International": {
+  "provider": "smartrecruiters",
+  "slug": "wetlands"
+ },
+ "Whitehead Institute": {
+  "provider": "smartrecruiters",
+  "slug": "whiteheadinstitute"
+ },
+ "Wildlife Acoustics": {
+  "provider": "smartrecruiters",
+  "slug": "wildlifeacoustics"
+ },
+ "Wildlife Alliance": {
+  "provider": "smartrecruiters",
+  "slug": "wildlifealliance"
+ },
+ "Wildlife Conservation Society": {
+  "provider": "smartrecruiters",
+  "slug": "wcs"
+ },
+ "Wildlife Trusts": {
+  "provider": "smartrecruiters",
+  "slug": "wildlifetrusts"
+ },
+ "Wired": {
+  "provider": "smartrecruiters",
+  "slug": "conde"
+ },
+ "Wistar Institute": {
+  "provider": "smartrecruiters",
+  "slug": "wistar"
+ },
+ "Woods Hole Group": {
+  "provider": "smartrecruiters",
+  "slug": "woodsholegroup"
+ },
+ "Woods Hole Oceanographic Institution": {
+  "provider": "smartrecruiters",
+  "slug": "whoi"
+ },
+ "World Resources Institute": {
+  "provider": "greenhouse",
+  "slug": "wri"
+ },
+ "World Wildlife Fund US": {
+  "provider": "smartrecruiters",
+  "slug": "worldwildlifefund"
+ },
+ "Xerces Society": {
+  "provider": "smartrecruiters",
+  "slug": "xerces"
+ },
+ "ZS Associates": {
+  "provider": "smartrecruiters",
+  "slug": "zs"
+ },
+ "Zoological Society of London": {
+  "provider": "smartrecruiters",
+  "slug": "zsl"
+ },
+ "eLife Sciences": {
+  "provider": "smartrecruiters",
+  "slug": "elife"
+ },
+ "insitro": {
+  "provider": "ashby",
+  "slug": "insitro"
+ }
+}
