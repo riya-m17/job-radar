@@ -32,8 +32,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Early Career GIS Analyst",
@@ -59,7 +59,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-02",
   "posted_confidence": "approximate",
-  "age_days": 27,
+  "age_days": 28,
   "freshness": "recent",
   "source_trust": "medium",
   "years_required": null,
@@ -81,7 +81,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -111,7 +111,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-09",
   "posted_confidence": "approximate",
-  "age_days": 20,
+  "age_days": 21,
   "freshness": "recent",
   "source_trust": "medium",
   "years_required": null,
@@ -131,7 +131,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -160,7 +160,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-17",
   "posted_confidence": "approximate",
-  "age_days": 12,
+  "age_days": 13,
   "freshness": "recent",
   "source_trust": "medium",
   "years_required": null,
@@ -180,7 +180,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -210,7 +210,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-17",
   "posted_confidence": "approximate",
-  "age_days": 12,
+  "age_days": 13,
   "freshness": "recent",
   "source_trust": "medium",
   "years_required": null,
@@ -230,7 +230,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -259,8 +259,8 @@
   "visa_rank": 3,
   "posted_date": "2026-07-22",
   "posted_confidence": "approximate",
-  "age_days": 7,
-  "freshness": "this week",
+  "age_days": 8,
+  "freshness": "recent",
   "source_trust": "medium",
   "years_required": null,
   "degree_bar": null,
@@ -281,7 +281,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -309,7 +309,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-23",
   "posted_confidence": "approximate",
-  "age_days": 6,
+  "age_days": 7,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": null,
@@ -331,7 +331,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -359,7 +359,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-28",
   "posted_confidence": "approximate",
-  "age_days": 1,
+  "age_days": 2,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": null,
@@ -381,7 +381,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -418,8 +418,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Software Engineer",
@@ -445,7 +445,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-30",
   "posted_confidence": "approximate",
-  "age_days": 29,
+  "age_days": 30,
   "freshness": "recent",
   "source_trust": "medium",
   "years_required": null,
@@ -465,7 +465,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -508,8 +508,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Field Service Engineer II, UAE",
@@ -550,8 +550,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "HR Coordinator",
@@ -593,8 +593,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Inside Sales Representative",
@@ -638,8 +638,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Material Handler I",
@@ -680,8 +680,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Sales Manager, Genomic Tools & Applications, NorCal/Pacific Northwest",
@@ -722,8 +722,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Technician I, Production",
@@ -766,8 +766,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Channel Account Manager - Italy",
@@ -793,7 +793,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 14,
+  "age_days": 15,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -816,7 +816,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -857,8 +857,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Technical Applications Scientist ",
@@ -885,7 +885,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-09",
   "posted_confidence": "exact",
-  "age_days": 50,
+  "age_days": 51,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 1,
@@ -908,7 +908,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -939,7 +939,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 14,
+  "age_days": 15,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -964,7 +964,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -994,7 +994,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 9,
+  "age_days": 10,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1017,7 +1017,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1047,7 +1047,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1070,7 +1070,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1100,7 +1100,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1123,7 +1123,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1168,8 +1168,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "フィールドサービスエンジニア / Field Service Engineer - 日本",
@@ -1207,8 +1207,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "フィールドサービスエンジニア / Field Service Engineer - 日本",
@@ -1246,8 +1246,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Regional Marketing Manager - Japan",
@@ -1274,7 +1274,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-10",
   "posted_confidence": "exact",
-  "age_days": 49,
+  "age_days": 50,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -1299,7 +1299,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1332,7 +1332,7 @@
   "visa_rank": 2,
   "posted_date": "2026-06-18",
   "posted_confidence": "exact",
-  "age_days": 41,
+  "age_days": 42,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -1355,7 +1355,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1386,7 +1386,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-22",
   "posted_confidence": "exact",
-  "age_days": 37,
+  "age_days": 38,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 0,
@@ -1409,7 +1409,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1450,8 +1450,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Staff Mechanical Engineer, Consumables",
@@ -1492,8 +1492,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Talent Acquisition Specialist - Asia Pacific Region",
@@ -1522,7 +1522,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-09",
   "posted_confidence": "exact",
-  "age_days": 20,
+  "age_days": 21,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1534,8 +1534,8 @@
   "academic_reason": "",
   "skill_score": 8,
   "skill_hits": [
-   "outreach",
-   "genomics"
+   "genomics",
+   "outreach"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -1545,7 +1545,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1586,8 +1586,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Field Application Scientist, SynBio and NGS Panel Design - CHINA",
@@ -1629,8 +1629,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "General Job Application",
@@ -1655,7 +1655,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-08",
   "posted_confidence": "exact",
-  "age_days": 51,
+  "age_days": 52,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -1677,7 +1677,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1707,7 +1707,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1730,7 +1730,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1761,7 +1761,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1784,7 +1784,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1815,7 +1815,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1838,7 +1838,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1868,7 +1868,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1891,7 +1891,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1922,7 +1922,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1947,7 +1947,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1974,7 +1974,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-27",
   "posted_confidence": "exact",
-  "age_days": 2,
+  "age_days": 3,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": null,
@@ -1998,7 +1998,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2029,7 +2029,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-19",
   "posted_confidence": "exact",
-  "age_days": 40,
+  "age_days": 41,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -2052,7 +2052,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2082,7 +2082,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-19",
   "posted_confidence": "exact",
-  "age_days": 40,
+  "age_days": 41,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -2107,7 +2107,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2137,7 +2137,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-17",
   "posted_confidence": "exact",
-  "age_days": 12,
+  "age_days": 13,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -2150,8 +2150,8 @@
   "skill_score": 15,
   "skill_hits": [
    "gel electrophoresis",
-   "ngs",
-   "pcr"
+   "pcr",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -2161,7 +2161,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2192,7 +2192,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-14",
   "posted_confidence": "exact",
-  "age_days": 15,
+  "age_days": 16,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -2206,8 +2206,8 @@
   "skill_hits": [
    "gel electrophoresis",
    "qpcr",
-   "ngs",
-   "pcr"
+   "pcr",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -2217,7 +2217,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2252,7 +2252,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-24",
   "posted_confidence": "exact",
-  "age_days": 35,
+  "age_days": 36,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -2268,9 +2268,9 @@
    "r programming",
    "genomics",
    "phage",
-   "ngs",
+   "gis",
    "pcr",
-   "gis"
+   "ngs"
   ],
   "signature_hits": [
    "phage"
@@ -2282,7 +2282,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2320,8 +2320,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Supervisor, IgG Production",
@@ -2349,7 +2349,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 14,
+  "age_days": 15,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -2374,7 +2374,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2422,8 +2422,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Bioinformatics Engineer II (Remote/East Coast)",
@@ -2469,8 +2469,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Field Application Scientist - Nordics/UK",
@@ -2498,7 +2498,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-09",
   "posted_confidence": "exact",
-  "age_days": 50,
+  "age_days": 51,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -2525,7 +2525,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2558,7 +2558,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-02",
   "posted_confidence": "exact",
-  "age_days": 57,
+  "age_days": 58,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -2574,8 +2574,8 @@
    "bioinformatics",
    "cell culture",
    "command line",
-   "genomics",
    "outreach",
+   "genomics",
    "founded",
    "ngs"
   ],
@@ -2587,7 +2587,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2617,7 +2617,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-03",
   "posted_confidence": "exact",
-  "age_days": 56,
+  "age_days": 57,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 1,
@@ -2640,7 +2640,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2680,8 +2680,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Interested in an internship?",
@@ -2719,8 +2719,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Scientist II, Arrayed Screening",
@@ -2770,8 +2770,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Biotech Project Manager, Early Discovery",
@@ -2814,8 +2814,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Scientist II - Sr. Scientist, CRISPR Specificity & Genomic Safety",
@@ -2846,7 +2846,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-02",
   "posted_confidence": "exact",
-  "age_days": 57,
+  "age_days": 58,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -2877,7 +2877,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2907,7 +2907,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-09",
   "posted_confidence": "exact",
-  "age_days": 20,
+  "age_days": 21,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -2921,8 +2921,8 @@
   "skill_hits": [
    "machine learning",
    "founded",
-   "pandas",
    "python",
+   "pandas",
    "sql"
   ],
   "signature_hits": [],
@@ -2933,7 +2933,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2980,8 +2980,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Data Curator, London",
@@ -3007,7 +3007,7 @@
   "visa_rank": 2,
   "posted_date": "2026-06-02",
   "posted_confidence": "exact",
-  "age_days": 57,
+  "age_days": 58,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -3022,9 +3022,9 @@
    "machine learning",
    "pandas",
    "python",
-   "ngs",
    "sql",
-   "git"
+   "git",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -3034,7 +3034,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3079,8 +3079,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Scientist (Machine Learning), Lausanne",
@@ -3124,8 +3124,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Scientist (Machine Learning), London",
@@ -3169,8 +3169,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Technical Program Coordinator, DDMR, London",
@@ -3196,7 +3196,7 @@
   "visa_rank": 2,
   "posted_date": "2026-05-22",
   "posted_confidence": "exact",
-  "age_days": 68,
+  "age_days": 69,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -3220,7 +3220,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3250,7 +3250,7 @@
   "visa_rank": 5,
   "posted_date": "2026-05-20",
   "posted_confidence": "exact",
-  "age_days": 70,
+  "age_days": 71,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -3273,7 +3273,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3321,8 +3321,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Product Designer",
@@ -3348,7 +3348,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-10",
   "posted_confidence": "exact",
-  "age_days": 19,
+  "age_days": 20,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -3363,9 +3363,9 @@
    "computational biology",
    "machine learning",
    "bioinformatics",
-   "ngs",
    "gis",
-   "git"
+   "git",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -3375,7 +3375,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3415,8 +3415,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Area Business Lead South-West, Germany",
@@ -3454,8 +3454,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Area Business Lead, Spain",
@@ -3493,8 +3493,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Associate Scientist, Research Laboratory Operations",
@@ -3539,8 +3539,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Country Manager, Belgium&Luxembourg",
@@ -3577,8 +3577,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Country Manager, Poland",
@@ -3615,8 +3615,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Global Development Lead (GDL), Clinical Development",
@@ -3652,8 +3652,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Associate I, Clinical Biomarker Development",
@@ -3685,8 +3685,8 @@
   "visa_rank": 3,
   "posted_date": "2026-07-22",
   "posted_confidence": "exact",
-  "age_days": 7,
-  "freshness": "this week",
+  "age_days": 8,
+  "freshness": "recent",
   "source_trust": "high",
   "years_required": 0,
   "degree_bar": null,
@@ -3700,10 +3700,10 @@
    "bioinformatics",
    "python",
    "qpcr",
-   "ngs",
-   "pcr",
    "sql",
-   "git"
+   "git",
+   "pcr",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -3713,7 +3713,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3752,8 +3752,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Scientist II, Assay Operations, Screening Platform Technologies",
@@ -3784,7 +3784,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-05",
   "posted_confidence": "exact",
-  "age_days": 54,
+  "age_days": 55,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -3809,7 +3809,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3837,7 +3837,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-13",
   "posted_confidence": "exact",
-  "age_days": 16,
+  "age_days": 17,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -3860,7 +3860,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3888,7 +3888,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-12",
   "posted_confidence": "exact",
-  "age_days": 47,
+  "age_days": 48,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -3911,7 +3911,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3950,8 +3950,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Associate Scientist R&D",
@@ -3981,7 +3981,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-16",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -3998,9 +3998,9 @@
    "rna extraction",
    "python",
    "qpcr",
-   "ngs",
-   "pcr",
-   "gis"
+   "aws",
+   "gis",
+   "pcr"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4010,7 +4010,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4043,8 +4043,8 @@
   "visa_rank": 3,
   "posted_date": "2026-07-22",
   "posted_confidence": "exact",
-  "age_days": 7,
-  "freshness": "this week",
+  "age_days": 8,
+  "freshness": "recent",
   "source_trust": "high",
   "years_required": 0,
   "degree_bar": null,
@@ -4057,9 +4057,9 @@
   "skill_hits": [
    "statistical analysis",
    "library preparation",
-   "ngs",
+   "aws",
    "pcr",
-   "aws"
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4069,7 +4069,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4102,7 +4102,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4127,7 +4127,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4160,7 +4160,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4185,7 +4185,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4216,7 +4216,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-16",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4239,7 +4239,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4270,7 +4270,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 14,
+  "age_days": 15,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4293,7 +4293,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4336,8 +4336,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Lead/Staff Biostatistician (Analytical Validation)",
@@ -4379,8 +4379,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Manager Process Development",
@@ -4421,8 +4421,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Medical Science Liaison",
@@ -4447,7 +4447,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 9,
+  "age_days": 10,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -4470,7 +4470,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4497,7 +4497,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-23",
   "posted_confidence": "exact",
-  "age_days": 36,
+  "age_days": 37,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -4517,7 +4517,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4556,8 +4556,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Program Manager",
@@ -4598,8 +4598,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Quality Engineer",
@@ -4644,8 +4644,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Associate 1",
@@ -4677,7 +4677,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-10",
   "posted_confidence": "exact",
-  "age_days": 19,
+  "age_days": 20,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4692,9 +4692,9 @@
    "library preparation",
    "dna extraction",
    "qpcr",
-   "ngs",
+   "aws",
    "pcr",
-   "aws"
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4704,7 +4704,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4749,8 +4749,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Associate 2",
@@ -4791,8 +4791,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Software Test Engineer",
@@ -4820,7 +4820,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-24",
   "posted_confidence": "exact",
-  "age_days": 35,
+  "age_days": 36,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -4845,7 +4845,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4884,8 +4884,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Laboratory Technician II",
@@ -4916,7 +4916,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-06",
   "posted_confidence": "exact",
-  "age_days": 23,
+  "age_days": 24,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4940,7 +4940,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4979,8 +4979,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Associate I/II",
@@ -5012,7 +5012,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-24",
   "posted_confidence": "exact",
-  "age_days": 5,
+  "age_days": 6,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": 1,
@@ -5027,9 +5027,9 @@
    "library preparation",
    "sample preparation",
    "python",
-   "ngs",
+   "aws",
    "gis",
-   "aws"
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -5039,7 +5039,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5073,7 +5073,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-23",
   "posted_confidence": "exact",
-  "age_days": 6,
+  "age_days": 7,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": 1,
@@ -5088,9 +5088,9 @@
    "library preparation",
    "sample preparation",
    "python",
-   "ngs",
+   "aws",
    "gis",
-   "aws"
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -5100,7 +5100,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5153,8 +5153,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Clinical Terminologist Lead (MBBS Required) ",
@@ -5179,8 +5179,8 @@
   "visa_rank": 2,
   "posted_date": "2026-07-22",
   "posted_confidence": "exact",
-  "age_days": 7,
-  "freshness": "this week",
+  "age_days": 8,
+  "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
   "degree_bar": null,
@@ -5201,7 +5201,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5242,8 +5242,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Analyst Summer Intern",
@@ -5281,8 +5281,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Software Engineer - Person Matching",
@@ -5320,8 +5320,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Consultant (Salesforce Configuration)",
@@ -5359,8 +5359,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Manager, Consulting",
@@ -5386,8 +5386,8 @@
   "visa_rank": 5,
   "posted_date": "2026-06-29",
   "posted_confidence": "exact",
-  "age_days": 30,
-  "freshness": "recent",
+  "age_days": 31,
+  "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
   "degree_bar": null,
@@ -5408,7 +5408,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5451,8 +5451,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Product Support Analyst",
@@ -5479,7 +5479,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-05",
   "posted_confidence": "exact",
-  "age_days": 54,
+  "age_days": 55,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -5502,7 +5502,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5532,7 +5532,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-02",
   "posted_confidence": "exact",
-  "age_days": 27,
+  "age_days": 28,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5554,7 +5554,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5584,7 +5584,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-17",
   "posted_confidence": "exact",
-  "age_days": 12,
+  "age_days": 13,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5606,7 +5606,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5636,7 +5636,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 9,
+  "age_days": 10,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5658,7 +5658,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5688,7 +5688,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 9,
+  "age_days": 10,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5710,7 +5710,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5740,8 +5740,8 @@
   "visa_rank": 5,
   "posted_date": "2026-07-22",
   "posted_confidence": "exact",
-  "age_days": 7,
-  "freshness": "this week",
+  "age_days": 8,
+  "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
   "degree_bar": null,
@@ -5762,7 +5762,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5791,7 +5791,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -5814,7 +5814,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5853,8 +5853,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Solution Consultant - R&D",
@@ -5891,8 +5891,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Biostatistician",
@@ -5918,7 +5918,7 @@
   "visa_rank": 2,
   "posted_date": "2026-06-12",
   "posted_confidence": "exact",
-  "age_days": 47,
+  "age_days": 48,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 1,
@@ -5942,7 +5942,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5987,8 +5987,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Bioinformatics Engineer - Biologics Drug Discovery ",
@@ -6017,7 +6017,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-13",
   "posted_confidence": "exact",
-  "age_days": 16,
+  "age_days": 17,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -6042,7 +6042,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6090,8 +6090,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Technical Recruiter",
@@ -6120,7 +6120,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-11",
   "posted_confidence": "exact",
-  "age_days": 18,
+  "age_days": 19,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6132,8 +6132,8 @@
   "academic_reason": "",
   "skill_score": 15,
   "skill_hits": [
-   "outreach",
    "genomics",
+   "outreach",
    "ngs",
    "gis"
   ],
@@ -6145,7 +6145,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6177,7 +6177,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-23",
   "posted_confidence": "exact",
-  "age_days": 6,
+  "age_days": 7,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": null,
@@ -6192,8 +6192,8 @@
    "bioinformatics",
    "deep learning",
    "python",
-   "ngs",
-   "gis"
+   "gis",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -6203,7 +6203,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6235,7 +6235,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-24",
   "posted_confidence": "exact",
-  "age_days": 5,
+  "age_days": 6,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": null,
@@ -6261,7 +6261,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6293,7 +6293,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-24",
   "posted_confidence": "exact",
-  "age_days": 5,
+  "age_days": 6,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": null,
@@ -6318,7 +6318,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6346,7 +6346,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-10",
   "posted_confidence": "exact",
-  "age_days": 19,
+  "age_days": 20,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6368,7 +6368,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6408,8 +6408,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "HTS Scientist ",
@@ -6449,8 +6449,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Laboratory Technician III, Antibody Production & Characterization",
@@ -6479,7 +6479,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6503,7 +6503,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6547,8 +6547,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Software Intern, Autonomous Lab",
@@ -6590,8 +6590,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "FP&A Manager",
@@ -6631,8 +6631,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Lab Manager, Hie & Pluvinage Labs",
@@ -6680,8 +6680,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Associate II, Konermann Lab",
@@ -6747,7 +6747,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -6790,8 +6790,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Specialist / Scientist, Metabolic Phenotyping (In Vitro & In Vivo)",
@@ -6821,7 +6821,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-27",
   "posted_confidence": "exact",
-  "age_days": 2,
+  "age_days": 3,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": 0,
@@ -6839,8 +6839,8 @@
    "microscopy",
    "genomics",
    "python",
-   "ngs",
-   "pcr"
+   "pcr",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -6850,7 +6850,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6892,8 +6892,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Scientist I, Molecular and Cell Biology",
@@ -6924,7 +6924,7 @@
   "visa_rank": 3,
   "posted_date": "2026-05-28",
   "posted_confidence": "exact",
-  "age_days": 62,
+  "age_days": 63,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 1,
@@ -6937,9 +6937,9 @@
   "skill_score": 14,
   "skill_hits": [
    "cell culture",
-   "aws",
    "gis",
-   "git"
+   "git",
+   "aws"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -6949,7 +6949,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6977,7 +6977,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 9,
+  "age_days": 10,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -7000,7 +7000,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7030,7 +7030,7 @@
   "visa_rank": 4,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 14,
+  "age_days": 15,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -7052,7 +7052,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7081,7 +7081,7 @@
   "visa_rank": 4,
   "posted_date": "2026-06-22",
   "posted_confidence": "exact",
-  "age_days": 37,
+  "age_days": 38,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -7103,7 +7103,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7133,7 +7133,7 @@
   "visa_rank": 4,
   "posted_date": "2026-06-16",
   "posted_confidence": "exact",
-  "age_days": 43,
+  "age_days": 44,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -7157,7 +7157,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7196,8 +7196,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Mission Operations & AI Enablement Lead",
@@ -7235,8 +7235,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Mission Operations & AI Enablement Lead ",
@@ -7274,8 +7274,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Software Engineer – AI and Data ",
@@ -7300,8 +7300,8 @@
   "visa_rank": 5,
   "posted_date": "2026-06-29",
   "posted_confidence": "exact",
-  "age_days": 30,
-  "freshness": "recent",
+  "age_days": 31,
+  "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
   "degree_bar": null,
@@ -7326,7 +7326,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7365,8 +7365,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "High Performance Computing Engineer",
@@ -7408,8 +7408,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Infrastructure Engineer",
@@ -7448,8 +7448,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Software Engineer",
@@ -7493,8 +7493,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Software Engineer, UI",
@@ -7533,8 +7533,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Carbon Analyst",
@@ -7564,7 +7564,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-01",
   "posted_confidence": "exact",
-  "age_days": 28,
+  "age_days": 29,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -7577,8 +7577,8 @@
   "skill_score": 14,
   "skill_hits": [
    "python",
-   "ngs",
    "sql",
+   "ngs",
    "gis"
   ],
   "signature_hits": [],
@@ -7589,7 +7589,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7619,7 +7619,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-10",
   "posted_confidence": "exact",
-  "age_days": 19,
+  "age_days": 20,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -7644,7 +7644,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7688,8 +7688,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Assistant",
@@ -7725,8 +7725,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Assistant ES",
@@ -7764,8 +7764,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Junior Business Analyst",
@@ -7800,8 +7800,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Transformation Delivery Consultant - LifeSciences",
@@ -7837,8 +7837,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "21GRAMS- Copy Supervisor, Market Access",
@@ -7875,8 +7875,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Future Opportunities - Scientific (Medical Communications)   ",
@@ -7914,8 +7914,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Future Opportunities - Social Media Strategy",
@@ -7941,7 +7941,7 @@
   "visa_rank": 5,
   "posted_date": "2026-05-20",
   "posted_confidence": "exact",
-  "age_days": 70,
+  "age_days": 71,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -7954,8 +7954,8 @@
   "skill_score": 12,
   "skill_hits": [
    "ngs",
-   "git",
-   "gis"
+   "gis",
+   "git"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -7965,7 +7965,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8003,8 +8003,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Consultant, Policy (Vaccines)",
@@ -8029,7 +8029,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-24",
   "posted_confidence": "exact",
-  "age_days": 5,
+  "age_days": 6,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": null,
@@ -8052,7 +8052,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8061,7 +8061,7 @@
   "company": "knowbe4",
   "location": "Cheltenham",
   "url": "https://www.arbeitnow.co.uk/jobs/companies/knowbe4/data-scientist-cybersecurity-analyst-position-located-in-cheltenham-united-kingdom-228967",
-  "description": "<div class=\"content-intro\"><p>KnowBe4 empowers the modern workforce to make smarter security decisions every day. Trusted by more than 70,000 organizations worldwide, KnowBe4 is the pioneer of digital workforce security, securing both AI agents and humans. The KnowBe4 Platform provides attack simulation and training, collaboration security, and agent security powered by AIDA (Artificial Intelligence Defense Agents) and a proprietary Risk Score. The platform leverages 15-years of behavioral data to combat advanced threats including social engineering, prompt injection, and shadow AI. By securing humans and agents, KnowBe4 leads the industry in workforce trust and defense.</p></div><p><img style=\"max-width: 100%;\"></p> <p><strong data-stringify-type=\"bold\">To learn more about our team and office culture in England (UK), visit the following links.</strong>&nbsp;<br><strong data-stringify-type=\"bold\">Careers Page:</strong>&nbsp;<a class=\"c-link\" href=\"https://www.knowbe4.com/careers/locations/york\" target=\"_blank\" data-stringify-link=\"https://www.knowbe4.com/careers/locations/york\" data-sk=\"tooltip_parent\">https://www.knowbe4.com/careers/locations/york</a><br><strong data-stringify-type=\"bold\">Glassdoor:&nbsp;</strong><a class=\"c-link\" href=\"https://www.glassdoor.com/Location/KnowBe4-York-Location-EI_IE969384.0,7_IL.8,12_IC3297365.htm\" target=\"_blank\" data-stringify-link=\"https://www.glassdoor.com/Location/KnowBe4-York-Location-EI_IE969384.0,7_IL.8,12_IC3297365.htm\" data-sk=\"tooltip_parent\">https://www.glassdoor.com/Location/KnowBe4-York-Location-EI_IE969384.0,7_IL.8,12_IC3297365.htm</a><br><strong data-stringify-type=\"bold\">LinkedIn</strong>:&nbsp;<a class=\"c-link\" href=\"https://www.linkedin.com/company/knowbe4/life/uk/\" target=\"_blank\" data-stringify-link=\"https://www.linkedin.com/company/knowbe4/life/uk/\" data-sk=\"tooltip_parent\">https://www.linkedin.com/company/knowbe4/life/uk/</a></p> <p>The Cybersecurity Threat Analyst works in the KnowBe4 Threat Research Lab, and is responsible for creating solutions and models to detect threats in KnowBe4’s target markets and products.</p> <div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">To learn more about the product this position deals with - click here: </strong><strong data-stringify-type=\"bold\"><a class=\"c-link\" href=\"https://www.egress.com/products\" target=\"_blank\" data-stringify-link=\"https://www.egress.com/products\" data-sk=\"tooltip_parent\">https://www.egress.com/products</a></strong></div> <p><strong>Responsibilities:</strong></p> <ul> <li>Analyzes threat data and implements technical solutions</li> <li>Innovate and create extensions to detection paradigms in end to end fashion</li> <li>Reviewing, understanding and reverse engineering phishing attacks and technologies.</li> <li>Understanding and implementing broader attack vectors.</li> <li>Developing detection algorithms (python, c#) and extracting identifying features of phishing emails.</li> <li>Understanding human behaviour and communications, and how they can be exploited by attackers</li> <li>Using machine learning to identify broader phishing trends and how to protect against them</li> </ul> <p><strong>Requirements: </strong></p> <ul> <li>BS or equivalent plus 2 years experience</li> <li>MS or equivalent plus 1 year experience</li> <li>Experience with phishing</li> <li>Statistical analysis skills</li> <li>Intermediate Python and C# abilities</li> <li>Demonstrable experience in being able to quickly learn and adapt to new areas of technology</li> <li>Ability to think outside the box and/or think maliciously to deliver creative solutions.</li> </ul><div class=\"content-conclusion\"><p><strong>Our Fantastic Benefits</strong></p> <div class=\"gmail_default\">We offer company-wide bonuses based on monthly sales targets, employee referral bonuses, adoption assistance, tuition reimbursement, certification reimbursement, and certification completion bonuses - all in a modern, high-tech, and fun work environment. For more details about our benefits in each office location, please visit&nbsp;<a href=\"http://www.knowbe4.com/careers/benefits\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.knowbe4.com/careers/benefits&amp;source=gmail&amp;ust=1727463125306000&amp;usg=AOvVaw3gDeHkHPZYOcR3fRjLcL4_\">www.knowbe4.com/careers/benefits</a>.</div> <p><em><span style=\"font-weight: 400;\">Note: An applicant assessment and background check may be part of your hiring procedure.</span></em></p> <p><strong>Individuals seeking employment at KnowBe4 are considered without prejudice to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation or any other characteristic protected under applicable federal, state, or local law. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please visit www.knowbe4.com/careers/request-accommodation.</strong></p> <p><span style=\"font-weight: 400;\">No recruitment agencies, please.</span></p></div> Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+  "description": "<div class=\"content-intro\"><p>KnowBe4 empowers the modern workforce to make smarter security decisions every day. Trusted by more than 70,000 organizations worldwide, KnowBe4 is the pioneer of digital workforce security, securing both AI agents and humans. The KnowBe4 Platform provides attack simulation and training, collaboration security, and agent security powered by AIDA (Artificial Intelligence Defense Agents) and a proprietary Risk Score. The platform leverages 15-years of behavioral data to combat advanced threats including social engineering, prompt injection, and shadow AI. By securing humans and agents, KnowBe4 leads the industry in workforce trust and defense.</p></div><p><img style=\"max-width: 100%;\"></p> <p><strong data-stringify-type=\"bold\">To learn more about our team and office culture in England (UK), visit the following links.</strong>&nbsp;<br><strong data-stringify-type=\"bold\">Careers Page:</strong>&nbsp;<a class=\"c-link\" href=\"https://www.knowbe4.com/careers/locations/york\" target=\"_blank\" data-stringify-link=\"https://www.knowbe4.com/careers/locations/york\" data-sk=\"tooltip_parent\">https://www.knowbe4.com/careers/locations/york</a><br><strong data-stringify-type=\"bold\">Glassdoor:&nbsp;</strong><a class=\"c-link\" href=\"https://www.glassdoor.com/Location/KnowBe4-York-Location-EI_IE969384.0,7_IL.8,12_IC3297365.htm\" target=\"_blank\" data-stringify-link=\"https://www.glassdoor.com/Location/KnowBe4-York-Location-EI_IE969384.0,7_IL.8,12_IC3297365.htm\" data-sk=\"tooltip_parent\">https://www.glassdoor.com/Location/KnowBe4-York-Location-EI_IE969384.0,7_IL.8,12_IC3297365.htm</a><br><strong data-stringify-type=\"bold\">LinkedIn</strong>:&nbsp;<a class=\"c-link\" href=\"https://www.linkedin.com/company/knowbe4/life/uk/\" target=\"_blank\" data-stringify-link=\"https://www.linkedin.com/company/knowbe4/life/uk/\" data-sk=\"tooltip_parent\">https://www.linkedin.com/company/knowbe4/life/uk/</a></p> <p>The Cybersecurity Threat Analyst works in the KnowBe4 Threat Research Lab, and is responsible for creating solutions and models to detect threats in KnowBe4’s target markets and products.</p> <div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">To learn more about the product this position deals with - click here: </strong><strong data-stringify-type=\"bold\"><a class=\"c-link\" href=\"https://www.egress.com/products\" target=\"_blank\" data-stringify-link=\"https://www.egress.com/products\" data-sk=\"tooltip_parent\">https://www.egress.com/products</a></strong></div> <p><strong>Responsibilities:</strong></p> <ul> <li>Analyzes threat data and implements technical solutions</li> <li>Innovate and create extensions to detection paradigms in end to end fashion</li> <li>Reviewing, understanding and reverse engineering phishing attacks and technologies.</li> <li>Understanding and implementing broader attack vectors.</li> <li>Developing detection algorithms (python, c#) and extracting identifying features of phishing emails.</li> <li>Understanding human behaviour and communications, and how they can be exploited by attackers</li> <li>Using machine learning to identify broader phishing trends and how to protect against them</li> </ul> <p><strong>Requirements: </strong></p> <ul> <li>BS or equivalent plus 2 years experience</li> <li>MS or equivalent plus 1 year experience</li> <li>Experience with phishing</li> <li>Statistical analysis skills</li> <li>Intermediate Python and C# abilities</li> <li>Demonstrable experience in being able to quickly learn and adapt to new areas of technology</li> <li>Ability to think outside the box and/or think maliciously to deliver creative solutions.</li> </ul><div class=\"content-conclusion\"><p><strong>Our Fantastic Benefits</strong></p> <div class=\"gmail_default\">We offer company-wide bonuses based on monthly sales targets, employee referral bonuses, adoption assistance, tuition reimbursement, certification reimbursement, and certification completion bonuses - all in a modern, high-tech, and fun work environment. For more details about our benefits in each office location, please visit&nbsp;<a href=\"http://www.knowbe4.com/careers/benefits\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.knowbe4.com/careers/benefits&amp;source=gmail&amp;ust=1727463125306000&amp;usg=AOvVaw3gDeHkHPZYOcR3fRjLcL4_\">www.knowbe4.com/careers/benefits</a>.</div> <p><em><span style=\"font-weight: 400;\">Note: An applicant assessment and background check may be part of your hiring procedure.</span></em></p> <p><strong>Individuals seeking employment at KnowBe4 are considered without prejudice to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation or any other characteristic protected under applicable federal, state, or local law. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please visit www.knowbe4.com/careers/request-accommodation.</strong></p> <p><span style=\"font-weight: 400;\">No recruitment agencies, please.</span></p></div> Find Jobs in United Kingdom on Arbeitnow",
   "posted": "2026-07-29",
   "source": "arbeitnow",
   "org_cat": "aggregator",
@@ -8080,7 +8080,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-29",
   "posted_confidence": "approximate",
-  "age_days": 0,
+  "age_days": 1,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": 1,
@@ -8105,7 +8105,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8133,7 +8133,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-29",
   "posted_confidence": "approximate",
-  "age_days": 0,
+  "age_days": 1,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": null,
@@ -8157,7 +8157,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8201,8 +8201,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Data Engineer (m/w/d)",
@@ -8244,15 +8244,15 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Data Scientist",
   "company": "Lever Implementation Training Environment",
   "location": "Berlin, Germany",
   "url": "https://www.arbeitnow.com/jobs/companies/lever-implementation-training-environment/data-scientist-berlin-germany-98700",
-  "description": "Lever was founded eight years ago to tackle the most strategic challenge that companies face: how to recruit and hire top talent. We’re building the next generation of hiring software that companies like Netflix, Yelp, Cirque du Soleil, Shopify, and Spotify rely on to grow their teams. We've rethought the talent acquisition paradigm and are the innovation leaders in our space and looking for the right people to join us as we scale. We’re extraordinarily proud of the company we’ve built so far (not to mention humbled to be recognized as the #1 place to work in San Francisco, as well as a top workplace in the entire United States). Our people are Lever’s biggest competitive advantage and we’ll continue investing in our “Leveroos” and people-first culture. We're hiring a data scientist! Requirements SQL Python C++ Benefits: - - - - Find more English Speaking Jobs in Germany on Arbeitnow",
+  "description": "Lever was founded eight years ago to tackle the most strategic challenge that companies face: how to recruit and hire top talent. We’re building the next generation of hiring software that companies like Netflix, Yelp, Cirque du Soleil, Shopify, and Spotify rely on to grow their teams. We've rethought the talent acquisition paradigm and are the innovation leaders in our space and looking for the right people to join us as we scale. We’re extraordinarily proud of the company we’ve built so far (not to mention humbled to be recognized as the #1 place to work in San Francisco, as well as a top workplace in the entire United States). Our people are Lever’s biggest competitive advantage and we’ll continue investing in our “Leveroos” and people-first culture. We're hiring a data scientist! Requirements SQL Python C++ Benefits: - - - - Find Jobs in Germany on Arbeitnow",
   "posted": "2026-07-28",
   "source": "arbeitnow",
   "org_cat": "aggregator",
@@ -8272,7 +8272,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-28",
   "posted_confidence": "approximate",
-  "age_days": 1,
+  "age_days": 2,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": null,
@@ -8296,7 +8296,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8324,7 +8324,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-27",
   "posted_confidence": "approximate",
-  "age_days": 2,
+  "age_days": 3,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": null,
@@ -8336,8 +8336,8 @@
   "academic_reason": "",
   "skill_score": 7,
   "skill_hits": [
-   "ngs",
-   "sql"
+   "sql",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -8347,7 +8347,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8356,7 +8356,7 @@
   "company": "GameDuell",
   "location": "Berlin",
   "url": "https://www.arbeitnow.com/jobs/companies/gameduell/game-ui-artist-unity-2d-berlin-148570",
-  "description": "Imagine entering a modern office in the heart of Berlin, surrounded by like-minded people who all share a common passion: Games. At GameDuell, talented artists, designers, developers, and many more work hand in hand to create the best games. Here, you'll dive into a world where creativity meets gameplay, with fresh challenges and opportunities for growth waiting for you every day. As our new Game UI Artist (Unity 2D) (f/m/d*) , you will create aesthetic and functional user interfaces for our mobile and social games. Join our diverse, creative, and engaging team. You will bring our games to life and make them accessible to our players globally. You will have the opportunity to put your ideas into practice and have a direct influence on the gaming experience. Your designs will not only be seen, but also appreciated by a worldwide audience. Explore how you connect with our games and hear the stories from our community of players. You can easily find us on your preferred app store by searching for \"GameDuell\"! Tasks This is not a UI/UX design, UX research, wireframing, or interaction design position! This is an artistic, visual asset creation role focused on creating and rendering 2D game assets and icons, and Unity UI implementation. ** Your tasks** Design creative and playful user interfaces for our new and existing mobile and social game applications Create and refine 2D UI elements, graphics, and animations (e.g., menus, icons, buttons, typography, visuals, etc.) Integrate and animate UI assets directly in Unity Ensure the consistency of existing styles or co-create these for new games Work in close collaboration with other artists, UX, game designers, and developers Requirements What we expect Background in art, design, digital media, or similar field A minimum of 2+ years of experience in designing (mobile) 2D UI game screens and implementing them in Unity A meaningful portfolio showcasing mobile game interfaces Proficiency in Unity, especially in the area of UI integration and animation Skilled with Photoshop, Illustrator A good workflow in creating clean files that allow for fast iteration and the creation of final art assets A solid understanding of fundamental design principles, usability, flows, and UI design Benefits What we offer At GameDuell , we’re more than just a workplace - we’re a creative community. Here’s what’s in it for you: Creative Freedom : Help shape the UI style for millions of players and bring your artistic vision to life Collaborative Environment : Join a friendly, international art team that thrives on innovation and creativity Inspiring Space : Work in our Berlin Mitte office, with its vibrant atmosphere, sunny rooftop, free drinks, fresh fruit, and plenty of room for fun (pool table, table tennis, weekly Art Hours, and much more) Flexible Work : Hybrid model with the freedom to organize your schedule Shared Success : From BBQs and game nights to summer parties, we celebrate together We are excited to welcome you on board as soon as possible in full time We are an ecological and socially sustainable company and have our very own “Green Team” where you can make an impact and actively implement ideas and participate in initiatives to help protect our environment and for charity. As a games community, we take our social responsibility seriously. We are co-founders of the “Leaders for Climate Action” and have committed ourselves to being climate responsible. We pay attention to environmental friendly and resource-efficient standards when purchasing our office and food supplies We match your charity donations Social responsibility begins with each of us. Our corporate culture is characterized by mutual trust and respect. Our open and international team welcomes and respects diversity Contact us This is not a UI/UX design, UX research, wireframing, or interaction design position! This is an artistic, visual asset creation role focused on creating and rendering 2D game assets and icons, and Unity UI implementation. Say \"hello\" to our recruiter Caro! We believe that great games are made by passionate people, and we’d love to get to know you beyond just your skills. Share what drives your creativity and what excites you about UI Art in Games ! If you’re ready to bring your passion for games, especially board and card games, to an inspiring environment, send us your CV and portfolio with the subject ‘ Game UI Artist (Unity 2D) * ’. We can’t wait to get to know you! (*) GameDuell appreciates diverse perspectives and backgrounds, and promotes equal opportunities and an inclusive working environment in which every team member is valued. Any terms referring to people are valid for all genders whether male, female, or diverse. Find Jobs in Germany on Arbeitnow",
+  "description": "Imagine entering a modern office in the heart of Berlin, surrounded by like-minded people who all share a common passion: Games. At GameDuell, talented artists, designers, developers, and many more work hand in hand to create the best games. Here, you'll dive into a world where creativity meets gameplay, with fresh challenges and opportunities for growth waiting for you every day. As our new Game UI Artist (Unity 2D) (f/m/d*) , you will create aesthetic and functional user interfaces for our mobile and social games. Join our diverse, creative, and engaging team. You will bring our games to life and make them accessible to our players globally. You will have the opportunity to put your ideas into practice and have a direct influence on the gaming experience. Your designs will not only be seen, but also appreciated by a worldwide audience. Explore how you connect with our games and hear the stories from our community of players. You can easily find us on your preferred app store by searching for \"GameDuell\"! Tasks This is not a UI/UX design, UX research, wireframing, or interaction design position! This is an artistic, visual asset creation role focused on creating and rendering 2D game assets and icons, and Unity UI implementation. ** Your tasks** Design creative and playful user interfaces for our new and existing mobile and social game applications Create and refine 2D UI elements, graphics, and animations (e.g., menus, icons, buttons, typography, visuals, etc.) Integrate and animate UI assets directly in Unity Ensure the consistency of existing styles or co-create these for new games Work in close collaboration with other artists, UX, game designers, and developers Requirements What we expect Background in art, design, digital media, or similar field A minimum of 2+ years of experience in designing (mobile) 2D UI game screens and implementing them in Unity A meaningful portfolio showcasing mobile game interfaces Proficiency in Unity, especially in the area of UI integration and animation Skilled with Photoshop, Illustrator A good workflow in creating clean files that allow for fast iteration and the creation of final art assets A solid understanding of fundamental design principles, usability, flows, and UI design Benefits What we offer At GameDuell , we’re more than just a workplace - we’re a creative community. Here’s what’s in it for you: Creative Freedom : Help shape the UI style for millions of players and bring your artistic vision to life Collaborative Environment : Join a friendly, international art team that thrives on innovation and creativity Inspiring Space : Work in our Berlin Mitte office, with its vibrant atmosphere, sunny rooftop, free drinks, fresh fruit, and plenty of room for fun (pool table, table tennis, weekly Art Hours, and much more) Flexible Work : Hybrid model with the freedom to organize your schedule Shared Success : From BBQs and game nights to summer parties, we celebrate together We are excited to welcome you on board as soon as possible in full time We are an ecological and socially sustainable company and have our very own “Green Team” where you can make an impact and actively implement ideas and participate in initiatives to help protect our environment and for charity. As a games community, we take our social responsibility seriously. We are co-founders of the “Leaders for Climate Action” and have committed ourselves to being climate responsible. We pay attention to environmental friendly and resource-efficient standards when purchasing our office and food supplies We match your charity donations Social responsibility begins with each of us. Our corporate culture is characterized by mutual trust and respect. Our open and international team welcomes and respects diversity Contact us This is not a UI/UX design, UX research, wireframing, or interaction design position! This is an artistic, visual asset creation role focused on creating and rendering 2D game assets and icons, and Unity UI implementation. Say \"hello\" to our recruiter Caro! We believe that great games are made by passionate people, and we’d love to get to know you beyond just your skills. Share what drives your creativity and what excites you about UI Art in Games ! If you’re ready to bring your passion for games, especially board and card games, to an inspiring environment, send us your CV and portfolio with the subject ‘ Game UI Artist (Unity 2D) * ’. We can’t wait to get to know you! (*) GameDuell appreciates diverse perspectives and backgrounds, and promotes equal opportunities and an inclusive working environment in which every team member is valued. Any terms referring to people are valid for all genders whether male, female, or diverse. Find more English Speaking Jobs in Germany on Arbeitnow",
   "posted": "2026-07-27",
   "source": "arbeitnow",
   "org_cat": "aggregator",
@@ -8376,7 +8376,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-27",
   "posted_confidence": "approximate",
-  "age_days": 2,
+  "age_days": 3,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": 2,
@@ -8398,7 +8398,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8436,8 +8436,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Washington Conservation Corps Member",
@@ -8471,8 +8471,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Forestry Assistance Program (FAP) Forester",
@@ -8506,8 +8506,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Marine Ecology Research Assitant",
@@ -8553,7 +8553,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8590,8 +8590,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Interpretive Media Steward - AmeriCorps",
@@ -8625,8 +8625,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Conservation Crew Leader",
@@ -8660,8 +8660,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Backcountry Trails Conservation Crew Leader",
@@ -8695,8 +8695,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Valley Forge Natural Resources Individual Placement",
@@ -8730,8 +8730,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Land and Water Conservationist",
@@ -8765,8 +8765,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Education Program Coordinator",
@@ -8812,7 +8812,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8860,7 +8860,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8896,8 +8896,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Wildlife Biologist (Martell Forestry District)",
@@ -8933,8 +8933,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Biological Field Technician - (1976)",
@@ -8969,8 +8969,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Erosion Research Associate (Eglin Air Force Base; Okaloosa County, FL)",
@@ -9004,8 +9004,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "CEO",
@@ -9039,8 +9039,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Supervisor I, Zero Waste",
@@ -9074,8 +9074,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Faculty Member in Agroecology",
@@ -9109,8 +9109,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Faculty Member in Field Ecology",
@@ -9144,8 +9144,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "District Manager",
@@ -9179,8 +9179,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Youth Program Manager",
@@ -9214,8 +9214,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Field Leader - 2026 New Hampshire Conservation Corps",
@@ -9249,8 +9249,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Wildlife Management Specialist",
@@ -9284,8 +9284,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "STRAW Apprenticeship",
@@ -9331,7 +9331,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -9367,8 +9367,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Conservation Associate - Private Lands Program (remote in western US)",
@@ -9402,8 +9402,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "MDF Project Coordinator -  Private Lands Program",
@@ -9437,8 +9437,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Chesapeake Gateways Ambassador – Network Benefits",
@@ -9472,8 +9472,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Ecological Operator Technician",
@@ -9507,8 +9507,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Chesapeake Gateways Ambassador – Network Designations",
@@ -9542,8 +9542,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Retreat Program Assistant",
@@ -9577,8 +9577,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Retreat Program Manager",
@@ -9612,8 +9612,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Resource Specialist",
@@ -9647,8 +9647,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Science and Data Manager",
@@ -9682,8 +9682,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "OHV Restoration Technician",
@@ -9717,8 +9717,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Public Lands Manager III",
@@ -9752,8 +9752,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Wildlife Conservation Technician",
@@ -9799,7 +9799,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -9847,7 +9847,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -9883,8 +9883,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Head Veterinarian - Wildlife",
@@ -9918,8 +9918,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Visitor Services Member - Humboldt Bay National Wildlife Refuge",
@@ -9965,7 +9965,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10013,7 +10013,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10061,7 +10061,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10097,8 +10097,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Avian Conservation Ecologist",
@@ -10147,7 +10147,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -10184,8 +10184,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Fish and Wildlife Technician I - II - III (Wildlife Technician)",
@@ -10219,8 +10219,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Administrative Support Specialist",
@@ -10254,8 +10254,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Laboratory Research Assistant",
@@ -10303,7 +10303,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10339,8 +10339,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Base Camp Manager",
@@ -10374,8 +10374,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Museum Technician (NPS, Lake Mead National Recreation Area)",
@@ -10409,8 +10409,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Outreach and Engagement Coordinator",
@@ -10447,8 +10447,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "MN Farm Bill Wildlife Biologist I, II, or III",
@@ -10496,7 +10496,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10532,8 +10532,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Urban Forestry Fellowship",
@@ -10579,7 +10579,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10615,8 +10615,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Botany Specialist",
@@ -10662,7 +10662,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10698,8 +10698,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Environmental Scientist",
@@ -10734,8 +10734,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Conservation Crew Leader – Fall Young Adult Crews",
@@ -10769,8 +10769,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Restoration Program Manager",
@@ -10804,8 +10804,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Conservation Project Manager",
@@ -10839,8 +10839,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Seasonal Ecological Restoration Technician (Physically Demanding Outdoor Work)",
@@ -10874,8 +10874,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Staff Attorney, Wildlife Law Program",
@@ -10909,8 +10909,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Conservation Project Manager",
@@ -10944,8 +10944,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Conservation Ecologist",
@@ -10993,7 +10993,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -11029,8 +11029,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Grant and Programs Administrator",
@@ -11064,8 +11064,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Gateway Community and Partnerships Engagement Fellow – AmeriCorps",
@@ -11099,8 +11099,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Conservation Program Specialist (Delegated Programs Focus)",
@@ -11134,8 +11134,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Conservation Program Specialist (Watershed Projects)",
@@ -11169,8 +11169,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Private Lands Conservationist II - Easement Specialist",
@@ -11204,8 +11204,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Statewide Wolf Specialist - Fish and Wildlife Biologist 4 - Permanent - 2026-04631",
@@ -11241,8 +11241,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Helene Recovery Vegetation Management Crew Member",
@@ -11276,8 +11276,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Croatan Vegetation Management Crew Leader",
@@ -11311,8 +11311,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Helene Recovery Trail Crew Leader",
@@ -11346,8 +11346,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Better Together: Why Community Matters in Conservation Careers",
@@ -11376,7 +11376,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11409,7 +11409,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11439,7 +11439,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11470,7 +11470,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11504,7 +11504,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11534,7 +11534,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11565,7 +11565,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11596,7 +11596,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11628,7 +11628,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11659,7 +11659,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11691,7 +11691,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11723,7 +11723,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11753,7 +11753,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11783,7 +11783,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11813,7 +11813,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11843,7 +11843,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11873,7 +11873,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11904,7 +11904,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11935,7 +11935,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11965,7 +11965,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -11995,7 +11995,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12026,7 +12026,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12057,7 +12057,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12087,7 +12087,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12117,7 +12117,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12149,7 +12149,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12179,7 +12179,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12209,7 +12209,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12239,7 +12239,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12271,7 +12271,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12301,7 +12301,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12331,7 +12331,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12362,7 +12362,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12392,7 +12392,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12422,7 +12422,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12452,7 +12452,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12482,7 +12482,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12512,7 +12512,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12543,7 +12543,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12574,7 +12574,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12604,7 +12604,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12634,7 +12634,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12665,7 +12665,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12695,7 +12695,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12725,7 +12725,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12756,7 +12756,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12787,7 +12787,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12817,7 +12817,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12848,7 +12848,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12878,7 +12878,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12908,7 +12908,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12939,7 +12939,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -12970,7 +12970,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13000,7 +13000,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13031,7 +13031,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13062,7 +13062,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13092,7 +13092,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13124,7 +13124,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13154,7 +13154,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13184,7 +13184,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13214,7 +13214,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13244,7 +13244,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13275,7 +13275,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13307,7 +13307,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13337,7 +13337,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13367,7 +13367,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13398,7 +13398,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13428,7 +13428,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13458,7 +13458,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13488,7 +13488,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13518,7 +13518,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13549,7 +13549,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13579,7 +13579,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13610,7 +13610,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13640,7 +13640,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13670,7 +13670,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13700,7 +13700,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13730,7 +13730,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13762,7 +13762,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13793,7 +13793,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13828,8 +13828,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Rooted in conservation: A forester’s journey through Zimbabwe’s wild landscapes",
@@ -13858,7 +13858,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13890,7 +13890,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13922,7 +13922,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13952,7 +13952,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -13984,7 +13984,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -14014,7 +14014,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -14046,7 +14046,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -14076,7 +14076,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -14117,8 +14117,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Quality Control Supervisor",
@@ -14146,7 +14146,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-29",
   "posted_confidence": "exact",
-  "age_days": 0,
+  "age_days": 1,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": 1,
@@ -14160,8 +14160,8 @@
   "skill_hits": [
    "statistical analysis",
    "gel electrophoresis",
-   "ngs",
-   "pcr"
+   "pcr",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -14171,7 +14171,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14220,7 +14220,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14270,7 +14270,61 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-07-29",
+  "last_seen": "2026-07-30",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Member of Technical Staff, Virology ",
+  "location": "San Francisco",
+  "url": "https://jobs.ashbyhq.com/latchbio/c7dcb5f9-0c74-4d06-bb49-4f1d41a4cc09",
+  "description": "Member of Technical Staff - Virology As molecular data generation and frontier model intelligence grows, new approaches to data analysis are needed across the biotech industry. Latch is building intelligent, high performance agents for biological data analysis, empowering over 5,000 scientists across 150+ R&D labs to handle data from instrument-to-insights. We're seeking a Member of Technical Staff for Virology to lead our safety benchmarking efforts in the Biosecurity group, ensuring frontier artificial intelligence is deployed responsibly in biology. About the Role You will design our technical approach to understand how agents could be misused for biological harm, and measure where current safety guardrails fall short. You will work with research engineers and biologists to build evaluations that measure whether AI systems can meaningfully assist with: Designing and assessing virology experiments Troubleshooting protocols and identifying where an AI-generated recommendation would fail in the wet lab Interpreting viral genomes, proteins, mutations, and phenotypic data Selecting, using, and evaluating bioinformatics and biological design tools Planning iterative experimental workflows Evaluating experimental feasibility across conditions Identifying when AI systems provide inaccurate, unsafe, or incomplete guidance in dual-use contexts Requirements PhD in virology or a closely related field, with doctoral or postdoctoral research centered on viruses Substantial hands-on wet-lab virology experience, including experimental design, execution, and troubleshooting Experience working in BSL-3 or high-containment BSL-2 laboratories Have used used or evaluated Large Language Models, biological foundation models, or AI-enabled biological design tools Proficiency in Python and/or R Culture @ Latch How we work. Genuinely flexible schedules - we just ask that you communicate when you're coming in later than usual. We care most about hard work and output. We're respectfully opinionated, it will always be us against problems, not each other. Optimize for each other's time and bring solutions, not just problems. You'll join a bench suited to your expertise, but we value cross-domain learning and interoperability across teams. The office & perks. Waterfront office near Oracle Park, 2x free daily meals, unlimited snacks, company outings most months, and team offsites. Plus a vibrant community: cycling, soccer, figure skating, boxing, run clubs, reading clubs, martial arts, music, game nights. Compensation & Logistics $180k+ base, increasing with technical depth and experience Variable compensation + equity + stock options 100% premium covered Blue Shield platinum health plan ($0 deductible / $0 out-of-pocket) Free meals (lunch and dinner) Waterfront office in China Basin, San Francisco Full-time, in-person",
+  "posted": "2026-07-29",
+  "department": "Member of Technical Staff",
+  "company": "Latch Bio",
+  "org_cat": "bio_software",
+  "country_hint": "US",
+  "cap_exempt": false,
+  "source": "ashby",
+  "relevance": 14,
+  "match_terms": [
+   "bioinformatic",
+   "biology",
+   "python"
+  ],
+  "role_type": "full_time",
+  "region": "US",
+  "visa_status": "explicit",
+  "visa_reason": "posting mentions opt",
+  "visa_rank": 5,
+  "posted_date": "2026-07-29",
+  "posted_confidence": "exact",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "high",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 17,
+  "skill_hits": [
+   "bioinformatics",
+   "python",
+   "ngs",
+   "gis"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 31,
+  "key": "d07bdc0bd187af94",
+  "already_contacted": false,
+  "first_seen": "2026-07-30",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-07-30",
   "missed_runs": 0,
   "status": "open"
  }
