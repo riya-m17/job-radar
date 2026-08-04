@@ -32,7 +32,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -82,7 +82,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -111,7 +111,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-09",
   "posted_confidence": "approximate",
-  "age_days": 25,
+  "age_days": 26,
   "freshness": "recent",
   "source_trust": "medium",
   "years_required": null,
@@ -131,7 +131,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -181,8 +181,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-01",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Assistant - Energy & Environmental Sustainability",
@@ -210,7 +210,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-17",
   "posted_confidence": "approximate",
-  "age_days": 17,
+  "age_days": 18,
   "freshness": "recent",
   "source_trust": "medium",
   "years_required": null,
@@ -230,7 +230,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -282,7 +282,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -332,8 +332,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-01",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "GIS Analyst",
@@ -359,7 +359,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-28",
   "posted_confidence": "approximate",
-  "age_days": 6,
+  "age_days": 7,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": null,
@@ -381,7 +381,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -418,7 +418,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -466,7 +466,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -508,7 +508,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -550,7 +550,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -593,7 +593,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -638,7 +638,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -680,7 +680,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -722,7 +722,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -766,7 +766,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -793,7 +793,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 19,
+  "age_days": 20,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -816,7 +816,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -857,7 +857,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -885,7 +885,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-09",
   "posted_confidence": "exact",
-  "age_days": 55,
+  "age_days": 56,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 1,
@@ -908,7 +908,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -965,7 +965,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -994,7 +994,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 14,
+  "age_days": 15,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1017,7 +1017,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1071,7 +1071,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -1100,7 +1100,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1123,7 +1123,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1168,7 +1168,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -1207,7 +1207,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -1246,7 +1246,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -1300,7 +1300,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -1356,7 +1356,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -1410,7 +1410,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -1450,7 +1450,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -1492,7 +1492,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -1546,7 +1546,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -1586,7 +1586,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -1629,7 +1629,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -1655,7 +1655,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-08",
   "posted_confidence": "exact",
-  "age_days": 56,
+  "age_days": 57,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -1677,7 +1677,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1707,7 +1707,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1730,7 +1730,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1761,7 +1761,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1784,7 +1784,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1815,7 +1815,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1838,7 +1838,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1868,7 +1868,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1891,7 +1891,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1922,7 +1922,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1936,8 +1936,8 @@
   "skill_hits": [
    "genomics",
    "hplc",
-   "ngs",
-   "pcr"
+   "pcr",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -1947,7 +1947,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1974,8 +1974,8 @@
   "visa_rank": 5,
   "posted_date": "2026-07-27",
   "posted_confidence": "exact",
-  "age_days": 7,
-  "freshness": "this week",
+  "age_days": 8,
+  "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
   "degree_bar": null,
@@ -1998,7 +1998,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2029,7 +2029,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-19",
   "posted_confidence": "exact",
-  "age_days": 45,
+  "age_days": 46,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -2052,7 +2052,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2082,7 +2082,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-19",
   "posted_confidence": "exact",
-  "age_days": 45,
+  "age_days": 46,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -2096,8 +2096,8 @@
   "skill_hits": [
    "genomics",
    "python",
-   "ngs",
-   "sql"
+   "sql",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -2107,7 +2107,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2137,7 +2137,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-17",
   "posted_confidence": "exact",
-  "age_days": 17,
+  "age_days": 18,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -2150,8 +2150,8 @@
   "skill_score": 15,
   "skill_hits": [
    "gel electrophoresis",
-   "ngs",
-   "pcr"
+   "pcr",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -2161,7 +2161,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2192,7 +2192,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-14",
   "posted_confidence": "exact",
-  "age_days": 20,
+  "age_days": 21,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -2206,8 +2206,8 @@
   "skill_hits": [
    "gel electrophoresis",
    "qpcr",
-   "ngs",
-   "pcr"
+   "pcr",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -2217,7 +2217,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2252,7 +2252,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-24",
   "posted_confidence": "exact",
-  "age_days": 40,
+  "age_days": 41,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -2282,7 +2282,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2320,7 +2320,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -2349,7 +2349,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 19,
+  "age_days": 20,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -2374,7 +2374,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2422,7 +2422,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -2469,7 +2469,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -2498,7 +2498,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-09",
   "posted_confidence": "exact",
-  "age_days": 55,
+  "age_days": 56,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -2525,7 +2525,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2558,7 +2558,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-02",
   "posted_confidence": "exact",
-  "age_days": 62,
+  "age_days": 63,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -2572,8 +2572,8 @@
   "skill_hits": [
    "library preparation",
    "bioinformatics",
-   "cell culture",
    "command line",
+   "cell culture",
    "outreach",
    "genomics",
    "founded",
@@ -2587,7 +2587,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2617,7 +2617,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-03",
   "posted_confidence": "exact",
-  "age_days": 61,
+  "age_days": 62,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 1,
@@ -2640,7 +2640,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2680,7 +2680,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -2719,7 +2719,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -2770,7 +2770,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -2814,14 +2814,14 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
   "title": "Scientist II - Sr. Scientist, CRISPR Specificity & Genomic Safety",
   "location": "Emeryville, California, United States; On-site",
   "url": "https://job-boards.greenhouse.io/profluent/jobs/5239820008",
-  "description": "<div class=\"content-intro\"><p>Profluent is an AI-first protein design company. Founded in 2022, we develop deep generative models to design and validate novel, functional proteins to revolutionize biomedicine. Based in Emeryville, CA, we are backed by leading investors including Altimeter Capital, Bezos Expeditions, Spark Capital, Insight Partners, Air Street Capital, AIX Ventures, and Convergent Ventures, and have raised over $150M to date.</p></div><p>Profluent is seeking a creative and enthusiastic <strong>Scientist II - Sr. Scientist</strong>&nbsp;to build and apply experimental workflows that characterize the specificity, safety, and developability of our personalized CRISPR base editing platform. This role will initially focus on establishing and scaling <strong>base-editor specificity workflows</strong>, including biochemical and cell-based approaches such as <strong>CHANGE-seq-BE</strong> and related methods for identifying DNA and RNA off-target activity. In the longer term, the candidate will spearhead off-target assessments for novel gene editing platforms such as engineered recombinases.&nbsp;&nbsp;</p> <p>The candidate will work closely with protein engineering, cell biology, bioinformatics, automation, and program teams to generate decision-quality datasets that guide editor design, candidate selection, and therapeutic program development. This person will be responsible for benchmarking assays, interpreting NGS-based specificity data, identifying limitations and opportunities across methods, and building robust workflows that can be deployed across editing modalities and disease-relevant contexts.</p> <p>This is an excellent opportunity to shape how AI-designed genome editing systems are evaluated and advanced, and to work cross-functionally with a diverse team of experts across machine learning, protein engineering, cell biology, genomics, and gene editing.</p> <p><strong>Responsibilities&nbsp;</strong></p> <ul> <li>Build and lead Profluent’s strategy for base editor specificity assessment, with an emphasis on base-editor-relevant off-target discovery and validation workflows such as CHANGE-Seq-BE and related biochemical, cell-based, and targeted sequencing approaches</li> <li>Develop, optimize, benchmark, and apply orthogonal methods to evaluate editing specificity, including workflows for base editors, nucleases, and broader genomic integrity assessment across relevant experimental systems</li> <li>Design and execute studies to identify, prioritize, and validate potential off-target editing events, integrating assay development, NGS library preparation, sequencing QC, and data interpretation in partnership with computational biology and program teams</li> <li>Generate high-quality, decision-enabling datasets that inform editor engineering, guide/editor selection, delivery conditions, candidate nomination, and program development strategy</li> <li>Collaborate cross-functionally with protein engineering, cell biology, gene editing, bioinformatics, automation, and program teams to integrate specificity workflows into Profluent’s broader R&amp;D infrastructure</li> <li>Establish robust experimental processes, documentation, and analysis frameworks to support reproducibility, scalability, assay qualification, and potential regulatory-facing genomic safety packages</li> <li>Present results and clearly communicate experimental strategy, timelines, risks, milestones, and program implications to diverse scientific and company stakeholders</li> <li>Provide mentorship and guidance to junior team members and peers, helping align goals, troubleshoot experiments, and maintain high standards for execution and interpretation</li> <li>Stay current with emerging technologies in CRISPR specificity, base editing, off-target discovery, targeted validation, genomic integrity assessment, and therapeutic genome editing</li> </ul> <p><strong>Qualifications</strong></p> <ul> <li>PhD (or equivalent) in molecular biology, genomics, genome editing, biochemistry, bioengineering, genetics, chemical biology, or a related field with 2-4 years of relevant industry experience in genome editing specificity and genomic safety assessment&nbsp;</li> <li>Deep expertise and hands-on experience with CRISPR-based genome editing systems, particularly base editors, and a strong understanding of modality-specific specificity risks such as DNA off-target editing, RNA off-target editing, bystander editing, indels, and unintended editing outcomes</li> <li>Hands-on experience developing, optimizing, or applying NGS-based workflows for genome editing analysis, such as CHANGE-seq, CHANGE-seq-BE, GUIDE-seq, SITE-seq, CIRCLE-seq, Digenome-seq, DISCOVER-seq, INDUCE-seq, targeted amplicon sequencing, rhAmpSeq/AmpSeq-like workflows, hybrid capture, RNA-seq, WGS, or related approaches</li> <li>Strong experimental background in molecular biology, mammalian cell culture, genome editing reagent delivery, NGS library preparation, assay troubleshooting, and quantitative analysis of editing outcomes</li> <li>Experience interpreting complex sequencing datasets and collaborating with bioinformatics or computational biology teams to analyze off-target discovery, targeted validation, variant calling, RNA editing, indel profiles, or genomic integrity data</li> <li>Ability to design rigorous experiments with appropriate controls, replicates, sensitivity considerations, and clear decision criteria</li> <li>Experience with high-throughput or semi-automated workflows, process development, assay qualification, data tracking, and reproducible execution in a fast-paced research environment</li> <li>High level of attention to detail and commitment to generating high-quality, decision-enabling data</li> <li>Experience with cross-functional collaboration in a biotechnology setting, particularly with protein engineering, cell biology, computational biology, translational, or program teams</li> <li>Excellent communication skills and ability to present complex scientific concepts, datasets, limitations, and recommendations to colleagues and stakeholders</li> <li>Strong track record of managing complex projects, mentoring junior scientists, and driving workstreams from exploratory development through implementation</li> </ul> <p><strong>Preferences</strong></p> <ul> <li>Experience with therapeutic genome editing programs and genomic safety packages for candidate nomination, IND-enabling studies, or regulatory-facing documentation</li> <li>Experience working with disease-relevant primary cells, ex vivo edited cells, iPSC-derived systems, or other therapeutically relevant model systems</li> <li>Familiarity with ML-guided enzyme engineering campaigns and how specificity datasets can inform editor design, model evaluation, and candidate prioritization</li> <li>Expertise in protein purification of genome editors for use in biochemical off-target assays</li> </ul> <p><strong>What We Offer</strong></p> <ul> <li>High-growth opportunity with meaningful impact on the future of protein design</li> <li>Competitive compensation package with equity participation</li> <li>401(k) with a strong employer match</li> <li>Comprehensive benefits including health/dental/vision insurance</li> <li>Generous PTO policy and commitment to work-life balance</li> <li>Professional development opportunities in a cutting-edge field at the intersection of AI and biology</li> </ul> <p>Profluent Bio, Inc is an equal opportunity employer promoting diversity and inclusion in the workspace. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical conditions, veteran status, sexual orientation, gender (including gender identity and gender expression), sex (which includes pregnancy, childbirth, and breastfeeding), genetic information, taking or requesting statutorily protected leave, or any other basis protected by law.<br><br><strong>Work Authorization Requirement</strong><br><br>Applicants must have ongoing work authorization in the United States that does not require employer sponsorship. Sponsorship will not be provided now or at any time in the future for this position.</p> <p><strong>Employment Eligibility Verification</strong></p> <p>Legal authorization to work in the United States is required. In compliance with federal law, all persons hired must verify their identity and work eligibility and complete the required employment verification form upon hire.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"title\">Hiring Salary Range</div><div class=\"pay-range\"><span>$147,000</span><span class=\"divider\">&mdash;</span><span>$177,000 USD</span></div></div></div>",
+  "description": "<div class=\"content-intro\"><p>Profluent is the frontier AI lab for biology. Profluent builds powerful foundation models for all of life's molecules, unlocking solutions that transform medicine, agriculture, and beyond. Founded in 2022 and headquartered in Emeryville, CA, Profluent is backed by leading investors including Altimeter Capital, Bezos Expeditions, Spark Capital, Insight Partners, Air Street Capital, AIX Ventures, and Convergent Ventures and has raised over $150M to date.</p></div><p>Profluent is seeking a creative and enthusiastic <strong>Scientist II - Sr. Scientist</strong>&nbsp;to build and apply experimental workflows that characterize the specificity, safety, and developability of our personalized CRISPR base editing platform. This role will initially focus on establishing and scaling <strong>base-editor specificity workflows</strong>, including biochemical and cell-based approaches such as <strong>CHANGE-seq-BE</strong> and related methods for identifying DNA and RNA off-target activity. In the longer term, the candidate will spearhead off-target assessments for novel gene editing platforms such as engineered recombinases.&nbsp;&nbsp;</p> <p>The candidate will work closely with protein engineering, cell biology, bioinformatics, automation, and program teams to generate decision-quality datasets that guide editor design, candidate selection, and therapeutic program development. This person will be responsible for benchmarking assays, interpreting NGS-based specificity data, identifying limitations and opportunities across methods, and building robust workflows that can be deployed across editing modalities and disease-relevant contexts.</p> <p>This is an excellent opportunity to shape how AI-designed genome editing systems are evaluated and advanced, and to work cross-functionally with a diverse team of experts across machine learning, protein engineering, cell biology, genomics, and gene editing.</p> <p><strong>Responsibilities&nbsp;</strong></p> <ul> <li>Build and lead Profluent’s strategy for base editor specificity assessment, with an emphasis on base-editor-relevant off-target discovery and validation workflows such as CHANGE-Seq-BE and related biochemical, cell-based, and targeted sequencing approaches</li> <li>Develop, optimize, benchmark, and apply orthogonal methods to evaluate editing specificity, including workflows for base editors, nucleases, and broader genomic integrity assessment across relevant experimental systems</li> <li>Design and execute studies to identify, prioritize, and validate potential off-target editing events, integrating assay development, NGS library preparation, sequencing QC, and data interpretation in partnership with computational biology and program teams</li> <li>Generate high-quality, decision-enabling datasets that inform editor engineering, guide/editor selection, delivery conditions, candidate nomination, and program development strategy</li> <li>Collaborate cross-functionally with protein engineering, cell biology, gene editing, bioinformatics, automation, and program teams to integrate specificity workflows into Profluent’s broader R&amp;D infrastructure</li> <li>Establish robust experimental processes, documentation, and analysis frameworks to support reproducibility, scalability, assay qualification, and potential regulatory-facing genomic safety packages</li> <li>Present results and clearly communicate experimental strategy, timelines, risks, milestones, and program implications to diverse scientific and company stakeholders</li> <li>Provide mentorship and guidance to junior team members and peers, helping align goals, troubleshoot experiments, and maintain high standards for execution and interpretation</li> <li>Stay current with emerging technologies in CRISPR specificity, base editing, off-target discovery, targeted validation, genomic integrity assessment, and therapeutic genome editing</li> </ul> <p><strong>Qualifications</strong></p> <ul> <li>PhD (or equivalent) in molecular biology, genomics, genome editing, biochemistry, bioengineering, genetics, chemical biology, or a related field with 2-4 years of relevant industry experience in genome editing specificity and genomic safety assessment&nbsp;</li> <li>Deep expertise and hands-on experience with CRISPR-based genome editing systems, particularly base editors, and a strong understanding of modality-specific specificity risks such as DNA off-target editing, RNA off-target editing, bystander editing, indels, and unintended editing outcomes</li> <li>Hands-on experience developing, optimizing, or applying NGS-based workflows for genome editing analysis, such as CHANGE-seq, CHANGE-seq-BE, GUIDE-seq, SITE-seq, CIRCLE-seq, Digenome-seq, DISCOVER-seq, INDUCE-seq, targeted amplicon sequencing, rhAmpSeq/AmpSeq-like workflows, hybrid capture, RNA-seq, WGS, or related approaches</li> <li>Strong experimental background in molecular biology, mammalian cell culture, genome editing reagent delivery, NGS library preparation, assay troubleshooting, and quantitative analysis of editing outcomes</li> <li>Experience interpreting complex sequencing datasets and collaborating with bioinformatics or computational biology teams to analyze off-target discovery, targeted validation, variant calling, RNA editing, indel profiles, or genomic integrity data</li> <li>Ability to design rigorous experiments with appropriate controls, replicates, sensitivity considerations, and clear decision criteria</li> <li>Experience with high-throughput or semi-automated workflows, process development, assay qualification, data tracking, and reproducible execution in a fast-paced research environment</li> <li>High level of attention to detail and commitment to generating high-quality, decision-enabling data</li> <li>Experience with cross-functional collaboration in a biotechnology setting, particularly with protein engineering, cell biology, computational biology, translational, or program teams</li> <li>Excellent communication skills and ability to present complex scientific concepts, datasets, limitations, and recommendations to colleagues and stakeholders</li> <li>Strong track record of managing complex projects, mentoring junior scientists, and driving workstreams from exploratory development through implementation</li> </ul> <p><strong>Preferences</strong></p> <ul> <li>Experience with therapeutic genome editing programs and genomic safety packages for candidate nomination, IND-enabling studies, or regulatory-facing documentation</li> <li>Experience working with disease-relevant primary cells, ex vivo edited cells, iPSC-derived systems, or other therapeutically relevant model systems</li> <li>Familiarity with ML-guided enzyme engineering campaigns and how specificity datasets can inform editor design, model evaluation, and candidate prioritization</li> <li>Expertise in protein purification of genome editors for use in biochemical off-target assays</li> </ul> <p><strong>What We Offer</strong></p> <ul> <li>High-growth opportunity with meaningful impact on the future of protein design</li> <li>Competitive compensation package with equity participation</li> <li>401(k) with a strong employer match</li> <li>Comprehensive benefits including health/dental/vision insurance</li> <li>Generous PTO policy and commitment to work-life balance</li> <li>Professional development opportunities in a cutting-edge field at the intersection of AI and biology</li> </ul> <p>Profluent Bio, Inc is an equal opportunity employer promoting diversity and inclusion in the workspace. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical conditions, veteran status, sexual orientation, gender (including gender identity and gender expression), sex (which includes pregnancy, childbirth, and breastfeeding), genetic information, taking or requesting statutorily protected leave, or any other basis protected by law.<br><br><strong>Work Authorization Requirement</strong><br><br>Applicants must have ongoing work authorization in the United States that does not require employer sponsorship. Sponsorship will not be provided now or at any time in the future for this position.</p> <p><strong>Employment Eligibility Verification</strong></p> <p>Legal authorization to work in the United States is required. In compliance with federal law, all persons hired must verify their identity and work eligibility and complete the required employment verification form upon hire.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"title\">Hiring Salary Range</div><div class=\"pay-range\"><span>$147,000</span><span class=\"divider\">&mdash;</span><span>$177,000 USD</span></div></div></div>",
   "posted": "2026-06-02",
   "department": "Biology",
   "company": "Profluent Bio",
@@ -2829,15 +2829,14 @@
   "country_hint": "US",
   "cap_exempt": false,
   "source": "greenhouse",
-  "relevance": 42,
+  "relevance": 36,
   "match_terms": [
    "assay",
    "bioinformatic",
    "biology",
    "cell biolog",
    "computational biolog",
-   "genomics",
-   "molecular biolog"
+   "genomics"
   ],
   "role_type": "new_grad",
   "region": "US",
@@ -2846,7 +2845,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-02",
   "posted_confidence": "exact",
-  "age_days": 62,
+  "age_days": 63,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -2871,13 +2870,13 @@
    "variant calling"
   ],
   "has_signature": true,
-  "total_score": 94,
+  "total_score": 88,
   "key": "7e7dc61304cf7bc5",
   "already_contacted": false,
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2934,7 +2933,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -2980,7 +2979,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3007,7 +3006,7 @@
   "visa_rank": 2,
   "posted_date": "2026-06-02",
   "posted_confidence": "exact",
-  "age_days": 62,
+  "age_days": 63,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -3020,10 +3019,10 @@
   "skill_score": 27,
   "skill_hits": [
    "machine learning",
-   "pandas",
    "python",
-   "ngs",
+   "pandas",
    "git",
+   "ngs",
    "sql"
   ],
   "signature_hits": [],
@@ -3034,7 +3033,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3079,7 +3078,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3124,7 +3123,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3169,7 +3168,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3221,7 +3220,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -3274,7 +3273,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -3321,7 +3320,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3348,7 +3347,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-10",
   "posted_confidence": "exact",
-  "age_days": 24,
+  "age_days": 25,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -3375,7 +3374,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3415,7 +3414,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3454,7 +3453,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3493,7 +3492,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3539,7 +3538,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3577,7 +3576,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3615,7 +3614,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3652,7 +3651,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3685,7 +3684,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-22",
   "posted_confidence": "exact",
-  "age_days": 12,
+  "age_days": 13,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 0,
@@ -3700,10 +3699,10 @@
    "bioinformatics",
    "python",
    "qpcr",
-   "ngs",
    "git",
-   "sql",
-   "pcr"
+   "ngs",
+   "pcr",
+   "sql"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -3713,7 +3712,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3752,7 +3751,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3784,7 +3783,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-05",
   "posted_confidence": "exact",
-  "age_days": 59,
+  "age_days": 60,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -3798,8 +3797,8 @@
   "skill_hits": [
    "bioinformatics",
    "python",
-   "gis",
-   "ngs"
+   "ngs",
+   "gis"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -3809,7 +3808,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3837,7 +3836,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-13",
   "posted_confidence": "exact",
-  "age_days": 21,
+  "age_days": 22,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -3849,8 +3848,8 @@
   "academic_reason": "",
   "skill_score": 7,
   "skill_hits": [
-   "aws",
-   "ngs"
+   "ngs",
+   "aws"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -3860,7 +3859,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3912,7 +3911,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -3950,7 +3949,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -3981,7 +3980,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-16",
   "posted_confidence": "exact",
-  "age_days": 18,
+  "age_days": 19,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -3999,8 +3998,8 @@
    "python",
    "qpcr",
    "gis",
-   "aws",
-   "ngs"
+   "ngs",
+   "pcr"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4010,7 +4009,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4043,7 +4042,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-22",
   "posted_confidence": "exact",
-  "age_days": 12,
+  "age_days": 13,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 0,
@@ -4057,9 +4056,9 @@
   "skill_hits": [
    "statistical analysis",
    "library preparation",
-   "aws",
    "ngs",
-   "pcr"
+   "pcr",
+   "aws"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4069,7 +4068,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4102,7 +4101,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4127,7 +4126,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4160,7 +4159,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4185,7 +4184,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4216,7 +4215,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-16",
   "posted_confidence": "exact",
-  "age_days": 18,
+  "age_days": 19,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4228,8 +4227,8 @@
   "academic_reason": "",
   "skill_score": 7,
   "skill_hits": [
-   "gis",
-   "ngs"
+   "ngs",
+   "gis"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4239,7 +4238,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4270,7 +4269,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 19,
+  "age_days": 20,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4282,8 +4281,8 @@
   "academic_reason": "",
   "skill_score": 7,
   "skill_hits": [
-   "gis",
-   "ngs"
+   "ngs",
+   "gis"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4293,7 +4292,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4336,7 +4335,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -4379,7 +4378,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -4421,7 +4420,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -4447,7 +4446,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 14,
+  "age_days": 15,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -4459,8 +4458,8 @@
   "academic_reason": "",
   "skill_score": 7,
   "skill_hits": [
-   "aws",
-   "ngs"
+   "ngs",
+   "aws"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4470,7 +4469,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4518,7 +4517,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -4556,7 +4555,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -4598,7 +4597,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -4644,7 +4643,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -4677,7 +4676,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-10",
   "posted_confidence": "exact",
-  "age_days": 24,
+  "age_days": 25,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4692,9 +4691,9 @@
    "library preparation",
    "dna extraction",
    "qpcr",
-   "aws",
    "ngs",
-   "pcr"
+   "pcr",
+   "aws"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4704,7 +4703,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4749,7 +4748,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -4791,7 +4790,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -4820,7 +4819,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-24",
   "posted_confidence": "exact",
-  "age_days": 40,
+  "age_days": 41,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -4834,8 +4833,8 @@
   "skill_hits": [
    "bioinformatics",
    "python",
-   "ngs",
-   "sql"
+   "sql",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4845,7 +4844,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4884,7 +4883,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -4916,7 +4915,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-06",
   "posted_confidence": "exact",
-  "age_days": 28,
+  "age_days": 29,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4929,8 +4928,8 @@
   "skill_score": 14,
   "skill_hits": [
    "genomics",
-   "aws",
-   "ngs"
+   "ngs",
+   "aws"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4940,7 +4939,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4979,7 +4978,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -5012,7 +5011,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-24",
   "posted_confidence": "exact",
-  "age_days": 10,
+  "age_days": 11,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -5028,8 +5027,8 @@
    "sample preparation",
    "python",
    "gis",
-   "aws",
-   "ngs"
+   "ngs",
+   "aws"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -5039,7 +5038,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5073,7 +5072,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-23",
   "posted_confidence": "exact",
-  "age_days": 11,
+  "age_days": 12,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -5089,8 +5088,8 @@
    "sample preparation",
    "python",
    "gis",
-   "aws",
-   "ngs"
+   "ngs",
+   "aws"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -5100,7 +5099,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5153,7 +5152,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -5179,7 +5178,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-22",
   "posted_confidence": "exact",
-  "age_days": 12,
+  "age_days": 13,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5201,7 +5200,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5242,7 +5241,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -5281,7 +5280,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -5320,7 +5319,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -5359,7 +5358,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -5386,7 +5385,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-29",
   "posted_confidence": "exact",
-  "age_days": 35,
+  "age_days": 36,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -5408,7 +5407,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5451,7 +5450,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -5479,7 +5478,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-05",
   "posted_confidence": "exact",
-  "age_days": 59,
+  "age_days": 60,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -5502,7 +5501,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5532,7 +5531,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-02",
   "posted_confidence": "exact",
-  "age_days": 32,
+  "age_days": 33,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -5554,7 +5553,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5584,7 +5583,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-17",
   "posted_confidence": "exact",
-  "age_days": 17,
+  "age_days": 18,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5606,7 +5605,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5636,7 +5635,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 14,
+  "age_days": 15,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5658,7 +5657,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5688,7 +5687,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 14,
+  "age_days": 15,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5710,7 +5709,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5740,7 +5739,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-22",
   "posted_confidence": "exact",
-  "age_days": 12,
+  "age_days": 13,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5762,7 +5761,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5791,7 +5790,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -5814,7 +5813,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5853,7 +5852,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -5891,7 +5890,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -5943,7 +5942,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -5987,7 +5986,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -6043,7 +6042,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -6090,7 +6089,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -6120,7 +6119,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-11",
   "posted_confidence": "exact",
-  "age_days": 23,
+  "age_days": 24,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6134,8 +6133,8 @@
   "skill_hits": [
    "genomics",
    "outreach",
-   "ngs",
-   "gis"
+   "gis",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -6145,7 +6144,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6204,7 +6203,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -6235,7 +6234,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-24",
   "posted_confidence": "exact",
-  "age_days": 10,
+  "age_days": 11,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6261,7 +6260,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6293,7 +6292,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-24",
   "posted_confidence": "exact",
-  "age_days": 10,
+  "age_days": 11,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6318,7 +6317,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6346,7 +6345,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-10",
   "posted_confidence": "exact",
-  "age_days": 24,
+  "age_days": 25,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6368,7 +6367,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6408,7 +6407,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -6449,7 +6448,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -6479,7 +6478,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6503,7 +6502,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6547,7 +6546,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -6590,7 +6589,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -6631,7 +6630,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -6680,7 +6679,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -6747,7 +6746,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 5,
+  "missed_runs": 6,
   "status": "closed"
  },
  {
@@ -6790,7 +6789,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -6821,8 +6820,8 @@
   "visa_rank": 5,
   "posted_date": "2026-07-27",
   "posted_confidence": "exact",
-  "age_days": 7,
-  "freshness": "this week",
+  "age_days": 8,
+  "freshness": "recent",
   "source_trust": "high",
   "years_required": 0,
   "degree_bar": null,
@@ -6850,7 +6849,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6892,7 +6891,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -6924,7 +6923,7 @@
   "visa_rank": 3,
   "posted_date": "2026-05-28",
   "posted_confidence": "exact",
-  "age_days": 67,
+  "age_days": 68,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 1,
@@ -6937,9 +6936,9 @@
   "skill_score": 14,
   "skill_hits": [
    "cell culture",
+   "git",
    "aws",
-   "gis",
-   "git"
+   "gis"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -6949,7 +6948,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6977,7 +6976,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 14,
+  "age_days": 15,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -7000,7 +6999,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7030,7 +7029,7 @@
   "visa_rank": 4,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 19,
+  "age_days": 20,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -7052,7 +7051,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7104,7 +7103,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -7158,7 +7157,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -7196,7 +7195,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7235,7 +7234,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7274,7 +7273,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7300,7 +7299,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-29",
   "posted_confidence": "exact",
-  "age_days": 35,
+  "age_days": 36,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -7326,7 +7325,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7365,7 +7364,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7408,7 +7407,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7448,7 +7447,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7493,7 +7492,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7533,7 +7532,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7564,7 +7563,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-01",
   "posted_confidence": "exact",
-  "age_days": 33,
+  "age_days": 34,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -7577,9 +7576,9 @@
   "skill_score": 14,
   "skill_hits": [
    "python",
-   "gis",
+   "sql",
    "ngs",
-   "sql"
+   "gis"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -7589,7 +7588,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7619,7 +7618,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-10",
   "posted_confidence": "exact",
-  "age_days": 24,
+  "age_days": 25,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -7633,8 +7632,8 @@
   "skill_hits": [
    "python",
    "qgis",
-   "gis",
-   "ngs"
+   "ngs",
+   "gis"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -7644,7 +7643,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7688,7 +7687,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7725,7 +7724,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7764,7 +7763,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7800,7 +7799,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7837,7 +7836,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7875,7 +7874,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7914,7 +7913,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7966,7 +7965,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -8003,7 +8002,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8029,7 +8028,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-24",
   "posted_confidence": "exact",
-  "age_days": 10,
+  "age_days": 11,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -8041,8 +8040,8 @@
   "academic_reason": "",
   "skill_score": 7,
   "skill_hits": [
-   "gis",
-   "ngs"
+   "ngs",
+   "gis"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -8052,7 +8051,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8106,7 +8105,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -8158,7 +8157,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -8201,7 +8200,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8244,7 +8243,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8297,7 +8296,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -8348,7 +8347,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -8399,7 +8398,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -8436,7 +8435,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8471,7 +8470,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8506,7 +8505,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8553,7 +8552,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8590,7 +8589,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8625,7 +8624,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8660,7 +8659,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8695,7 +8694,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8730,7 +8729,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8765,7 +8764,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8812,7 +8811,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8860,7 +8859,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8896,7 +8895,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8933,7 +8932,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8969,7 +8968,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9004,7 +9003,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9039,7 +9038,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9074,7 +9073,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9109,7 +9108,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9144,7 +9143,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9179,7 +9178,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9214,7 +9213,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9249,7 +9248,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9284,7 +9283,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9331,7 +9330,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -9367,7 +9366,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9402,7 +9401,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9437,7 +9436,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9472,7 +9471,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9507,7 +9506,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9542,7 +9541,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9577,7 +9576,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9612,7 +9611,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9647,7 +9646,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9682,7 +9681,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9717,7 +9716,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9752,7 +9751,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9799,7 +9798,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -9847,7 +9846,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -9883,7 +9882,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9918,7 +9917,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -9965,7 +9964,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10013,7 +10012,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10061,7 +10060,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10097,7 +10096,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10147,7 +10146,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 5,
+  "missed_runs": 6,
   "status": "closed"
  },
  {
@@ -10184,7 +10183,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10219,7 +10218,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10254,7 +10253,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10303,7 +10302,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10339,7 +10338,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10374,7 +10373,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10409,7 +10408,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10447,7 +10446,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10496,7 +10495,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10532,7 +10531,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10579,7 +10578,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10615,7 +10614,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10662,7 +10661,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10698,7 +10697,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10734,7 +10733,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10769,7 +10768,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10804,7 +10803,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10839,7 +10838,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10874,7 +10873,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10909,7 +10908,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10944,7 +10943,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -10994,8 +10993,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-01",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Conservation Coordinator AmeriCorps Member",
@@ -11029,7 +11028,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -11064,7 +11063,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -11099,7 +11098,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -11134,7 +11133,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -11169,7 +11168,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -11204,7 +11203,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -11241,7 +11240,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -11276,7 +11275,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -11311,7 +11310,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -11346,7 +11345,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -11376,7 +11375,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11409,7 +11408,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11439,7 +11438,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11470,7 +11469,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11504,7 +11503,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11534,7 +11533,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11565,7 +11564,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11596,7 +11595,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11628,7 +11627,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11659,7 +11658,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11691,7 +11690,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11723,7 +11722,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11753,7 +11752,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11783,7 +11782,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11813,7 +11812,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11843,7 +11842,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11873,7 +11872,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11904,7 +11903,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11935,7 +11934,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11965,7 +11964,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -11995,7 +11994,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12026,7 +12025,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12057,7 +12056,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12087,7 +12086,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12117,7 +12116,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12149,7 +12148,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12179,7 +12178,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12209,7 +12208,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12239,7 +12238,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12271,7 +12270,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12301,7 +12300,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12331,7 +12330,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12362,7 +12361,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12392,7 +12391,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12422,7 +12421,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12452,7 +12451,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12482,7 +12481,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12512,7 +12511,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12543,7 +12542,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12574,7 +12573,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12604,7 +12603,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12634,7 +12633,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12665,7 +12664,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12695,7 +12694,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12725,7 +12724,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12756,7 +12755,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12787,7 +12786,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12817,7 +12816,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12848,7 +12847,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12878,7 +12877,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12908,7 +12907,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12939,7 +12938,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -12970,7 +12969,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13000,7 +12999,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13031,7 +13030,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13062,7 +13061,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13092,7 +13091,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13124,7 +13123,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13154,7 +13153,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13184,7 +13183,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13214,7 +13213,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13244,7 +13243,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13275,7 +13274,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13307,7 +13306,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13337,7 +13336,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13367,7 +13366,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13398,7 +13397,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13428,7 +13427,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13458,7 +13457,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13488,7 +13487,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13518,7 +13517,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13549,7 +13548,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13579,7 +13578,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13610,7 +13609,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13640,7 +13639,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13670,7 +13669,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13700,7 +13699,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13730,7 +13729,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13762,7 +13761,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13793,7 +13792,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13828,7 +13827,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -13858,7 +13857,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13890,7 +13889,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13922,7 +13921,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13952,7 +13951,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -13984,7 +13983,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -14014,7 +14013,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -14046,7 +14045,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -14076,7 +14075,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 9,
+  "missed_runs": 10,
   "status": "closed"
  },
  {
@@ -14117,7 +14116,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -14146,7 +14145,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-29",
   "posted_confidence": "exact",
-  "age_days": 5,
+  "age_days": 6,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": 1,
@@ -14171,7 +14170,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14220,7 +14219,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14270,7 +14269,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14299,7 +14298,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-29",
   "posted_confidence": "exact",
-  "age_days": 5,
+  "age_days": 6,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": null,
@@ -14313,8 +14312,8 @@
   "skill_hits": [
    "bioinformatics",
    "python",
-   "gis",
-   "ngs"
+   "ngs",
+   "gis"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -14324,7 +14323,7 @@
   "first_seen": "2026-07-30",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14352,7 +14351,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-30",
   "posted_confidence": "exact",
-  "age_days": 4,
+  "age_days": 5,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": null,
@@ -14375,7 +14374,7 @@
   "first_seen": "2026-07-31",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14402,7 +14401,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-30",
   "posted_confidence": "exact",
-  "age_days": 4,
+  "age_days": 5,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": null,
@@ -14422,7 +14421,7 @@
   "first_seen": "2026-07-31",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14480,8 +14479,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-01",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Software/Data Engineer",
@@ -14537,7 +14536,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -14591,7 +14590,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -14642,7 +14641,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -14699,7 +14698,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -14751,7 +14750,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -14804,7 +14803,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -14830,7 +14829,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-12",
   "posted_confidence": "exact",
-  "age_days": 52,
+  "age_days": 53,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -14850,7 +14849,7 @@
   "first_seen": "2026-08-01",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14884,7 +14883,7 @@
   "visa_rank": 4,
   "posted_date": "2026-07-31",
   "posted_confidence": "exact",
-  "age_days": 3,
+  "age_days": 4,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": 2,
@@ -14913,7 +14912,7 @@
   "first_seen": "2026-08-01",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14969,7 +14968,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-02",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -15026,7 +15025,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-02",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -15077,7 +15076,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-02",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -15129,7 +15128,7 @@
   "first_seen": "2026-08-01",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -15180,7 +15179,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-02",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -15228,7 +15227,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-02",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -15256,8 +15255,8 @@
   "visa_rank": 3,
   "posted_date": "2026-07-04",
   "posted_confidence": "approximate",
-  "age_days": 30,
-  "freshness": "recent",
+  "age_days": 31,
+  "freshness": "ageing",
   "source_trust": "medium",
   "years_required": null,
   "degree_bar": null,
@@ -15276,7 +15275,7 @@
   "first_seen": "2026-08-02",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -15305,7 +15304,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-25",
   "posted_confidence": "approximate",
-  "age_days": 39,
+  "age_days": 40,
   "freshness": "ageing",
   "source_trust": "medium",
   "years_required": null,
@@ -15325,7 +15324,7 @@
   "first_seen": "2026-08-02",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-03",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  },
@@ -15379,7 +15378,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -15433,7 +15432,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -15489,7 +15488,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -15547,7 +15546,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -15599,7 +15598,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -15655,7 +15654,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -15708,7 +15707,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -15762,7 +15761,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -15814,7 +15813,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -15865,7 +15864,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -15914,7 +15913,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -15963,7 +15962,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -16010,7 +16009,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -16061,7 +16060,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -16119,7 +16118,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -16167,7 +16166,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -16221,7 +16220,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -16271,7 +16270,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -16326,6 +16325,790 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
+  "missed_runs": 1,
+  "status": "open"
+ },
+ {
+  "title": "Lab Associate",
+  "location": "San Carlos, CA",
+  "url": "https://job-boards.greenhouse.io/natera/jobs/6128709004",
+  "description": "<p><strong>POSITION DURATION:&nbsp;</strong></p> <p>Six-month contract role with potential to extend or convert to FTE based on performance and business needs</p> <p><span style=\"color: #000000;\"><strong>POSITION SUMMARY:&nbsp;</strong></span></p> <p><span style=\"color: #000000;\">The <strong>Lab Associate</strong> plays a crucial role in supporting Research and Development laboratories. Their responsibilities include procuring, receiving, and organizing reagents and materials, as well as maintaining an accurate inventory of laboratory consumables. This position also involves fulfilling diverse requests from research personnel related to lab procedures and proactively addressing potential laboratory needs.</span></p> <p><span style=\"color: #000000;\"><strong>PRIMARY RESPONSIBILITIES:&nbsp;</strong></span></p> <ul> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Facilitate a clean, neat, and organized laboratory through routine lab clean-up events</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Manage laboratory consumable and reagent inventory</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Prepare, aliquot, and stock reagents as needed.</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Placing R&amp;D orders, receiving, and delivering/storing items</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Ensure strict adherence to environmental, health and safety (EHS) and good laboratory practices (GLP) guidelines</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Monitor satellite waste streams, including biohazardous and hazardous chemical waste, and dispose of them according to EHS guidelines</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Conduct routine lab safety inspections</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Perform additional tasks as directed by the supervisor or manager</span></li> </ul> <p><span style=\"color: #000000;\"><strong>QUALIFICATIONS:&nbsp;</strong></span></p> <ul> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Bachelor’s degree in life-science or related field preferred</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">1 year of experience working in a laboratory environment</span></li> </ul> <p><span style=\"color: #000000;\"><strong>Knowledge, Skills, and Abilities:</strong></span></p> <ul> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Ability to multitask and prioritize effectively in a dynamic, fast-paced setting</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Excellent verbal and written communication skills</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Strong attention to detail</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Exceptional organizational capabilities</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Self-motivated individual</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Collaborative team player</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Positive and proactive attitude</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Proficiency in Microsoft Office and Google Suite applications</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Capability to occasionally lift up to 40 pounds</span></li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\">The pay range is listed and actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years &amp; depth of experience, certifications and specific office location. This may differ in other locations due to cost of labor considerations.</div><div class=\"title\">Remote USA</div><div class=\"pay-range\"><span>$25</span><span class=\"divider\">&mdash;</span><span>$30 USD</span></div></div></div><div class=\"content-conclusion\"><p><strong>OUR OPPORTUNITY</strong></p> <p>Natera™ is a global leader in cell-free DNA (cfDNA) testing, dedicated to oncology, women’s health, and organ health. Our aim is to make personalized genetic testing and diagnostics part of the standard of care to protect health and enable earlier and more targeted interventions that lead to longer, healthier lives.</p> <p>The Natera team consists of highly dedicated statisticians, geneticists, doctors, laboratory scientists, business professionals, software engineers and many other professionals from world-class institutions, who care deeply for our work and each other. When you join Natera, you’ll work hard and grow quickly. Working alongside the elite of the industry, you’ll be stretched and challenged, and take pride in being part of a company that is changing the landscape of genetic disease management.</p> <p><strong>WHAT WE OFFER</strong></p> <p>Competitive Benefits - Employee benefits include comprehensive medical, dental, vision, life and disability plans for eligible employees and their dependents. Additionally, Natera employees and their immediate families receive free testing in addition to fertility care benefits. Other benefits include pregnancy and baby bonding leave, 401k benefits, commuter benefits and much more. We also offer a generous employee referral program!</p> <p>For more information, visit <a href=\"http://www.natera.com/\" data-cke-saved-href=\"http://www.natera.com/\">www.natera.com</a>.</p> <p>Natera is proud to be an Equal Opportunity Employer. We are committed to ensuring a diverse and inclusive workplace environment, and welcome people of different backgrounds, experiences, abilities and perspectives. Inclusive collaboration benefits our employees, our community and our patients, and is critical to our mission of changing the management of disease worldwide.</p> <p>All qualified applicants are encouraged to apply, and will be considered without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, age, veteran status, disability or any other legally protected status. We also consider qualified applicants regardless of criminal histories, consistent with applicable laws.</p> <p><em>If you are based in California, we encourage you to read this important information for California residents.&nbsp;</em></p> <p>Link: <a href=\"https://www.natera.com/notice-of-data-collection-california-residents\" target=\"_blank\">https://www.natera.com/notice-of-data-collection-california-residents/</a></p> <p>Please be advised that Natera will reach out to candidates with a @<a href=\"http://natera.com/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=http://natera.com&amp;source=gmail&amp;ust=1657718972773000&amp;usg=AOvVaw3zRwaIiu7070kJKNG4hjRm\">natera.com</a>&nbsp;email domain ONLY. Email communications from all other domain names are not from Natera or its employees and are fraudulent. Natera does not request interviews via text messages and does not ask for personal information until a candidate has engaged with the company and has spoken to a recruiter and the hiring team. Natera takes cyber crimes seriously, and will collaborate with law enforcement authorities to prosecute any related cyber crimes.</p> <p>For more information:<br>- <a href=\"https://www.bbb.org/article/tips/12261-bbb-tip-employment-scams\" target=\"_blank\">BBB announcement on job scams</a>&nbsp;<br>- <a href=\"https://www.fbi.gov/investigate/cyber\" target=\"_blank\">FBI Cyber Crime resource page</a>&nbsp;</p></div>",
+  "posted": "2026-08-03",
+  "department": "Bio Development ",
+  "company": "Natera",
+  "org_cat": "health_data",
+  "country_hint": "US",
+  "cap_exempt": false,
+  "source": "greenhouse",
+  "relevance": 14,
+  "match_terms": [
+   "environmental",
+   "lab associate",
+   "laboratory"
+  ],
+  "role_type": "seasonal",
+  "region": "US",
+  "visa_status": "unknown",
+  "visa_reason": "the posting says nothing either way, ask before applying",
+  "visa_rank": 3,
+  "posted_date": "2026-08-03",
+  "posted_confidence": "exact",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "high",
+  "years_required": 1,
+  "degree_bar": null,
+  "experience_verdict": "new grad ok",
+  "experience_detail": "1 year of experience",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 9,
+  "skill_hits": [
+   "ngs",
+   "aws"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 23,
+  "key": "059abe8d46bea3c7",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "AI Biologist - Biologics Drug Discovery ",
+  "location": "San Francisco or Remote",
+  "url": "https://jobs.ashbyhq.com/latchbio/5a946a99-cdd0-45e7-b96e-a3fa2844a9fa",
+  "description": "Bioinformatics Engineer - Biologics Drug Discovery As molecular data generation and frontier model intelligence grows, new approaches to data analysis are needed across the biotech industry. Latch is building intelligent, high-performance agents for biological data analysis, empowering over 5,000 scientists across 150+ R&D labs to handle data from instrument-to-insights. We're seeking a Bioinformatics Engineer to join our Biologics Drug Discovery team, working at the frontier of what artificial intelligence can achieve in biology. About the Role You will contribute to our technical approach for evaluating how AI agents reason through complex biologics therapeutics datasets. Working with software engineers and biologists, you'll build ground-truth benchmark datasets - drawn from real antibody and protein discovery programs - that rigorously test whether agents can perform the critical decision-making steps that human scientists execute. Your hands-on expertise in variant ranking, enrichment analysis, and advancement prioritization will define how we measure agent capability in therapeutic discovery. Requirements 2+ years hands-on experience with biologics discovery or development (antibody engineering, protein engineering, or cell/molecular biology-driven target validation) Experience interpreting binding kinetics (SPR/BLI), biophysical stability data, and/or cell-based potency assays Proficiency in Python and/or R for data analysis & visualization Familiarity with at least one of: Antibody optimization (CDR engineering, VH/VL pairing, variant screening) Protein structure (AlphaFold, cryo-EM, docking) High-throughput antibody/binding screens PK/PD modeling for biologics (target occupancy, half-life, clearance) - Bioprocess/manufacturability constraints Nice-to-Have Experience with immunogenicity risk assessment Hands-on work with potency assay design (ELISA, cell-based, biochemical) CMC/GMP-adjacent knowledge Culture @ Latch How we work. Genuinely flexible schedules - we just ask that you communicate when you're coming in later than usual. We care most about hard work and output. We're respectfully opinionated, it will always be us against problems, not each other. Optimize for each other's time and bring solutions, not just problems. You'll join a bench suited to your expertise, but we value cross-domain learning and interoperability across teams. The office & perks. Waterfront office near Oracle Park, 2x free daily meals, unlimited snacks, company outings most months, and team offsites. Plus a vibrant community: cycling, soccer, figure skating, boxing, run clubs, reading clubs, martial arts, music, game nights. Compensation & Logistics 1099 (or W8-BEN) contract, 40 hrs/week, no end date Fully performance-based pay: $120K–$180K, uncapped upside. 2x quota = 2x pay. 2-4 week paid ramp—full OTE from day one Remote (globally), hybrid, or onsite in SF (onsite preferred) Work authorization: OPT visa holders only (not STEM Extension) Onsite perks: 2x free meals/day, waterfront office (China Basin), monthly parking (based on availability) Candidates with all of the above qualifications + proven management skills will be eligible for more senior positions Interview Process Timeline: We move fast: 8–12 days from submission to offer. Intro Screen - Techcnial Recruiter Take-Home Project - HackerRank Technical Interview - Member of Technical Staff Culture Interview - C-Suite (If applicable) Offer",
+  "posted": "2026-07-13",
+  "department": "Research",
+  "company": "Latch Bio",
+  "org_cat": "bio_software",
+  "country_hint": "US",
+  "cap_exempt": false,
+  "source": "ashby",
+  "relevance": 22,
+  "match_terms": [
+   "assay",
+   "bioinformatic",
+   "biology",
+   "molecular biolog",
+   "python"
+  ],
+  "role_type": "new_grad",
+  "region": "Remote",
+  "visa_status": "explicit",
+  "visa_reason": "posting mentions opt",
+  "visa_rank": 5,
+  "posted_date": "2026-07-13",
+  "posted_confidence": "exact",
+  "age_days": 22,
+  "freshness": "recent",
+  "source_trust": "high",
+  "years_required": 2,
+  "degree_bar": null,
+  "experience_verdict": "stretch",
+  "experience_detail": "2 years of experience",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 17,
+  "skill_hits": [
+   "bioinformatics",
+   "python",
+   "ngs",
+   "gis"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 39,
+  "key": "62fa96366f3a967f",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "AI Biologist - Function",
+  "location": "San Francisco or Remote",
+  "url": "https://jobs.ashbyhq.com/latchbio/2719ceb4-a318-4ce9-aea7-1f38224ab3bb",
+  "description": "Bioinformatics Engineer - Function As molecular data generation and frontier model intelligence grows, new approaches to data analysis are needed across the biotech industry. Latch is building intelligent, high-performance agents for biological data analysis, empowering over 5,000 scientists across 150+ R&D labs to handle data from instrument-to-insights. We're seeking a Bioinformatics Engineer to join our Function team working at the frontier of what artificial intelligence can achieve in biology. About the Role You will contribute to our technical approach for evaluating how AI agents reason through biological function: recovering and interpreting experimental evidence to make informed decisions about binding, stability, immune escape, viral fitness, toxin potency, and protein design. Working with software engineers and biologists, you'll build ground-truth benchmark datasets (drawn from real discovery and development programs) that rigorously test whether agents can perform the critical quantitative reasoning steps that human scientists execute: parsing noisy assay data, inferring mechanism, and predicting functional outcomes. Your hands-on expertise in functional biology assays and computational modeling will define how we measure agent capability in understanding and reasoning about biological sequences and structures. Requirements Hands-on experience in biochemistry, biophysics, bioengineering, synthetic biology, virology, microbiology, immunology, or a closely related field Direct experience generating or analyzing functional-assay data (titration curves, deep mutational scanning, potency assays, cell-based readouts, etc.) OR computational protein design Comfort with quantitative modeling applied to noisy experimental data Proficiency in Python and/or R for data analysis & visualization Familiarity with at least one of: Binding affinity & stability (Tite-seq, SPR/BLI, biophysical characterization) Immune escape & immunogenicity assessment Viral fitness, host-range, or zoonotic spillover evaluation Toxin potency or antimicrobial/antiviral resistance Protein design or structure-guided functional design Gain-of-function or molecular mechanism investigation Nice-to-Have Experience designing or troubleshooting functional assays (ELISA, cell-based, biochemical) Familiarity with deep learning applied to protein design or functional prediction Exposure to regulatory or safety considerations in bioengineering Culture @ Latch How we work. Genuinely flexible schedules - we just ask that you communicate when you're coming in later than usual. We care most about hard work and output. We're respectfully opinionated, it will always be us against problems, not each other. Optimize for each other's time and bring solutions, not just problems. You'll join a bench suited to your expertise, but we value cross-domain learning and interoperability across teams. The office & perks. Waterfront office near Oracle Park, 2x free daily meals, unlimited snacks, company outings most months, and team offsites. Plus a vibrant community: cycling, soccer, figure skating, boxing, run clubs, reading clubs, martial arts, music, game nights. Compensation & Logistics 1099 (or W8-BEN) contract, 40 hrs/week, no end date Fully performance-based pay: $120K–$180K, uncapped upside. 2x quota = 2x pay. 2-4 week paid ramp - full OTE from day one Remote (globally), hybrid, or onsite in SF (onsite preferred) Work authorization: OPT visa holders only (not STEM Extension) Onsite perks: 2x free meals/day, waterfront office (China Basin), monthly parking (based on availability) Candidates with all of the above qualifications + proven management skills will be eligible for more senior positions Interview Process Timeline: We move fast: 8-12 days from submission to offer. Intro Screen - Techcnial Recruiter Take-Home Project - HackerRank Technical Interview - Member of Technical Staff Culture Interview - C-Suite (If applicable) Offer",
+  "posted": "2026-07-23",
+  "department": "Research",
+  "company": "Latch Bio",
+  "org_cat": "bio_software",
+  "country_hint": "US",
+  "cap_exempt": false,
+  "source": "ashby",
+  "relevance": 28,
+  "match_terms": [
+   "assay",
+   "bioinformatic",
+   "biology",
+   "immunolog",
+   "microbiolog",
+   "python"
+  ],
+  "role_type": "new_grad",
+  "region": "Remote",
+  "visa_status": "explicit",
+  "visa_reason": "posting mentions opt",
+  "visa_rank": 5,
+  "posted_date": "2026-07-23",
+  "posted_confidence": "exact",
+  "age_days": 12,
+  "freshness": "recent",
+  "source_trust": "high",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 19,
+  "skill_hits": [
+   "bioinformatics",
+   "deep learning",
+   "python",
+   "gis",
+   "ngs"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 47,
+  "key": "919b3b1979b61e71",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Scientist I, Disease Biology",
+  "location": "San Francisco Bay Area, CA",
+  "url": "https://job-boards.greenhouse.io/altoslabs/jobs/6132474004",
+  "description": "<div class=\"content-intro\"><h2><strong>Our Mission</strong></h2> <p>Our mission is to restore cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that can occur throughout life.</p> <p>For more information, see our website at <a href=\"https://altoslabs.com/\" target=\"_blank\">altoslabs.com.</a></p> <h2><strong>Our Value</strong></h2> <p>Our Single Altos Value: <strong>Everyone Owns Achieving Our Inspiring Mission</strong>.</p> <h2><strong>Diversity at Altos</strong></h2> <p>Altos Labs has been named one of the Top 3 Biotech Companies and ranked for the second year on the Forbes 2026 Best Startups in America list. &nbsp;At Altos, exceptional scientists and industry leaders from around the world work together to advance a shared mission. Our intentional focus is on Belonging, so that all employees know that they are valued for their unique perspectives. We are all accountable for sustaining a diverse and inclusive environment.</p></div><h4><strong>What You Will Contribute To Altos</strong></h4> <p>We are looking for a talented and versatile Scientist I to join Discovery Science at Altos Labs. Our team uses functional genomics to unravel the deep biology of cellular rejuvenation and to restore cell health and resilience. In this role you will develop physiologically relevant in vitro and ex vivo disease models and integrate these with in vivo studies to identify interventions that reverse disease-associated cell states. If you have a strong foundation in molecular, cell, and disease biology, hands-on experience with in vitro and in vivo disease assays, and a passion for reversing disease states, we’d love to have you on the team.</p> <h4><strong>Responsibilities</strong></h4> <ul> <li>Design and execute innovative research strategies to identify causal regulators of cell state, aging, regeneration, and disease biology.</li> <li>Develop, benchmark, and validate disease cell models of age-related and disease-associated cell states.</li> <li>Scale assays to screen candidate interventions across cell models, and contribute to data-driven prioritization decisions on which candidates and which models to advance.</li> <li>Design, conduct, and interpret in vivo studies to evaluate candidate interventions and benchmark disease models against in vitro findings.</li> <li>Elucidate the mechanisms of action underlying promising interventions to identify and prioritize therapeutic targets and modalities.</li> <li>Support and manage internal/external collaborations across one or more multidisciplinary projects to accelerate essential research activities.</li> <li>Develop project-specific experimental strategies, techniques, and procedures.</li> <li>Collaborate closely with other scientists and cross-functional teams to integrate multidimensional datasets and generate actionable biological insight.</li> <li>Contribute to the writing and dissemination of research results.</li> </ul> <h4><strong>Who You Are</strong></h4> <h4><strong>Minimum Qualifications</strong></h4> <ul> <li>PhD in Biology, Cell Biology, Physiology, or a related field, with 0-3 years of post-PhD experience.</li> <li>Proven track record of elucidating complex age-associated disease mechanisms, including but not limited to kidney, lung, liver and skin indications.</li> <li>Experience developing and validating cell-based disease assays, including benchmarking assay performance.</li> <li>Strong hands-on experience conceptualizing and performing rodent in vivo disease assays, with a background in relevant laboratory techniques and methods.</li> <li>Excellent professional writing skills and the ability to communicate through writing and presentations to a variety of audiences, from senior executives to entry-level employees.</li> <li>Problem-solving skills sufficient to identify issues, conduct research, and develop innovative solutions.</li> <li>Ability to maintain cooperative working relationships with a broad range of people, including staff colleagues, lab members, faculty, outside agencies and collaborators, and the community.</li> <li>Demonstrated high productivity and ability to complete work in a timely manner.</li> <li>Ability to organize work and set priorities.</li> <li>Ability to focus on details to produce accurate, quality work driven by deadlines.</li> <li>Ability to work in a dynamic environment and with others in a team.</li> <li>Strengths in dealing with ambiguity.</li> </ul> <h4><strong>Preferred Qualifications</strong></h4> <ul> <li>Background in aging biology, regeneration, fibrosis, inflammation, metabolic disease, neurodegeneration, or related therapeutic areas.</li> <li>Experience dissecting mechanisms of action for candidate interventions (gene targets, small molecules, peptides, or other biologics).</li> <li>Experience developing and optimizing high-throughput screening and/or functional genomics assays.</li> <li>Direct experience with in vivo lung, kidney, liver or endothelial chronic disease models.</li> <li>Experience in computational biology and bioinformatics.</li> </ul> <p>Salary Range: Redwood City, California</p> <p>Scientist I: $134,700 - $172,700</p> <p>&nbsp;</p> <p>Exact compensation may vary based on skills, experience, and location.</p> <p>&nbsp;</p> <p>For UK applicants, before submitting your application:</p> <p>- Please click here to read the Altos Labs EU and UK Applicant Privacy Notice (<a href=\"https://bit.ly/eu_uk_privacy_notice\" target=\"_blank\">bit.ly/eu_uk_privacy_notice</a>)<br>- This Privacy Notice is not a contract, express or implied and it does not set terms or conditions of employment.</p><div class=\"content-conclusion\"><h2><strong>Equal Opportunity Employment</strong></h2> <p class=\"s6\"><span class=\"s5\">We value collaboration and scientific excellence.</span></p> <p class=\"s6\"><span class=\"s5\">We believe that a culture of belonging are foundational to scientific innovation and inquiry. At Altos Labs, exceptional scientists and industry leaders from around the world work together to advance a shared mission. Our intentional focus is on Belonging, so that all employees know that they are valued for their unique perspectives. We are all accountable for sustaining an inclusive environment.</span></p> <p class=\"s6\"><span class=\"s5\">Altos Labs provides equal employment opportunities to all employees and applicants for employment, without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Altos<span class=\"Apple-converted-space\">&nbsp;</span></span><span class=\"s5\">prohibits</span><span class=\"s5\"><span class=\"Apple-converted-space\">&nbsp;</span>unlawful discrimination and harassment.</span><span class=\"s5\"><span class=\"Apple-converted-space\">&nbsp;</span></span><span class=\"s5\">This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.</span></p> <p>Thank you for your interest in Altos Labs where we strive for a culture of scientific excellence, learning, and belonging.</p> <p><em>Note: Altos Labs will not ask you to download a messaging app for an interview or outlay your own money to get started as an employee. If this sounds like your interaction with people claiming to be with Altos, it is not legitimate and has nothing to do with Altos. Learn more about a common job scam at <a href=\"https://www.linkedin.com/pulse/how-spot-avoid-online-job-scams-biron-clark/\" target=\"_blank\">https://www.linkedin.com/pulse/how-spot-avoid-online-job-scams-biron-clark/</a></em></p></div>",
+  "posted": "2026-08-03",
+  "department": "Discovery Science",
+  "company": "Altos Labs",
+  "org_cat": "institute",
+  "country_hint": "US",
+  "cap_exempt": false,
+  "source": "greenhouse",
+  "relevance": 26,
+  "match_terms": [
+   "assay",
+   "biology",
+   "cell biolog",
+   "genomics",
+   "laboratory"
+  ],
+  "role_type": "new_grad",
+  "region": "US",
+  "visa_status": "explicit",
+  "visa_reason": "posting mentions opt",
+  "visa_rank": 5,
+  "posted_date": "2026-08-03",
+  "posted_confidence": "exact",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "high",
+  "years_required": 0,
+  "degree_bar": null,
+  "experience_verdict": "new grad ok",
+  "experience_detail": "0 year of experience",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 27,
+  "skill_hits": [
+   "computational biology",
+   "bioinformatics",
+   "genomics",
+   "git",
+   "ngs",
+   "aws"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 53,
+  "key": "184490d585e37e8a",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Forward Deployed Engineer (Ops)",
+  "company": "Taktile",
+  "location": "Berlin Office",
+  "url": "https://www.arbeitnow.com/jobs/companies/taktile/forward-deployed-engineer-ops-berlin-41471",
+  "description": "About the role Taktile empowers financial institutions to transform into truly AI-native organizations. We’re growing rapidly with enterprise customers across banks and insurance companies, and we’re looking for a Forward Deployed Engineer (Ops). You'll spend much of your time working directly with enterprise customers, acting as their trusted technical partner to investigate issues, guide best practices, and help them get the most value from Taktile's AI platform. You will work closely with Taktile’s Engineering, Product and Customer Success Teams, ensuring our customers derive maximum value from Taktile while enjoying a top-tier experience. If you're passionate about tech and AI, stay up to date on the latest AI developments, and have extensive experience with a Decision Platform, REST APIs, Python, and SQL, you'll thrive here. What You’ll Do as a Forward Deployed Engineer (Ops) Develop a deep understanding of the Taktile platform and the value it can unlock for our customers. Support post-onboarding customers with technical problems and product inquiries, maximizing the full potential of our agentic AI workflows for complex decisioning. Work with Product and Engineering to translate customer insights into product improvements, ensuring Taktile continues to solve real business and technical problems. Leverage AI to create reusable collateral, best practices, tools, and automations that level up the Customer Success team . Build strong relationships with Taktile's core users within customer teams. About you You have 1–2 years of experience in a customer-facing technical role, partnering directly with enterprise customers to troubleshoot technical issues, advise on best practices, and deliver successful outcomes. Experience as a Solutions Engineer, Technical Account Manager, Forward Deployed Engineer, Customer Success Engineer, or Technical Consultant is preferred. You are familiar with AI concepts including prompt engineering, large language models, and AI Agents. You are curious and customer-centric, caring deeply about the Taktile platform experience. You enjoy solving technical problems and finding innovative solutions to customer issues. You have strong knowledge of APIs and data formats such as JSON and XML. You are proficient in Python and SQL. You have strong analytical skills and a hands-on mentality. You communicate clearly in English with a wide range of customer profiles (engineers, business analysts, risk managers). You enjoy working directly with customers and are confident leading technical conversations, asking thoughtful questions, and explaining complex technical concepts to both technical and non-technical audiences. You are open to a hybrid work model and can work from our Berlin office at least three days per week. Ideal Qualifications (but Not Required) You have a proven ability to navigate, query, and interpret complex systems and application logs. You have acquired domain expertise in the financial services industry (banking, insurance, lending, payments, etc.). You have the ability to work flexibly, with a willingness to occasionally work outside of standard business hours. What we offer Work with colleagues that lift you up, challenge you, celebrate you and help you grow. We come from many different backgrounds, but what we have in common is the desire to operate at the very top of our fields. If you are similarly capable, caring, and driven, you'll find yourself at home here. Make an impact and meaningfully shape an early-stage AI company. Experience a truly flat hierarchy and communicate directly with founding team members. Having an opinion and voicing your ideas is not only welcome but encouraged, especially when they challenge the status quo. Develop deep expertise in prompt engineering and agentic AI architectures to automate institutions' most complex decisions. Learn from experienced mentors and achieve tremendous personal and professional growth. Get to know and leverage our network of leading tech investors and advisors around the globe. Receive a top-of-market equity and cash compensation package. Get access to a self-development budget you can use to e.g. attend conferences, buy books or take classes. Use the equipment of your choice including meaningful home office set-up. Our Stance We're eager to meet talented and driven candidates regardless of whether they tick all the boxes. We're looking for someone who will add to our culture, not just fit within it. We strongly encourage individuals from groups traditionally underestimated and underrepresented in tech to apply. We seek to actively recognize and combat racism, sexism, ableism and ageism. We embrace and support all gender identities and expressions, and celebrate love in its many forms. We won't inquire about how you identify or if you've experienced discrimination, but if you want to tell your story, we are all ears. About Us Taktile enables financial institutions to transform into AI-native organizations that are increasingly powered by autonomous agents. With our modular Agentic Decision Platform, customers combine AI agents, rules, relevant context, and human oversight to safely automate and optimize their decisions—approving more customers, reimbursing claims instantly, stopping fraud before it spreads, and financing every business worth funding. Founded in 2020, Taktile powers millions of decisions daily for institutions including Mercury, Monzo, Faire, and Pleo. With offices in New York, Berlin, London, São Paulo, and Iași, the company has raised $184M from Growth Equity at Goldman Sachs Alternatives, Index Ventures, Tiger Global, Balderton Capital, and Y Combinator. Learn more at taktile.com . About Your Employment. Taktile operates through regional entities worldwide. Depending on the location of this role, your employment or engagement will be with Taktile LLC (US), Taktile GmbH (Germany), Taktile Ltd (UK), or Taktile SRL (Romania). The applicable entity will be confirmed during the ",
+  "posted": "2026-08-04",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 9,
+  "match_terms": [
+   "business analyst",
+   "python",
+   "sql"
+  ],
+  "role_type": "full_time",
+  "region": "Other",
+  "visa_status": "explicit",
+  "visa_reason": "posting mentions opt",
+  "visa_rank": 5,
+  "posted_date": "2026-08-04",
+  "posted_confidence": "approximate",
+  "age_days": 0,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": 1,
+  "degree_bar": null,
+  "experience_verdict": "new grad ok",
+  "experience_detail": "1 year of experience",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 10,
+  "skill_hits": [
+   "founded",
+   "python",
+   "sql"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 19,
+  "key": "f854ed9bc1216501",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "AI Platform Engineer (f/m/d)",
+  "company": "Munich Electrification",
+  "location": "Munich",
+  "url": "https://www.arbeitnow.com/jobs/companies/munich-electrification/ai-platform-engineer-munich-80479",
+  "description": "About Munich Electrification Munich Electrification is an innovative company founded with the aim of accelerating the transition to electric and connected mobility. We develop innovative electronic control units for electric vehicles and stationary storage systems for our global customers. Our international team is composed of highly motivated and exceptional engineers. As a small and specialized team we are well-aware of the importance of each individual colleague and support and promote each employee according to their abilities and needs. Our office with adjacent prototype and testing lab is located in the heart of Munich at the Heimeranplatz. This is what we stand for: - Technological Leadership : We challenge norms, innovate quickly, and anticipate future needs. We take smart risks and learn from outcomes to stay ahead. - Sustainability : We actively drive change for a sustainable future, aware of our impact and inspiring others to build a better world. - Team Culture : We believe work should be enjoyable, fostering a spirit of inspiration, celebration, and teamwork across the globe. - Entrepreneurial Spirit : We embrace change, think big, and push limits with passion. Your role As an AI Platform Engineer, you will be a key architect of the software and systems that empower our AI-driven initiatives. More than just managing infrastructure, you will be actively building the cohesive, end-to-end platform that enables our teams to develop, deploy, and scale applications rapidly. You will engineer robust backend services, create internal tools, and design the automated workflows that form the foundation of our AI capabilities. If you are a software engineer passionate about building scalable platforms and bringing AI models to life through high-quality code, this is the perfect opportunity for you. As part of your role, you would maintain and develop: Develop Core Platform Services: Design, build, and operate the backend services and APIs that serve our AI models and manage the ML lifecycle. Develop the Data Ingestion Platform: Design, build, and maintain the services and automated workflows responsible for populating our vector and graph databases, ensuring our AI applications have access to timely and accurate data Build Full-Stack Tooling: Create user-facing tools and internal dashboards that allow developers, data scientists and managers to interact with the AI platform. Own the Application & Model Lifecycle: Implement and maintain the core platform components and ensure the performance of production systems. Collaborate and Enable: Work closely with software and data science teams to understand their needs, gather requirements for the platform, and provide the tools and support that accelerate their work. What you bring with you: Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience. Proven experience as a Software Engineer, Platform Engineer, or an AI/MLOps Engineer with a strong software development background. Strong proficiency in Python or Go , with a track record of building scalable, production-grade applications. Experience designing and building APIs and backend services, ideally with frameworks like FastAPI . A solid understanding of AI/ML concepts, particularly Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and vector databases . Hands-on experience with Docker and Kubernetes for containerization and orchestration. Experience with Infrastructure as Code (e.g., Terraform ) and cloud platforms (preferably AWS ). Familiarity with modern JavaScript/TypeScript and a UI framework (e.g., React, Vue) for building internal tools is a significant plus. Our Offer & Benefits The chance to be part of a highly innovative, agile, and unique team with prestigious customers in the automotive and battery storage sector. You will gain a deeper knowledge around connected & electric vehicle batteries, battery management and electronics development and strive in an exciting work environment Benefits (Full-time Employees): - Trust-based working hours and hybrid work - Adequate and competitive compensation - Pension Plan/Bonus - Free access to the fitness center right next to us or subsidized EGYM Wellpass - Free snacks, coffee, drinks and lunch (freshly cooked by our chef) every day - Public transport ticket - Bike-Leasing via Business Bike - Experience various inspiring and fun team events - ME-branded clothing - Option to \"work from anywhere\" (6 weeks/year) Find Jobs in Germany on Arbeitnow",
+  "posted": "2026-08-03",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 9,
+  "match_terms": [
+   "data scientist",
+   "python",
+   "sustainability"
+  ],
+  "role_type": "new_grad",
+  "region": "Other",
+  "visa_status": "explicit",
+  "visa_reason": "posting mentions opt",
+  "visa_rank": 5,
+  "posted_date": "2026-08-03",
+  "posted_confidence": "approximate",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 14,
+  "skill_hits": [
+   "founded",
+   "python",
+   "docker",
+   "aws"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 23,
+  "key": "8a1ab00381411ae7",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Manager, Product Marketing",
+  "company": "SoSafe",
+  "location": "Remote",
+  "url": "https://www.arbeitnow.com/jobs/companies/sosafe/remote-manager-product-marketing-178746",
+  "description": "SoSafe has the ambition to become the leading human risk management provider in Europe. Our award-winning awareness platform triggers behavioural change by providing effective and engaging training and simulations on cybersecurity and data protection. Cybercrime is costing the world >$10 trillion annually and growing by 15% p.a. - we invite you to be part of the solution! This role owns that story, and the model to deliver it. You will set the portfolio level messaging not as a collection of features or a list of releases, but as a category-defining platform with a clear point of view, govern the framework that ranks how releases go to market and personally oversee any flagship launches. You will deliver the market and competitive intelligence that keeps SoSafe’s positioning sharp, differentiated and leading. You will develop & manage a team of Sr PMMs focussed on segment-specific messaging and regular product releases. At this level, you are expected to lead multiple workstreams and deliver high-value outcomes, challenge assumptions about what matters and where to focus, and develop the people and operating model beneath you. This is a role for someone who has done great PMM work and is ready to set the standard for others. Location: Ireland, UK, or Germany (Remote) The role has five core accountabilities, each is strategic in scope with direct accountability for commercial impact: Portfolio Messaging & Category Narrative Own the platform and category messaging architecture for SoSafe’s full portfolio. Define the headline story of what Human Risk Management means, why it matters and why SoSafe is the right answer. Translate into customer centric language articulating the pain we solve - prioritising outcomes and identity (not features). Maintain our story that we evolve as a living asset. GTM strategy and Launch Tiers Set the GTM strategy for how we take our portfolio to market - covering launch prioritisation, channel strategy and the motions to drive adoption and expansion. Own the tiered launch framework and define criteria that determine tier - holding the process accountable to commercial outputs (not activity). Market & Competitive Intelligence Maintain a clear, current view of the competitive landscape, category evolutions, analyst opinions and buyer behaviour. Track win/loss by competitor and route actionable intelligence across the business. Provide market intelligence to influence roadmap conversations, messaging alignment and sharpen positioning to define where we lead. Narrative Development Provide the messaging foundation for CEO keynotes, major event by owning the story to author how SoSafe represents its portfolio. Ensure any analyst positioning (incl narrative inputs, messaging alignment) supports evolving category definitions and criteria therein. Ensure consistency and cohesion of our story at a category - to a sales - level. Team Management Manage and develop two Sr PMM by setting clear expectations on what great looks like on launch execution, segmented messaging and commercial impact. Create clarity and structure so the team can move fast (operating rhythms, ownership, feedback loops) and make performance visible. Connect cross-functionally to influence and collaborate. Day to day responsibilities include: Messaging & Narrative Maintain the portfolio messaging architecture as a living document, updated when market, product or analyst perspective shifts. Own the master messaging framework through the customers’ view: situation, problem, solution, differentiation using direct language (not technical jargon). Use AI tools to accelerate research, messaging iteration, persona development, and competitive synthesis as a standard part of your workflow.. Own the company and elevator pitch; ensure consistent use across events, sales, and partner conversations & segment narratives align underneath this GTM Strategy & Launch Governance Own the GTM planning calendar as a commercial asset; connecting product roadmap milestones to pipeline moments, campaign windows, and field readiness cycles so launches land when they have maximum commercial impact Define and maintain tiered launch framework - criteria, commercial standards and cross-functional ownership and quality gates Personally deliver and co-ordinate best-in-class experience for Flagship Tier 1 releases; positioning, GTM strategy, enablement and post-launch commercial review Negotiate tier assignments and launch dates with Product Management via quarterly planning cadence, drive adherence to framework where pressure exists to over-tier a release Market & Competitive Intelligence Monitor competitive releases, messaging shifts and maintain competitive intelligence framework and ensure it stays current (battlecards, positioning updates, objection handling) incl win/loss by competitor Monitor analyst coverage and category signals; translate into messaging and positioning implications within 48h of material developments Bring buyer and market insight into planning cycles, messaging reviews and product roadmap discussions People & Cross-Functional Leadership Set clear goals & expectations for Sr PMMs, run regular 1:1s with coaching focus, addressing any performance gaps early with clarity and care via measurable development plans Build the operating model for PMM: ownership, quality standards, feedback loops for messaging and launch impact Identity and remove blockers that prevent the team from focusing on high-impact work Experience & Requirements 8+ years in B2B SaaS with experience owning positioning, messaging and GTM strategy 2 + years of management experience Experience in building portfolio level messaging not just individual products Has designed and run launch programs with commercial accountability and tiered execution Managed at least 2 DR, comfortable with performance conversation and development coaching Cross-functional leadership skills to align Sales, Marketing, Product, CS behind GTM plans AI improvements to pro",
+  "posted": "2026-08-03",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 6,
+  "match_terms": [
+   "competitive intelligence"
+  ],
+  "role_type": "full_time",
+  "region": "Remote",
+  "visa_status": "explicit",
+  "visa_reason": "posting mentions opt",
+  "visa_rank": 5,
+  "posted_date": "2026-08-03",
+  "posted_confidence": "approximate",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": 2,
+  "degree_bar": null,
+  "experience_verdict": "stretch",
+  "experience_detail": "2 years of experience",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 0,
+  "skill_hits": [],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 6,
+  "key": "3fc86ed5e053ce1f",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Lead Data Scientist, Revenue - Ads, Revenue",
+  "company": "Vinteden",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/vinteden/lead-data-scientist-revenue-ads-revenue-berlin-285714",
+  "description": "<div class=\"content-intro\"><h2><strong>Brief info about Vinted&nbsp;</strong></h2> <p data-renderer-start-pos=\"1\"><span data-sheets-root=\"1\">Our mission is to make second-hand the first choice, and we're looking for people who want to help us get there. Every day, we work together to help our members buy and sell pre-loved clothing and lifestyle items, giving each piece a second life – or even a third. <br>The Vinted Group is made up of three business units that support this mission:<br><br><strong><a href=\"https://careers.vinted.com/marketplace\" target=\"_blank\">Vinted Marketplace</a></strong> is Europe’s leading platform for second-hand fashion and a go-to destination for all kinds of pre-loved items, with a growing range of categories. Our platform connects millions of members across 20+ markets, helping great items find a new life.<br><br><a href=\"https://careers.vinted.com/vintedgo\" target=\"_blank\"><strong>Vinted Go</strong></a> enhances the shipping experience with a vast network of over 500,000 pick-up and drop-off points, partnering with more than 60 carriers across Europe, with added services like item verification for peace of mind on high-value pieces.<br><br><a href=\"https://careers.vinted.com/vintedpay\" target=\"_blank\"><strong>Vinted Pay</strong></a> is the newest part of the Vinted Group, dedicated to bringing secure, reliable payments to buyers and sellers across Europe. Seamlessly integrated into the Vinted app, it helps keep every transaction safe, efficient, and easy for our members.<br><br>Founded in 2008 in Lithuania, Vinted began as a way for friends to find new homes for clothes they no longer needed. In 2019, we became Lithuania's first unicorn! Today, our headquarters remain in Vilnius, and we've grown with offices across Europe, supported by a team of over 2,000 people.&nbsp;</span></p></div><h2><strong>Information about the position&nbsp;</strong></h2> <p>Vinted’s Revenue domain is growing — Ads business is on the mission to develop an advertising ecosystem within Vinted and we’re just getting started. We’re looking for a Lead Data Scientist to join our cross-functional team in Ads to help us make the most of our real estate and evolve toward a high‑performance, privacy‑respectful, in‑house advertising ecosystem over time. Think: an ad of an external partner can generate euros directly but we may well advertise our own Marketplace services or newly launched categories to optimise on net revenue as well as user engagement.&nbsp;</p> <p>If you have built performance-first Ad optimisation systems and are ready to take on hands-on work while shaping the Data Science roadmaps from a greenfield state - this role is for you.</p> <h2><strong>In this position, you’ll&nbsp;</strong></h2> <ul> <li><strong>Own optimization logic for Ads systems. </strong>Own the data science approach behind core Ads optimization problems such as ranking, targeting, pacing, budget allocation, candidate selection, and auction or bidding logic where relevant.</li> <li>Develop practical approaches that improve advertiser performance, marketplace relevance, and business outcomes.</li> <li><strong>Take charge of model and algorithm development. </strong>Design, develop, and iterate models and algorithmic approaches used in Ads delivery and optimization. This may include prediction, scoring, calibration, exploration/exploitation methods, and constrained optimization approaches suited to Vinted’s marketplace context.</li> <li><strong>Lead experimentation and performance improvement frameworks. </strong>Own the analytical and experimental process for improving optimization systems. Define hypotheses, evaluation frameworks or logic changes and support translating learnings into better system behavior.</li> <li><strong>Guide objective function and constraint design. </strong>Help define optimization objectives that balance advertiser value, revenue, user experience, and operational constraints. Turn product and business goals into tractable optimization problems and implementable Data Science logic.</li> <li><strong>Be responsible for Ads performance diagnostics. </strong>Own deep-dive analysis of system behavior and performance degradation. Identify where delivery, relevance, auction dynamics, supply-demand imbalance, or model issues are limiting outcomes, and propose solutions.</li> <li><strong>Contribute to Production implementation in Ads. </strong>Partner with engineering and Decision Scientists to move models and optimization logic from idea to reliable implementation.</li> <li>Partner with Product Managers, Decision Scientists, Analytics Engineers and developers to shape advertiser-facing features and internal optimization capabilities with a clear understanding of feasibility, impact, and tradeoffs from the Data Science perspective.</li> <li>Collaborate with Decision Science counterparts and other Data Scientists to ensure optimization changes are evaluated with appropriate metrics, guardrails, and marketplace context.</li> <li>Partner with Analytics Engineering, Data Engineering, and backend teams to ensure training data, feedback loops, online signals, and offline datasets are suitable for robust optimization work.</li> <li>Help explain system behavior, performance drivers, and expected impacts of optimization changes to non-technical stakeholders when needed.</li> </ul> <h2><strong>About you&nbsp;</strong></h2> <p>We are looking for someone who combines:</p> <ul> <li>strong applied machine learning and statistical skills,</li> <li>experience with Ad Tech systems and optimization problems,</li> <li>strong product and business judgment,</li> <li>comfort working on production systems with engineers,</li> <li>and the ability to operate effectively in ambiguous, evolving domains.</li> </ul> <p>The strongest candidates will have experience in areas such as:</p> <ul> <li>ads ranking,</li> <li>auction systems,</li> <li>pacing and budget optimization,</li> <li>marketplace or recommendation systems,</",
+  "posted": "2026-08-03",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 12,
+  "match_terms": [
+   "data scientist",
+   "ecosystem"
+  ],
+  "role_type": "full_time",
+  "region": "Other",
+  "visa_status": "explicit",
+  "visa_reason": "posting mentions opt",
+  "visa_rank": 5,
+  "posted_date": "2026-08-03",
+  "posted_confidence": "approximate",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 13,
+  "skill_hits": [
+   "machine learning",
+   "founded",
+   "ngs"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 25,
+  "key": "b46db6f3f04d8b39",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Data Scientist, Marketing Modelling Intelligence",
+  "company": "Vinteden",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/vinteden/data-scientist-marketing-modelling-intelligence-berlin-68226",
+  "description": "<div class=\"content-intro\"><h2><strong>Brief info about Vinted&nbsp;</strong></h2> <p data-renderer-start-pos=\"1\"><span data-sheets-root=\"1\">Our mission is to make second-hand the first choice, and we're looking for people who want to help us get there. Every day, we work together to help our members buy and sell pre-loved clothing and lifestyle items, giving each piece a second life – or even a third. <br>The Vinted Group is made up of three business units that support this mission:<br><br><strong><a href=\"https://careers.vinted.com/marketplace\" target=\"_blank\">Vinted Marketplace</a></strong> is Europe’s leading platform for second-hand fashion and a go-to destination for all kinds of pre-loved items, with a growing range of categories. Our platform connects millions of members across 20+ markets, helping great items find a new life.<br><br><a href=\"https://careers.vinted.com/vintedgo\" target=\"_blank\"><strong>Vinted Go</strong></a> enhances the shipping experience with a vast network of over 500,000 pick-up and drop-off points, partnering with more than 60 carriers across Europe, with added services like item verification for peace of mind on high-value pieces.<br><br><a href=\"https://careers.vinted.com/vintedpay\" target=\"_blank\"><strong>Vinted Pay</strong></a> is the newest part of the Vinted Group, dedicated to bringing secure, reliable payments to buyers and sellers across Europe. Seamlessly integrated into the Vinted app, it helps keep every transaction safe, efficient, and easy for our members.<br><br>Founded in 2008 in Lithuania, Vinted began as a way for friends to find new homes for clothes they no longer needed. In 2019, we became Lithuania's first unicorn! Today, our headquarters remain in Vilnius, and we've grown with offices across Europe, supported by a team of over 2,000 people.&nbsp;</span></p></div><h2><strong>Information about the position&nbsp;</strong></h2> <p>Vinted’s <strong>Marketing domain</strong> is growing - we’re on a mission to make Vinted known and loved as the go-to destination for everything second-hand. Marketing is one of the primary drivers behind our biggest strategic goals, from <strong>winning the USA market</strong> to expanding beyond fashion into a <strong>multi-vertical platform</strong>.</p> <p>We’re looking for a <strong>Data Scientist</strong>&nbsp;to join our <strong>Marketing Modelling Intelligence</strong> team to hands-on build, refine, and scale our core predictive and explanatory models. In this role, you will be the technical engine behind our Bayesian Media Mix Models (MMM), user value machine learning models, and advanced statistical frameworks. Your focus will be on engineering robust, high-performing models that transform complex data into the precise insights our domain relies on.</p> <h2><strong>In this position, you’ll&nbsp;</strong></h2> <ul> <li><strong>Evolve Our Marketing Measurement:</strong> Code, calibrate, and scale our Bayesian Media Mix Models (MMM) and ROI frameworks to unlock precise business insights.</li> <li><strong>Build and Deploy Core Models:</strong> Build and maintain sophisticated econometric and statistical models (MMM, GMV, engagement) to quantify marketing impact and guide multi-channel growth.</li> <li><strong>Automate Model Validation &amp; Health Monitoring:</strong> Design automated frameworks and reliability metrics that continuously monitor model health and ensure long-term accuracy.</li> <li><strong>Build Next-Gen, Automated Capabilities:</strong> Drive the ambition toward intelligent data products [such as self-healing MMMs] using modern AI and automation to optimize model runtimes and scale our ecosystem as Vinted grows.</li> <li><strong>Partner Decision Scientists &amp; Marketing Leadership:</strong> Act as the core technical partner, translating complex mechanics into clear concepts and helping the team connect model outputs to robust business decisions.</li> <li><strong>Champion Modelling Excellence:</strong> Maintain a high bar for code quality, rigorous validation, and reproducibility to ensure our data science practices remain clean and trusted.</li> </ul> <h2><strong>About you&nbsp;</strong></h2> <ul> <li><strong>Proven Data Science Experience:</strong> Hands-on experience focused on advanced statistical, econometric, or time-series modelling (experience in marketing measurement/MMM is an advantage).</li> <li><strong>Deep Theoretical Knowledge:</strong> Strong foundation in advanced statistics, causal inference, and regression. Familiarity with probabilistic programming (e.g., PyMC) is a major plus.</li> <li><strong>Research-to-Application Mindset:</strong> Ability to read scientific papers, explore state-of-the-art techniques, and replicate or adapt advanced methodologies to solve complex problems.</li> <li><strong>Production-Grade Engineering:</strong> Highly proficient in Python, with a passion for building models as data products. You design your pipelines and code so they are modular, reproducible, and easily used or extended by other scientists.</li> <li><strong>Business-Minded Tech Partner:</strong> You care deeply about the why behind your code, naturally connecting technical model outputs to commercial metrics and business outcomes.</li> <li><strong>Educational Background:</strong> A Master’s or PhD degree in a highly quantitative discipline (Statistics, Econometrics, Mathematics, Data Science, or similar).</li> <li><strong>Impactful storyteller:</strong> A charismatic and confident presenter who navigates any topic’s technicality, actively driving and facilitating strategic business conversations across both technical and leadership audiences.</li> </ul> <h2><strong>Work perks&nbsp; </strong></h2> <ul> <li>The opportunity to benefit from our share options programme</li> <li>30 days of paid annual leave</li> <li>Newest MacBook models</li> <li>Confidential Employee Assistance Program (EAP) for you and your family</li> <li>Home office support: we provide IT workstation equipment and ",
+  "posted": "2026-08-03",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 12,
+  "match_terms": [
+   "data scientist",
+   "ecosystem"
+  ],
+  "role_type": "full_time",
+  "region": "Other",
+  "visa_status": "explicit",
+  "visa_reason": "posting mentions opt",
+  "visa_rank": 5,
+  "posted_date": "2026-08-03",
+  "posted_confidence": "approximate",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 13,
+  "skill_hits": [
+   "machine learning",
+   "founded",
+   "python"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 25,
+  "key": "f1fb63b1614ef37e",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Customer Care Specialist - German-speaking (m/w/d)",
+  "company": "Ostrom",
+  "location": "Berlin / Remote",
+  "url": "https://www.arbeitnow.com/jobs/companies/ostrom/customer-care-specialist-german-speaking-berlin-491749",
+  "description": "🌐 We are on the mission to build Europe’s leading energy management platform to provide fair, clean energy to everyone. ⚡ We’re a diverse team of 50+ employees , with 46% being female and from 16+ nationalities , and steadily growing. Having raised of over €40 M in total, we are looking for passionate people to join us on our mission! 🚀 🇩🇪 Wir haben eine klare Mission: Wir bauen Europas führende Plattform für Energiemanagement, um faire und saubere Energie für alle zugänglich zu machen. ⚡ Unser Team ist vielfältig – wir sind über 50 Personen aus mehr als 16 Nationalitäten , mit einem Frauenanteil von 46 % . Und wir wachsen weiter! Mit über 40 Mio. € an Finanzierung suchen wir nach motivierten Menschen, die gemeinsam mit uns die Energiezukunft gestalten wollen. 🚀 Description Sehr gute Deutschkenntnisse sowie einen Wohnsitz in Berlin oder Deutschland (bevorzugt Berlin) sind eine zwingende Voraussetzung für diese Stelle – Bewerbungen ohne diese Qualifikation werden nicht berücksichtigt. Wir bei Ostrom suchen dich – einen engagierten und lösungsorientierten Customer Care Specialist (m/w/d), der uns hilft, den Strommarkt zu revolutionieren. Als digitaler Energieanbieter mit Start-up-Mentalität bauen wir ein leistungsstarkes, diverses und internationales Team auf. Unsere Arbeitsweise ist transparent, flexibel und ergebnisorientiert – und dabei stets kundenfokussiert. Deine Aufgaben Du betreust unsere Kund:innen schriftlich via E-Mail oder Chat und beantwortest ihre Anliegen schnell, freundlich und lösungsorientiert. Du übernimmst Eskalationsfälle und komplexe Kundenanliegen, die unser Offshore-Team aufgrund ihrer Komplexität nicht abschließend bearbeiten kann. Du kümmerst dich um anspruchsvollere Abrechnungsfälle und bringst dafür ein grundlegendes Zahlenverständnis mit. Du verantwortest reibungslose operative Prozesse, z. B. beim Anbieterwechsel oder bei Rückfragen zu Rechnungen und Tarifen, sowie operative Backoffice-Prozesse im Vertragsmanagement. Du findest pragmatische und nachhaltige Lösungen bei Klärfällen – und bringst dabei Fingerspitzengefühl und Effizienz mit, auch im Umgang mit schwierigeren Kund:innen. Du arbeitest eigenverantwortlich, bringst Ideen zur Prozessverbesserung ein und hilfst dabei, unsere Servicequalität weiter zu steigern. Dein Profil Du hast Spaß daran, Kund:innen zu helfen, Probleme zu lösen und erklärst gern komplexe Themen einfach und verständlich. Du bringst erste Erfahrung im Kundenservice mit – idealerweise schriftlich (z. B. E-Mail-Support, Ticketsysteme). Du gehst proaktiv, lösungsorientiert und strukturiert vor – auch wenn's mal hektisch wird oder Kund:innen aufgebracht sind. Du hast ein gutes Zahlenverständnis und keine Scheu vor komplexeren Abrechnungsfällen. Du arbeitest gerne im Team und hast Lust, in einem dynamischen Start-up-Umfeld mitzugestalten. Du verfügst über sehr gute Deutschkenntnisse (C1) und gute Englischkenntnisse (mind. B2). Schön zu haben Erfahrung mit Rechnungsanliegen im Kundenservice. Erfahrung in der Energiewirtschaft. 🌐 About Us We’re Germany’s fastest-growing digital green energy provider and a Certified B Corp™ , driving the energy transition by making renewable energy more accessible and inclusive. How? Through variable tariffs, dynamic pricing, smart EV charging, heat pump and solar optimization, and Germany’s first virtual power plant: NeoGrid™. At Ostrom, you’ll work in a dynamic, open environment where you can be yourself, take on challenges, and grow both personally and professionally. 🌱Environmental Impact: Each customer who switches to Ostrom on average helps offset 1.5 tons of CO2 emissions per year compared to the average German energy mix. 📈 VSOP: On top of offering a competitive salary you will have access to company shares to ensure you can truly be part of the journey. 👭 Trust-based Team : A truly flat hierarchy and transparent company culture, where everyone’s voice matters. 💪🏽Benefits : An annual learning budget, company-pension scheme, company events, discounted USC membership, discounted BVG public transport ticket, e-bike or e-moped, exclusive discounts via FutureBens or monthly vouchers - the choice is yours. 💬 Stay In The Loop: We believe in transparent communication — from weekly town halls and quarterly updates to regular retrospectives. Got feedback or an idea? We’re all ears. 🤝 Work Together, Celebrate Together: We thrive on collaboration. Wins are shared and so are the celebrations from monthly happy hours to team trips and company events. 🌍 Work Your Way: Whether you prefer the office, your home desk, or a sunny spot in Sardinia — you work where you work best. 🚀 Learn By Doing: We grow together with personal development paths, learning budgets, and regular knowledge-sharing sessions. Try things out, learn along the way, and keep moving forward. 🇩🇪 Über Uns Wir sind der am schnellsten wachsende digitale Ökostromanbieter mit B Corp™ Zertifizierung in Deutschland – und treiben die Energiewende aktiv voran. Unser Ziel: Erneuerbare Energie für alle zugänglich und inklusiv machen. Wie? Mit variablen Tarifen, dynamischem Strompreis, Smart EV Charging, Optimierung von Wärmepumpen und Solaranlagen sowie Deutschlands erstem virtuellen Kraftwerk: NeoGrid™. Bei Ostrom arbeitest du in einem offenen, dynamischen Umfeld, in dem du du selbst sein kannst, Herausforderungen annimmst und dich kontinuierlich weiterentwickelst. 🌱 Nachhaltigkeit, die zählt: Mit deinem Wechsel zu Ostrom unterstützt du aktiv die Energiewende. Unsere Kund*innen helfen im Schnitt, jährlich 1,5 Tonnen CO₂ gegenüber dem deutschen Durchschnittsstrommix einzusparen. 📈 Wertschätzung, die sich auszahlt: Neben einem attraktiven Gehalt erhältst du bei uns VSOPs – Unternehmensanteile, mit denen du direkt am Erfolg von Ostrom beteiligt bist. 👭 Teamkultur auf Augenhöhe: Bei Ostrom leben wir flache Hierarchien und eine offene Feedbackkultur. Deine Meinung zählt – vom ersten Tag an. 💪🏽 Benefits: Du erhältst ein flexibles Paket mit vielen Extras – von einem jäh",
+  "posted": "2026-08-03",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 8,
+  "match_terms": [
+   "environmental",
+   "environmental impact"
+  ],
+  "role_type": "full_time",
+  "region": "Remote",
+  "visa_status": "explicit",
+  "visa_reason": "posting mentions opt",
+  "visa_rank": 5,
+  "posted_date": "2026-08-03",
+  "posted_confidence": "approximate",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 10,
+  "skill_hits": [
+   "git",
+   "ngs"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 18,
+  "key": "857e4c6d9f46638e",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Working Student (m/f/d) Autonomous Vehicle Testing & Software Engineering",
+  "company": "MOTOR Ai",
+  "location": "Berlin",
+  "url": "https://www.arbeitnow.com/jobs/companies/motor-ai/working-student-autonomous-vehicle-testing-software-engineering-berlin-449260",
+  "description": "Most technologies promise the future. We're already building it. At MOTOR Ai , we've spent years doing what others said couldn't be done in Germany: developing Europe's first certifiable Level 4 autonomous driving system - one that doesn't just detect the world around it, but understands it. Rooted in cognitive neuroscience and driven by a team that bridges disciplines, we're not waiting for autonomous mobility to arrive. We're the reason it will. Tasks Support the development, integration, and testing of software and automotive systems Take ownership of smaller projects and contribute to day-to-day engineering activities Participate in on-site testing and field assignments, including travel for 2–4 weeks at a time Document test results, analyze findings, and help improve our development and testing processes Work with modern development tools and AI-assisted workflows while collaborating closely with an experienced engineering team Requirements You're currently pursuing a degree in Computer Science, Software Engineering, Electrical Engineering, Automotive Engineering, or a related technical field You have some hands-on experience with software development or automotive systems through your studies, university projects, internships, or personal projects Technology is more than just your major - you enjoy building, experimenting, and learning new things, whether through side projects, open source, hackathons, or your own ideas You enjoy taking ownership, working independently, and finding practical solutions to challenges You have a valid driver's license and are excited to join on-site testing trips lasting 2–4 weeks when needed Experience with Linux and ROS2 is a plus, but we're also happy if you're eager to learn You're curious about modern AI developer tools such as Claude Code, Cursor, or similar technologies, and enjoy using them to build better software Business-level English; German would be an advantage Benefits Working with cutting-edge technology in the field of autonomous driving A dynamic, innovative and supportive working environment We provide you with high-quality equipment for your day-to-day work With us, you’ll play an active role in shaping the future of sustainable mobility Team spirit is a top priority for us – we celebrate our shared successes at regular team and company events Whether it’s fashion, beauty, travel or culture – you’ll enjoy numerous discounts through our partner, Corporate Benefits At our new premises, we place great importance on getting to know one another and working together to drive our vision forward. Our international team is growing and working together on this exciting mission. Face-to-face collaboration is the key to success, which is why we have decided not to become a fully remote company. We ask recruitment consultancies and agencies not to submit candidate profiles without our prior express request. Any candidate profiles submitted without a prior written placement agreement signed by both parties shall be deemed to have been submitted unsolicited. No entitlement to placement fees or other charges shall arise from their use or from the subsequent recruitment of the candidate. Find Jobs in Germany on Arbeitnow",
+  "posted": "2026-08-03",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 6,
+  "match_terms": [
+   "neuroscience"
+  ],
+  "role_type": "full_time",
+  "region": "Other",
+  "visa_status": "permit",
+  "visa_reason": "outside the US, so this needs a local work permit and the posting does not mention supporting one",
+  "visa_rank": 2,
+  "posted_date": "2026-08-03",
+  "posted_confidence": "approximate",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 10,
+  "skill_hits": [
+   "linux",
+   "ngs"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 16,
+  "key": "d07ed0cdc74bb876",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Clinical Data Associate II",
+  "company": "Precision Medicine Group",
+  "location": "Slovakia",
+  "url": "https://himalayas.app/companies/precision-medicine-group/jobs/clinical-data-associate-ii-8115881547",
+  "description": "Precision for Medicine is hiring a Clinical Data Associate II to join our team. Candidates can be based in Hungary, Poland, Romania, Serbia or Slovakia. Position Summary: The Clinical Data Associate II provides data management support and assistance in all aspects of the clinical trial data management process from study start up to post database lock for assigned projects under direct supervision. Standard Operating Procedures / Work Instructions (SOPs/WIs); regulatory directives; study specific plans and guidelines will be followed. This position may perform database development and testing, as well as additional data management activities. Essential functions of the job include but are not limited to: Support the Lead DM as a back-up and/or team member, ensuring continuity, responsiveness, and that tasks are performed in a timely manner May perform data entry for paper-CRF studies, as needed May perform quality control of data entry May develop CRF specifications from the clinical study protocol and coordinate the review/feedback from all stakeholders May assist in building clinical databases Conduct database build UAT and maintain quality controlled database build documentation Assist in specifying requirements for all edit check types e.g. electronic, manual data review, edit checks, etc. Responsible for creating, revising, appropriate versioning and maintaining data management documentation. Train clinical research personnel on the study specific CRF, EDC, and other project related items as needed Review and query clinical trial data according to the Data Management Plan Assist in line listing data review based on the guidance provided by the sponsor and/or Lead DM Run patient and study level status and metric reporting Perform medical coding of medical terms relative to each other in order to ensure medical logic and consistency Assist with coordinating SAE/AE reconciliation Assist with liaising with third-party vendors such as external data and EDC vendors in a project-manager capacity in support of timelines and data-related deliverables May assist with SAS programming and quality control of SAS programs used in the Data Management department May assist in identifying and troubleshooting operational problems, issues, obstacles, and barriers for studies based on metrics data, audit reports, and input from project team members and other stakeholders May assist in reviewing and providing feedback on protocols, Statistical Analysis Plans (SAP) and Clinical Study Reports (CSRs), if required by the project May assist in participating in the development and maintenance of Standard Operating Procedures (SOPs) and corresponding process documentation related to data management and database management activities Communicate with study sponsors, vendors and project teams as needed regarding data, database or other relevant project issues May present software demonstrations/trainings, department/company training sessions, present at project meetings May require some travel Perform other duties as assigned Job Qualifications: Bachelors and/or a combination of related experience Around 2 years’ experience working as a Clinical Data Associate for a CRO/Pharma/Biotech company. Proficiency in Microsoft Office: Word, Excel, PowerPoint, Outlook Able to handle a variety of clinical research tasks Excellent organizational and communication skills Professional use of the English language; both written and oral Precision for Medicine is the first global precision medicine clinical research services organization, purpose-built to improve the clinical research and development process for new therapeutics. Our novel approach integrates clinical operations excellence, with laboratory expertise, and advanced data sciences to inform every step. We apply our expertise to trials at all stages—from early development through approval—with embedded experience in oncology and rare disease. Please, apply in English. Any data provided as a part of this application will be stored in accordance with our Privacy Policy. For CA applicants, please also refer to our CA Privacy Notice. Precision Medicine Group is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, age, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or other characteristics protected by law. If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact Precision Medicine Group at . Recruitment Fraud Warning: Please be aware that fraudulent individuals and websites may impersonate Precision Medicine Group or its affiliates and attempt to obtain personal, financial, or banking information through fake job postings or employment offers. Precision Medicine Group will never request payment, banking details, or other sensitive financial information as part of the recruitment process. If you believe you have been targeted by a recruitment scam, we encourage you to report the incident to your local law enforcement authorities, consumer protection agency, or relevant cybercrime reporting organization in your country. Please also notify us at so we can investigate and take appropriate action. Originally posted on Himalayas",
+  "posted": null,
+  "source": "himalayas",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 14,
+  "match_terms": [
+   "clinical data",
+   "laboratory"
+  ],
+  "role_type": "new_grad",
+  "region": "Other",
+  "visa_status": "permit",
+  "visa_reason": "outside the US, so this needs a local work permit and the posting does not mention supporting one",
+  "visa_rank": 2,
+  "posted_date": null,
+  "posted_confidence": "unknown",
+  "age_days": 0,
+  "freshness": "undated",
+  "source_trust": "medium",
+  "years_required": 2,
+  "degree_bar": null,
+  "experience_verdict": "stretch",
+  "experience_detail": "2 years of experience",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 12,
+  "skill_hits": [
+   "statistical analysis",
+   "ngs"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 26,
+  "key": "e4b6a8befce6b001",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "GIS Analyst",
+  "company": "Kimley-Horn",
+  "location": "Virginia Beach, VA",
+  "url": "https://careers-kimley-horn.icims.com/jobs/25312/job?mobile=true&needsRedirect=false",
+  "description": "",
+  "posted": "2026-08-03",
+  "source": "simplify-newgrad",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "sponsorship_declared": "Other",
+  "relevance": 12,
+  "match_terms": [
+   "gis analyst"
+  ],
+  "role_type": "full_time",
+  "region": "US",
+  "visa_status": "unknown",
+  "visa_reason": "the posting says nothing either way, ask before applying",
+  "visa_rank": 3,
+  "posted_date": "2026-08-03",
+  "posted_confidence": "approximate",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 2,
+  "skill_hits": [
+   "gis"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 14,
+  "key": "c7137f4a18d97c4a",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "GIS Analyst",
+  "company": "Kimley-Horn",
+  "location": "Fort Lauderdale, FL",
+  "url": "https://careers-kimley-horn.icims.com/jobs/25247/job?mobile=true&needsRedirect=false",
+  "description": "",
+  "posted": "2026-08-03",
+  "source": "simplify-newgrad",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "sponsorship_declared": "Other",
+  "relevance": 12,
+  "match_terms": [
+   "gis analyst"
+  ],
+  "role_type": "full_time",
+  "region": "US",
+  "visa_status": "unknown",
+  "visa_reason": "the posting says nothing either way, ask before applying",
+  "visa_rank": 3,
+  "posted_date": "2026-08-03",
+  "posted_confidence": "approximate",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 2,
+  "skill_hits": [
+   "gis"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 14,
+  "key": "babe3fd8884a7e1b",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "GIS Analyst - Data and Technology Services - Utilities Program",
+  "company": "Rincon Consultants, Inc",
+  "location": "Ventura, CA",
+  "url": "https://rinconconsultants.applytojob.com/apply/mK4biw1nRt/GIS-Analyst",
+  "description": "",
+  "posted": "2026-08-04",
+  "source": "simplify-newgrad",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "sponsorship_declared": "Other",
+  "relevance": 12,
+  "match_terms": [
+   "gis analyst"
+  ],
+  "role_type": "full_time",
+  "region": "US",
+  "visa_status": "unknown",
+  "visa_reason": "the posting says nothing either way, ask before applying",
+  "visa_rank": 3,
+  "posted_date": "2026-08-04",
+  "posted_confidence": "approximate",
+  "age_days": 0,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 2,
+  "skill_hits": [
+   "gis"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 14,
+  "key": "5b489a9c36de1451",
+  "already_contacted": false,
+  "first_seen": "2026-08-04",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-04",
   "missed_runs": 0,
   "status": "open"
  }
