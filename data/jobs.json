@@ -32,7 +32,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -82,7 +82,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -111,7 +111,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-09",
   "posted_confidence": "approximate",
-  "age_days": 28,
+  "age_days": 29,
   "freshness": "recent",
   "source_trust": "medium",
   "years_required": null,
@@ -131,7 +131,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -181,7 +181,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-01",
-  "missed_runs": 5,
+  "missed_runs": 6,
   "status": "closed"
  },
  {
@@ -210,7 +210,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-17",
   "posted_confidence": "approximate",
-  "age_days": 20,
+  "age_days": 21,
   "freshness": "recent",
   "source_trust": "medium",
   "years_required": null,
@@ -230,7 +230,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -282,7 +282,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -332,7 +332,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-01",
-  "missed_runs": 5,
+  "missed_runs": 6,
   "status": "closed"
  },
  {
@@ -359,7 +359,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-28",
   "posted_confidence": "approximate",
-  "age_days": 9,
+  "age_days": 10,
   "freshness": "recent",
   "source_trust": "medium",
   "years_required": null,
@@ -381,7 +381,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -418,7 +418,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -466,7 +466,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -508,7 +508,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -550,7 +550,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -593,7 +593,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -638,7 +638,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -680,7 +680,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -722,7 +722,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -766,7 +766,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -793,7 +793,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 22,
+  "age_days": 23,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -816,7 +816,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -857,7 +857,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -885,7 +885,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-09",
   "posted_confidence": "exact",
-  "age_days": 58,
+  "age_days": 59,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 1,
@@ -908,7 +908,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -965,14 +965,14 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
   "title": " Customer Service Specialist ",
   "location": "Mexico (Remote)",
   "url": "https://boards.greenhouse.io/10xgenomics/jobs/8075670?gh_jid=8075670",
-  "description": "<div> <p>As a Customer Service Specialist, you are more than an order processor; you are a vital link in our global mission. By managing the end-to-end commercial lifecycle, you ensure our groundbreaking technologies reach customers and distributors worldwide with precision and speed. Your work directly impacts our ability to support life-changing research by providing a seamless, high-performance experience for the scientific community.</p> <p>This role is remote, 100% work from home</p> <p><strong>&nbsp;What you will be doing-</strong></p> <p><strong>Order Management</strong></p> <ul> <li>Process inbound purchase orders (direct and distributor) in ERP (Oracle) and CRM (SFDC)</li> <li>Validate PO accuracy against pricing, terms, and product configuration, and process orders within defined SLA</li> <li>Manage order modifications, cancellations, and backlog (or backorder communication)</li> <li>Support end-of-quarter (EOQ) volume surges with elevated responsiveness and availability</li> </ul> <p><strong>Returns &amp; Logistics</strong></p> <ul> <li>Initiate and track RMA (Return Merchandise Authorization) requests through resolution</li> <li>Coordinate with 3PLs and logistics partners on shipment exceptions and delivery escalations</li> <li>Keep customers and sales informed through the process</li> </ul> <p><strong>Customer &amp; Data Governance</strong></p> <ul> <li>Enter and maintain customer master data (ship-to, bill-to, contact records) with accuracy</li> <li>Support new customer onboarding and account setup in collaboration with Sales, Finance, legal</li> </ul> <p><strong>Cross-Functional Coordination</strong></p> <ul> <li>Partner with Sales to resolve pricing discrepancies, special terms, and account-level escalations</li> <li>Liaise with Finance on credit holds, billing issues, and payment term questions</li> <li>Collaborate with Operations, Supply Chain, Product Management on product availability and new product introductions and end of life</li> </ul> <p><strong>Preferred Qualifications</strong></p> <ul> <li>Experience with Oracle ERP and Salesforce (SFDC) in an order management or customer service capacity</li> <li>Prior experience processing orders for distributor and direct sales channels, ideally within a manufacturing, life sciences, or technical/scientific products environment</li> <li>Familiarity with RMA processes and coordinating with third-party logistics (3PL) providers on shipment exceptions</li> <li>Experience managing customer master data (ship-to/bill-to records, account setup) with high attention to accuracy and data governance standards</li> <li>Comfort working cross-functionally with Sales, Finance, Legal, Operations, and Supply Chain to resolve pricing, credit, and account-level issues</li> <li>Ability to perform well under end-of-quarter volume surges, managing competing priorities with speed and composure</li> <li>Strong written and verbal English communication skills, with the ability to professionally manage customer and distributor relationships</li> <li>Experience with export/import documentation or international order fulfillment is a plus</li> </ul> <p><span style=\"text-decoration: underline;\"><strong>Salary range - 213,400- 288,800 MXN&nbsp;</strong></span></p> <div>&nbsp;</div> <div>#LI-SB1</div> <div>#LI-REMOTE</div> </div> <div>&nbsp;</div> <p>&nbsp;</p><div class=\"content-conclusion\"><p><strong>About 10x Genomics</strong></p> <p>At 10x Genomics, accelerating our understanding of biology is more than a mission for us. It is a commitment. This is the century of biology, and the breakthroughs we make now have the potential to change the world.<br><br>We enable scientists to advance their research, allowing them to address scientific questions they did not even know they could ask. Our tools have enabled fundamental discoveries across biology including cancer, immunology, and neuroscience.<br><br>Our teams are empowered and encouraged to follow their passions, pursue new ideas, and perform at their best in an inclusive and dynamic environment. We know that behind every scientific breakthrough, there is a deep infrastructure of talented people driving the life sciences industry and making it possible for scientists and clinicians to make new strides. We are dedicated to finding the very best person for every aspect of our work because the innovations and discoveries that we enable together will lead to better technologies, better treatments, and a better future. Find out how you can make a 10x difference.&nbsp;</p> <p><em>Individuals seeking employment at 10x Genomics are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation,&nbsp;or any other characteristic protected by applicable law.</em></p> <p>10x does not accept unsolicited applicants submitted by third-party recruiters or agencies. Any resume or application submitted to 10x without a vendor agreement in place will be considered unsolicited and property of 10x, and 10x will not pay a placement fee.</p> <p><em>Please be aware of recruitment scams impersonating 10x Genomics. All recruiting communication will come from email addresses @<a href=\"http://10xgenomics.com/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=http://10xgenomics.com&amp;source=gmail&amp;ust=1772650408957000&amp;usg=AOvVaw0AEbVMqWC1L8s20qVwW-3g\">10xgenomics.com</a>. We also want to encourage you to apply to 10x Genomics positions directly on our careers site,&nbsp;<a href=\"http://careers.10xgenomics.com/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=http://Careers.10xgenomics.com&amp;source=gmail&amp;ust=1772650408957000&amp;usg=AOvVaw0_9jbXk1aertjUkU6TdbNe\">Careers.10xgenomics.com</a> or from reputable third party sites, such as LinkedIn or Indeed.&nbsp; We will never request payment or sensitive personal information during the recruiting process.</em></p> <p><a href=\"https://www.linkedin.com/company/10xgenomics/\" target=\"_blank\"><img style=\"max-width: 100%;\" src=\"https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background.png\" alt=\"LI Image\" width=\"40\"></a> &nbsp;&nbsp;&nbsp;<a href=\"https://twitter.com/10xgenomics\" target=\"_blank\"><img style=\"max-width: 100%;\" src=\"https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png\" alt=\"Twitter Icon\" width=\"40\"></a></p></div>",
+  "description": "<div> <p>As a Customer Service Specialist, you are more than an order processor; you are a vital link in our global mission. By managing the end-to-end commercial lifecycle, you ensure our groundbreaking technologies reach customers and distributors worldwide with precision and speed. Your work directly impacts our ability to support life-changing research by providing a seamless, high-performance experience for the scientific community.</p> <p>This role is remote, 100% work from home</p> <p><strong>&nbsp;What you will be doing-</strong></p> <p><strong>Order Management</strong></p> <ul> <li>Process inbound purchase orders (direct and distributor) in ERP (Oracle) and CRM (SFDC)</li> <li>Validate PO accuracy against pricing, terms, and product configuration, and process orders within defined SLA</li> <li>Manage order modifications, cancellations, and backlog (or backorder communication)</li> <li>Support end-of-quarter (EOQ) volume surges with elevated responsiveness and availability</li> </ul> <p><strong>Returns &amp; Logistics</strong></p> <ul> <li>Initiate and track RMA (Return Merchandise Authorization) requests through resolution</li> <li>Coordinate with 3PLs and logistics partners on shipment exceptions and delivery escalations</li> <li>Keep customers and sales informed through the process</li> </ul> <p><strong>Customer &amp; Data Governance</strong></p> <ul> <li>Enter and maintain customer master data (ship-to, bill-to, contact records) with accuracy</li> <li>Support new customer onboarding and account setup in collaboration with Sales, Finance, legal</li> </ul> <p><strong>Cross-Functional Coordination</strong></p> <ul> <li>Partner with Sales to resolve pricing discrepancies, special terms, and account-level escalations</li> <li>Liaise with Finance on credit holds, billing issues, and payment term questions</li> <li>Collaborate with Operations, Supply Chain, Product Management on product availability and new product introductions and end of life</li> </ul> <p><strong>Preferred Qualifications</strong></p> <ul> <li>Experience with Oracle ERP and Salesforce (SFDC) in an order management or customer service capacity</li> <li>Prior experience processing orders for distributor and direct sales channels, ideally within a manufacturing, life sciences, or technical/scientific products environment</li> <li>Familiarity with RMA processes and coordinating with third-party logistics (3PL) providers on shipment exceptions</li> <li>Experience managing customer master data (ship-to/bill-to records, account setup) with high attention to accuracy and data governance standards</li> <li>Comfort working cross-functionally with Sales, Finance, Legal, Operations, and Supply Chain to resolve pricing, credit, and account-level issues</li> <li>Ability to perform well under end-of-quarter volume surges, managing competing priorities with speed and composure</li> <li>Strong written and verbal English communication skills, with the ability to professionally manage customer and distributor relationships</li> <li>Experience with export/import documentation or international order fulfillment is a plus</li> </ul> <p><span style=\"text-decoration: underline;\"><strong>Salary range - 213,400- 288,800 MXN&nbsp;</strong></span></p> <div>&nbsp;</div> </div> <div>&nbsp;</div> <p>&nbsp;</p><div class=\"content-conclusion\"><p><strong>About 10x Genomics</strong></p> <p>At 10x Genomics, accelerating our understanding of biology is more than a mission for us. It is a commitment. This is the century of biology, and the breakthroughs we make now have the potential to change the world.<br><br>We enable scientists to advance their research, allowing them to address scientific questions they did not even know they could ask. Our tools have enabled fundamental discoveries across biology including cancer, immunology, and neuroscience.<br><br>Our teams are empowered and encouraged to follow their passions, pursue new ideas, and perform at their best in an inclusive and dynamic environment. We know that behind every scientific breakthrough, there is a deep infrastructure of talented people driving the life sciences industry and making it possible for scientists and clinicians to make new strides. We are dedicated to finding the very best person for every aspect of our work because the innovations and discoveries that we enable together will lead to better technologies, better treatments, and a better future. Find out how you can make a 10x difference.&nbsp;</p> <p><em>Individuals seeking employment at 10x Genomics are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation,&nbsp;or any other characteristic protected by applicable law.</em></p> <p>10x does not accept unsolicited applicants submitted by third-party recruiters or agencies. Any resume or application submitted to 10x without a vendor agreement in place will be considered unsolicited and property of 10x, and 10x will not pay a placement fee.</p> <p><em>Please be aware of recruitment scams impersonating 10x Genomics. All recruiting communication will come from email addresses @<a href=\"http://10xgenomics.com/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=http://10xgenomics.com&amp;source=gmail&amp;ust=1772650408957000&amp;usg=AOvVaw0AEbVMqWC1L8s20qVwW-3g\">10xgenomics.com</a>. We also want to encourage you to apply to 10x Genomics positions directly on our careers site,&nbsp;<a href=\"http://careers.10xgenomics.com/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=http://Careers.10xgenomics.com&amp;source=gmail&amp;ust=1772650408957000&amp;usg=AOvVaw0_9jbXk1aertjUkU6TdbNe\">Careers.10xgenomics.com</a> or from reputable third party sites, such as LinkedIn or Indeed.&nbsp; We will never request payment or sensitive personal information during the recruiting process.</em></p> <p><a href=\"https://www.linkedin.com/company/10xgenomics/\" target=\"_blank\"><img style=\"max-width: 100%;\" src=\"https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background.png\" alt=\"LI Image\" width=\"40\"></a> &nbsp;&nbsp;&nbsp;<a href=\"https://twitter.com/10xgenomics\" target=\"_blank\"><img style=\"max-width: 100%;\" src=\"https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png\" alt=\"Twitter Icon\" width=\"40\"></a></p></div>",
   "posted": "2026-07-20",
   "department": "7010 Commercial Admin",
   "company": "10x Genomics",
@@ -994,7 +994,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 17,
+  "age_days": 18,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1017,7 +1017,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1071,7 +1071,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 6,
+  "missed_runs": 7,
   "status": "closed"
  },
  {
@@ -1124,8 +1124,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-04",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Field Application Scientist, Connecticut",
@@ -1168,7 +1168,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -1207,7 +1207,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -1246,7 +1246,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -1300,7 +1300,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -1356,7 +1356,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -1410,7 +1410,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -1450,7 +1450,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -1492,7 +1492,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -1546,7 +1546,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -1586,7 +1586,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -1629,7 +1629,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -1655,7 +1655,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-08",
   "posted_confidence": "exact",
-  "age_days": 59,
+  "age_days": 60,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -1677,7 +1677,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1707,7 +1707,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 16,
+  "age_days": 17,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1730,7 +1730,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1761,7 +1761,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 16,
+  "age_days": 17,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1784,7 +1784,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1815,7 +1815,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 16,
+  "age_days": 17,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1838,7 +1838,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1868,7 +1868,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 16,
+  "age_days": 17,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1891,7 +1891,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1922,7 +1922,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 16,
+  "age_days": 17,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1947,7 +1947,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -1974,7 +1974,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-27",
   "posted_confidence": "exact",
-  "age_days": 10,
+  "age_days": 11,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -1998,7 +1998,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2029,7 +2029,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-19",
   "posted_confidence": "exact",
-  "age_days": 48,
+  "age_days": 49,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -2052,7 +2052,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2082,7 +2082,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-19",
   "posted_confidence": "exact",
-  "age_days": 48,
+  "age_days": 49,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -2107,7 +2107,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2137,7 +2137,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-17",
   "posted_confidence": "exact",
-  "age_days": 20,
+  "age_days": 21,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -2161,7 +2161,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2192,7 +2192,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-14",
   "posted_confidence": "exact",
-  "age_days": 23,
+  "age_days": 24,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -2217,7 +2217,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2252,7 +2252,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-24",
   "posted_confidence": "exact",
-  "age_days": 43,
+  "age_days": 44,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -2269,8 +2269,8 @@
    "genomics",
    "phage",
    "pcr",
-   "ngs",
-   "gis"
+   "gis",
+   "ngs"
   ],
   "signature_hits": [
    "phage"
@@ -2282,7 +2282,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2320,7 +2320,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -2349,7 +2349,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 22,
+  "age_days": 23,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -2374,7 +2374,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2422,7 +2422,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -2469,7 +2469,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -2498,7 +2498,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-09",
   "posted_confidence": "exact",
-  "age_days": 58,
+  "age_days": 59,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -2525,7 +2525,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2558,7 +2558,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-02",
   "posted_confidence": "exact",
-  "age_days": 65,
+  "age_days": 66,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -2572,8 +2572,8 @@
   "skill_hits": [
    "library preparation",
    "bioinformatics",
-   "cell culture",
    "command line",
+   "cell culture",
    "genomics",
    "outreach",
    "founded",
@@ -2587,7 +2587,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2617,7 +2617,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-03",
   "posted_confidence": "exact",
-  "age_days": 64,
+  "age_days": 65,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 1,
@@ -2640,7 +2640,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2680,7 +2680,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -2719,7 +2719,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -2770,7 +2770,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -2814,7 +2814,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -2845,7 +2845,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-02",
   "posted_confidence": "exact",
-  "age_days": 65,
+  "age_days": 66,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -2858,8 +2858,8 @@
   "skill_score": 52,
   "skill_hits": [
    "computational biology",
-   "library preparation",
    "program development",
+   "library preparation",
    "machine learning",
    "variant calling",
    "bioinformatics",
@@ -2876,7 +2876,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -2933,7 +2933,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -2979,7 +2979,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3006,7 +3006,7 @@
   "visa_rank": 2,
   "posted_date": "2026-06-02",
   "posted_confidence": "exact",
-  "age_days": 65,
+  "age_days": 66,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -3021,9 +3021,9 @@
    "machine learning",
    "pandas",
    "python",
-   "git",
+   "sql",
    "ngs",
-   "sql"
+   "git"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -3033,7 +3033,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3078,7 +3078,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3123,7 +3123,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3168,7 +3168,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3220,7 +3220,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -3273,7 +3273,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -3320,7 +3320,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3347,7 +3347,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-10",
   "posted_confidence": "exact",
-  "age_days": 27,
+  "age_days": 28,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -3362,9 +3362,9 @@
    "computational biology",
    "machine learning",
    "bioinformatics",
-   "git",
+   "gis",
    "ngs",
-   "gis"
+   "git"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -3374,7 +3374,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3414,7 +3414,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3453,7 +3453,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3492,7 +3492,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3538,7 +3538,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3576,7 +3576,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3614,7 +3614,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3651,7 +3651,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3684,7 +3684,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-22",
   "posted_confidence": "exact",
-  "age_days": 15,
+  "age_days": 16,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 0,
@@ -3700,9 +3700,9 @@
    "python",
    "qpcr",
    "pcr",
-   "git",
+   "sql",
    "ngs",
-   "sql"
+   "git"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -3712,7 +3712,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3751,7 +3751,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3783,7 +3783,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-05",
   "posted_confidence": "exact",
-  "age_days": 62,
+  "age_days": 63,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -3797,8 +3797,8 @@
   "skill_hits": [
    "bioinformatics",
    "python",
-   "ngs",
-   "gis"
+   "gis",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -3808,7 +3808,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3836,7 +3836,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-13",
   "posted_confidence": "exact",
-  "age_days": 24,
+  "age_days": 25,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -3859,7 +3859,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -3911,7 +3911,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 6,
+  "missed_runs": 7,
   "status": "closed"
  },
  {
@@ -3949,7 +3949,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -3980,7 +3980,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-16",
   "posted_confidence": "exact",
-  "age_days": 21,
+  "age_days": 22,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -3998,7 +3998,7 @@
    "python",
    "qpcr",
    "pcr",
-   "aws",
+   "gis",
    "ngs"
   ],
   "signature_hits": [],
@@ -4009,7 +4009,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4042,7 +4042,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-22",
   "posted_confidence": "exact",
-  "age_days": 15,
+  "age_days": 16,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 0,
@@ -4057,8 +4057,8 @@
    "statistical analysis",
    "library preparation",
    "pcr",
-   "aws",
-   "ngs"
+   "ngs",
+   "aws"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4068,7 +4068,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4101,7 +4101,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 16,
+  "age_days": 17,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4126,7 +4126,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4159,7 +4159,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 16,
+  "age_days": 17,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4184,7 +4184,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4215,7 +4215,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-16",
   "posted_confidence": "exact",
-  "age_days": 21,
+  "age_days": 22,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4238,7 +4238,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4269,7 +4269,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 22,
+  "age_days": 23,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -4292,7 +4292,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4335,7 +4335,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -4378,7 +4378,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -4420,7 +4420,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -4446,7 +4446,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 17,
+  "age_days": 18,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -4469,7 +4469,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4517,7 +4517,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -4555,7 +4555,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -4597,7 +4597,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -4643,7 +4643,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -4704,8 +4704,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-04",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Research Associate 2",
@@ -4733,7 +4733,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-01",
   "posted_confidence": "exact",
-  "age_days": 36,
+  "age_days": 37,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -4748,8 +4748,8 @@
    "library preparation",
    "qpcr",
    "pcr",
-   "aws",
-   "ngs"
+   "ngs",
+   "aws"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -4759,7 +4759,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4802,7 +4802,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -4831,7 +4831,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-24",
   "posted_confidence": "exact",
-  "age_days": 43,
+  "age_days": 44,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -4856,7 +4856,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4895,7 +4895,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -4927,7 +4927,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-06",
   "posted_confidence": "exact",
-  "age_days": 31,
+  "age_days": 32,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 1,
@@ -4951,7 +4951,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -4990,7 +4990,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -5023,7 +5023,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-24",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -5038,9 +5038,9 @@
    "library preparation",
    "sample preparation",
    "python",
-   "aws",
+   "gis",
    "ngs",
-   "gis"
+   "aws"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -5050,7 +5050,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5084,7 +5084,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-23",
   "posted_confidence": "exact",
-  "age_days": 14,
+  "age_days": 15,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -5099,9 +5099,9 @@
    "library preparation",
    "sample preparation",
    "python",
-   "aws",
+   "gis",
    "ngs",
-   "gis"
+   "aws"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -5111,7 +5111,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5164,7 +5164,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -5190,7 +5190,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-22",
   "posted_confidence": "exact",
-  "age_days": 15,
+  "age_days": 16,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5212,7 +5212,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5253,7 +5253,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -5292,7 +5292,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -5331,7 +5331,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -5370,7 +5370,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -5397,7 +5397,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-29",
   "posted_confidence": "exact",
-  "age_days": 38,
+  "age_days": 39,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -5419,7 +5419,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5462,7 +5462,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -5490,7 +5490,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-05",
   "posted_confidence": "exact",
-  "age_days": 62,
+  "age_days": 63,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -5513,7 +5513,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5543,7 +5543,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-02",
   "posted_confidence": "exact",
-  "age_days": 35,
+  "age_days": 36,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -5565,7 +5565,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5595,7 +5595,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-17",
   "posted_confidence": "exact",
-  "age_days": 20,
+  "age_days": 21,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5617,7 +5617,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5647,7 +5647,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 17,
+  "age_days": 18,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5669,7 +5669,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5699,7 +5699,7 @@
   "visa_rank": 2,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 17,
+  "age_days": 18,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5721,7 +5721,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5751,7 +5751,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-22",
   "posted_confidence": "exact",
-  "age_days": 15,
+  "age_days": 16,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -5773,7 +5773,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5802,7 +5802,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 16,
+  "age_days": 17,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -5825,7 +5825,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -5864,7 +5864,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -5902,7 +5902,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -5954,7 +5954,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -5998,7 +5998,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -6054,7 +6054,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -6101,7 +6101,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -6131,7 +6131,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-11",
   "posted_confidence": "exact",
-  "age_days": 26,
+  "age_days": 27,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6156,7 +6156,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6215,7 +6215,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -6246,7 +6246,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-24",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6272,7 +6272,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6304,7 +6304,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-24",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6329,7 +6329,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6357,7 +6357,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-10",
   "posted_confidence": "exact",
-  "age_days": 27,
+  "age_days": 28,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6379,7 +6379,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6419,7 +6419,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -6460,7 +6460,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -6490,7 +6490,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-21",
   "posted_confidence": "exact",
-  "age_days": 16,
+  "age_days": 17,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -6514,7 +6514,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6558,7 +6558,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -6601,7 +6601,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -6642,7 +6642,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -6691,7 +6691,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -6758,7 +6758,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 8,
+  "missed_runs": 9,
   "status": "closed"
  },
  {
@@ -6801,7 +6801,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -6832,7 +6832,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-27",
   "posted_confidence": "exact",
-  "age_days": 10,
+  "age_days": 11,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 0,
@@ -6861,7 +6861,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6903,7 +6903,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -6935,7 +6935,7 @@
   "visa_rank": 3,
   "posted_date": "2026-05-28",
   "posted_confidence": "exact",
-  "age_days": 70,
+  "age_days": 71,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 1,
@@ -6948,9 +6948,9 @@
   "skill_score": 14,
   "skill_hits": [
    "cell culture",
-   "gis",
    "aws",
-   "git"
+   "git",
+   "gis"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -6960,7 +6960,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -6988,7 +6988,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-20",
   "posted_confidence": "exact",
-  "age_days": 17,
+  "age_days": 18,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -7011,7 +7011,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7041,7 +7041,7 @@
   "visa_rank": 4,
   "posted_date": "2026-07-15",
   "posted_confidence": "exact",
-  "age_days": 22,
+  "age_days": 23,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -7063,7 +7063,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7115,7 +7115,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -7169,7 +7169,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 6,
+  "missed_runs": 7,
   "status": "closed"
  },
  {
@@ -7207,7 +7207,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7246,7 +7246,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7285,7 +7285,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7311,7 +7311,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-29",
   "posted_confidence": "exact",
-  "age_days": 38,
+  "age_days": 39,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -7326,8 +7326,8 @@
    "machine learning",
    "nonprofit",
    "python",
-   "git",
-   "sql"
+   "sql",
+   "git"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -7337,7 +7337,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7376,7 +7376,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7419,7 +7419,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7459,7 +7459,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7504,7 +7504,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7544,7 +7544,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7575,7 +7575,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-01",
   "posted_confidence": "exact",
-  "age_days": 36,
+  "age_days": 37,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": 2,
@@ -7589,8 +7589,8 @@
   "skill_hits": [
    "python",
    "ngs",
-   "sql",
-   "gis"
+   "gis",
+   "sql"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -7600,7 +7600,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7630,7 +7630,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-10",
   "posted_confidence": "exact",
-  "age_days": 27,
+  "age_days": 28,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -7655,7 +7655,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -7699,7 +7699,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7736,7 +7736,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7775,7 +7775,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7811,7 +7811,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7848,7 +7848,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7886,7 +7886,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7925,7 +7925,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -7977,7 +7977,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -8014,7 +8014,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8040,7 +8040,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-24",
   "posted_confidence": "exact",
-  "age_days": 13,
+  "age_days": 14,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -8063,7 +8063,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8117,7 +8117,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8169,7 +8169,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 6,
+  "missed_runs": 7,
   "status": "closed"
  },
  {
@@ -8212,7 +8212,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8255,7 +8255,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8308,7 +8308,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8359,7 +8359,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8410,7 +8410,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-30",
-  "missed_runs": 7,
+  "missed_runs": 8,
   "status": "closed"
  },
  {
@@ -8447,7 +8447,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8482,7 +8482,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8517,7 +8517,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8564,7 +8564,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8601,7 +8601,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8636,7 +8636,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8671,7 +8671,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8706,7 +8706,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8741,7 +8741,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8776,7 +8776,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8823,7 +8823,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8871,7 +8871,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -8907,7 +8907,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8944,7 +8944,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -8980,7 +8980,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9015,7 +9015,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9050,7 +9050,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9085,7 +9085,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9120,7 +9120,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9155,7 +9155,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9190,7 +9190,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9225,7 +9225,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9260,7 +9260,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9295,7 +9295,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9342,7 +9342,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -9378,7 +9378,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9413,7 +9413,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9448,7 +9448,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9483,7 +9483,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9518,7 +9518,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9553,7 +9553,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9588,7 +9588,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9623,7 +9623,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9658,7 +9658,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9693,7 +9693,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9728,7 +9728,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9763,7 +9763,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9810,7 +9810,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -9858,7 +9858,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -9894,7 +9894,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9929,7 +9929,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -9976,7 +9976,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10024,7 +10024,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10072,7 +10072,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10108,7 +10108,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10158,7 +10158,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 8,
+  "missed_runs": 9,
   "status": "closed"
  },
  {
@@ -10195,7 +10195,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10230,7 +10230,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10265,7 +10265,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10314,7 +10314,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10350,7 +10350,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10385,7 +10385,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10420,7 +10420,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10458,7 +10458,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10507,7 +10507,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10543,7 +10543,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10590,7 +10590,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10626,7 +10626,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10673,7 +10673,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -10709,7 +10709,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10745,7 +10745,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10780,7 +10780,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10815,7 +10815,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10850,7 +10850,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10885,7 +10885,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10920,7 +10920,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -10955,7 +10955,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -11005,7 +11005,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-01",
-  "missed_runs": 5,
+  "missed_runs": 6,
   "status": "closed"
  },
  {
@@ -11040,7 +11040,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -11075,7 +11075,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -11110,7 +11110,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -11145,7 +11145,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -11180,7 +11180,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -11215,7 +11215,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -11252,7 +11252,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -11287,7 +11287,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -11322,7 +11322,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -11357,7 +11357,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -11387,7 +11387,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11420,7 +11420,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11450,7 +11450,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11481,7 +11481,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11515,7 +11515,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11545,7 +11545,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11576,7 +11576,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11607,7 +11607,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11639,7 +11639,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11670,7 +11670,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11702,7 +11702,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11734,7 +11734,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11764,7 +11764,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11794,7 +11794,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11824,7 +11824,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11854,7 +11854,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11884,7 +11884,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11915,7 +11915,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11946,7 +11946,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -11976,7 +11976,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12006,7 +12006,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12037,7 +12037,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12068,7 +12068,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12098,7 +12098,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12128,7 +12128,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12160,7 +12160,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12190,7 +12190,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12220,7 +12220,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12250,7 +12250,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12282,7 +12282,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12312,7 +12312,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12342,7 +12342,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12373,7 +12373,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12403,7 +12403,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12433,7 +12433,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12463,7 +12463,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12493,7 +12493,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12523,7 +12523,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12554,7 +12554,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12585,7 +12585,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12615,7 +12615,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12645,7 +12645,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12676,7 +12676,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12706,7 +12706,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12736,7 +12736,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12767,7 +12767,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12798,7 +12798,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12828,7 +12828,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12859,7 +12859,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12889,7 +12889,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12919,7 +12919,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12950,7 +12950,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -12981,7 +12981,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13011,7 +13011,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13042,7 +13042,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13073,7 +13073,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13103,7 +13103,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13135,7 +13135,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13165,7 +13165,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13195,7 +13195,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13225,7 +13225,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13255,7 +13255,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13286,7 +13286,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13318,7 +13318,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13348,7 +13348,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13378,7 +13378,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13409,7 +13409,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13439,7 +13439,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13469,7 +13469,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13499,7 +13499,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13529,7 +13529,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13560,7 +13560,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13590,7 +13590,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13621,7 +13621,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13651,7 +13651,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13681,7 +13681,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13711,7 +13711,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13741,7 +13741,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13773,7 +13773,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13804,7 +13804,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13839,7 +13839,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -13869,7 +13869,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13901,7 +13901,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13933,7 +13933,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13963,7 +13963,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -13995,7 +13995,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -14025,7 +14025,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -14057,7 +14057,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -14087,7 +14087,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 12,
+  "missed_runs": 13,
   "status": "closed"
  },
  {
@@ -14128,7 +14128,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-29",
-  "missed_runs": 10,
+  "missed_runs": 11,
   "status": "closed"
  },
  {
@@ -14157,7 +14157,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-29",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 1,
@@ -14182,7 +14182,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14231,7 +14231,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14281,7 +14281,7 @@
   "first_seen": "2026-07-29",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14310,7 +14310,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-29",
   "posted_confidence": "exact",
-  "age_days": 8,
+  "age_days": 9,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -14324,8 +14324,8 @@
   "skill_hits": [
    "bioinformatics",
    "python",
-   "ngs",
-   "gis"
+   "gis",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -14335,7 +14335,7 @@
   "first_seen": "2026-07-30",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14363,8 +14363,8 @@
   "visa_rank": 5,
   "posted_date": "2026-07-30",
   "posted_confidence": "exact",
-  "age_days": 7,
-  "freshness": "this week",
+  "age_days": 8,
+  "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
   "degree_bar": null,
@@ -14386,7 +14386,7 @@
   "first_seen": "2026-07-31",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14413,8 +14413,8 @@
   "visa_rank": 5,
   "posted_date": "2026-07-30",
   "posted_confidence": "exact",
-  "age_days": 7,
-  "freshness": "this week",
+  "age_days": 8,
+  "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
   "degree_bar": "masters",
@@ -14433,7 +14433,7 @@
   "first_seen": "2026-07-31",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14491,7 +14491,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-01",
-  "missed_runs": 5,
+  "missed_runs": 6,
   "status": "closed"
  },
  {
@@ -14548,7 +14548,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 6,
+  "missed_runs": 7,
   "status": "closed"
  },
  {
@@ -14602,7 +14602,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 6,
+  "missed_runs": 7,
   "status": "closed"
  },
  {
@@ -14653,7 +14653,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 6,
+  "missed_runs": 7,
   "status": "closed"
  },
  {
@@ -14710,7 +14710,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 6,
+  "missed_runs": 7,
   "status": "closed"
  },
  {
@@ -14762,7 +14762,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 6,
+  "missed_runs": 7,
   "status": "closed"
  },
  {
@@ -14815,7 +14815,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-07-31",
-  "missed_runs": 6,
+  "missed_runs": 7,
   "status": "closed"
  },
  {
@@ -14841,7 +14841,7 @@
   "visa_rank": 5,
   "posted_date": "2026-06-12",
   "posted_confidence": "exact",
-  "age_days": 55,
+  "age_days": 56,
   "freshness": "ageing",
   "source_trust": "high",
   "years_required": null,
@@ -14861,7 +14861,7 @@
   "first_seen": "2026-08-01",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14895,7 +14895,7 @@
   "visa_rank": 4,
   "posted_date": "2026-07-31",
   "posted_confidence": "exact",
-  "age_days": 6,
+  "age_days": 7,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": 2,
@@ -14924,7 +14924,7 @@
   "first_seen": "2026-08-01",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -14980,7 +14980,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-02",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -15037,7 +15037,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-02",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -15088,7 +15088,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-02",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -15140,7 +15140,7 @@
   "first_seen": "2026-08-01",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -15191,7 +15191,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-02",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -15239,7 +15239,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-02",
-  "missed_runs": 4,
+  "missed_runs": 5,
   "status": "closed"
  },
  {
@@ -15267,7 +15267,7 @@
   "visa_rank": 3,
   "posted_date": "2026-07-04",
   "posted_confidence": "approximate",
-  "age_days": 33,
+  "age_days": 34,
   "freshness": "ageing",
   "source_trust": "medium",
   "years_required": null,
@@ -15287,7 +15287,7 @@
   "first_seen": "2026-08-02",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -15316,7 +15316,7 @@
   "visa_rank": 3,
   "posted_date": "2026-06-25",
   "posted_confidence": "approximate",
-  "age_days": 42,
+  "age_days": 43,
   "freshness": "ageing",
   "source_trust": "medium",
   "years_required": null,
@@ -15336,7 +15336,7 @@
   "first_seen": "2026-08-02",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -15390,7 +15390,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -15444,7 +15444,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -15500,7 +15500,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -15558,7 +15558,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -15610,7 +15610,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -15666,7 +15666,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -15719,7 +15719,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -15773,7 +15773,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -15825,7 +15825,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -15876,7 +15876,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -15925,7 +15925,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -15974,7 +15974,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -16021,7 +16021,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -16072,7 +16072,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -16130,7 +16130,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -16178,7 +16178,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -16232,7 +16232,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -16282,7 +16282,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -16337,7 +16337,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-03",
-  "missed_runs": 3,
+  "missed_runs": 4,
   "status": "closed"
  },
  {
@@ -16365,7 +16365,7 @@
   "visa_rank": 3,
   "posted_date": "2026-08-03",
   "posted_confidence": "exact",
-  "age_days": 3,
+  "age_days": 4,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": 1,
@@ -16388,7 +16388,7 @@
   "first_seen": "2026-08-04",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -16419,7 +16419,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-13",
   "posted_confidence": "exact",
-  "age_days": 24,
+  "age_days": 25,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": 2,
@@ -16433,8 +16433,8 @@
   "skill_hits": [
    "bioinformatics",
    "python",
-   "ngs",
-   "gis"
+   "gis",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -16444,7 +16444,7 @@
   "first_seen": "2026-08-04",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -16476,7 +16476,7 @@
   "visa_rank": 5,
   "posted_date": "2026-07-23",
   "posted_confidence": "exact",
-  "age_days": 14,
+  "age_days": 15,
   "freshness": "recent",
   "source_trust": "high",
   "years_required": null,
@@ -16491,8 +16491,8 @@
    "bioinformatics",
    "deep learning",
    "python",
-   "ngs",
-   "gis"
+   "gis",
+   "ngs"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -16502,7 +16502,7 @@
   "first_seen": "2026-08-04",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -16533,7 +16533,7 @@
   "visa_rank": 5,
   "posted_date": "2026-08-03",
   "posted_confidence": "exact",
-  "age_days": 3,
+  "age_days": 4,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": 0,
@@ -16548,8 +16548,8 @@
    "computational biology",
    "bioinformatics",
    "genomics",
-   "git",
    "ngs",
+   "git",
    "aws"
   ],
   "signature_hits": [],
@@ -16560,7 +16560,7 @@
   "first_seen": "2026-08-04",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -16614,7 +16614,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-05",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -16668,8 +16668,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-04",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Manager, Product Marketing",
@@ -16715,8 +16715,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-04",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Lead Data Scientist, Revenue - Ads, Revenue",
@@ -16767,8 +16767,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-04",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Data Scientist, Marketing Modelling Intelligence",
@@ -16819,8 +16819,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-04",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Customer Care Specialist - German-speaking (m/w/d)",
@@ -16870,8 +16870,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-04",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Working Student (m/f/d) Autonomous Vehicle Testing & Software Engineering",
@@ -16920,8 +16920,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-04",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "Clinical Data Associate II",
@@ -16971,8 +16971,8 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-04",
-  "missed_runs": 2,
-  "status": "open"
+  "missed_runs": 3,
+  "status": "closed"
  },
  {
   "title": "GIS Analyst",
@@ -17021,7 +17021,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -17048,7 +17048,7 @@
   "visa_rank": 3,
   "posted_date": "2026-08-03",
   "posted_confidence": "approximate",
-  "age_days": 3,
+  "age_days": 4,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": null,
@@ -17070,7 +17070,7 @@
   "first_seen": "2026-08-04",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -17098,7 +17098,7 @@
   "visa_rank": 3,
   "posted_date": "2026-08-04",
   "posted_confidence": "approximate",
-  "age_days": 2,
+  "age_days": 3,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": null,
@@ -17120,7 +17120,7 @@
   "first_seen": "2026-08-04",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -17152,7 +17152,7 @@
   "visa_rank": 4,
   "posted_date": "2026-08-04",
   "posted_confidence": "exact",
-  "age_days": 2,
+  "age_days": 3,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": 0,
@@ -17181,7 +17181,7 @@
   "first_seen": "2026-08-05",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -17189,7 +17189,7 @@
   "title": "Field Organizer",
   "location": "Richmond, VA",
   "url": "https://jobs.lever.co/sierraclub/cdd61aa8-8702-44fe-b3ea-78ebe1859892",
-  "description": "Job Title: Temporary Field Organizer Department: Virginia Chapter Location: Hybrid, ability to work in Richmond office 2 days per week Reports To: Chapter Director Supervises : N/A Duration: 6 months Context : At the Sierra Club, we believe in the power of interdependence. Together, we remain committed to the fight for a healthy climate built on a foundation of environmental, racial, economic, and gender justice – a future where all people benefit from a healthy, thriving planet and a direct connection to nature. As the climate crisis and deeply entrenched systemic racism all fuel injustice, we will continue to fight for a bold, transformational agenda that recognizes the interconnectedness between our planet, our humanity, and our future. By recognizing that our destinies are tied, we continue to name that all things are fundamentally connected, and the overlap between ecology, race, gender, and representative government will move to either advance our collective humanity or to oppress it. Sierra Club has close to 700 staff across the country and a network of 64 local chapters that are led and fueled by thousands of volunteers. We are also proud to be a unionized employer, with three labor unions representing more than half of our employees. Scope: The Temporary Field Organizer is responsible for engaging and motivating large numbers of people to take action on behalf of key Sierra Club Virginia Chapter strategic priorities associated with the deployment of renewable energy and building an affordable energy future for Virginia families. The Organizer regularly engages with Sierra Club volunteers and leaders to build engaging in-person events, conduct phone and text banks to support critical actions, and attends community events/meetings/festivals to build support for our strategic priorities. The Organizer regularly works outside the office and regularly communicates outside of traditional business hours. The organizer must be willing to travel and must be able to communicate work effectively to senior management. To Apply The Sierra Club provides equal employment and advancement opportunities to all staff members. Employment decisions are based on merit, qualifications, lived experience and skills. The Sierra Club does not discriminate in employment opportunities or practices on the basis of race, color, creed, religion, national origin, immigration status, socioeconomic status, ancestry, age, size, sex, sexual orientation, gender, gender identity, familial status, veteran status, disability, AIDS/HIV status, medical condition, prior conviction, arrest history, traits historically associated with race, including, but not limited to, hair texture and protective hairstyles, or any other characteristic protected by law. The Sierra Club values applicants who are people that identify as Black, Indigenous, and other minoritized groups; women; queer, transgender, gender non-conforming, and gender fluid people. Explore, enjoy and protect the planet.",
+  "description": "Job Title: Temporary Field Organizer\nDepartment: Virginia Chapter\nLocation: Hybrid, ability to work in Richmond office 2 days per week\nReports To: Chapter Director\nSupervises: N/A\nDuration: 6 months\n \nContext:  At the Sierra Club, we believe in the power of interdependence. Together, we remain committed to the fight for a healthy climate built on a foundation of environmental, racial, economic, and gender justice – a future where all people benefit from a healthy, thriving planet and a direct connection to nature. As the climate crisis and deeply entrenched systemic racism all fuel injustice, we will continue to fight for a bold, transformational agenda that recognizes the interconnectedness between our planet, our humanity, and our future. By recognizing that our destinies are tied, we continue to name that all things are fundamentally connected, and the overlap between ecology, race, gender, and representative government will move to either advance our collective humanity or to oppress it. Sierra Club has close to 700 staff across the country and a network of 64 local chapters that are led and fueled by thousands of volunteers. We are also proud to be a unionized employer, with three labor unions representing more than half of our employees.\nScope: The Temporary Field Organizer is responsible for engaging and motivating large numbers of people to take action on behalf of key Sierra Club Virginia Chapter strategic priorities associated with the deployment of renewable energy and building an affordable energy future for Virginia families. The Organizer regularly engages with Sierra Club volunteers and leaders to build engaging in-person events, conduct phone and text banks to support critical actions, and attends community events/meetings/festivals to build support for our strategic priorities. The Organizer regularly works outside the office and regularly communicates outside of traditional business hours. The organizer must be willing to travel and must be able to communicate work effectively to senior management.\n To Apply The Sierra Club provides equal employment and advancement opportunities to all staff members. Employment decisions are based on merit, qualifications, lived experience and skills. The Sierra Club does not discriminate in employment opportunities or practices on the basis of race, color, creed, religion, national origin, immigration status, socioeconomic status, ancestry, age, size, sex, sexual orientation, gender, gender identity, familial status, veteran status, disability, AIDS/HIV status, medical condition, prior conviction, arrest history, traits historically associated with race, including, but not limited to, hair texture and protective hairstyles, or any other characteristic protected by law. The Sierra Club values applicants who are people that identify as Black, Indigenous, and other minoritized groups; women; queer, transgender, gender non-conforming, and gender fluid people. Explore, enjoy and protect the planet.",
   "posted": "2026-08-04",
   "department": "Virginia Chapter",
   "company": "Sierra Club",
@@ -17210,7 +17210,7 @@
   "visa_rank": 4,
   "posted_date": "2026-08-04",
   "posted_confidence": "exact",
-  "age_days": 2,
+  "age_days": 3,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": null,
@@ -17232,7 +17232,7 @@
   "first_seen": "2026-08-05",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -17288,7 +17288,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-05",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -17342,7 +17342,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -17399,7 +17399,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -17449,7 +17449,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -17501,7 +17501,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-05",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -17551,7 +17551,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-05",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -17601,7 +17601,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-05",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -17653,7 +17653,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-05",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -17703,7 +17703,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -17755,7 +17755,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -17805,7 +17805,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -17854,7 +17854,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -17903,7 +17903,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -17961,7 +17961,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -18009,7 +18009,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -18059,7 +18059,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-05",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -18112,7 +18112,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-05",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -18162,7 +18162,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-05",
-  "missed_runs": 1,
+  "missed_runs": 2,
   "status": "open"
  },
  {
@@ -18195,7 +18195,7 @@
   "visa_rank": 2,
   "posted_date": "2026-08-05",
   "posted_confidence": "exact",
-  "age_days": 1,
+  "age_days": 2,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": null,
@@ -18214,7 +18214,7 @@
    "pandas",
    "python",
    "numpy",
-   "aws"
+   "gis"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -18224,7 +18224,7 @@
   "first_seen": "2026-08-06",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -18251,7 +18251,7 @@
   "visa_rank": 5,
   "posted_date": "2026-08-06",
   "posted_confidence": "exact",
-  "age_days": 0,
+  "age_days": 1,
   "freshness": "this week",
   "source_trust": "high",
   "years_required": null,
@@ -18274,7 +18274,7 @@
   "first_seen": "2026-08-06",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -18301,7 +18301,7 @@
   "visa_rank": 5,
   "posted_date": "2026-08-06",
   "posted_confidence": "approximate",
-  "age_days": 0,
+  "age_days": 1,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": null,
@@ -18324,7 +18324,7 @@
   "first_seen": "2026-08-06",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -18376,7 +18376,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -18384,7 +18384,7 @@
   "company": "Stackfuel",
   "location": "Berlin",
   "url": "https://www.arbeitnow.com/jobs/companies/stackfuel/analytics-engineer-berlin-382440",
-  "description": "Daten sind für uns kein Nebenprodukt, sondern ein zentraler Erfolgsfaktor und das Fundament unserer KI-Strategie. Als Analytics Engineer (m/w/d) bist du die treibende Kraft hinter unserer Datenplattform: Du baust und pflegst die Datenmodelle, auf denen Analytics, Reporting und Data Science im gesamten Unternehmen aufsetzen. Mit robusten, skalierbaren und vertrauenswürdigen Pipelines sorgst du dafür, dass alle Teams auf einer sauberen, konsistenten Datenbasis arbeiten – und machst unser Unternehmen damit messbar datengetriebener und KI-fähiger. Schwerpunkte deiner Rolle Du entwickelst und pflegst dbt-Modelle und Datenpipelines, die Rohdaten in saubere, dokumentierte und verlässliche Datensätze überführen Du etablierst eine Single Source of Truth für Kennzahlen und sorgst dafür, dass alle Teams mit denselben vertrauenswürdigen Zahlen arbeiten Du designst skalierbare Data-Warehouse-Schemata (dimensionales Modell, Fakten/Dimensionen) mit Fokus auf Performance, Skalierbarkeit und Kosten Du integrierst Daten aus unternehmensweiten Systemen in unseren Data Lake / unser Data Warehouse und führst systemübergreifende Datenflüsse zusammen Du baust und pflegst Dashboards und Reports (z. B. in Metabase), die Fachbereiche zu eigenständigem, datenbasiertem Handeln befähigen Du sicherst und verbesserst kontinuierlich die Datenqualität – inkl. Monitoring, dbt-Tests und klarer Standards für zuverlässige Analytics- und KI-Use-Cases Du arbeitest eng mit Operations, Produkt, Engineering und dem Leadership-Team zusammen und übersetzt Business-Fragen in aussagekräftige Metriken und Analysen Das bringst du mit Mehrjährige Erfahrung als Analytics Engineer, Data Engineer, Data Scientist oder in einer vergleichbaren datengetriebenen Rolle Sehr gute SQL-Skills sowie praktische Erfahrung mit dbt in Produktionsumgebungen (inkl. Tests, Dokumentation, CI/CD und GitHub-Workflows) Fundiertes Verständnis von Datenmodellierung, Data-Warehouse-Design, ETL-/ELT-Prozessen und der Auswirkungen auf Skalierbarkeit und Reporting-Performance Praxiserfahrung mit Snowflake (oder vergleichbaren Cloud-DWH-/Data-Lake-Lösungen) sowie einem BI-Tool wie Metabase, Power BI oder Tableau Kenntnisse in Python oder einem ähnlichen Skript-/Analyse-Tool zur tiefergehenden Analyse, Prototyping und Automatisierung Fähigkeit, komplexe Daten und Zusammenhänge verständlich zu erklären – hohe Service- und Lösungsorientierung im Umgang mit internen Stakeholdern Strukturierte, selbstständige Arbeitsweise, Ownership-Mentalität und sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift Das bieten wir Dir Arbeitskultur Dich erwartet eine lösungsorientierte und datengetriebene Arbeitsweise, eine offene Feedbackkultur sowie ein starker Teamspirit. Zwei vom gesamten StackFuel-Team gewählte Trustees unterstützen Dich bei Fragen und Anliegen als neutrale, vertrauliche Anlaufstelle. Ownership Übernehme ab dem ersten Tag Verantwortung, bringe Deine eigenen Ideen aktiv ein, gestalte Prozesse nachhaltig und präge unsere Abläufe maßgeblich mit. Hybrides Arbeiten Wir arbeiten in einem hybriden Modell und sind üblicherweise 3 Tage pro Woche vor Ort in unserem Office in Berlin. Workation Bis zu 10 Tage pro Jahr kannst Du von überall aus der EU, dem EWR und der Türkei arbeiten. Raum für Austausch Regelmäßiger Austausch im Team, saisonale Feiern und eine immer gut gefüllte Küche sorgen für ein lebendiges Miteinander. Weiterentwicklung Absolviere unsere Online-Trainings, um Deine fachlichen Fähigkeiten auszubauen und Dich zur Expert:in für Daten und KI zu entwickeln. Find more English Speaking Jobs in Germany on Arbeitnow",
+  "description": "Daten sind für uns kein Nebenprodukt, sondern ein zentraler Erfolgsfaktor und das Fundament unserer KI-Strategie. Als Analytics Engineer (m/w/d) bist du die treibende Kraft hinter unserer Datenplattform: Du baust und pflegst die Datenmodelle, auf denen Analytics, Reporting und Data Science im gesamten Unternehmen aufsetzen. Mit robusten, skalierbaren und vertrauenswürdigen Pipelines sorgst du dafür, dass alle Teams auf einer sauberen, konsistenten Datenbasis arbeiten – und machst unser Unternehmen damit messbar datengetriebener und KI-fähiger. Schwerpunkte deiner Rolle Du entwickelst und pflegst dbt-Modelle und Datenpipelines, die Rohdaten in saubere, dokumentierte und verlässliche Datensätze überführen Du etablierst eine Single Source of Truth für Kennzahlen und sorgst dafür, dass alle Teams mit denselben vertrauenswürdigen Zahlen arbeiten Du designst skalierbare Data-Warehouse-Schemata (dimensionales Modell, Fakten/Dimensionen) mit Fokus auf Performance, Skalierbarkeit und Kosten Du integrierst Daten aus unternehmensweiten Systemen in unseren Data Lake / unser Data Warehouse und führst systemübergreifende Datenflüsse zusammen Du baust und pflegst Dashboards und Reports (z. B. in Metabase), die Fachbereiche zu eigenständigem, datenbasiertem Handeln befähigen Du sicherst und verbesserst kontinuierlich die Datenqualität – inkl. Monitoring, dbt-Tests und klarer Standards für zuverlässige Analytics- und KI-Use-Cases Du arbeitest eng mit Operations, Produkt, Engineering und dem Leadership-Team zusammen und übersetzt Business-Fragen in aussagekräftige Metriken und Analysen Das bringst du mit Mehrjährige Erfahrung als Analytics Engineer, Data Engineer, Data Scientist oder in einer vergleichbaren datengetriebenen Rolle Sehr gute SQL-Skills sowie praktische Erfahrung mit dbt in Produktionsumgebungen (inkl. Tests, Dokumentation, CI/CD und GitHub-Workflows) Fundiertes Verständnis von Datenmodellierung, Data-Warehouse-Design, ETL-/ELT-Prozessen und der Auswirkungen auf Skalierbarkeit und Reporting-Performance Praxiserfahrung mit Snowflake (oder vergleichbaren Cloud-DWH-/Data-Lake-Lösungen) sowie einem BI-Tool wie Metabase, Power BI oder Tableau Kenntnisse in Python oder einem ähnlichen Skript-/Analyse-Tool zur tiefergehenden Analyse, Prototyping und Automatisierung Fähigkeit, komplexe Daten und Zusammenhänge verständlich zu erklären – hohe Service- und Lösungsorientierung im Umgang mit internen Stakeholdern Strukturierte, selbstständige Arbeitsweise, Ownership-Mentalität und sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift Das bieten wir Dir Arbeitskultur Dich erwartet eine lösungsorientierte und datengetriebene Arbeitsweise, eine offene Feedbackkultur sowie ein starker Teamspirit. Zwei vom gesamten StackFuel-Team gewählte Trustees unterstützen Dich bei Fragen und Anliegen als neutrale, vertrauliche Anlaufstelle. Ownership Übernehme ab dem ersten Tag Verantwortung, bringe Deine eigenen Ideen aktiv ein, gestalte Prozesse nachhaltig und präge unsere Abläufe maßgeblich mit. Hybrides Arbeiten Wir arbeiten in einem hybriden Modell und sind üblicherweise 3 Tage pro Woche vor Ort in unserem Office in Berlin. Workation Bis zu 10 Tage pro Jahr kannst Du von überall aus der EU, dem EWR und der Türkei arbeiten. Raum für Austausch Regelmäßiger Austausch im Team, saisonale Feiern und eine immer gut gefüllte Küche sorgen für ein lebendiges Miteinander. Weiterentwicklung Absolviere unsere Online-Trainings, um Deine fachlichen Fähigkeiten auszubauen und Dich zur Expert:in für Daten und KI zu entwickeln. Find Jobs in Germany on Arbeitnow",
   "posted": "2026-08-05",
   "source": "arbeitnow",
   "org_cat": "aggregator",
@@ -18404,7 +18404,7 @@
   "visa_rank": 2,
   "posted_date": "2026-08-05",
   "posted_confidence": "approximate",
-  "age_days": 1,
+  "age_days": 2,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": null,
@@ -18418,9 +18418,9 @@
   "skill_hits": [
    "tableau",
    "python",
-   "git",
+   "sql",
    "ngs",
-   "sql"
+   "git"
   ],
   "signature_hits": [],
   "has_signature": false,
@@ -18430,7 +18430,7 @@
   "first_seen": "2026-08-06",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -18457,7 +18457,7 @@
   "visa_rank": 5,
   "posted_date": "2026-08-05",
   "posted_confidence": "approximate",
-  "age_days": 1,
+  "age_days": 2,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": 2,
@@ -18480,7 +18480,7 @@
   "first_seen": "2026-08-06",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -18507,7 +18507,7 @@
   "visa_rank": 5,
   "posted_date": "2026-08-05",
   "posted_confidence": "approximate",
-  "age_days": 1,
+  "age_days": 2,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": null,
@@ -18530,7 +18530,7 @@
   "first_seen": "2026-08-06",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -18557,7 +18557,7 @@
   "visa_rank": 2,
   "posted_date": "2026-08-05",
   "posted_confidence": "approximate",
-  "age_days": 1,
+  "age_days": 2,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": null,
@@ -18579,7 +18579,7 @@
   "first_seen": "2026-08-06",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -18606,7 +18606,7 @@
   "visa_rank": 5,
   "posted_date": "2026-08-05",
   "posted_confidence": "approximate",
-  "age_days": 1,
+  "age_days": 2,
   "freshness": "this week",
   "source_trust": "medium",
   "years_required": 2,
@@ -18626,7 +18626,7 @@
   "first_seen": "2026-08-06",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  },
@@ -18675,7 +18675,7 @@
   "applied": false,
   "notes": "",
   "last_seen": "2026-08-06",
-  "missed_runs": 0,
+  "missed_runs": 1,
   "status": "open"
  },
  {
@@ -18722,7 +18722,365 @@
   "first_seen": "2026-08-06",
   "applied": false,
   "notes": "",
-  "last_seen": "2026-08-06",
+  "last_seen": "2026-08-07",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Member of Commercial Staff",
+  "company": "Clera",
+  "location": "Munich",
+  "url": "https://www.arbeitnow.com/jobs/companies/clera/member-of-commercial-staff-munich-41946",
+  "description": "About the Role We're a small, fast-moving energy software company based in Munich building an end-to-end platform for industrial battery storage — spanning planning, AI-driven operation, and automated energy market trading. Our mission is to make industrial battery storage economical and intelligent, helping European industrial companies take control of rising energy costs. We're looking for a proactive Member of Commercial Staff to join our commercial team. In this role, you'll be a key driver of customer growth and satisfaction — owning the full customer lifecycle and helping shape how we go to market as we scale. What You'll Do Build and manage relationships with new customers from first contact through long-term engagement Own the customer lifecycle end-to-end — from onboarding to ensuring maximum satisfaction and retention Develop deep understanding of our product, the industrial energy storage market, and the evolving regulatory landscape Generate customer and market insights that inform commercial strategy and product direction Collaborate closely with a small, high-calibre team to drive revenue and customer success What We're Looking For Required: 2+ years of experience in a business role (e.g. sales, customer success, account management, business development, or similar) Strong communication and relationship-management skills — you're comfortable owning conversations with customers independently Genuine curiosity and ability to develop deep product, market, and customer insights Real passion for energy markets, renewable energy, or sustainability — and an appetite for the complexities of a fast-changing regulatory environment Entrepreneurial mindset: you're comfortable with ambiguity, take initiative, and thrive without a rigid playbook Nice to have: Background in or exposure to industrial energy, battery storage, or energy trading Experience at a high-growth B2B SaaS or energy-tech company Fluency in German (given our customer base in the DACH region) Compensation & Benefits Salary: €70,000 – €100,000 per year, depending on experience Visa sponsorship available Opportunity to grow with a small team at the forefront of the European energy transition Location This is an on-site role based in Munich, Germany . You'll be working closely with the founding team in our Munich office. Find Jobs in Germany on Arbeitnow",
+  "posted": "2026-08-07",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 8,
+  "match_terms": [
+   "commercial strategy",
+   "sustainability"
+  ],
+  "role_type": "full_time",
+  "region": "Other",
+  "visa_status": "explicit",
+  "visa_reason": "posting mentions visa sponsorship",
+  "visa_rank": 5,
+  "posted_date": "2026-08-07",
+  "posted_confidence": "approximate",
+  "age_days": 0,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": 2,
+  "degree_bar": null,
+  "experience_verdict": "stretch",
+  "experience_detail": "2 years of experience",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 0,
+  "skill_hits": [],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 8,
+  "key": "932e35e490004fba",
+  "already_contacted": false,
+  "first_seen": "2026-08-07",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-07",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "AIOps Lead",
+  "company": "M Kopa",
+  "location": "London",
+  "url": "https://www.arbeitnow.co.uk/jobs/companies/m-kopa/aiops-lead-london-343944",
+  "description": "We're hiring our first AIOps Lead to lead a team that designs, ships, and scales automations and AI agents across M-KOPA. This is a brand-new team within the business - the tech foundation is already proven, and now we need someone to lead it, scale it, and define what it becomes. The Impact Your production-grade automations and agents will directly improve how 2,300+ employees work across our global operations. We've already helped over 10 million customers access over $2 billion in credit - and the tools you build will help that mission scale further and faster. It's your chance to be part of something that's literally transforming lives across an entire continent 🌍 The Opportunity 🎯 Mission-driven engineering : Every automation you build helps internal teams and customer-facing staff deliver financial inclusion to Africa's Every Day Earners 🏆 Global recognition : Join a company named by TIME 100 as one of the world's most influential and by the Financial Times as Africa's fastest-growing for 5 consecutive years (2022–2026) 🚀 Scale challenges : 2,500+ employees across Kenya, Uganda, Nigeria, Ghana, South Africa, the UK, and Europe - internal teams that can't scale by hiring forever need intelligent tooling that actually works 🌱 Environmental impact : We're carbon-negative, having displaced over 2 million tonnes of emissions What You'll Do At M-KOPA, you'll lead the AI Ops team from day one - owning delivery, growing the function, and proving the value. You'll work daily with Claude, Claude Code, MCP, and LangChain to build production-grade agents and automations that internal teams actually use. Your team builds automations and agents for internal use and serves as internal consultants, helping Software Engineering teams integrate AI into customer-facing products. Your key responsibilities: Lead three AI Ops Engineers — own their delivery, development, and day-to-day work Prioritise efficiently — manage competing requests from multiple teams by applying a clear prioritisation framework you'll help develop and improve Design and ship multi-agent systems and production-grade automations that measurably improve how internal teams and customer-facing staff work Build RAG pipelines for internal knowledge retrieval that ground agents in real organisational context Keep the AI tooling stack healthy as usage scales across 2,500+ employees Stay current on emerging AI tools and technologies - know what's hype and what's actually useful Help refine AI training for the wider organisation, including Software Engineering teams Technical Environment 💻 AI & Agentic Frameworks: Claude, Claude Code, Anthropic tooling, LangChain, LangGraph, MCP, multi-agent orchestration, Google ADK (or similar agentic tooling) Automation & Prototyping: Scripting, workflow tools, AI-assisted development, rapid prototyping (Vercel/Railway) Enterprise Tooling: Identity automation (Entra), internal platforms, Notion, HiBob integrations Existing Foundation: Twelve months of Claude, Claude Code, Notion, HiBob, and Entra automations already running in production — you're building on proven foundations, not starting from zero Our Approach Build, don't just advise — this is a hands-on team that ships working automations and agents Prove the value, then expand — start with three engineers, demonstrate impact, grow from there Product-focused mindset — treat internal teams as customers and build tooling that works Cut through the hype — evaluate emerging AI tools on practical value, not marketing buzz What You Need We're looking for someone with a strong technical background and product-focused mindset. You won't be building models - we have Data Science teams for that. You'll be building multi-agent systems, shipping production-grade automations, and leading a team that makes M-KOPA's internal operations smarter and faster. Required Experience: Hands-on experience building production-grade automations and AI agents — scripting, workflow tools, or AI-assisted development Hands-on experience building multi-agent systems using agentic frameworks — LangChain, LangGraph, MCP, Google ADK or similar Experience with RAG pipelines — retrieval-augmented generation for internal knowledge and workflow automation Background in enterprise tooling — rapid prototyping tools (Vercel/Railway), identity automation (Entra), or internal platforms People leadership experience — you've led or mentored engineers and can own a team's delivery and development Why This Role? This is a brand new team within the business, reporting to the Director of Security. The tech stack is proven - twelve months of Claude, Claude Code, Notion, HiBob, and Entra automations already running. The team structure is what's new. That's yours to shape. You'll start with three engineers. Prove the value. Expand from there. The problems are complex. 2,500+ employees across Kenya, Uganda, Nigeria, Ghana, South Africa, the UK, and Europe. Internal teams that can't scale by hiring forever. Customer-facing staff who need tools that actually work. M-KOPA provides affordable financial and digital products to underserved communities across Africa - unlocking access to smartphones, credit, and insurance for millions of people. The automations and agents you build don't just save time internally - they help that mission reach more people. If you want to decide how AI actually gets used at scale across a growing fintech – this is the opportunity. Location & Benefits 🌍 Fully remote role within UTC -1 to UTC +3 time zones 🤝 Work with diverse teams across UK, Europe, and Africa 📚 Professional development programmes and coaching partnerships 👨‍👩‍👧‍👦 Family-friendly policies and flexible working arrangements 💚 Well-being support and career growth opportunities Our Mission 🌍 We create financial inclusion for the traditionally excluded through a fair, flexible, customer-centric financing model. We strive to drive greater inclusion of women, youth, and low-income communities. Our Impact 💚 Our techn",
+  "posted": "2026-08-07",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 8,
+  "match_terms": [
+   "environmental",
+   "environmental impact"
+  ],
+  "role_type": "internship",
+  "region": "UK",
+  "visa_status": "permit",
+  "visa_reason": "outside the US, so this needs a local work permit and the posting does not mention supporting one",
+  "visa_rank": 2,
+  "posted_date": "2026-08-07",
+  "posted_confidence": "approximate",
+  "age_days": 0,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 5,
+  "skill_hits": [
+   "git"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 13,
+  "key": "09f5cb137c19cab2",
+  "already_contacted": false,
+  "first_seen": "2026-08-07",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-07",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Management Graduate Program at SetSales",
+  "company": "Setsales",
+  "location": "London",
+  "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/management-graduate-program-at-setsales-london-439546",
+  "description": "<p>Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London.</p> <p><strong>Why <span data-sheets-root=\"1\" data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;SetSales&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">SetSales</span></strong></p> <p>We fundamentally believe our people are our greatest asset. At the company, you will work with incredible entrepreneurs who will push and guide you towards greatness.&nbsp;</p> <p>In short, we offer the brightest talents:</p> <ul> <li>An opportunity to fast-track your career through responsibility for high-impact projects that constantly push you out of your comfort zone.</li> <li>A chance to develop exceptional problem-solving, communication, and analytical skills.</li> <li>You will use your interests and skills to have real influence—typically quite early in your career—and to solve the problems no one else can solve.</li> <li>Hands-on experience building and scaling ventures together with the sharpest minds.</li> <li>Networking Opportunities, Expand your professional network and forge meaningful connections with peers, mentors, and industry leaders.</li> <li>Mentorship and guidance - A chance to work closely with our high-performing team as well as with the founder of our company, Mads Faurholt.</li> </ul> <p><strong>What roles are available</strong></p> <p>You’ll be part of building and scaling companies, which, depending on your talent profile and interests, could entail responsibilities such as:</p> <ul> <li>Being part of creating connections with key players from the industries we work in, such as CEOs, entrepreneurs, for example, co-founders of Airbnb, Apple, Starbucks etc. building and maintaining valuable relationships with them.</li> <li>Drive revenue growth by getting involved in the commercial strategy and execution.</li> <li>Expanding our audiences of senior industry professionals, investors, and future unicorn founders by defining and executing marketing strategies.</li> <li>Strategically contribute to hyper-growing the team of talented and skilled team members.</li> <li>Analyse the underlying metrics of the business to enable data-driven decisions.</li> </ul> <p><strong>What we expect from you</strong></p> <p>Our undergraduates join us from many backgrounds—there is no single “right” major or course of study.&nbsp;</p> <p>We believe in hiring talent and training for skills. We look for driven people with potential—we will teach you the rest.</p> <p>Furthermore, we expect that you:</p> <ul> <li>Are fluent in English, written and spoken.&nbsp;</li> <li>Have a UK working visa, or will obtain one by the start date</li> <li>At university you were either:</li> <ul> <li>The one who fought to get the best grades possible</li> <li>The one who was tirelessly involved in extracurriculars/societies&nbsp;</li> </ul> </ul> <p><strong>What comes after the internship</strong></p> <p>For exceptional performers, you will be considered for one of the few permanent positions as an associate in the firm. Staying in the firm beyond the internship is a springboard for achieving your career goal.</p> <p>Some examples of people who have completed the internship, and been &gt;1 year in the associate role</p> <ul> <li>Been promoted to CEO in one of our group companies</li> <li>Landed offers at McKinsey, Blackrock, and Andreessen Horowitz-backed startup</li> <li>Founded a company with six-figure revenue within the first year</li> </ul> <p><strong>Starting day</strong></p> <p>We believe in empowering you to shape your internship experience to fit your academic schedule and personal aspirations. That's the reason why you can choose from our array of&nbsp; internship sessions to embark on a journey that aligns perfectly with your goals:</p> <ul> <li>Spring Internship</li> <li>Summer Internship</li> <li>Fall Internship</li> <li>Winter Internship</li> </ul> <p><strong>About us</strong></p> <p>SetSales is Northern Europe’s leading sales community and aims to connect and develop commercially-minded executives, decision makers in sales, and aspiring entrepreneurs. We are connecting more than 4,000 professionals from more than 15 countries every year.</p> <p>SetSales is part of United Media which focuses on building large scale industry media and conferences products in sectors such as insurance, HR, private equity, retail, etc. As of today, we have organically launched 8 media companies and acquired one.</p> Find Jobs in United Kingdom on Arbeitnow",
+  "posted": "2026-08-07",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 6,
+  "match_terms": [
+   "commercial strategy"
+  ],
+  "role_type": "new_grad",
+  "region": "UK",
+  "visa_status": "permit",
+  "visa_reason": "outside the US, so this needs a local work permit and the posting does not mention supporting one",
+  "visa_rank": 2,
+  "posted_date": "2026-08-07",
+  "posted_confidence": "approximate",
+  "age_days": 0,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 3,
+  "skill_hits": [
+   "founded"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 9,
+  "key": "a7df73dd0fcaa447",
+  "already_contacted": false,
+  "first_seen": "2026-08-07",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-07",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "QA Engineer",
+  "company": "InCycling GmbH",
+  "location": "Erfurt",
+  "url": "https://www.arbeitnow.com/jobs/companies/incycling-gmbh/qa-engineer-erfurt-343668",
+  "description": "About InCycling Every year €26 billion worth of perfectly usable chemical raw materials are getting destroyed, generating millions of tonnes of avoidable CO₂ emissions and hazardous waste, not because they lack value, but because no system exists to capture it. InCycling is changing that. We are building a cloud-native AI-driven B2B platform with deep SAP integration, automated regulatory compliance workflows, and ML-based supply-vs-demand matching for scalable surplus chemical management. We are live with a couple of global DAX-tier enterprise pilot across 10+ production sites in 10+ countries and 3 continents with over 600 tonnes of surplus chemicals already in our deal pipeline. You would be joining at the moment where the foundation you build will define how the platform scales. Tasks The role You'll be a second pair of eyes across our software delivery lifecycle, working alongside engineers to build quality in from requirements through release rather than checking it at the end. We're evolving from a continuous-delivery setup with strong automated coverage toward more deliberate quality practices, and you'll help shape what that looks like — including how we make good use of AI in our own engineering and testing work. Over time you'll grow into building automated integration testing across our key seams: platform ↔ ML, platform ↔ SAP, and external seller integrations. A meaningful part of the role supports our regulatory-compliance work: producing the documented, auditable evidence that shows our ML-based compliance solution does what we claim it does. What you'll do Partner with engineers to build quality into deliverables across the SDLC — requirements, design, code, and release Plan, execute, and document tests across features and integrations Analyze test coverage and identify gaps, balancing automated and manual approaches Ensure defects are triaged, tracked, and resolved, and that quality risks are surfaced early Maintain traceability between requirements and testing as our practices mature Build up automated integration test coverage over time (platform ↔ ML, platform ↔ SAP) Produce structured evidence to support our regulatory and compliance objectives Help evolve our quality practices, with a focus on integrating AI into how we engineer and test Requirements Solid grounding in software QA fundamentals — test planning and execution, coverage analysis, defect lifecycle, and traceability Basic test automation skills — scripting in Python or Java and hands-on experience with Selenium (or a comparable framework) Some corporate / structured SQA experience — you've seen how quality processes work in a real organization Comfortable testing APIs and integrations Curious about applying AI to testing and engineering workflows Pragmatic about process — able to add structure without slowing a small, fast-moving team Detail-oriented, willing to raise quality concerns constructively, and able to communicate clearly with engineers Good working English, German is a plus Nice to have Exposure to regulated / quality-managed environments (GxP, CSV, ISO, or similar) Experience with SAP integrations or ML-based systems Understanding of cloud infrastructure (AWS) Benefits We offer: The opportunity to build a digital platform from the ground up, influencing key architectural and engineering decisions; A small, highly collaborative team, fast decision-making. Direct mentorship from experienced data scientists and engineers (you won’t be learning from docs alone!), direct access to founders. A mission-driven product contributing to the circular economy by reducing waste and CO₂ emissions in the chemical industry. A pragmatic engineering culture with modern tools, including AI-assisted development. A flexible hybrid working setup and a culture built on ownership, collaboration, and continuous learning. Starting as a 24-month engagement tied to our funding cycle, with every intention of building a long-term journey together as InCycling grows. Urban Sports Club membership as a company health benefit or a mobility budget. Access to corporate employee benefits platforms with regularly changing monthly offers and discounts. We welcome candidates from all backgrounds, who believe in our mission. If you do not match 100% of the requirements, but believe you can do the job, please apply: perfect candidates do not exist, but wonderful colleagues do. Find more English Speaking Jobs in Germany on Arbeitnow",
+  "posted": "2026-08-06",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 7,
+  "match_terms": [
+   "data scientist",
+   "python"
+  ],
+  "role_type": "full_time",
+  "region": "Other",
+  "visa_status": "permit",
+  "visa_reason": "outside the US, so this needs a local work permit and the posting does not mention supporting one",
+  "visa_rank": 2,
+  "posted_date": "2026-08-06",
+  "posted_confidence": "approximate",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 17,
+  "skill_hits": [
+   "python",
+   "ngs",
+   "git",
+   "aws"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 24,
+  "key": "7c576dd8d968140c",
+  "already_contacted": false,
+  "first_seen": "2026-08-07",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-07",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Climate Success Manager (full-time internship)",
+  "company": "Emidat GmbH",
+  "location": "Munich",
+  "url": "https://www.arbeitnow.com/jobs/companies/emidat-gmbh/climate-success-manager-full-time-internship-munich-302516",
+  "description": "👷🏻‍♀️ What we do 👷🏻‍♀️ At Emidat, we are building the first climate-native product management system for building material manufacturers. We aim to decarbonise building materials, making up 11% of global GHG emissions. We collect data from physical production processes, generate a digital product passport with verified environmental data and make it usable along the value chain. In short: One solution to assess, design, buy, sell and manage products - with environmental impact at the core. With this, we are building the digital infrastructure to make it faster, easier, and more sustainable to build the world around us. Find out more about us, the team and our values here. What you will work on Your mission Join our Climate Success team as a full-time Intern and support our customers across the entire user journey - from onboarding to day-to-day support to technical questions. Your focus will be twofold: creating real value for our customers, as well as driving internal processes within the CS team to make us more efficient. Along the way, you'll gain hands-on insight into product management (including our Digital Twin area), LCA engineering, and how new applications get built into an existing product. You'll also work closely with our LCA Domain Experts, giving you exposure to the technical foundation of our product. At the same time, you'll dive into the building materials industry itself: getting to know manufacturers of cement, steel, windows, construction chemicals, asphalt, electronic building equipment and many more - and understanding how differently each of them approaches EPDs and LCAs. During your internship, you will Support the CS team across all stages of the customer journey, from onboarding to ongoing support (including, participating in customer meetings & visits, answering customer requests, validating EPD and LCA’s) Contribute to and help shape internal processes (i.e automating workflows of data transfers and customer communications, analysing user behaviour) Own an individual project end-to-end, driving it forward independently within your time at Emidat (e.g. improvement of usability of Emidat platform with customer knowledge & insights gained through internship). Get direct insight into how CS, Product, and our LCA Domain Experts collaborate. Build a broad understanding of the building materials industry and its sustainability requirements. What you should bring to this role Minimum Requirements Languages: Business fluent in German (C2/Native) and English (C1/C2) Project Management: Demonstrated previous experience taking projects from start to finish - owning, structuring and driving the measurable outcomes. AI native: Hands-on experience using AI tools to automate a workflow, analyse data, or accelerate a deliverable — comfortable experimenting with new AI features as they emerge. Demonstrated Interest: Relevant work experience, education or interest in the sector. Demonstrated through engagement with climate topics, the building materials / construction industry, or how software can capture complex technical processes. Nice to have's Languages: Business fluency in an additional European language (Spanish, French, Italian, Portuguese, Turkish). Experience: Previous experience in a customer-facing role (i.e Customer Success, Support, Onboarding, Sales, or Consulting) where you managed relationships or solved problems in real time. How we support you Your team lead will be Sina Dupslaff Zamorano (Team Lead, Climate Success) You will work with Linus Müller , Climate Success Manager Timon Rückel , Climate Success Manager Vadzim Kvachynski , Climate Success Manager Anna Sander-Titgemeyer , LCA Expert Jona van der Ham , LCA Expert Areeba Qureshi , LCA Expert Meet the rest of the team HERE. See our full benefits HERE, including: 💸 Attractive compensation package 🏖️ 25 days of vacation days per year (pro rata) 📚 €500 Learning Budget Admin: Start date: As soon as possible Role type: Full time internship. Location: Munich, Germany Office Requirement: Office based Visa / Relocation: Preference will be given to candidates already based in Munich and that do not require visa sponsorship. However, we are open to candidates who may need relocation or a visa. Find Jobs in Germany on Arbeitnow",
+  "posted": "2026-08-06",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 14,
+  "match_terms": [
+   "climate",
+   "environmental",
+   "environmental impact",
+   "sustainability"
+  ],
+  "role_type": "internship",
+  "region": "Other",
+  "visa_status": "explicit",
+  "visa_reason": "posting mentions visa sponsorship",
+  "visa_rank": 5,
+  "posted_date": "2026-08-06",
+  "posted_confidence": "approximate",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 10,
+  "skill_hits": [
+   "ngs",
+   "git"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 24,
+  "key": "06bd058d13dc97e4",
+  "already_contacted": false,
+  "first_seen": "2026-08-07",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-07",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Java Softwareentwickler - Backend & Microservices (w/m/d)",
+  "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+  "location": "Münster",
+  "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/java-softwareentwickler-backend-microservices-munster-148102",
+  "description": "Als Java Entwickler:in gestaltest Du von der technischen Konzeption, bis hin zur erfolgreichen Implementierung, die Softwareentwicklungsprojekte unserer Kunden. Dabei bringst Du Dein technisches Know-how in modernen Java-Architekturen und Frameworks ein und arbeitest eng mit Projektmanager:innen, Business Analyst:innen und weiteren Entwickler*innen zusammen. Aufgaben Eigenverantwortliche Beratung, Gestaltung & Umsetzung der IT-Projekte unserer Kunden Technische Umsetzung fachlicher Anforderungen in klassischen und agilen Entwicklungsteams Entwicklung moderner Client-Server Anwendungen mit Web Frontend und Java Backend für unsere Kunden Partnerschaftliche Zusammenarbeit & offene Kommunikation mit unseren Kunden & Stakeholdern Qualifikation Mindestens drei Jahre Erfahrung in der Entwicklung von Java-Enterprise-Anwendungen mit Spring, Spring Boot Du hast Spaß daran dein Wissen mit anderen Kolleg: innen zu teilen und ggfs. neue Entwickler: innen einzuarbeiten Erweiterte Kenntnisse im Umgang mit relationalen Datenbanken wie PostgreSQL, MS SQL oder Oracle DB Erfahrung beim Design und der Umsetzung von RESTful APIs Sicherer Umgang mit modernen Entwicklungswerkzeugen wie Git, Jenkins, Maven, SonarQube etc. Du hast Spaß an agilen Entwicklungsmethoden wie TDD, CleanCode, Continous Integration, Testautomatisierung Idealerweise Interesse an DevOps und Cloud Technologien wie Docker, Kubernetes, Terraform etc. Deutschkenntnisse (mind. C1) Benefits Vertrauensarbeitszeit & bezahlte Überstunden 30 Tage Urlaub HanseFit Mitgliedschaft Neustes MacBook & iPhone JobRad & Bahncard 1. Klasse bei Bedarf Regelmäßige Firmenveranstaltungen wie Thementage, Community-Days, Unternehmensfahrt, BBHT-Stammtisch und viele mehr Interne Entwicklungscommunity mit regelmäßigen internen Projekten, Code-Dojos und Vorträgen Besuche von Entwicklungskonferenzen (z. B. der JAX) und Teilnahme an Hackdays Modernes hundefreundliches Büro direkt am Hafen Mentoringprogramm Bei uns zählt das Prinzip „voneinander, füreinander\". Jede Person bringt ihre eigenen Interessen und Fähigkeiten ein und trägt so zum Teamerfolg bei. Unser offenes und unterstützendes Arbeitsumfeld fördert den Austausch und die Zusammenarbeit, bei Problemen stehen unsere Türen jederzeit für alle offen. Neue Teammitglieder werden zudem durch unser Mentoringprogramm begleitet, das ihnen einen schnellen und effektiven Einstieg ermöglicht. Auch wenn wir die meiste Zeit remote arbeiten können, gehören 2 bis 3 Vor-Ort-Termine im Monat, etwa bei Firmenveranstaltungen oder Weiterbildungen, fest zu unserer Unternehmenskultur und Zusammenarbeit dazu. Wir freuen uns darauf, Dich kennenzulernen und gemeinsam über Deine Perspektiven und Möglichkeiten bei uns zu sprechen. Find Jobs in Germany on Arbeitnow",
+  "posted": "2026-08-06",
+  "source": "arbeitnow",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 7,
+  "match_terms": [
+   "business analyst",
+   "sql"
+  ],
+  "role_type": "full_time",
+  "region": "Other",
+  "visa_status": "permit",
+  "visa_reason": "outside the US, so this needs a local work permit and the posting does not mention supporting one",
+  "visa_rank": 2,
+  "posted_date": "2026-08-06",
+  "posted_confidence": "approximate",
+  "age_days": 1,
+  "freshness": "this week",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 17,
+  "skill_hits": [
+   "mentoring",
+   "docker",
+   "sql",
+   "ngs",
+   "git"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 24,
+  "key": "c4ac126992b9ad68",
+  "already_contacted": false,
+  "first_seen": "2026-08-07",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-07",
+  "missed_runs": 0,
+  "status": "open"
+ },
+ {
+  "title": "Data Entry Specialist",
+  "company": "name",
+  "location": "South Africa",
+  "url": "https://himalayas.app/companies/pavago/jobs/data-entry-specialist",
+  "description": "Data Entry Specialist (Excel / CRM / High Accuracy) – Remote Position Type: Full-Time, Remote Working Hours: U.S. Business Hours About the Role We’re hiring a Data Entry Specialist to ensure critical business data is accurate, complete, and always up to date across systems. This is not just basic data entry. This role is responsible for data accuracy, consistency, and reliability — directly impacting decisions across finance, sales, operations, and leadership. If you’re detail-obsessed and catch mistakes others miss, this role fits you well. What You’ll Do Data Entry & Accuracy (Core Focus) Enter and update records in: Salesforce HubSpot Airtable Excel / Google Sheets Cross-check entries against: Invoices Contracts Customer and HR records Identify and fix: Duplicate records Missing data Formatting inconsistencies Data Cleaning & Maintenance Standardize datasets using: Filters Pivot tables Formulas Apply consistent: Naming conventions Categories Data structures Perform weekly audits to maintain data quality File & Record Management Organize and maintain files in: Google Drive Dropbox Microsoft SharePoint Ensure all files are: Structured Searchable Version-controlled Audit-ready Reporting & Cross-Team Support Generate daily/weekly reports: Transaction logs Status updates Data audit summaries Support: Finance (AR/AP entries) Sales (lead/contact updates) HR (employee records) Compliance & Data Security Maintain strict confidentiality of sensitive data Ensure compliance with: GDPR HIPAA CCPA Process Improvement Identify recurring data issues Recommend: Automation opportunities Better templates Improved workflows Help reduce manual errors over time What Makes You a Strong Fit You notice errors instantly You are highly consistent and disciplined You are comfortable with repetitive, high-volume work You take ownership of data accuracy Required Experience & Skills 1–2 years of data entry, clerical, or admin experience Strong proficiency in: Excel / Google Sheets (filters, pivots, formulas) Experience with CRMs like: Salesforce or HubSpot High typing speed with strong accuracy Strong attention to detail Nice to Have (Top Candidates) Experience in high-volume environments (finance, e-commerce, healthcare) Basic SQL or scripting knowledge Familiarity with data cleaning tools Exposure to compliance-heavy workflows What a Typical Day Looks Like Enter and update data across CRM and spreadsheets Audit records for accuracy and completeness Clean datasets (duplicates, missing fields, formatting) Cross-check data with source documents Generate reports for internal teams Organize and maintain digital records In short: You ensure the business can trust its data 100% of the time . Key Metrics (KPIs) Typing accuracy ≥ 98% Error rate < 1% Same-day or next-day data updates Reports delivered on time Clean, structured, audit-ready datasets Why This Role Stands Out Clear, structured work environment High ownership over data quality Direct impact on business decisions Opportunity to grow into: Data Analyst Operations Analyst Reporting Specialist Apply Now If you: Care about precision Work fast without sacrificing accuracy Take pride in clean, organized data This role is a strong fit. Originally posted on Himalayas",
+  "posted": null,
+  "source": "himalayas",
+  "org_cat": "aggregator",
+  "country_hint": "",
+  "cap_exempt": false,
+  "department": "",
+  "relevance": 7,
+  "match_terms": [
+   "data analyst",
+   "sql"
+  ],
+  "role_type": "seasonal",
+  "region": "Other",
+  "visa_status": "permit",
+  "visa_reason": "outside the US, so this needs a local work permit and the posting does not mention supporting one",
+  "visa_rank": 2,
+  "posted_date": null,
+  "posted_confidence": "unknown",
+  "age_days": 0,
+  "freshness": "undated",
+  "source_trust": "medium",
+  "years_required": null,
+  "degree_bar": null,
+  "experience_verdict": "unstated",
+  "experience_detail": "no experience requirement stated",
+  "is_university": false,
+  "academic_bench": false,
+  "academic_reason": "",
+  "skill_score": 7,
+  "skill_hits": [
+   "git",
+   "sql"
+  ],
+  "signature_hits": [],
+  "has_signature": false,
+  "total_score": 14,
+  "key": "6d4103d47b410397",
+  "already_contacted": false,
+  "first_seen": "2026-08-07",
+  "applied": false,
+  "notes": "",
+  "last_seen": "2026-08-07",
   "missed_runs": 0,
   "status": "open"
  }
