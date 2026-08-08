@@ -40,6 +40,29 @@ run:
   retries: 2
   user_agent: "job-radar/1.0 (personal job search tool)"
 
+# Places you actually want to be. A posting in one of these gets a scoring
+# bonus and a badge on the dashboard, so a good role in San Diego outranks an
+# equally good one in Ohio. This changes ranking only, never filtering.
+priority_locations:
+  west_coast:
+    bonus: 10
+    markers: ["san diego", "la jolla", "carlsbad", "san francisco", "south san francisco",
+              "bay area", "berkeley", "oakland", "emeryville", "palo alto", "menlo park",
+              "mountain view", "redwood city", "san jose", "santa cruz", "sunnyvale",
+              "seattle", "bellevue", "portland", ", ca", ", wa", ", or",
+              "california", "washington state", "oregon"]
+  copenhagen:
+    bonus: 8
+    markers: ["copenhagen", "københavn", "kobenhavn", "denmark", "danmark",
+              "lyngby", "hørsholm", "horsholm", "hillerød", "roskilde",
+              "aarhus", "odense", "greenland", "nuuk"]
+  india:
+    bonus: 8
+    markers: ["india", "bengaluru", "bangalore", "hyderabad", "mumbai", "pune",
+              "delhi", "new delhi", "gurugram", "gurgaon", "noida", "chennai",
+              "kolkata", "ahmedabad", "thiruvananthapuram", "kochi", "goa",
+              "dehradun", "mysuru", "mysore"]
+
 geography:
   # She said anywhere. These only affect the region label and the F-1 logic,
   # not whether a posting is kept.
@@ -65,6 +88,9 @@ sources:
 
 adzuna:
   countries: [us, gb, de, in, nl, ca, au, sg]
+  # India is included in countries below, and these queries are run against
+  # every country, so Indian genomics and conservation roles come through here
+  # as well as from the employer pages.
   queries:
     - bioinformatics
     - computational biology
@@ -79,6 +105,13 @@ adzuna:
     - laboratory technician
     - ecology technician
     - remote sensing ecology
+    - genomics research associate
+    - project assistant biology
+    - junior research fellow
+    - clinical genomics analyst
+    - wildlife conservation
+    - marine conservation
+    - science communication
 
 usajobs:
   # Federal roles rarely take F-1 candidates. Kept on because a handful of

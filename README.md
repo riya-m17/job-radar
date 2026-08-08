@@ -190,6 +190,17 @@ posting.
 | `stale_after_days` | past this a posting is shown but marked ageing |
 | `drop_blocked` | removes roles needing citizenship, permanent residence or a clearance |
 
+**On places.** `settings.yaml` has a `priority_locations` block for the west
+coast, Copenhagen and India. Postings there get a scoring bonus and a badge, so
+a good role in San Diego outranks an equally good one in Ohio. This only affects
+ranking, never filtering, and there is a filter row for the three of them.
+
+**On deadlines.** A closing date is only shown when the employer states one, in
+the text or a structured field. Nothing is inferred from the posting date, so
+"no deadline stated" means exactly that. Postings that say they review on a
+rolling basis are labelled that way, since early beats on-time there. Anything
+closing within a fortnight gets a red CLOSING tag and jumps the default sort.
+
 **On dates.** Employer career pages publish a real publication date and those
 are marked exact. Feeds publish one but re-date items when they re-syndicate,
 so those show a tilde and are treated as roughly right. Some conservation

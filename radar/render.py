@@ -153,6 +153,12 @@ details.drawer[open]>summary::after{content:'close'}
 .meta .fresh{color:var(--kelp)}
 .meta .old{color:#B08A4E}
 .meta .nodate{color:var(--dim)}
+.meta .deadline{color:var(--glacier)}
+.meta .urgent{color:var(--rust)}
+.urgenttag{font-family:'IBM Plex Mono',monospace;font-size:9.5px;letter-spacing:.1em;
+  background:var(--rust);color:#fff;padding:2px 6px;border-radius:2px;font-weight:600}
+.placetag{font-family:'IBM Plex Mono',monospace;font-size:9.5px;letter-spacing:.1em;
+  border:1px solid #2A4E60;color:var(--glacier);padding:2px 6px;border-radius:2px}
 .oldtag{font-family:'IBM Plex Mono',monospace;font-size:9.5px;letter-spacing:.1em;
   border:1px solid #5A452C;color:#C79A5E;padding:2px 6px;border-radius:2px}
 .tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:9px}
@@ -200,8 +206,9 @@ footer{border-top:1px solid var(--rule);margin-top:44px;padding:22px 0 60px;
 JS = """
 const DATA = __DATA__;
 const state = {q:'', type:new Set(), cat:new Set(), visa:new Set(), region:new Set(),
-               fresh:new Set(), exp:new Set(), newOnly:false, exemptOnly:false,
-               starOnly:false, hideApplied:false, hideUndated:false, sort:'best'};
+               fresh:new Set(), exp:new Set(), place:new Set(), newOnly:false,
+               exemptOnly:false, starOnly:false, closingOnly:false,
+               hideApplied:false, hideUndated:false, sort:'best'};
 let applied = {};
 try{ applied = JSON.parse(localStorage.getItem('radar-applied')||'{}'); }catch(e){}
 
@@ -213,9 +220,22 @@ function dateLine(j){
   if(j.posted_confidence === 'unknown') return 'no date published';
   const d = j.age_days;
   const ago = d <= 0 ? 'today' : d === 1 ? 'yesterday' : d + 'd ago';
-  const hedge = j.posted_confidence === 'approximate' ? '~' : '';
-  return 'posted ' + hedge + ago;
+  return 'opened ' + (j.posted_confidence === 'approximate' ? '~' : '') + ago;
 }
+
+function closeLine(j){
+  if(j.closes_kind === 'stated'){
+    const n = j.closes_in_days;
+    const when = n <= 0 ? 'closes today' : n === 1 ? 'closes tomorrow'
+               : 'closes in ' + n + 'd';
+    return '<span class="'+(j.closing_soon?'urgent':'deadline')+'">'+when+
+           ' &middot; ' + j.closes_date + '</span>';
+  }
+  if(j.closes_kind === 'rolling') return '<span class="nodate">rolling, apply early</span>';
+  return '<span class="nodate">no deadline stated</span>';
+}
+
+const PLACE_LABEL = {west_coast:'WEST COAST', copenhagen:'COPENHAGEN', india:'INDIA'};
 
 function matches(j){
   if(state.newOnly && !j.is_new) return false;
@@ -228,6 +248,8 @@ function matches(j){
   if(state.region.size && !state.region.has(j.region)) return false;
   if(state.fresh.size && !state.fresh.has(j.freshness)) return false;
   if(state.exp.size && !state.exp.has(j.experience_verdict)) return false;
+  if(state.place.size && !state.place.has(j.priority_place)) return false;
+  if(state.closingOnly && !j.closing_soon) return false;
   if(state.hideUndated && j.posted_confidence === 'unknown') return false;
   if(state.q){
     const hay = (j.title+' '+j.company+' '+j.location+' '+
@@ -244,7 +266,12 @@ const SORTS = {
   fit:   (a,b) => b.total_score-a.total_score,
   skill: (a,b) => b.skill_score-a.skill_score || b.total_score-a.total_score,
   date:  (a,b) => ageOf(a)-ageOf(b) || b.total_score-a.total_score,
-  best:  (a,b) => (ageOf(a)-ageOf(b))*0.6 - (a.total_score-b.total_score)
+  // Fit and fresh, but a stated deadline inside a fortnight jumps the queue,
+  // because a good match you can no longer apply to is worth nothing.
+  best:  (a,b) => (b.closing_soon?1:0)-(a.closing_soon?1:0)
+                  || (ageOf(a)-ageOf(b))*0.6 - (a.total_score-b.total_score),
+  closes:(a,b) => (a.closes_in_days==null?9999:a.closes_in_days)
+                  - (b.closes_in_days==null?9999:b.closes_in_days)
 };
 
 function render(){
@@ -272,11 +299,13 @@ function render(){
           (j.is_new?'<span class="newtag">NEW</span>':'')+
           (j.has_signature?'<span class="startag">YOUR NICHE</span>':'')+
           (j.freshness==='ageing'?'<span class="oldtag">'+j.age_days+'D OLD</span>':'')+
+          (j.closing_soon?'<span class="urgenttag">CLOSING</span>':'')+
+          (j.priority_place?'<span class="placetag">'+PLACE_LABEL[j.priority_place]+'</span>':'')+
         '</div>'+
         '<div class="meta"><span class="co">'+esc(j.company)+'</span>'+
           '<span>'+esc(j.location||j.region||'location not stated')+'</span>'+
           '<span class="'+(j.freshness==='ageing'?'old':j.freshness==='undated'?'nodate':'fresh')+'">'+
-            dateLine(j)+'</span></div>'+
+            dateLine(j)+'</span>'+closeLine(j)+'</div>'+
         '<div class="tags">'+
           '<span class="tag visa-'+j.visa_status.replace('/','')+'">F-1 '+esc(j.visa_status)+'</span>'+
           '<span class="tag">'+esc(TYPE_LABEL[j.role_type]||j.role_type)+'</span>'+
@@ -439,6 +468,11 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
             "posted_confidence": j.get("posted_confidence", "unknown"),
             "age_days": j.get("age_days", 0),
             "freshness": j.get("freshness", "undated"),
+            "closes_date": j.get("closes_date"),
+            "closes_kind": j.get("closes_kind", "none"),
+            "closes_in_days": j.get("closes_in_days"),
+            "closing_soon": bool(j.get("closing_soon")),
+            "priority_place": j.get("priority_place", ""),
             "experience_verdict": j.get("experience_verdict", "unstated"),
             "experience_detail": j.get("experience_detail", ""),
             "years_required": j.get("years_required"),
@@ -457,6 +491,8 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
     exempt_count = sum(1 for p in payload if p["cap_exempt"])
     niche_count = sum(1 for p in payload if p["has_signature"])
     week_count = sum(1 for p in payload if p["freshness"] == "this week")
+    closing_count = sum(1 for p in payload if p["closing_soon"])
+    priority_count = sum(1 for p in payload if p["priority_place"])
 
     labels = {"full_time": "full time", "new_grad": "new grad",
               "internship": "internship", "fellowship": "fellowship",
@@ -471,6 +507,12 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
     exp_counts = tally("experience_verdict")
     exp_chips = "".join(_chip("exp", k, k, exp_counts[k])
                         for k in exp_order if k in exp_counts)
+    place_labels = {"west_coast": "west coast", "copenhagen": "Copenhagen",
+                    "india": "India"}
+    place_counts = tally("priority_place")
+    place_chips = "".join(_chip("place", k, place_labels[k], place_counts[k])
+                          for k in ("west_coast", "copenhagen", "india")
+                          if place_counts.get(k))
     cat_chips = "".join(_chip("cat", k, CATEGORIES.get(k, k), v)
                         for k, v in tally("org_cat").items() if v >= 2)
     visa_chips = "".join(_chip("visa", k, k, v) for k, v in tally("visa_status").items())
@@ -509,7 +551,9 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
   <div class="count new"><div class="n">{new_count}</div><div class="k">new today</div></div>
   <div class="count exempt"><div class="n">{exempt_count}</div><div class="k">cap exempt</div></div>
   <div class="count"><div class="n">{niche_count}</div><div class="k">your niche</div></div>
-  <div class="count"><div class="n">{week_count}</div><div class="k">posted this week</div></div>
+  <div class="count"><div class="n">{week_count}</div><div class="k">opened this week</div></div>
+  <div class="count"><div class="n">{closing_count}</div><div class="k">closing in 14d</div></div>
+  <div class="count"><div class="n">{priority_count}</div><div class="k">where you want</div></div>
 </div></div></section>
 
 <div class="controls"><div class="wrap">
@@ -521,14 +565,17 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
     {_chip("flag", "exemptOnly", "cap exempt only")}
     {_chip("flag", "hideApplied", "hide applied")}
     {_chip("flag", "hideUndated", "hide undated")}
+    {_chip("flag", "closingOnly", "closing within 14d")}
     <span class="grouplabel">sort</span>
     <button class="chip" data-group="sort" data-value="best" aria-pressed="true">fit and fresh</button>
     <button class="chip" data-group="sort" data-value="date" aria-pressed="false">newest</button>
+    <button class="chip" data-group="sort" data-value="closes" aria-pressed="false">closing soonest</button>
     <button class="chip" data-group="sort" data-value="fit" aria-pressed="false">best fit</button>
     <button class="chip" data-group="sort" data-value="skill" aria-pressed="false">skill overlap</button>
   </div>
   <details class="drawer"><summary>filters</summary>
     <div class="drawerbody">
+      <div class="chips"><span class="grouplabel">where you want</span>{place_chips}</div>
       <div class="chips"><span class="grouplabel">posted</span>{fresh_chips}</div>
       <div class="chips"><span class="grouplabel">experience</span>{exp_chips}</div>
       <div class="chips"><span class="grouplabel">type</span>{type_chips}</div>
@@ -553,6 +600,8 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
   which can file an H-1B outside the annual lottery.<br>
   Permit means a role outside the US: no F-1 question, but a local work permit is still
   needed and the posting says nothing about supporting one.<br>
+  Closing dates are only shown when the employer states one. Nothing is inferred
+  from the posting date, so "no deadline stated" means exactly that.<br>
   Roles asking for more than two years of experience, a doctorate, or bench work
   in a named professor's university laboratory are removed. The employer stays in
   the registry either way, so it is still watched for roles you could actually get.<br>

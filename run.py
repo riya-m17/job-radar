@@ -13,8 +13,8 @@ import argparse
 import collections
 from pathlib import Path
 
-from radar import (classify, discovery, freshness, profile_match, programs,
-                   render, requirements, store, visa)
+from radar import (classify, deadlines, discovery, freshness, profile_match,
+                   programs, render, requirements, store, visa)
 from radar.sources import ats, boards, feeds
 from radar.util import ROOT, log, setup_logging, settings
 
@@ -74,6 +74,7 @@ def main() -> None:
             dropped[why.split("(")[0].strip()] += 1
             continue
 
+        result.update(deadlines.assess(result))
         result.update(profile_match.assess(result))
         # Ranking combines topic relevance with how much of the posting she can
         # actually already do. The two are shown separately on the dashboard.
@@ -87,11 +88,17 @@ def main() -> None:
     # 4. Remember, then publish.
     open_jobs, new_today = store.merge(kept)
     open_jobs.sort(key=lambda j: (-j.get("visa_rank", 3), -j.get("total_score", 0)))
-    dated = sum(1 for j in open_jobs if j.get("posted_confidence") == "exact")
-    log.info("dates: %d exact, %d approximate, %d unknown",
-             dated,
+    log.info("posted dates: %d exact, %d approximate, %d unknown",
+             sum(1 for j in open_jobs if j.get("posted_confidence") == "exact"),
              sum(1 for j in open_jobs if j.get("posted_confidence") == "approximate"),
              sum(1 for j in open_jobs if j.get("posted_confidence") == "unknown"))
+    log.info("deadlines: %d stated, %d rolling, %d closing within 14d",
+             sum(1 for j in open_jobs if j.get("closes_kind") == "stated"),
+             sum(1 for j in open_jobs if j.get("closes_kind") == "rolling"),
+             sum(1 for j in open_jobs if j.get("closing_soon")))
+    for place in ("west_coast", "copenhagen", "india"):
+        n = sum(1 for j in open_jobs if j.get("priority_place") == place)
+        log.info("  %-12s %d openings", place, n)
     calendar = programs.load()
     render.write(open_jobs, store.history(), calendar)
     log.info("calendar: %d programmes, %d need attention now",

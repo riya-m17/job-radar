@@ -387,3 +387,156 @@ organizations:
   - {name: NIRAS, cat: env_consulting, country: DK, hints: [niras]}
   - {name: COWI, cat: env_consulting, country: DK, hints: [cowi]}
   - {name: DHI Group Water and Environment, cat: env_consulting, country: DK, hints: [dhigroup, dhi]}
+
+  # =====================================================================
+  # INDIA
+  # Genomics, biotech and conservation employers hiring in India. No visa
+  # question at all here, which makes these structurally easier than any US
+  # role, and several run formal graduate intakes.
+  # =====================================================================
+  - {name: MedGenome, cat: genomics, country: IN, hints: [medgenome]}
+  - {name: Strand Life Sciences, cat: genomics, country: IN, hints: [strandls, strand]}
+  - {name: Eurofins Genomics India, cat: genomics, country: IN, hints: [eurofins]}
+  - {name: Neuberg Diagnostics, cat: health_data, country: IN, hints: [neuberg]}
+  - {name: Metropolis Healthcare, cat: health_data, country: IN, hints: [metropolis, metropolisindia]}
+  - {name: Dr Lal PathLabs, cat: health_data, country: IN, hints: [lalpathlabs]}
+  - {name: Thyrocare, cat: health_data, country: IN, hints: [thyrocare]}
+  - {name: HaystackAnalytics, cat: genomics, country: IN, hints: [haystackanalytics]}
+  - {name: Karkinos Healthcare, cat: health_data, country: IN, hints: [karkinos]}
+  - {name: Biocon, cat: biotech, country: IN, hints: [biocon]}
+  - {name: Syngene International, cat: lab_services, country: IN, hints: [syngene, syngeneintl]}
+  - {name: Serum Institute of India, cat: biotech, country: IN, hints: [seruminstitute]}
+  - {name: Bharat Biotech, cat: biotech, country: IN, hints: [bharatbiotech]}
+  - {name: Sun Pharma, cat: biotech, country: IN, hints: [sunpharma]}
+  - {name: Dr Reddys Laboratories, cat: biotech, country: IN, hints: [drreddys, drreddy]}
+  - {name: Cipla, cat: biotech, country: IN, hints: [cipla]}
+  - {name: Zydus Lifesciences, cat: biotech, country: IN, hints: [zydus]}
+  - {name: Aurigene, cat: biotech, country: IN, hints: [aurigene]}
+  - {name: Bugworks Research, cat: biotech, country: IN, hints: [bugworks]}
+  - {name: String Bio, cat: biotech, country: IN, hints: [stringbio]}
+  - {name: Sea6 Energy, cat: marine, country: IN, hints: [sea6energy]}
+  - {name: Elucidata, cat: bio_software, country: IN, hints: [elucidata]}
+  - {name: Aganitha, cat: bio_software, country: IN, hints: [aganitha]}
+  - {name: Persistent Systems Life Sciences, cat: bio_software, country: IN, hints: [persistent]}
+  - {name: TCS Life Sciences, cat: bio_software, country: IN, hints: [tcs, tataconsultancyservices]}
+  - {name: Excelra, cat: bio_software, country: IN, hints: [excelra]}
+  - {name: Molecular Connections, cat: bio_software, country: IN, hints: [molecularconnections]}
+  - {name: IQVIA India, cat: lab_services, country: IN, hints: [iqvia]}
+  - {name: Novo Nordisk India, cat: biotech, country: IN, hints: [novonordisk]}
+  - {name: GenePath Dx, cat: genomics, country: IN, hints: [genepathdx]}
+  # Research institutes. Cap exempt is a US concept and irrelevant here, but
+  # these run formal project assistant and JRF intakes for new graduates.
+  - {name: National Centre for Biological Sciences, cat: institute, country: IN, hints: [ncbs]}
+  - {name: inStem Bangalore, cat: institute, country: IN, hints: [instem]}
+  - {name: CSIR Centre for Cellular and Molecular Biology, cat: institute, country: IN, hints: [ccmb]}
+  - {name: CSIR Institute of Genomics and Integrative Biology, cat: institute, country: IN, hints: [igib]}
+  - {name: National Institute of Immunology, cat: institute, country: IN, hints: [nii]}
+  - {name: Indian Institute of Science, cat: institute, country: IN, hints: [iisc]}
+  - {name: Tata Institute of Fundamental Research, cat: institute, country: IN, hints: [tifr]}
+  - {name: Ashoka Trust for Research in Ecology, cat: conservation, country: IN, hints: [atree]}
+  - {name: Wildlife Institute of India, cat: conservation, country: IN, hints: [wii]}
+  - {name: Nature Conservation Foundation India, cat: conservation, country: IN, hints: [ncf, ncfindia]}
+  - {name: Wildlife Trust of India, cat: conservation, country: IN, hints: [wti, wildlifetrustofindia]}
+  - {name: WWF India, cat: conservation, country: IN, hints: [wwfindia, wwf]}
+  - {name: Dakshin Foundation, cat: marine, country: IN, hints: [dakshin]}
+  - {name: Wildlife Conservation Trust, cat: conservation, country: IN, hints: [wildlifeconservationtrust, wct]}
+  - {name: Centre for Wildlife Studies, cat: conservation, country: IN, hints: [cwsindia]}
+  - {name: Reef Watch Marine Conservation, cat: marine, country: IN, hints: [reefwatch]}
+  - {name: Ashoka University Biology, cat: institute, country: IN, hints: [ashoka, ashokauniversity]}
+  - {name: Azim Premji Foundation, cat: policy, country: IN, hints: [azimpremjifoundation]}
+
+  # =====================================================================
+  # COPENHAGEN AND DENMARK
+  # You are there now, the network is live, and an EU role sidesteps the F-1
+  # question entirely.
+  # =====================================================================
+  - {name: Novozymes Novonesis, cat: biotech, country: DK, hints: [novonesis, novozymes]}
+  - {name: Chr Hansen, cat: biotech, country: DK, hints: [chr-hansen, chrhansen]}
+  - {name: ALK Abello, cat: biotech, country: DK, hints: [alk, alk-abello]}
+  - {name: Leo Pharma, cat: biotech, country: DK, hints: [leo-pharma, leopharma]}
+  - {name: Ferring Pharmaceuticals, cat: biotech, country: DK, hints: [ferring]}
+  - {name: Zealand Pharma, cat: biotech, country: DK, hints: [zealandpharma]}
+  - {name: Ascendis Pharma, cat: biotech, country: DK, hints: [ascendispharma]}
+  - {name: Orifarm, cat: biotech, country: DK, hints: [orifarm]}
+  - {name: Coloplast, cat: biotech, country: DK, hints: [coloplast]}
+  - {name: Radiometer, cat: lab_services, country: DK, hints: [radiometer]}
+  - {name: Novo Holdings, cat: biotech, country: DK, hints: [novoholdings]}
+  - {name: Hafnium Labs, cat: bio_software, country: DK, hints: [hafniumlabs]}
+  - {name: Clinical Microbiomics, cat: genomics, country: DK, hints: [clinical-microbiomics, clinicalmicrobiomics]}
+  - {name: Bio-Modeling Systems, cat: bio_software, country: DK, hints: [bmsystems]}
+  - {name: Teton Biotech, cat: biotech, country: DK, hints: [teton]}
+  - {name: Cellugy, cat: biotech, country: DK, hints: [cellugy]}
+  - {name: 21st BIO, cat: biotech, country: DK, hints: [21stbio]}
+  - {name: Bactolife, cat: biotech, country: DK, hints: [bactolife]}
+  - {name: SNIPR Biome, cat: biotech, country: DK, hints: [snipr, sniprbiome]}
+  - {name: Curasight, cat: biotech, country: DK, hints: [curasight]}
+  - {name: Enduro Genetics, cat: biotech, country: DK, hints: [endurogenetics]}
+  - {name: Reshape Biotech, cat: bio_software, country: DK, hints: [reshapebiotech]}
+  - {name: Octarine Bio, cat: biotech, country: DK, hints: [octarinebio]}
+  - {name: Draupnir Bio, cat: biotech, country: DK, hints: [draupnirbio]}
+  - {name: Samplix ApS, cat: genomics, country: DK, hints: [samplix]}
+  - {name: Aquaporin, cat: climate, country: DK, hints: [aquaporin]}
+  - {name: WSP Denmark, cat: env_consulting, country: DK, hints: [wsp]}
+  - {name: Danish Technological Institute, cat: institute, country: DK, hints: [teknologisk, dti]}
+  - {name: Statens Serum Institut, cat: institute, country: DK, hints: [ssi, statensseruminstitut]}
+  - {name: DTU Aqua, cat: marine, country: DK, hints: [dtu, dtuaqua]}
+  - {name: Greenland Institute of Natural Resources, cat: marine, country: DK, hints: [natur, pinngortitaleriffik]}
+  - {name: Nordic Council of Ministers, cat: policy, country: DK, hints: [norden]}
+
+  # =====================================================================
+  # WEST COAST
+  # San Diego, the Bay Area and Seattle, which is where you said you want to
+  # be. Every one of these is a US employer, so the F-1 read still applies.
+  # =====================================================================
+  # San Diego
+  - {name: Illumina San Diego, cat: genomics, country: US, hints: [illumina]}
+  - {name: Genomatica, cat: biotech, country: US, hints: [genomatica]}
+  - {name: Cue Health, cat: health_data, country: US, hints: [cuehealth]}
+  - {name: Truvian Sciences, cat: health_data, country: US, hints: [truvian]}
+  - {name: Biological Dynamics, cat: health_data, country: US, hints: [biologicaldynamics]}
+  - {name: Cardea Bio, cat: bio_software, country: US, hints: [cardeabio]}
+  - {name: Vertex San Diego, cat: biotech, country: US, hints: [vertex]}
+  - {name: Neurocrine Biosciences, cat: biotech, country: US, hints: [neurocrine]}
+  - {name: Halozyme, cat: biotech, country: US, hints: [halozyme]}
+  - {name: Crinetics Pharmaceuticals, cat: biotech, country: US, hints: [crinetics]}
+  - {name: Turning Point Therapeutics, cat: biotech, country: US, hints: [turningpointtherapeutics]}
+  - {name: Janssen San Diego, cat: biotech, country: US, hints: [janssen, jnj]}
+  - {name: Sapient Bioanalytics, cat: genomics, country: US, hints: [sapient]}
+  - {name: Element Biosciences San Diego, cat: genomics, country: US, hints: [elementbiosciences]}
+  - {name: Sanford Burnham Prebys, cat: institute, country: US, cap_exempt: true, hints: [sbpdiscovery, sanfordburnham]}
+  - {name: La Jolla Institute for Immunology, cat: institute, country: US, cap_exempt: true, hints: [lji]}
+  - {name: J Craig Venter Institute, cat: institute, country: US, cap_exempt: true, hints: [jcvi]}
+  - {name: Birch Aquarium, cat: marine, country: US, cap_exempt: true, hints: [birchaquarium, ucsd]}
+  # Bay Area
+  - {name: Chan Zuckerberg Biohub, cat: institute, country: US, cap_exempt: true, hints: [czbiohub, czi]}
+  - {name: Genentech South San Francisco, cat: biotech, country: US, hints: [genentech]}
+  - {name: Grail Menlo Park, cat: health_data, country: US, hints: [grail]}
+  - {name: Zymergen, cat: biotech, country: US, hints: [zymergen]}
+  - {name: Amyris, cat: biotech, country: US, hints: [amyris]}
+  - {name: Caribou Biosciences, cat: biotech, country: US, hints: [cariboubio]}
+  - {name: Scribe Therapeutics, cat: biotech, country: US, hints: [scribetx]}
+  - {name: Tessera Bay Area, cat: biotech, country: US, hints: [tesseratherapeutics]}
+  - {name: Somite AI, cat: biotech, country: US, hints: [somite]}
+  - {name: Tahoe Therapeutics, cat: biotech, country: US, hints: [tahoetx, tahoetherapeutics]}
+  - {name: Chai Discovery, cat: biotech, country: US, hints: [chaidiscovery]}
+  - {name: Enveda Biosciences, cat: biotech, country: US, hints: [enveda]}
+  - {name: Ocean Genomics, cat: bio_software, country: US, hints: [oceangenomics]}
+  - {name: Alameda County Water District, cat: env_consulting, country: US, hints: [acwd]}
+  - {name: Point Blue Conservation Science, cat: conservation, country: US, cap_exempt: true, hints: [pointblue]}
+  - {name: Save the Redwoods League, cat: conservation, country: US, cap_exempt: true, hints: [savetheredwoods]}
+  - {name: Golden Gate National Parks Conservancy, cat: conservation, country: US, cap_exempt: true, hints: [parksconservancy]}
+  - {name: Aquarium of the Bay, cat: marine, country: US, cap_exempt: true, hints: [aquariumofthebay]}
+  - {name: California Academy Steinhart Aquarium, cat: marine, country: US, cap_exempt: true, hints: [calacademy]}
+  # Seattle and Pacific Northwest
+  - {name: Adaptive Biotechnologies, cat: genomics, country: US, hints: [adaptivebiotech]}
+  - {name: Sana Biotechnology, cat: biotech, country: US, hints: [sanabiotechnology, sana]}
+  - {name: Lumen Bioscience, cat: biotech, country: US, hints: [lumen]}
+  - {name: Phase Genomics, cat: genomics, country: US, hints: [phasegenomics]}
+  - {name: Nautilus Biotechnology, cat: genomics, country: US, hints: [nautilusbio]}
+  - {name: Institute for Systems Biology, cat: institute, country: US, cap_exempt: true, hints: [systemsbiology, isb]}
+  - {name: Seattle Childrens Research Institute, cat: institute, country: US, cap_exempt: true, hints: [seattlechildrens]}
+  - {name: Benaroya Research Institute, cat: institute, country: US, cap_exempt: true, hints: [benaroyaresearch]}
+  - {name: Long Live the Kings, cat: conservation, country: US, cap_exempt: true, hints: [lltk]}
+  - {name: Wild Salmon Center, cat: conservation, country: US, cap_exempt: true, hints: [wildsalmoncenter]}
+  - {name: Oregon Health and Science University Genomics, cat: institute, country: US, cap_exempt: true, hints: [ohsu]}
+  - {name: Oregon Zoo, cat: museum, country: US, cap_exempt: true, hints: [oregonzoo]}

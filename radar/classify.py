@@ -101,7 +101,22 @@ def relevance(job: dict) -> tuple[int, list[str]]:
     if job.get("cap_exempt"):
         score += 4
 
+    # Where you want to be. Ranking only; nothing is filtered on this.
+    score += priority_bonus(job)[0]
+
     return score, sorted(set(hits))[:12]
+
+
+def priority_bonus(job: dict) -> tuple[int, str]:
+    """Bonus points and a label for the places she actually wants to work."""
+    hay = " ".join([job.get("location", ""), job.get("region", ""),
+                    job.get("country_hint", "")]).lower()
+    if not hay.strip():
+        return 0, ""
+    for name, spec in (SET.get("priority_locations") or {}).items():
+        if any(m in hay for m in spec["markers"]):
+            return spec["bonus"], name
+    return 0, ""
 
 
 def role_type(job: dict) -> str:
@@ -158,7 +173,15 @@ def region(job: dict) -> str:
         # Say what is true. Calling this a region invites the visa scorer to
         # assert something it cannot know.
         return job.get("country_hint") or "Not stated"
-    for token, label in (("united kingdom", "UK"), ("london", "UK"), ("england", "UK"),
+    for token, label in (("bengaluru", "India"), ("bangalore", "India"),
+                         ("hyderabad", "India"), ("mumbai", "India"),
+                         ("pune", "India"), ("delhi", "India"),
+                         ("gurugram", "India"), ("gurgaon", "India"),
+                         ("noida", "India"), ("chennai", "India"),
+                         ("kolkata", "India"), ("goa", "India"),
+                         ("copenhagen", "Denmark"), ("københavn", "Denmark"),
+                         ("greenland", "Denmark"), ("aarhus", "Denmark"),
+                         ("united kingdom", "UK"), ("london", "UK"), ("england", "UK"),
                          ("denmark", "Denmark"), ("copenhagen", "Denmark"),
                          ("germany", "Germany"), ("netherlands", "Netherlands"),
                          ("switzerland", "Switzerland"), ("france", "France"),
@@ -171,6 +194,7 @@ def region(job: dict) -> str:
 
 
 def classify(job: dict) -> dict | None:
+    """Screen, score and label a posting. Returns None if it is dropped."""
     reason = excluded(job)
     if reason:
         job["_dropped"] = reason
@@ -187,4 +211,7 @@ def classify(job: dict) -> dict | None:
     job["match_terms"] = hits
     job["role_type"] = role_type(job)
     job["region"] = region(job)
+    bonus, where = priority_bonus(job)
+    job["priority_place"] = where
+    job["priority_bonus"] = bonus
     return job
