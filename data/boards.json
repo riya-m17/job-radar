@@ -471,7 +471,7 @@
   "last_tried": "2026-08-10",
   "misses": 0,
   "posting_count": 0,
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "biomarin",
   "state": "resolved",
   "verified_on": "2026-08-10"
@@ -633,7 +633,7 @@
   "last_tried": "2026-08-10",
   "misses": 0,
   "posting_count": 0,
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "cowi",
   "state": "resolved",
   "verified_on": "2026-08-10"
@@ -2198,7 +2198,7 @@
  "Natera": {
   "last_tried": "2026-08-10",
   "misses": 0,
-  "posting_count": 223,
+  "posting_count": 220,
   "provider": "greenhouse",
   "slug": "natera",
   "state": "resolved",
@@ -3558,7 +3558,7 @@
   "last_tried": "2026-08-10",
   "misses": 0,
   "posting_count": 0,
-  "provider": "smartrecruiters",
+  "provider": "workable",
   "slug": "thyrocare",
   "state": "resolved",
   "verified_on": "2026-08-10"
