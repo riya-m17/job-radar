@@ -208,6 +208,14 @@ posting.
 | `stale_after_days` | past this a posting is shown but marked ageing |
 | `drop_blocked` | removes roles needing citizenship, permanent residence or a clearance |
 
+**Doctorate filtering.** Roles requiring a PhD are dropped. This is parsed rather
+than phrase-matched: the doctorate mention is found, then the surrounding words
+decide whether it is a bar. "Ph.D. in molecular biology is required" drops.
+"MS or PhD" is kept, because a master's is an accepted alternative. "PhD
+preferred" is kept, because preferred is not required. Postdoc and PhD-student
+titles drop on the title alone. An earlier version used a fixed phrase list and
+caught only about a third of real phrasings.
+
 **On places.** `settings.yaml` has a `priority_locations` block for the west
 coast, Copenhagen and India. Postings there get a scoring bonus and a badge, so
 a good role in San Diego outranks an equally good one in Ohio. This only affects

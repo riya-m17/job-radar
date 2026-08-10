@@ -54,20 +54,71 @@ _NOT_A_BAR = re.compile(
     r"|term of \d|fixed[- ]term|first year|per year|each year"
     r"|years of study|final year|years of data|year study|year dataset)", re.I)
 
-DOCTORAL = [
-    "phd required", "ph.d. required", "phd is required", "requires a phd",
-    "must have a phd", "doctorate required", "doctoral degree required",
-    "phd or equivalent", "ph.d. or equivalent", "phd in hand",
-    "phd student", "phd position", "phd candidate", "phd fellowship",
-    "doctoral candidate", "doctoral student", "doctoral position",
-    "graduate research assistantship", "graduate assistantship",
-    "md required", "md/phd", "must hold a doctorate",
-]
+# Doctorate detection.
+#
+# The first version of this was a list of exact phrases, and it caught roughly
+# one phrasing in three. "PhD required" was caught; "Ph.D. in molecular biology",
+# "Requires PhD", "Doctoral degree in ecology" and "must hold a PhD" all sailed
+# through. So this parses instead: find the mention, then read the words around
+# it to work out whether the doctorate is required, merely preferred, or offered
+# as one option alongside a bachelor's or master's.
+
+_DOCTORATE = re.compile(
+    r"\b(ph\.?\s?d\.?|phd|d\.?phil|dphil|doctoral|doctorate|"
+    r"md\s*/\s*phd|phd\s*/\s*md|advanced degree|terminal degree)\b", re.I)
+
+# Words that mean the doctorate is a bar.
+_REQUIRED_CUE = re.compile(
+    r"(required|require|requires|must have|must hold|must possess|"
+    r"is essential|are essential|essential|necessary|mandatory|minimum|"
+    r"we (?:are )?seek|seeking|looking for a|candidates? (?:must|should) (?:have|hold)|"
+    r"qualifications?:|you (?:must|will) have|only candidates)", re.I)
+
+# Words that mean it is a nice to have, so the posting stays.
+_PREFERRED_CUE = re.compile(
+    r"(preferred|preferable|preferably|a plus|plus\b|nice to have|desirable|"
+    r"desired|ideally|advantage|advantageous|not required|welcome|"
+    r"or equivalent experience|equivalent practical experience)", re.I)
+
+# A doctorate listed as one option next to a degree she has is not a bar.
+_LOWER_DEGREE_ALT = re.compile(
+    r"\b(b\.?s\.?|b\.?a\.?|bachelor|undergraduate degree|m\.?s\.?|m\.?sc\.?|"
+    r"master|masters|master's)\b", re.I)
+
+# Titles that are doctorate roles by definition, whatever the body says.
+_DOCTORAL_TITLE = re.compile(
+    r"(post[- ]?doc|postdoctoral|phd student|phd position|phd candidate|"
+    r"phd fellow|doctoral (?:student|candidate|researcher|fellow|position)|"
+    r"graduate research assistantship|graduate assistantship|"
+    r"research fellow \(phd|clinical fellow)", re.I)
+
+
+def doctorate_required(text: str, title: str = "") -> str | None:
+    """Return the phrase proving a doctorate is required, or None."""
+    if _DOCTORAL_TITLE.search(title):
+        return "the title is a doctoral position"
+
+    for m in _DOCTORATE.finditer(text):
+        start, end = m.span()
+        window = text[max(0, start - 160):min(len(text), end + 160)]
+
+        # Offered alongside a bachelor's or master's, so not a bar.
+        if _LOWER_DEGREE_ALT.search(window):
+            continue
+        # Explicitly optional.
+        if _PREFERRED_CUE.search(window):
+            continue
+        if _REQUIRED_CUE.search(window):
+            return f"posting requires a doctorate ({m.group(0).strip()})"
+
+    return None
+
 
 MASTERS_REQUIRED = [
     "master's degree required", "masters degree required",
     "ms required", "m.s. required", "msc required",
     "master's is required", "requires a master's",
+    "master's degree is required",
 ]
 
 UNIVERSITY_MARKERS = [
@@ -144,7 +195,7 @@ def assess(job: dict) -> dict:
     title = (job.get("title") or "").lower()
 
     years = years_required(text)
-    doctoral = _hit(text, DOCTORAL)
+    doctoral = doctorate_required(text, title)
     masters = _hit(text, MASTERS_REQUIRED)
 
     uni = is_university(job.get("company", ""))
@@ -153,7 +204,7 @@ def assess(job: dict) -> dict:
     academic_bench = bool(pi_lab or (uni and bench_title))
 
     if doctoral:
-        verdict, detail = "doctorate", f"asks for a doctorate: {doctoral}"
+        verdict, detail = "doctorate", doctoral
     elif years is None:
         verdict, detail = "unstated", "no experience requirement stated"
     elif years <= 1:
