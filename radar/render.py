@@ -66,6 +66,14 @@ header{border-bottom:1px solid var(--rule);padding:34px 0 26px}
 .when.open{color:var(--kelp)}
 .when.upcoming{color:var(--amber)}
 .when.year_round{color:var(--dim)}
+.when.blocked{color:var(--rust)}
+.badge{font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:.1em;
+  padding:2px 6px;border-radius:2px;margin-left:8px;vertical-align:middle;white-space:nowrap}
+.badge.eligible{background:#2C5442;color:#8FD3AE}
+.badge.unverified{border:1px solid #5A452C;color:#C79A5E}
+.badge.ineligible{background:#5A3029;color:#E8A196}
+.elig{font-size:12.5px;color:var(--fog);margin-top:7px;max-width:78ch;
+  padding-left:11px;border-left:2px solid var(--rule)}
 
 .year{display:flex;align-items:flex-end;gap:4px;height:64px;margin-bottom:8px}
 .mo{flex:1;display:flex;flex-direction:column;justify-content:flex-end;height:100%}
@@ -366,8 +374,28 @@ render();
 """
 
 
+def _badge(p: dict) -> str:
+    st = p.get("status", "unverified")
+    label = {"eligible": "VERIFIED", "unverified": "UNVERIFIED",
+             "ineligible": "NOT ELIGIBLE"}[st]
+    return '<span class="badge ' + st + '">' + label + '</span>'
+
+
+def _checked(p: dict) -> str:
+    return " &middot; checked " + p["checked"] if p.get("checked") else ""
+
+
+def _elig(p: dict) -> str:
+    text = " ".join((p.get("eligibility") or "").split())
+    return '<div class="elig">' + text + '</div>' if text else ""
+
+
 def _state_label(p: dict) -> tuple[str, str]:
     d, s = p["days"], p["state"]
+    if s == "blocked":
+        return "blocked", "not eligible"
+    if p.get("has_exact_deadline") and s in ("closing", "open"):
+        return s, "due " + p["ref_date"]
     if s == "closing":
         return s, f"closes in {d}d"
     if s == "open":
@@ -388,14 +416,16 @@ def _act_now_band(calendar: list[dict]) -> str:
         note = " ".join((p.get("note") or "").split())
         rows.append(
             f'<div class="act"><div class="n">{i:02d}</div><div>'
-            f'<h3><a href="{p["url"]}" target="_blank" rel="noopener">{p["name"]}</a></h3>'
+            f'<h3><a href="{p["url"]}" target="_blank" rel="noopener">{p["name"]}</a>'
+            f'{_badge(p)}</h3>'
             f'<div class="who">{p["org"]} &middot; {p.get("type", "")} &middot; '
-            f'about {p.get("effort", "?")}h to apply</div>'
+            f'about {p.get("effort", "?")}h to apply{_checked(p)}</div>'
+            f'{_elig(p)}'
             f'<p class="why">{note}</p></div>'
             f'<div class="when {cls}">{label}</div></div>')
     return ('<section class="band"><div class="wrap">'
             '<div class="bandhead"><span>what to do this month</span>'
-            '<span>ranked by what closes first</span></div>'
+            '<span>verified first, dead ends excluded</span></div>'
             f'{"".join(rows)}</div></section>')
 
 
@@ -422,7 +452,7 @@ def _calendar_band(calendar: list[dict]) -> str:
         cls, label = _state_label(p)
         rows.append(
             f'<div class="prog"><div>'
-            f'<div class="nm"><a href="{p["url"]}" target="_blank" rel="noopener">{p["name"]}</a></div>'
+            f'<div class="nm"><a href="{p["url"]}" target="_blank" rel="noopener">{p["name"]}</a>{_badge(p)}</div>'
             f'<div class="org">{p["org"]} &middot; {p.get("type", "")}</div></div>'
             f'<div class="st {cls}">{label}</div></div>')
 
@@ -439,6 +469,52 @@ def _chip(group: str, value: str, label: str, count: int | None = None) -> str:
     suffix = f" {count}" if count is not None else ""
     return (f'<button class="chip" data-group="{group}" data-value="{value}" '
             f'aria-pressed="false">{label}{suffix}</button>')
+
+
+def _health_band() -> str:
+    """Show how much of the employer registry actually resolved.
+
+    The registry was written from my own knowledge and is imperfect. The only
+    real evidence about which entries exist is whether a live board answers,
+    so that evidence belongs on the page rather than buried in a log.
+    """
+    path = ROOT / "data" / "registry_health.json"
+    if not path.exists():
+        return ""
+    try:
+        h = json.loads(path.read_text(encoding="utf-8"))
+    except ValueError:
+        return ""
+
+    total = h.get("registry_size", 0) or 1
+    res = len(h.get("resolved", []))
+    quar = h.get("quarantined_no_public_feed", [])
+    retry = h.get("missing_retrying", [])
+    empty = h.get("resolved_but_no_open_roles", [])
+    pct = round(100 * res / total)
+
+    def listing(title, names):
+        if not names:
+            return ""
+        shown = ", ".join(names[:60])
+        more = f" and {len(names) - 60} more" if len(names) > 60 else ""
+        return (f'<details class="cal"><summary>{title} ({len(names)})</summary>'
+                f'<p class="why" style="margin-top:10px">{shown}{more}</p></details> ')
+
+    return ('<section class="band"><div class="wrap">'
+            '<div class="bandhead"><span>employer registry coverage</span>'
+            f'<span>{res} of {total} resolved &middot; {pct}%</span></div>'
+            '<p class="why" style="max-width:78ch;margin-bottom:12px">'
+            'Resolved means a live public job feed was found and read. '
+            'Quarantined means repeated runs found none, so the employer is '
+            'either on a system with no public API such as Workday, or is in '
+            'the registry under a name that does not match reality. Prune those '
+            'from config/organizations.yaml, or replace the hint with the '
+            'correct board slug.</p>'
+            + listing("quarantined, no public feed", quar)
+            + listing("not resolved this run, retrying", retry)
+            + listing("resolved but no open roles today", empty)
+            + '</div></section>')
 
 
 def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -> str:
@@ -545,6 +621,7 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
 
 {_act_now_band(calendar)}
 {_calendar_band(calendar)}
+{_health_band()}
 
 <section class="band"><div class="wrap"><div class="counts">
   <div class="count"><div class="n">{len(payload)}</div><div class="k">open now</div></div>
@@ -592,8 +669,10 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
 </main>
 
 <footer><div class="wrap">
-  Deadline months are typical windows, not scraped dates. Confirm on the linked page
-  two weeks before a window opens, and correct config/programs.yaml if it has moved.<br>
+  Calendar entries marked VERIFIED were read off the programme's own page on the date
+  shown, including eligibility rules. UNVERIFIED entries are unchecked guesses, so
+  confirm before relying on them. NOT ELIGIBLE entries are kept deliberately so a dead
+  end is not rediscovered later, and are never surfaced as something to act on.<br>
   Sponsorship reads are inferred from posting language and employer type, not a verified
   database. Treat explicit as reliable and everything else as a question to ask.<br>
   Cap exempt means a university, affiliated nonprofit or nonprofit research institute,

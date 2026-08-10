@@ -28,7 +28,7 @@ organizations:
   - {name: Twist Bioscience, cat: genomics, country: US, hints: [twistbioscience]}
   - {name: Singular Genomics, cat: genomics, country: US, hints: [singulargenomics]}
   - {name: Complete Genomics, cat: genomics, country: US, hints: [completegenomics]}
-  - {name: Roche Sequencing, cat: genomics, country: US, hints: [roche]}
+  - {name: Roche Sequencing, cat: genomics, country: US, hints: [rochesequencing]}
   - {name: Azenta Life Sciences, cat: genomics, country: US, hints: [azenta, genewiz]}
   - {name: Psomagen, cat: genomics, country: US, hints: [psomagen]}
   - {name: Nanostring, cat: genomics, country: US, hints: [nanostring]}
@@ -138,7 +138,7 @@ organizations:
 
   # ------------------------------------------------------- conservation NGOs
   - {name: World Wildlife Fund US, cat: conservation, country: US, cap_exempt: true, hints: [worldwildlifefund, wwf, wwfus]}
-  - {name: WWF International, cat: conservation, country: INT, cap_exempt: true, hints: [wwfinternational, wwf]}
+  - {name: WWF International, cat: conservation, country: INT, cap_exempt: true, hints: [wwfinternational]}
   - {name: The Nature Conservancy, cat: conservation, country: US, cap_exempt: true, hints: [nature, tnc, thenatureconservancy]}
   - {name: Conservation International, cat: conservation, country: US, cap_exempt: true, hints: [conservation, conservationinternational]}
   - {name: Wildlife Conservation Society, cat: conservation, country: US, cap_exempt: true, hints: [wcs, wildlifeconservationsociety]}
@@ -153,7 +153,7 @@ organizations:
   - {name: Surfrider Foundation, cat: conservation, country: US, cap_exempt: true, hints: [surfrider]}
   - {name: Re:wild, cat: conservation, country: US, cap_exempt: true, hints: [rewild, globalwildlife]}
   - {name: Panthera, cat: conservation, country: US, cap_exempt: true, hints: [panthera]}
-  - {name: Jane Goodall Institute, cat: conservation, country: US, cap_exempt: true, hints: [janegoodall, jgi]}
+  - {name: Jane Goodall Institute, cat: conservation, country: US, cap_exempt: true, hints: [janegoodall]}
   - {name: African Wildlife Foundation, cat: conservation, country: INT, cap_exempt: true, hints: [awf, africanwildlifefoundation]}
   - {name: Island Conservation, cat: conservation, country: US, cap_exempt: true, hints: [islandconservation]}
   - {name: Defenders of Wildlife, cat: conservation, country: US, cap_exempt: true, hints: [defenders, defendersofwildlife]}
@@ -219,7 +219,7 @@ organizations:
   - {name: California Academy of Sciences, cat: museum, country: US, cap_exempt: true, hints: [calacademy]}
   - {name: Natural History Museum London, cat: museum, country: UK, cap_exempt: true, hints: [nhm, naturalhistorymuseum]}
   - {name: San Diego Zoo Wildlife Alliance, cat: museum, country: US, cap_exempt: true, hints: [sdzwa, sandiegozoo]}
-  - {name: Bronx Zoo, cat: museum, country: US, cap_exempt: true, hints: [wcs, bronxzoo]}
+  - {name: Bronx Zoo, cat: museum, country: US, cap_exempt: true, hints: [bronxzoo]}
   - {name: Denver Museum of Nature and Science, cat: museum, country: US, cap_exempt: true, hints: [dmns]}
   - {name: Academy of Natural Sciences Drexel, cat: museum, country: US, cap_exempt: true, hints: [ansp, drexel]}
   - {name: New York Botanical Garden, cat: museum, country: US, cap_exempt: true, hints: [nybg]}
@@ -232,7 +232,7 @@ organizations:
   # ------------------------------------------------ media and science comms
   - {name: National Geographic Society, cat: media, country: US, cap_exempt: true, hints: [nationalgeographic, natgeo, ngs]}
   - {name: National Geographic Partners, cat: media, country: US, hints: [disney, nationalgeographicpartners]}
-  - {name: Nature Portfolio Springer Nature, cat: media, country: UK, hints: [springernature, nature]}
+  - {name: Nature Portfolio Springer Nature, cat: media, country: UK, hints: [springernature]}
   - {name: AAAS and Science, cat: media, country: US, cap_exempt: true, hints: [aaas]}
   - {name: Cell Press Elsevier, cat: media, country: US, hints: [elsevier, cellpress]}
   - {name: PLOS, cat: media, country: US, cap_exempt: true, hints: [plos]}
@@ -240,11 +240,11 @@ organizations:
   - {name: STAT News, cat: media, country: US, hints: [statnews, bostonglobe]}
   - {name: Quanta Magazine, cat: media, country: US, cap_exempt: true, hints: [quanta, simonsfoundation]}
   - {name: BBC Studios Natural History Unit, cat: media, country: UK, hints: [bbc, bbcstudios]}
-  - {name: Smithsonian Magazine, cat: media, country: US, cap_exempt: true, hints: [smithsonian]}
+  - {name: Smithsonian Magazine, cat: media, country: US, cap_exempt: true, hints: [smithsonianmag]}
   - {name: Atlas Obscura, cat: media, country: US, hints: [atlasobscura]}
   - {name: Wired, cat: media, country: US, hints: [conde, condenast]}
   - {name: The Scientist, cat: media, country: US, hints: [thescientist]}
-  - {name: Howard Hughes Medical Institute Tangled Bank Studios, cat: media, country: US, cap_exempt: true, hints: [hhmi]}
+  - {name: Howard Hughes Medical Institute Tangled Bank Studios, cat: media, country: US, cap_exempt: true, hints: [tangledbankstudios]}
 
   # ------------------------------------------------------- climate and geo
   - {name: Planet Labs, cat: climate, country: US, hints: [planet, planetlabs]}
@@ -317,13 +317,13 @@ organizations:
   - {name: Brookhaven National Laboratory, cat: institute, country: US, cap_exempt: true, hints: [bnl, brookhaven]}
   - {name: Los Alamos National Laboratory, cat: institute, country: US, cap_exempt: true, hints: [lanl, losalamos]}
   - {name: National Renewable Energy Laboratory, cat: climate, country: US, cap_exempt: true, hints: [nrel]}
-  - {name: Joint Genome Institute, cat: genomics, country: US, cap_exempt: true, hints: [jgi, lbl]}
+  - {name: Joint Genome Institute, cat: genomics, country: US, cap_exempt: true, hints: [jointgenomeinstitute, jgidoe]}
   - {name: Battelle, cat: institute, country: US, cap_exempt: true, hints: [battelle]}
   - {name: Universities Space Research Association, cat: institute, country: US, cap_exempt: true, hints: [usra]}
   - {name: Consortium for Ocean Leadership, cat: marine, country: US, cap_exempt: true, hints: [oceanleadership]}
   - {name: Bigelow Laboratory for Ocean Sciences, cat: marine, country: US, cap_exempt: true, hints: [bigelow]}
-  - {name: Smithsonian Environmental Research Center, cat: institute, country: US, cap_exempt: true, hints: [serc, smithsonian]}
-  - {name: Smithsonian Tropical Research Institute, cat: institute, country: US, cap_exempt: true, hints: [stri, smithsonian]}
+  - {name: Smithsonian Environmental Research Center, cat: institute, country: US, cap_exempt: true, hints: [serc]}
+  - {name: Smithsonian Tropical Research Institute, cat: institute, country: US, cap_exempt: true, hints: [stri]}
 
   # ------------------------------------------------- life science consulting
   # These firms hire straight out of undergrad into analyst and associate
@@ -421,8 +421,6 @@ organizations:
   - {name: TCS Life Sciences, cat: bio_software, country: IN, hints: [tcs, tataconsultancyservices]}
   - {name: Excelra, cat: bio_software, country: IN, hints: [excelra]}
   - {name: Molecular Connections, cat: bio_software, country: IN, hints: [molecularconnections]}
-  - {name: IQVIA India, cat: lab_services, country: IN, hints: [iqvia]}
-  - {name: Novo Nordisk India, cat: biotech, country: IN, hints: [novonordisk]}
   - {name: GenePath Dx, cat: genomics, country: IN, hints: [genepathdx]}
   # Research institutes. Cap exempt is a US concept and irrelevant here, but
   # these run formal project assistant and JRF intakes for new graduates.
@@ -437,7 +435,7 @@ organizations:
   - {name: Wildlife Institute of India, cat: conservation, country: IN, hints: [wii]}
   - {name: Nature Conservation Foundation India, cat: conservation, country: IN, hints: [ncf, ncfindia]}
   - {name: Wildlife Trust of India, cat: conservation, country: IN, hints: [wti, wildlifetrustofindia]}
-  - {name: WWF India, cat: conservation, country: IN, hints: [wwfindia, wwf]}
+  - {name: WWF India, cat: conservation, country: IN, hints: [wwfindia]}
   - {name: Dakshin Foundation, cat: marine, country: IN, hints: [dakshin]}
   - {name: Wildlife Conservation Trust, cat: conservation, country: IN, hints: [wildlifeconservationtrust, wct]}
   - {name: Centre for Wildlife Studies, cat: conservation, country: IN, hints: [cwsindia]}
@@ -474,12 +472,10 @@ organizations:
   - {name: Reshape Biotech, cat: bio_software, country: DK, hints: [reshapebiotech]}
   - {name: Octarine Bio, cat: biotech, country: DK, hints: [octarinebio]}
   - {name: Draupnir Bio, cat: biotech, country: DK, hints: [draupnirbio]}
-  - {name: Samplix ApS, cat: genomics, country: DK, hints: [samplix]}
   - {name: Aquaporin, cat: climate, country: DK, hints: [aquaporin]}
-  - {name: WSP Denmark, cat: env_consulting, country: DK, hints: [wsp]}
   - {name: Danish Technological Institute, cat: institute, country: DK, hints: [teknologisk, dti]}
   - {name: Statens Serum Institut, cat: institute, country: DK, hints: [ssi, statensseruminstitut]}
-  - {name: DTU Aqua, cat: marine, country: DK, hints: [dtu, dtuaqua]}
+  - {name: DTU Aqua, cat: marine, country: DK, hints: [dtuaqua]}
   - {name: Greenland Institute of Natural Resources, cat: marine, country: DK, hints: [natur, pinngortitaleriffik]}
   - {name: Nordic Council of Ministers, cat: policy, country: DK, hints: [norden]}
 
@@ -489,28 +485,23 @@ organizations:
   # be. Every one of these is a US employer, so the F-1 read still applies.
   # =====================================================================
   # San Diego
-  - {name: Illumina San Diego, cat: genomics, country: US, hints: [illumina]}
   - {name: Genomatica, cat: biotech, country: US, hints: [genomatica]}
   - {name: Cue Health, cat: health_data, country: US, hints: [cuehealth]}
   - {name: Truvian Sciences, cat: health_data, country: US, hints: [truvian]}
   - {name: Biological Dynamics, cat: health_data, country: US, hints: [biologicaldynamics]}
   - {name: Cardea Bio, cat: bio_software, country: US, hints: [cardeabio]}
-  - {name: Vertex San Diego, cat: biotech, country: US, hints: [vertex]}
   - {name: Neurocrine Biosciences, cat: biotech, country: US, hints: [neurocrine]}
   - {name: Halozyme, cat: biotech, country: US, hints: [halozyme]}
   - {name: Crinetics Pharmaceuticals, cat: biotech, country: US, hints: [crinetics]}
   - {name: Turning Point Therapeutics, cat: biotech, country: US, hints: [turningpointtherapeutics]}
   - {name: Janssen San Diego, cat: biotech, country: US, hints: [janssen, jnj]}
   - {name: Sapient Bioanalytics, cat: genomics, country: US, hints: [sapient]}
-  - {name: Element Biosciences San Diego, cat: genomics, country: US, hints: [elementbiosciences]}
   - {name: Sanford Burnham Prebys, cat: institute, country: US, cap_exempt: true, hints: [sbpdiscovery, sanfordburnham]}
   - {name: La Jolla Institute for Immunology, cat: institute, country: US, cap_exempt: true, hints: [lji]}
   - {name: J Craig Venter Institute, cat: institute, country: US, cap_exempt: true, hints: [jcvi]}
-  - {name: Birch Aquarium, cat: marine, country: US, cap_exempt: true, hints: [birchaquarium, ucsd]}
+  - {name: Birch Aquarium, cat: marine, country: US, cap_exempt: true, hints: [birchaquarium]}
   # Bay Area
-  - {name: Chan Zuckerberg Biohub, cat: institute, country: US, cap_exempt: true, hints: [czbiohub, czi]}
-  - {name: Genentech South San Francisco, cat: biotech, country: US, hints: [genentech]}
-  - {name: Grail Menlo Park, cat: health_data, country: US, hints: [grail]}
+  - {name: Chan Zuckerberg Biohub, cat: institute, country: US, cap_exempt: true, hints: [czbiohub]}
   - {name: Zymergen, cat: biotech, country: US, hints: [zymergen]}
   - {name: Amyris, cat: biotech, country: US, hints: [amyris]}
   - {name: Caribou Biosciences, cat: biotech, country: US, hints: [cariboubio]}
@@ -526,7 +517,7 @@ organizations:
   - {name: Save the Redwoods League, cat: conservation, country: US, cap_exempt: true, hints: [savetheredwoods]}
   - {name: Golden Gate National Parks Conservancy, cat: conservation, country: US, cap_exempt: true, hints: [parksconservancy]}
   - {name: Aquarium of the Bay, cat: marine, country: US, cap_exempt: true, hints: [aquariumofthebay]}
-  - {name: California Academy Steinhart Aquarium, cat: marine, country: US, cap_exempt: true, hints: [calacademy]}
+  - {name: California Academy Steinhart Aquarium, cat: marine, country: US, cap_exempt: true, hints: [steinhart]}
   # Seattle and Pacific Northwest
   - {name: Adaptive Biotechnologies, cat: genomics, country: US, hints: [adaptivebiotech]}
   - {name: Sana Biotechnology, cat: biotech, country: US, hints: [sanabiotechnology, sana]}

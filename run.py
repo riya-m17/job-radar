@@ -34,6 +34,8 @@ def main() -> None:
 
     # 1. Where does each employer post?
     boards_cache = discovery.run(force=args.rediscover) if cfg["ats"] else {}
+    if cfg["ats"]:
+        log.info("using %d verified employer boards", len(boards_cache))
 
     # 2. Collect everything.
     raw: list[dict] = []
@@ -72,6 +74,11 @@ def main() -> None:
         why = requirements.rejected(result)
         if why:
             dropped[why.split("(")[0].strip()] += 1
+            continue
+
+        if (cfg_run.get("exclude_internships")
+                and result["role_type"] in ("internship", "seasonal")):
+            dropped["internship or seasonal, not a job"] += 1
             continue
 
         result.update(deadlines.assess(result))

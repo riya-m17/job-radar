@@ -32,6 +32,13 @@ run:
   # Roles requiring a master's. Off by default, since some say master's
   # "or equivalent experience" and are worth a look.
   drop_masters_required: false
+
+  # You want jobs, not internships. Internships and seasonal roles are dropped.
+  # Fellowships and post-bacs are NOT internships: a two year paid post-bac at
+  # a research institute is a full time job with a programme wrapped round it,
+  # and those are among the best routes open to a graduating F-1 student, so
+  # they stay. Set this to false if you ever want summer roles back.
+  exclude_internships: true
   # A posting is marked closed once it stops appearing for this many runs.
   stale_runs_before_closed: 3
   # Requests

@@ -161,11 +161,29 @@ the "your niche" flag. Add anything you can honestly claim, remove anything you
 would not want asked about in an interview. Do not put visa status or personal
 details in it; the sponsorship logic does not read this file.
 
-**`programs.yaml`** is the deadline calendar: post-bacs, fellowships,
-internships and the autumn consulting cycle, none of which appear on job
-boards. The months are typical windows, not scraped dates. Two weeks before a
-window opens, open the link, confirm the real date, and correct the file if it
-moved. The job of this calendar is to stop you missing a window.
+**`programs.yaml`** is the deadline calendar: post-bacs, fellowships and
+early-career intakes, none of which appear on job boards. Every entry carries a
+`status`:
+
+- `eligible` — read off the programme's own page on the `checked` date,
+  including its eligibility rules. Act on these.
+- `unverified` — not yet checked. Every date and eligibility claim is a guess.
+- `ineligible` — verified, and you cannot apply. Kept on purpose so the same
+  dead end is not rediscovered in six months. Never surfaced as an action.
+
+The first version of this file was written from general knowledge, and when the
+entries were checked against their sources, four of the first seven were wrong
+in ways that mattered, including the one ranked first, which requires US
+citizenship. Hence the status field. Verify before trusting anything marked
+unverified, and change its status when you do.
+
+**The structural trap worth internalising.** You graduate May 2027, so summer
+2027 is post-graduation, and most undergraduate summer research programmes
+require enrolment through the start date. That rules out more of the American
+programme landscape than the citizenship bar does. What works: post-bacs and
+early-career programmes starting after graduation, programmes that accept
+recent graduates, autumn recruiting for 2027 full-time starts, and non-US
+options where an F-1 is irrelevant.
 
 **`taxonomy.yaml`** decides what counts. Four tiers:
 
@@ -226,6 +244,36 @@ Useful flags: `--rediscover` re-probes every career page, `--verbose` shows what
 got dropped and why, `--digest` writes `digest.md`.
 
 ---
+
+## How the registry checks itself
+
+I built the 449 employer list from my own knowledge and could not verify it:
+the environment I develop in cannot reach career pages, and I cannot
+programmatically hit hundreds of board endpoints. So the verification is built
+into the tool, which runs where the network is open.
+
+Every run probes six applicant tracking systems per unresolved employer and
+records what answered. Results land in `data/registry_health.json` and on the
+dashboard under "employer registry coverage":
+
+- **resolved** — a live public feed was found and read. Re-verified every 30
+  days, because employers migrate between systems and a stale cache quietly
+  stops returning postings without erroring.
+- **not resolved, retrying** — missed this run. Retried next run. A single
+  network blip no longer removes an employer, which was a real bug in the
+  first version.
+- **quarantined** — four separate runs found nothing. Either the employer uses
+  a system with no public API, Workday being the common case, or the name in
+  my registry does not match reality. These are the ones to prune or fix.
+
+To act on it: open the quarantined list, delete the entries that are junk, and
+for the ones you want to keep, find their real board URL and put the slug in
+`hints`. Quarantined employers are retried every 90 days anyway, so a genuine
+outage recovers on its own.
+
+Expect the resolve rate to be well short of 100%. Large pharma, most
+universities and many NGOs run Workday or a custom system with no public feed.
+That is a real limit of this approach, not a bug.
 
 ## When something looks wrong
 

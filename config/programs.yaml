@@ -1,365 +1,405 @@
-# The deadline calendar.
+# The deadline calendar, rebuilt 10 August 2026.
 #
-# These are structured programmes: post-bacs, fellowships, internships and
-# graduate recruiting cycles. Most never appear on any job board, they open
-# once a year, and the way people miss them is not failing to find them but
-# finding them in February when they closed in November.
+# WHAT WENT WRONG THE FIRST TIME
+# The first version of this file was written from general knowledge and
+# labelled "typical windows". Three of the first three entries checked turned
+# out to be wrong in ways that mattered, including the one sitting at the top
+# of the priority panel, which requires US citizenship. So every entry now
+# carries a status and a checked date, and nothing presents as fact unless it
+# was read off the programme's own page.
 #
-# IMPORTANT, READ THIS ONCE:
-# The months below are TYPICAL windows based on how these programmes have run
-# historically. They are not scraped and they are not guaranteed for this
-# cycle. Every entry has a url. Two weeks before a window opens, open the url
-# and confirm the real date, then correct the file if it has moved. The job of
-# this calendar is to stop you missing a window, not to be the source of truth
-# for a date.
+# status values:
+#   eligible      verified against the source, and you can apply
+#   ineligible    verified, and you cannot. Kept visible on purpose, so the
+#                 same dead end is not rediscovered in six months
+#   unverified    carried over from the first draft. NOT yet checked. Treat
+#                 every date and eligibility claim here as a guess
 #
-# opens / closes are month numbers. A window that wraps the new year, such as
-# opens 11 closes 2, is handled correctly.
-# effort: rough hours to submit a good application. Used for the today panel.
+# THE STRUCTURAL POINT THAT KILLS HALF A CALENDAR LIKE THIS
+# You graduate May 2027. Summer 2027 is therefore post-graduation, and most
+# undergraduate summer programmes require current enrolment through the
+# fellowship start. Summer 2026 was your last eligible undergraduate summer
+# and it is being spent in Copenhagen. So the things that work are: post-bac
+# and early-career programmes that start after graduation, programmes that
+# accept recent graduates, autumn full-time recruiting for 2027 starts, and
+# anything outside the US.
+#
+# opens / closes are month numbers, and a window may wrap the new year.
+# effort is rough hours to submit something good.
 
 programs:
 
-  # ---------------------------------------------------- post-bac and research
-  - name: NIH Postbaccalaureate IRTA
-    org: National Institutes of Health
-    cat: institute
-    type: post-bac
-    opens: 8
-    closes: 12
-    effort: 6
-    url: https://www.training.nih.gov/programs/postbac_irta
-    note: >
-      Two paid years of full time research at NIH. Applications are reviewed on
-      a rolling basis and investigators recruit directly, so applying early in
-      the window and emailing PIs matters more than the formal deadline.
-      Open to non-citizens on the appropriate status, which is unusual for a
-      federal programme and worth confirming for your case.
+  # ===================================================================
+  # VERIFIED ELIGIBLE. Act on these.
+  # ===================================================================
 
-  - name: New York Genome Center Post-Baccalaureate
+  - name: NYGC Early Career Development Program (Post-Baccalaureate)
     org: New York Genome Center
     cat: institute
     type: post-bac
-    opens: 12
-    closes: 2
-    effort: 5
+    status: eligible
+    checked: "2026-08-10"
+    opens: 8
+    closes: 10
+    deadline: "2026-10-01"
+    effort: 6
     url: https://www.nygenome.org/careers/
+    eligibility: >
+      Open to B.S. or B.A. holders and to current or rising seniors in a STEM
+      field, with the degree awarded before the summer start date and less than
+      three years since graduation at the time of applying. No citizenship
+      requirement. The posting states it is not eligible for visa sponsorship,
+      which does not block you: a two year post-bac sits entirely inside 12
+      months of OPT plus the 24 month STEM extension, so nothing needs to be
+      sponsored at hire.
     note: >
-      One to two years of computational genomics in New York. Cap exempt.
-      You already had this on your list from the outreach campaign.
+      The best structural fit on this calendar. Two year full time paid
+      position in genomics, computational biology and clinical genetic
+      testing, with a summer start. The 2024 cycle closed 1 October, so
+      applying by around 1 October 2026 targets a summer 2027 start, which
+      lands exactly when you graduate. Confirm the 2026 date on the careers
+      page in September. Letters of recommendation can be emailed to
+      nygcpostbac@nygenome.org and must arrive by the deadline.
 
-  - name: Broad Institute Research Associate hiring cycle
-    org: Broad Institute
-    cat: institute
-    type: full time
-    opens: 9
-    closes: 3
-    effort: 4
-    url: https://www.broadinstitute.org/careers
+  - name: AAAS Mass Media Science and Engineering Fellowship
+    org: AAAS
+    cat: media
+    # Called a fellowship, but it is a ten week summer placement, so it is
+    # typed as an internship and stays out of the jobs panel.
+    type: internship
+    status: eligible
+    checked: "2026-08-10"
+    opens: 10
+    closes: 1
+    deadline: "2027-01-01"
+    effort: 10
+    url: https://www.aaas.org/fellowships/mass-media/apply
+    eligibility: >
+      Open to students enrolled as upper level undergraduates, or to anyone
+      within one year of completing that degree, so summer 2027 qualifies
+      either as a graduating senior or as a recent graduate. Explicitly open
+      to international students already studying in the US who hold a visa
+      allowing paid summer work. AAAS will not help obtain or retain that
+      visa, so post-completion OPT has to be approved in time. Biology
+      qualifies; journalism and English majors are excluded.
     note: >
-      Not a programme with a deadline, but a real cycle. Most RA postings for
-      a summer start appear between September and March, and they go fast.
-      Cap exempt. Watch the openings list rather than waiting for an intake.
-
-  - name: Jackson Laboratory Summer Student Program
-    org: The Jackson Laboratory
-    cat: institute
-    type: internship
-    opens: 11
-    closes: 1
-    effort: 6
-    url: https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/summer-student-program
-    note: Ten week paid genomics research internship in Maine or Connecticut.
-
-  - name: Cold Spring Harbor Undergraduate Research Program
-    org: Cold Spring Harbor Laboratory
-    cat: institute
-    type: internship
-    opens: 12
-    closes: 1
-    effort: 6
-    url: https://www.cshl.edu/education/undergraduate-research-program/
-    note: Competitive, ten weeks, strong signal on a CV for genomics work.
-
-  - name: Janelia Undergraduate Scholars
-    org: HHMI Janelia Research Campus
-    cat: institute
-    type: internship
-    opens: 11
-    closes: 1
-    effort: 6
-    url: https://www.janelia.org/you-janelia/students-postdocs
-    note: Neuroscience and imaging heavy. Paid, housing provided.
-
-  - name: Fred Hutch Summer Undergraduate Research
-    org: Fred Hutchinson Cancer Center
-    cat: institute
-    type: internship
-    opens: 11
-    closes: 1
-    effort: 5
-    url: https://www.fredhutch.org/en/education-training/undergraduate-students.html
-    note: Cancer genomics and computational biology tracks. Cap exempt.
-
-  - name: Whitehead Institute Summer Research
-    org: Whitehead Institute
-    cat: institute
-    type: internship
-    opens: 12
-    closes: 2
-    effort: 5
-    url: https://wi.mit.edu/education/summer
-    note: Small intake, molecular biology focused.
-
-  # ------------------------------------------------------- marine and field
-  - name: WHOI Summer Student Fellowship
-    org: Woods Hole Oceanographic Institution
-    cat: marine
-    type: fellowship
-    opens: 12
-    closes: 2
-    effort: 8
-    url: https://www.whoi.edu/what-we-do/educate/undergraduate-programs/summer-student-fellowship/
-    note: >
-      Ten to twelve weeks with a WHOI scientist, and the acoustics and marine
-      mammal groups there are a direct line from the narwhal work. Open to
-      international students. Probably the single best fit on this list.
-
-  - name: MBARI Summer Internship Program
-    org: MBARI
-    cat: marine
-    type: internship
-    opens: 11
-    closes: 1
-    effort: 7
-    url: https://www.mbari.org/internship/
-    note: >
-      Ocean technology and data heavy, including bioacoustics and autonomous
-      platforms. Paid, housing stipend, open to international students.
+      Ten weeks placed inside a newsroom writing science journalism, stipend
+      around 8,000 dollars plus travel. Given The Wild Type, your writing
+      samples already exist, which is the part most applicants struggle with.
+      Applications opened 1 October and closed 1 January last cycle. The one
+      thing to sort early is OPT timing with Haverford's international office,
+      since a June start needs the authorisation in hand.
 
   - name: Smithsonian Internship Program
     org: Smithsonian Institution
     cat: museum
     type: internship
-    opens: 9
-    closes: 10
+    status: eligible
+    checked: "2026-08-10"
+    opens: 1
+    closes: 12
     effort: 5
-    url: https://www.smithsonianofi.com/internship-opportunities/
+    url: https://internships.si.edu/opportunities
+    eligibility: >
+      International students within the continental US are eligible, and
+      eligibility extends to recent graduates up to two years out of school,
+      so a post-graduation summer 2027 placement works. International interns
+      must hold appropriate visa status, and the Office of International
+      Relations verifies it before an appointment is confirmed.
     note: >
-      Three intakes a year, roughly October, January and June deadlines, across
-      the natural history museum, the environmental research center in Maryland
-      and the tropical research institute in Panama. Explicitly open to
-      international applicants.
+      Not one deadline but many, set per museum, so the calendar cannot give a
+      single date. Stipends run up to 450 dollars a week part time and 850
+      full time. Relevant units are the National Museum of Natural History,
+      which posts a science writing internship, the Smithsonian Environmental
+      Research Center in Maryland, and the Tropical Research Institute in
+      Panama. Applications go through the SOLAA system. There are virtual info
+      sessions on 10 and 23 September 2026, which is the cheapest possible way
+      to find the real deadlines for the units you want.
 
-  - name: Mote Marine Laboratory Internships
-    org: Mote Marine Laboratory
-    cat: marine
-    type: internship
-    opens: 9
-    closes: 10
-    effort: 4
-    url: https://mote.org/education/internships-fellowships/
-    note: Three cycles a year. Field heavy, coral and marine mammal work.
-
-  - name: NSF Research Experiences for Undergraduates
-    org: National Science Foundation sites
+  - name: Broad Institute Research Associate I
+    org: Broad Institute
     cat: institute
-    type: internship
+    type: full time
+    status: unverified
+    opens: 1
+    closes: 12
+    effort: 4
+    url: https://www.broadinstitute.org/careers
+    eligibility: >
+      UNVERIFIED as policy, but your own outreach tracker records a Research
+      Associate I posting that stated it accepts OPT and asked for 24 months
+      of it. Cap exempt, so it can file an H-1B outside the lottery later.
+    note: >
+      A real full time job, not a programme, and the closest thing on this
+      calendar to what you actually want. Postings appear year round with a
+      cluster from September to March for summer starts. Because it is rolling,
+      the Job Radar openings ledger will catch these as they post, which is
+      the right division of labour: the calendar handles annual deadlines, the
+      ledger handles rolling jobs.
+
+  # ===================================================================
+  # VERIFIED INELIGIBLE. Left here deliberately so these dead ends are
+  # not rediscovered and re-hoped-for later.
+  # ===================================================================
+
+  - name: NIH Postbaccalaureate IRTA
+    org: National Institutes of Health
+    cat: institute
+    type: post-bac
+    status: ineligible
+    checked: "2026-08-10"
+    opens: 1
+    closes: 12
+    effort: 0
+    url: https://www.training.nih.gov/programs/postbac_irta
+    eligibility: >
+      Requires US citizenship or permanent residence. You are not eligible.
+    note: >
+      An earlier version of this calendar claimed the opposite and ranked this
+      first. That was wrong. For the record, the programme is genuinely
+      rolling with no deadline, and recommends applying six to nine months
+      before a start date, with most postbacs beginning in June or July. None
+      of which helps here. The same citizenship bar applies to most NSF REU
+      sites and to AAAS Science and Technology Policy Fellowships.
+
+  - name: WHOI Summer Student Fellowship
+    org: Woods Hole Oceanographic Institution
+    cat: marine
+    type: fellowship
+    status: ineligible
+    checked: "2026-08-10"
     opens: 11
     closes: 2
-    effort: 6
-    url: https://www.nsf.gov/crssprgm/reu/reu_search.jsp
+    deadline: "2027-02-05"
+    effort: 0
+    url: https://www.whoi.edu/what-we-do/educate/undergraduate-programs/summer-student-fellowship/
+    eligibility: >
+      International students may apply, so the visa side is fine. The blocker
+      is timing: fellowships go to undergraduates who will have completed
+      their junior year by the fellowship start, and students who will have
+      earned their bachelor's degree before the fellowship begins are
+      explicitly not eligible. It is designed for the final undergraduate
+      summer. Yours is summer 2026, now, in Copenhagen. By summer 2027 you
+      will have graduated.
     note: >
-      Hundreds of separate sites, each with its own deadline clustered in
-      January and February. Most are US citizen or permanent resident only,
-      but a minority accept international students at private institutions.
-      Filter hard before spending time here.
+      I called this the single best fit on the list. It is not a fit at all.
+      The deadline is 5 February. Worth knowing the same graduation-timing
+      rule quietly rules out a lot of undergraduate summer research
+      programmes for anyone in your position, which is why the emphasis has
+      moved to post-bacs. WHOI itself is still worth approaching directly for
+      post-graduation technician and assistant roles, and the acoustics and
+      marine mammal groups there remain the right people to know.
 
-  - name: Cornell Lab of Ornithology internships
+  - name: Trinity Life Sciences Associate Consultant
+    org: Trinity Life Sciences
+    cat: consulting
+    type: full time
+    status: ineligible
+    checked: "2026-08-10"
+    opens: 8
+    closes: 10
+    effort: 0
+    url: https://trinitylifesciences.com/company/careers/early-talent/
+    eligibility: >
+      Blocked outright. Their postings state they cannot consider candidates
+      requiring sponsorship "including but not limited to TN, H1-B, F-1, and
+      STEM OPT". That names F-1 and STEM OPT specifically, so this is not the
+      ambiguous "we do not sponsor" language that can usually be ignored.
+    note: >
+      Associate Consultant is the correct undergraduate title and the
+      internship application closes in early October for a June start, but
+      none of that matters given the visa language. Read this as a warning
+      about the sector: life science consulting is markedly less open to F-1
+      candidates than its recruiting volume suggests. ZS is the firm most
+      often reported to sponsor, though reportedly not on the strategy and
+      insights team, so ask before investing case practice time.
+
+  # ===================================================================
+  # UNVERIFIED. Carried over from the first draft and NOT yet checked.
+  # Every date and eligibility line below is a guess until confirmed.
+  # Given the four-out-of-seven error rate found so far, assume roughly a
+  # third of these are wrong in a way that matters.
+  # ===================================================================
+
+  - name: Broad Institute Research Associate hiring cycle
+    org: Broad Institute
+    cat: institute
+    type: full time
+    status: unverified
+    opens: 9
+    closes: 3
+    effort: 4
+    url: https://www.broadinstitute.org/careers
+    eligibility: >
+      UNVERIFIED. Your own outreach tracker records that a Broad Research
+      Associate I posting stated it accepts OPT and asked for 24 months of it,
+      which is a strong signal but is one posting, not a policy. Cap exempt.
+    note: >
+      A real hiring cycle rather than an intake. Watch the openings list.
+
+  - name: Fred Hutch post-baccalaureate and early career roles
+    org: Fred Hutchinson Cancer Center
+    cat: institute
+    type: post-bac
+    status: unverified
+    opens: 11
+    closes: 1
+    effort: 5
+    url: https://www.fredhutch.org/en/education-training/undergraduate-students.html
+    eligibility: "UNVERIFIED. Citizenship requirement unknown."
+    note: Cap exempt. Cancer genomics and computational biology.
+
+  - name: Cold Spring Harbor Undergraduate Research Program
+    org: Cold Spring Harbor Laboratory
+    cat: institute
+    type: internship
+    status: unverified
+    opens: 12
+    closes: 1
+    effort: 6
+    url: https://www.cshl.edu/education/undergraduate-research-program/
+    eligibility: >
+      UNVERIFIED, and likely blocked by the same graduation-timing rule that
+      rules out WHOI. Check whether current enrolment through the programme
+      start is required before spending time here.
+
+  - name: Jackson Laboratory Summer Student Program
+    org: The Jackson Laboratory
+    cat: institute
+    type: internship
+    status: unverified
+    opens: 11
+    closes: 1
+    effort: 6
+    url: https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/summer-student-program
+    eligibility: "UNVERIFIED. Probably requires current undergraduate enrolment."
+
+  - name: MBARI Summer Internship Program
+    org: MBARI
+    cat: marine
+    type: internship
+    status: unverified
+    opens: 11
+    closes: 1
+    effort: 7
+    url: https://www.mbari.org/internship/
+    eligibility: >
+      UNVERIFIED. Previously believed open to international students, which
+      needs confirming, as does whether recent graduates qualify.
+    note: Ocean technology and bioacoustics. Would be a strong fit if open.
+
+  - name: Cornell Lab of Ornithology and Yang Center roles
     org: Cornell Lab of Ornithology
     cat: bioacoustics
     type: internship
+    status: unverified
     opens: 10
     closes: 2
     effort: 4
     url: https://www.birds.cornell.edu/home/join-our-team/
+    eligibility: "UNVERIFIED."
     note: >
-      The K. Lisa Yang Center for Conservation Bioacoustics sits here. You have
-      already met them, which makes this a warm application rather than a cold
-      one. Cap exempt.
-
-  # ------------------------------------------------------ conservation NGOs
-  - name: WWF internships and early career roles
-    org: World Wildlife Fund US
-    cat: conservation
-    type: internship
-    opens: 1
-    closes: 12
-    effort: 3
-    url: https://www.worldwildlife.org/about/careers
-    note: >
-      Rolling rather than an intake, but conservation NGOs cluster their hiring
-      in late winter as annual budgets land. Cap exempt.
-
-  - name: Conservation International early career
-    org: Conservation International
-    cat: conservation
-    type: full time
-    opens: 1
-    closes: 12
-    effort: 3
-    url: https://www.conservation.org/about/careers
-    note: Rolling. Watch the science and data teams specifically.
-
-  - name: Wildlife Conservation Society internships
-    org: Wildlife Conservation Society
-    cat: conservation
-    type: internship
-    opens: 10
-    closes: 3
-    effort: 4
-    url: https://www.wcs.org/about-us/careers
-    note: Zoo, aquarium and global conservation programme roles. Cap exempt.
-
-  # ------------------------------------------------- science media and comms
-  - name: AAAS Mass Media Science and Engineering Fellowship
-    org: AAAS
-    cat: media
-    type: fellowship
-    opens: 11
-    closes: 1
-    effort: 10
-    url: https://www.aaas.org/programs/mass-media-fellowship
-    note: >
-      Ten weeks placed inside a newsroom writing science journalism, paid.
-      Open to undergraduates in their final year. Given the newsletter, this is
-      a much better fit for you than it is for most science students, and the
-      application is mostly writing samples you already have.
-
-  - name: National Geographic Society early career grants
-    org: National Geographic Society
-    cat: media
-    type: grant
-    opens: 1
-    closes: 12
-    effort: 12
-    url: https://www.nationalgeographic.org/society/grants-and-investments/
-    note: >
-      Rolling with several review cycles a year. Funds your own project rather
-      than employing you, which is a different route entirely, but it is the
-      realistic way in to Nat Geo and it stacks with the photography.
-
-  - name: Nature Portfolio and Springer Nature internships
-    org: Springer Nature
-    cat: media
-    type: internship
-    opens: 9
-    closes: 11
-    effort: 4
-    url: https://careers.springernature.com/
-    note: Editorial and publishing internships, London and New York.
-
-  # ---------------------------------------------------- consulting recruiting
-  - name: Life science consulting new grad recruiting
-    org: ZS, LEK, Clearview, Trinity, Putnam, Health Advances
-    cat: consulting
-    type: full time
-    opens: 8
-    closes: 11
-    effort: 12
-    url: https://www.clearviewhcp.com/careers/
-    note: >
-      The most time critical thing on this calendar. These firms recruit
-      undergraduates for full time analyst roles in the autumn a full year
-      before the start date, so a May 2027 start is decided between roughly
-      August and November 2026. Case interview practice is the bottleneck, not
-      the application. Several sponsor visas; ask early rather than late.
-
-  - name: Guidehouse and Huron life sciences analyst intake
-    org: Guidehouse, Huron
-    cat: consulting
-    type: full time
-    opens: 8
-    closes: 11
-    effort: 8
-    url: https://guidehouse.com/careers
-    note: Same autumn cycle, larger intakes, more structured process.
-
-  # ------------------------------------------------------ biotech and industry
-  - name: Genentech and Roche internship cycle
-    org: Genentech
-    cat: biotech
-    type: internship
-    opens: 9
-    closes: 12
-    effort: 4
-    url: https://www.gene.com/careers/university-and-internships
-    note: Computational biology and bioinformatics tracks. Sponsors visas.
-
-  - name: Regeneron early career programmes
-    org: Regeneron
-    cat: biotech
-    type: internship
-    opens: 9
-    closes: 12
-    effort: 4
-    url: https://careers.regeneron.com/students
-    note: Large intake, genetics centre does population scale genomics.
-
-  - name: Illumina internships
-    org: Illumina
-    cat: genomics
-    type: internship
-    opens: 9
-    closes: 1
-    effort: 4
-    url: https://www.illumina.com/company/careers/students.html
-    note: Bioinformatics and sequencing operations tracks.
-
-  - name: Octant Apprentice Program
-    org: Octant Bio
-    cat: biotech
-    type: apprenticeship
-    opens: 11
-    closes: 1
-    effort: 6
-    url: https://www.octant.bio/careers
-    note: >
-      Paid one year position. Sri Kosuri personally encouraged you to apply,
-      which means this is a warm application and should be treated as a
-      priority rather than one of many. Confirm the opening date with him
-      directly rather than waiting for a posting.
-
-  # ------------------------------------------------------------ Europe and DK
-  - name: Novo Nordisk Foundation and DTU Biosustain positions
-    org: DTU Biosustain
-    cat: institute
-    type: full time
-    opens: 1
-    closes: 12
-    effort: 4
-    url: https://www.biosustain.dtu.dk/careers
-    note: >
-      Rolling. Relevant while you are in Copenhagen and the EU route avoids
-      the F-1 question entirely.
+      You have already spoken to Irina Tolkova and Aaron Rice here, which
+      makes any application warm rather than cold. Worth asking them directly
+      what opens and when, which beats guessing from a careers page.
 
   - name: EMBL-EBI traineeships
     org: EMBL European Bioinformatics Institute
     cat: institute
     type: internship
+    status: unverified
     opens: 10
     closes: 1
     effort: 6
     url: https://www.ebi.ac.uk/training/
-    note: >
-      Bioinformatics traineeships near Cambridge, open internationally, and
-      one of the strongest names in the field for computational work.
+    eligibility: >
+      UNVERIFIED, but no F-1 question since it is UK based. EMBL recruits
+      internationally as a matter of policy, so this is a promising direction.
 
-  - name: Wellcome Sanger Institute summer placements
+  - name: Wellcome Sanger Institute early career roles
     org: Wellcome Sanger Institute
     cat: institute
     type: internship
+    status: unverified
     opens: 11
     closes: 1
     effort: 5
     url: https://www.sanger.ac.uk/about/careers/
-    note: Genomics at scale. Competitive, open to international students.
+    eligibility: "UNVERIFIED. UK based, so a work permit question rather than F-1."
+
+  - name: Octant Apprentice Program
+    org: Octant Bio
+    cat: biotech
+    type: apprenticeship
+    status: unverified
+    opens: 11
+    closes: 1
+    effort: 6
+    url: https://www.octant.bio/careers
+    eligibility: "UNVERIFIED."
+    note: >
+      Do not wait for this calendar or for a posting. Sri Kosuri personally
+      encouraged you to apply and has been quiet since 18 June. Asking him
+      directly when applications open, and whether F-1 is workable, answers
+      both questions at once and restarts the thread.
+
+  - name: ZS Decision Analytics Associate
+    org: ZS Associates
+    cat: consulting
+    type: full time
+    status: unverified
+    opens: 8
+    closes: 11
+    effort: 12
+    url: https://www.zs.com/careers
+    eligibility: >
+      UNVERIFIED. Reported by candidates to sponsor, though reportedly not on
+      the strategy and insights team. Ask a recruiter before investing in case
+      practice, since the sector generally is hostile to F-1.
+    note: >
+      Decision Analytics Associate is the undergraduate title and needs only a
+      bachelor's degree. Avoid Decision Analytics Associate Consultant, which
+      is a rung up and wants up to three years of experience.
+
+  - name: Clearview Summer Analyst and Analyst
+    org: Clearview Healthcare Partners
+    cat: consulting
+    type: full time
+    status: unverified
+    opens: 7
+    closes: 9
+    effort: 12
+    url: https://clearviewhcp.com/careers/explore-opportunities/opportunities-for-undergraduate-students/
+    eligibility: "UNVERIFIED. Visa position not stated on the pages checked."
+    note: >
+      Analyst is the correct undergraduate title. Their Greenhouse board
+      currently shows 32 openings and not one is an undergraduate Analyst
+      role, so campus recruiting runs elsewhere. Summer Analyst applications
+      reportedly open in July for US applicants and September for the UK. The
+      General Application, Worldwide entry on the Greenhouse board is the only
+      way in when nothing is posted.
+
+  - name: WWF US early career roles
+    org: World Wildlife Fund US
+    cat: conservation
+    type: full time
+    status: unverified
+    opens: 1
+    closes: 12
+    effort: 3
+    url: https://www.worldwildlife.org/about/careers
+    eligibility: "UNVERIFIED."
+    note: Rolling. Cap exempt. NGO hiring clusters in late winter as budgets land.
+
+  - name: DTU Biosustain and Danish research positions
+    org: DTU Biosustain
+    cat: institute
+    type: full time
+    status: unverified
+    opens: 1
+    closes: 12
+    effort: 4
+    url: https://www.biosustain.dtu.dk/careers
+    eligibility: >
+      UNVERIFIED, but no F-1 question. Relevant while you are in Copenhagen
+      and the EU route avoids the US visa problem entirely.
