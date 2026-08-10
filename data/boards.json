@@ -1,1834 +1,4043 @@
 {
  "10x Genomics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 5,
   "provider": "greenhouse",
-  "slug": "10xgenomics"
+  "slug": "10xgenomics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "21st BIO": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "21stbio"
+  "slug": "21stbio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "AAAS and Science": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "aaas"
+  "slug": "aaas",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "AECOM": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "aecom"
+  "slug": "aecom",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "ALK Abello": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "alk"
+  "slug": "alk",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Academy of Natural Sciences Drexel": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ansp"
+  "slug": "ansp",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Adaptive Biotechnologies": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "adaptivebiotech"
+  "slug": "adaptivebiotech",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "African Wildlife Foundation": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "awf"
+  "slug": "awf",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Aganitha": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "aganitha"
+  "slug": "aganitha",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Agilent Technologies": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "agilent"
+  "slug": "agilent",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Akoya Biosciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "akoyabio"
+  "slug": "akoyabio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Alameda County Water District": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "acwd"
+  "slug": "acwd",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Alira Health": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "alirahealth"
+  "slug": "alirahealth",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Allen Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "alleninstitute"
+  "slug": "alleninstitute",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Alnylam Pharmaceuticals": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 1,
   "provider": "smartrecruiters",
-  "slug": "alnylam"
+  "slug": "alnylam",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Altos Labs": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 25,
   "provider": "greenhouse",
-  "slug": "altoslabs"
+  "slug": "altoslabs",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "American Bird Conservancy": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "abcbirds"
+  "slug": "abcbirds",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "American Museum of Natural History": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 1,
   "provider": "greenhouse",
-  "slug": "amnh"
+  "slug": "amnh",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Amyris": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "amyris"
+  "slug": "amyris",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Anchor QEA": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "anchorqea"
+  "slug": "anchorqea",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Aquaporin": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "aquaporin"
+  "slug": "aquaporin",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Aquarium of the Bay": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "aquariumofthebay"
+  "slug": "aquariumofthebay",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Arc Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 19,
   "provider": "greenhouse",
-  "slug": "arcinstitute"
+  "slug": "arcinstitute",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Arcadis": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "arcadis"
+  "slug": "arcadis",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Arcus Biosciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "arcusbio"
+  "slug": "arcusbio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Argonne National Laboratory": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "argonne"
+  "slug": "argonne",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ascendis Pharma": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ascendispharma"
+  "slug": "ascendispharma",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ashoka Trust for Research in Ecology": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "atree"
+  "slug": "atree",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ashoka University Biology": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 7,
   "provider": "lever",
-  "slug": "ashoka"
+  "slug": "ashoka",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Atlas Obscura": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "atlasobscura"
+  "slug": "atlasobscura",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Aurigene": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "aurigene"
+  "slug": "aurigene",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Avalere Health": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 40,
   "provider": "lever",
-  "slug": "avalerehealth"
+  "slug": "avalerehealth",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Axtria": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "axtria"
+  "slug": "axtria",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Azenta Life Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "azenta"
+  "slug": "azenta",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Azim Premji Foundation": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "azimpremjifoundation"
+  "slug": "azimpremjifoundation",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "BBC Studios Natural History Unit": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bbc"
+  "slug": "bbc",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Back Bay Life Science Advisors": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "backbaylifescience"
+  "slug": "backbaylifescience",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Bactolife": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bactolife"
+  "slug": "bactolife",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Basecamp Research": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "basecampresearch"
+  "slug": "basecampresearch",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Battelle": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "battelle"
+  "slug": "battelle",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Bavarian Nordic": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bavariannordic"
+  "slug": "bavariannordic",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Bayer Crop Science": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bayer"
+  "slug": "bayer",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "BeZero Carbon": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bezero"
+  "slug": "bezero",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Beacon Development Denmark": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "beacon"
+  "slug": "beacon",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Bedrock Ocean Exploration": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 1,
   "provider": "ashby",
-  "slug": "bedrockocean"
+  "slug": "bedrockocean",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Beghou Consulting": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "beghou"
+  "slug": "beghou",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Benaroya Research Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "benaroyaresearch"
+  "slug": "benaroyaresearch",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Benchling": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 52,
   "provider": "ashby",
-  "slug": "benchling"
+  "slug": "benchling",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Bharat Biotech": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bharatbiotech"
+  "slug": "bharatbiotech",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Bigelow Laboratory for Ocean Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bigelow"
+  "slug": "bigelow",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Bio-Modeling Systems": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bmsystems"
+  "slug": "bmsystems",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Bio-Rad Laboratories": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "biorad"
+  "slug": "biorad",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "BioMarin": {
-  "provider": "workable",
-  "slug": "biomarin"
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
+  "provider": "smartrecruiters",
+  "slug": "biomarin",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "BioNTech": {
-  "provider": "workable",
-  "slug": "biontech"
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
+  "provider": "smartrecruiters",
+  "slug": "biontech",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Biocon": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "biocon"
+  "slug": "biocon",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Biological Dynamics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "biologicaldynamics"
+  "slug": "biologicaldynamics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Bionest Partners": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bionest"
+  "slug": "bionest",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Birch Aquarium": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "birchaquarium"
+  "slug": "birchaquarium",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "BirdLife International": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "birdlife"
+  "slug": "birdlife",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Blue Matter Consulting": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bluematter"
+  "slug": "bluematter",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Blueprint Medicines": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 5,
   "provider": "greenhouse",
-  "slug": "blueprintmedicines"
+  "slug": "blueprintmedicines",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Boston Healthcare Associates": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bostonhealthcare"
+  "slug": "bostonhealthcare",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Boyce Thompson Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "btiscience"
+  "slug": "btiscience",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Broad Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "broadinstitute"
+  "slug": "broadinstitute",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Bronx Zoo": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wcs"
+  "slug": "bronxzoo",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Brookhaven National Laboratory": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bnl"
+  "slug": "bnl",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Brookings Institution": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 6,
   "provider": "lever",
-  "slug": "brookings"
+  "slug": "brookings",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Bruker": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bruker"
+  "slug": "bruker",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Bugworks Research": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "bugworks"
+  "slug": "bugworks",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "CGIAR": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "cgiar"
+  "slug": "cgiar",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "COWI": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "cowi"
+  "slug": "cowi",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "CSIR Centre for Cellular and Molecular Biology": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ccmb"
+  "slug": "ccmb",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "CSIR Institute of Genomics and Integrative Biology": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "igib"
+  "slug": "igib",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Calico Life Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 19,
   "provider": "greenhouse",
-  "slug": "calicolabs"
+  "slug": "calicolabs",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "California Academy Steinhart Aquarium": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "calacademy"
+  "slug": "steinhart",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "California Academy of Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "calacademy"
+  "slug": "calacademy",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "CarbonPlan": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "carbonplan"
+  "slug": "carbonplan",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Cardea Bio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "cardeabio"
+  "slug": "cardeabio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Caribou Biosciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "cariboubio"
+  "slug": "cariboubio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Cell Press Elsevier": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 9,
   "provider": "greenhouse",
-  "slug": "elsevier"
+  "slug": "elsevier",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Cellugy": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "cellugy"
+  "slug": "cellugy",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Center for Biological Diversity": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "biologicaldiversity"
+  "slug": "biologicaldiversity",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Centre for Wildlife Studies": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "cwsindia"
+  "slug": "cwsindia",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Certara": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "certara"
+  "slug": "certara",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Chai Discovery": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 14,
   "provider": "ashby",
-  "slug": "chaidiscovery"
+  "slug": "chaidiscovery",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Chan Zuckerberg Biohub": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "czbiohub"
+  "slug": "czbiohub",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Chan Zuckerberg Initiative": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 13,
   "provider": "greenhouse",
-  "slug": "chanzuckerberginitiative"
+  "slug": "chanzuckerberginitiative",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Character Biosciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "characterbio"
+  "slug": "characterbio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Charles River Associates": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "crai"
+  "slug": "crai",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Charles River Laboratories": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "criver"
+  "slug": "criver",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Chicago Botanic Garden": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "chicagobotanic"
+  "slug": "chicagobotanic",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Chorus Ecology": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "chorusecology"
+  "slug": "chorusecology",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Chr Hansen": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "chr-hansen"
+  "slug": "chr-hansen",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Cipla": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "cipla"
+  "slug": "cipla",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Clearview Healthcare Partners": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "clearviewhcp"
+  "slug": "clearviewhcp",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Climate TRACE": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "climatetrace"
+  "slug": "climatetrace",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "ClimateAi": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "climateai"
+  "slug": "climateai",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Clinical Microbiomics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "clinical-microbiomics"
+  "slug": "clinical-microbiomics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Clinton Health Access Initiative": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "chai"
+  "slug": "chai",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Cold Spring Harbor Laboratory": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "cshl"
+  "slug": "cshl",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Coloplast": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "coloplast"
+  "slug": "coloplast",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Color Health": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "colorgenomics"
+  "slug": "colorgenomics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Complete Genomics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "completegenomics"
+  "slug": "completegenomics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Conservation International": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "conservation"
+  "slug": "conservation",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Conservation Metrics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "conservationmetrics"
+  "slug": "conservationmetrics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Consortium for Ocean Leadership": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "oceanleadership"
+  "slug": "oceanleadership",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Coral Restoration Foundation": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "coralrestoration"
+  "slug": "coralrestoration",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Cornell Lab of Ornithology": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "cornell"
+  "slug": "cornell",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Corteva Agriscience": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "corteva"
+  "slug": "corteva",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Cradle Bio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 7,
   "provider": "ashby",
-  "slug": "cradlebio"
+  "slug": "cradlebio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Cramer Fish Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "fishsciences"
+  "slug": "fishsciences",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Crinetics Pharmaceuticals": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "crinetics"
+  "slug": "crinetics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Cue Health": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "cuehealth"
+  "slug": "cuehealth",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Curasight": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "curasight"
+  "slug": "curasight",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "DHI Group Water and Environment": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "dhigroup"
+  "slug": "dhigroup",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "DNAnexus": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 1,
   "provider": "smartrecruiters",
-  "slug": "dnanexus"
+  "slug": "dnanexus",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "DTU Aqua": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "dtu"
+  "slug": "dtuaqua",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Dakshin Foundation": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "dakshin"
+  "slug": "dakshin",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Dana-Farber Cancer Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "danafarber"
+  "slug": "danafarber",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Danaher": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "danaher"
+  "slug": "danaher",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Danish Technological Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "teknologisk"
+  "slug": "teknologisk",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Deallus": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "deallus"
+  "slug": "deallus",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Defenders of Wildlife": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "defenders"
+  "slug": "defenders",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Denali Therapeutics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "denalitherapeutics"
+  "slug": "denalitherapeutics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Dendra Systems": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "dendra"
+  "slug": "dendra",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Denver Museum of Nature and Science": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "dmns"
+  "slug": "dmns",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Descartes Labs": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "descarteslabs"
+  "slug": "descarteslabs",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Donald Danforth Plant Science Center": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "danforthcenter"
+  "slug": "danforthcenter",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Dotmatics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 22,
   "provider": "greenhouse",
-  "slug": "dotmatics"
+  "slug": "dotmatics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Dr Lal PathLabs": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "lalpathlabs"
+  "slug": "lalpathlabs",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Dr Reddys Laboratories": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "drreddys"
+  "slug": "drreddys",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Draupnir Bio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "draupnirbio"
+  "slug": "draupnirbio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ducks Unlimited": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ducks"
+  "slug": "ducks",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Dyno Therapeutics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "dynotx"
+  "slug": "dynotx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "EMBL European Bioinformatics Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "embl"
+  "slug": "embl",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "ERM": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "erm"
+  "slug": "erm",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "EVERSANA": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "eversana"
+  "slug": "eversana",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Earthjustice": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "earthjustice"
+  "slug": "earthjustice",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ecosia": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ecosia"
+  "slug": "ecosia",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Element Biosciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 17,
   "provider": "greenhouse",
-  "slug": "elementbiosciences"
- },
- "Element Biosciences San Diego": {
-  "provider": "greenhouse",
-  "slug": "elementbiosciences"
+  "slug": "elementbiosciences",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Elucidata": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "elucidata"
+  "slug": "elucidata",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Emerald Cloud Lab": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "emeraldcloudlab"
+  "slug": "emeraldcloudlab",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Enduro Genetics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "endurogenetics"
+  "slug": "endurogenetics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Enveda Biosciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 3,
   "provider": "lever",
-  "slug": "enveda"
+  "slug": "enveda",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Environmental Defense Fund": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "edf"
+  "slug": "edf",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Environmental Law Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 1,
   "provider": "ashby",
-  "slug": "eli"
+  "slug": "eli",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Environmental Science Associates": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "esassoc"
+  "slug": "esassoc",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Environmental Working Group": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ewg"
+  "slug": "ewg",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Eurofins Genomics India": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 1,
   "provider": "smartrecruiters",
-  "slug": "eurofins"
+  "slug": "eurofins",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Evaxion Biotech": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "evaxion"
+  "slug": "evaxion",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Exact Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "exactsciences"
+  "slug": "exactsciences",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Excelra": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "excelra"
+  "slug": "excelra",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Exploratorium": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "exploratorium"
+  "slug": "exploratorium",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Fauna and Flora International": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "faunaflora"
+  "slug": "faunaflora",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Federation of American Scientists": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "fas"
+  "slug": "fas",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ferring Pharmaceuticals": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ferring"
+  "slug": "ferring",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Field Museum": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "fieldmuseum"
+  "slug": "fieldmuseum",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Flatiron Health": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "flatiron"
+  "slug": "flatiron",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Fluent BioSciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "fluentbio"
+  "slug": "fluentbio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "FluoGuide": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "fluoguide"
+  "slug": "fluoguide",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Foghorn Therapeutics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "foghorntx"
+  "slug": "foghorntx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Form Bio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 1,
   "provider": "greenhouse",
-  "slug": "formbio"
+  "slug": "formbio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Foundation Medicine": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "foundationmedicine"
+  "slug": "foundationmedicine",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Fred Hutchinson Cancer Center": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "fredhutch"
+  "slug": "fredhutch",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Freenome": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 30,
   "provider": "greenhouse",
-  "slug": "freenome"
+  "slug": "freenome",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "GHD": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ghd"
+  "slug": "ghd",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "GRAIL": {
-  "provider": "workable",
-  "slug": "grail"
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
+  "provider": "smartrecruiters",
+  "slug": "grail",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Gates Foundation": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "gatesfoundation"
+  "slug": "gatesfoundation",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Gavi the Vaccine Alliance": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "gavi"
+  "slug": "gavi",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "GenePath Dx": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "genepathdx"
+  "slug": "genepathdx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Genentech": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "workable",
-  "slug": "genentech"
- },
- "Genentech South San Francisco": {
-  "provider": "smartrecruiters",
-  "slug": "genentech"
+  "slug": "genentech",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Generate Biomedicines": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 11,
   "provider": "greenhouse",
-  "slug": "generatebiomedicines"
+  "slug": "generatebiomedicines",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Genmab": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "genmab"
+  "slug": "genmab",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Genomatica": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "genomatica"
+  "slug": "genomatica",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Georgia Aquarium": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "georgiaaquarium"
+  "slug": "georgiaaquarium",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ginkgo Bioworks": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 18,
   "provider": "greenhouse",
-  "slug": "ginkgobioworks"
+  "slug": "ginkgobioworks",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Gladstone Institutes": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "gladstone"
+  "slug": "gladstone",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Golden Gate National Parks Conservancy": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "parksconservancy"
- },
- "Grail Menlo Park": {
-  "provider": "smartrecruiters",
-  "slug": "grail"
+  "slug": "parksconservancy",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Greenland Institute of Natural Resources": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "natur"
+  "slug": "natur",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Guardant Health": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "guardanthealth"
+  "slug": "guardanthealth",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Guidehouse": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "guidehouse"
+  "slug": "guidehouse",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "H. T. Harvey and Associates": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "harveyecology"
+  "slug": "harveyecology",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "HHMI Janelia Research Campus": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "janelia"
+  "slug": "janelia",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Hafnium Labs": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "hafniumlabs"
+  "slug": "hafniumlabs",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Halozyme": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "halozyme"
+  "slug": "halozyme",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "HaystackAnalytics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "haystackanalytics"
+  "slug": "haystackanalytics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Health Advances": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "healthadvances"
+  "slug": "healthadvances",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Howard Hughes Medical Institute Tangled Bank Studios": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "hhmi"
+  "slug": "tangledbankstudios",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Hubbs-SeaWorld Research Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "hswri"
+  "slug": "hswri",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Huron Consulting Group": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "huron"
+  "slug": "huron",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Hybrid Reef Solutions": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "hybridreef"
+  "slug": "hybridreef",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "ICF": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "icf"
+  "slug": "icf",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "IQVIA": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "iqvia"
- },
- "IQVIA India": {
-  "provider": "smartrecruiters",
-  "slug": "iqvia"
+  "slug": "iqvia",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "IUCN": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "iucn"
+  "slug": "iucn",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Illumina": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "workable",
-  "slug": "illumina"
- },
- "Illumina San Diego": {
-  "provider": "smartrecruiters",
-  "slug": "illumina"
+  "slug": "illumina",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Inari Agriculture": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "inari"
+  "slug": "inari",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Indian Institute of Science": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "iisc"
+  "slug": "iisc",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Inizio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 25,
   "provider": "greenhouse",
-  "slug": "inizio"
+  "slug": "inizio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Institute for Health Metrics and Evaluation": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ihme"
+  "slug": "ihme",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Institute for Systems Biology": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "systemsbiology"
+  "slug": "systemsbiology",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Integral Consulting": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "integral-corp"
+  "slug": "integral-corp",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Invitae": {
-  "provider": "workable",
-  "slug": "invitae"
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
+  "provider": "smartrecruiters",
+  "slug": "invitae",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ionis Pharmaceuticals": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ionis"
+  "slug": "ionis",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Island Conservation": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "islandconservation"
+  "slug": "islandconservation",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Isomorphic Labs": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 25,
   "provider": "greenhouse",
-  "slug": "isomorphiclabs"
+  "slug": "isomorphiclabs",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "J Craig Venter Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "jcvi"
+  "slug": "jcvi",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "JASCO Applied Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "jasco"
+  "slug": "jasco",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Jacobs": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "jacobs"
+  "slug": "jacobs",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Jane Goodall Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "janegoodall"
+  "slug": "janegoodall",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Janssen San Diego": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "janssen"
+  "slug": "janssen",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Joint Genome Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "jgi"
+  "slug": "jointgenomeinstitute",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Karkinos Healthcare": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "karkinos"
+  "slug": "karkinos",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Komodo Health": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 33,
   "provider": "greenhouse",
-  "slug": "komodohealth"
+  "slug": "komodohealth",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Kymera Therapeutics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "kymeratx"
+  "slug": "kymeratx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "L.E.K. Consulting": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "lek"
+  "slug": "lek",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "La Jolla Institute for Immunology": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "lji"
+  "slug": "lji",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Labcorp": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "labcorp"
+  "slug": "labcorp",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Latch Bio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 16,
   "provider": "ashby",
-  "slug": "latchbio"
+  "slug": "latchbio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Lawrence Berkeley National Laboratory": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "lbl"
+  "slug": "lbl",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Leo Pharma": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "leo-pharma"
+  "slug": "leo-pharma",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Loggerhead Instruments": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "loggerhead"
+  "slug": "loggerhead",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Long Live the Kings": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "lltk"
+  "slug": "lltk",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Los Alamos National Laboratory": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "lanl"
+  "slug": "lanl",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Lumanity": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "lumanity"
+  "slug": "lumanity",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Lumen Bioscience": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "ashby",
-  "slug": "lumen"
+  "slug": "lumen",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Lundbeck": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "lundbeck"
+  "slug": "lundbeck",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "MBARI": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "mbari"
+  "slug": "mbari",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Marine Acoustics Inc": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "marineacoustics"
+  "slug": "marineacoustics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Marine Biological Laboratory": {
-  "provider": "workable",
-  "slug": "mbl"
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
+  "provider": "smartrecruiters",
+  "slug": "mbl",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Mathematica": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "mathematica"
+  "slug": "mathematica",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "MedGenome": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "medgenome"
+  "slug": "medgenome",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Memorial Sloan Kettering": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "mskcc"
+  "slug": "mskcc",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Metropolis Healthcare": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 80,
   "provider": "greenhouse",
-  "slug": "metropolis"
+  "slug": "metropolis",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Mission Bio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "missionbio"
+  "slug": "missionbio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Missouri Botanical Garden": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "missouribotanicalgarden"
+  "slug": "missouribotanicalgarden",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Moderna": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "modernatx"
+  "slug": "modernatx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Molecular Connections": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "molecularconnections"
+  "slug": "molecularconnections",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Monterey Bay Aquarium": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "montereybayaquarium"
+  "slug": "montereybayaquarium",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Mote Marine Laboratory": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "mote"
+  "slug": "mote",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Museum of Science Boston": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 1,
   "provider": "greenhouse",
-  "slug": "mos"
+  "slug": "mos",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Myriad Genetics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "myriadgenetics"
+  "slug": "myriadgenetics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "NCX": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ncx"
+  "slug": "ncx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "NIRAS": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "niras"
+  "slug": "niras",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Nanostring": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "nanostring"
+  "slug": "nanostring",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Natera": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 223,
   "provider": "greenhouse",
-  "slug": "natera"
+  "slug": "natera",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "National Aquarium": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "aqua"
+  "slug": "aqua",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "National Audubon Society": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "audubon"
+  "slug": "audubon",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "National Centre for Biological Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ncbs"
+  "slug": "ncbs",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "National Geographic Partners": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 2,
   "provider": "greenhouse",
-  "slug": "disney"
+  "slug": "disney",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "National Geographic Society": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "nationalgeographic"
+  "slug": "nationalgeographic",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "National Institute of Immunology": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "nii"
+  "slug": "nii",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "National Renewable Energy Laboratory": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "nrel"
+  "slug": "nrel",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Natural History Museum London": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "nhm"
+  "slug": "nhm",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Natural Resources Defense Council": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "nrdc"
+  "slug": "nrdc",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Nature Conservancy of Canada": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "natureconservancy"
+  "slug": "natureconservancy",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Nature Conservation Foundation India": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ncf"
+  "slug": "ncf",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Nature Portfolio Springer Nature": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 1,
   "provider": "smartrecruiters",
-  "slug": "springernature"
+  "slug": "springernature",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Nautilus Biotechnology": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "nautilusbio"
+  "slug": "nautilusbio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Neuberg Diagnostics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "neuberg"
+  "slug": "neuberg",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Neurocrine Biosciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "neurocrine"
+  "slug": "neurocrine",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "New England Aquarium": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "neaq"
+  "slug": "neaq",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "New York Botanical Garden": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "nybg"
+  "slug": "nybg",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "New York Genome Center": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "nygenome"
+  "slug": "nygenome",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Nimbus Therapeutics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "nimbustx"
+  "slug": "nimbustx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Nordic Council of Ministers": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "norden"
+  "slug": "norden",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Normandeau Associates": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "normandeau"
+  "slug": "normandeau",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Novo Holdings": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "novoholdings"
+  "slug": "novoholdings",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Novo Nordisk": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "workable",
-  "slug": "novonordisk"
+  "slug": "novonordisk",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Novo Nordisk Foundation Center for Biosustainability": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "dtu"
- },
- "Novo Nordisk India": {
-  "provider": "smartrecruiters",
-  "slug": "novonordisk"
+  "slug": "dtu",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Novozymes Novonesis": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "novonesis"
+  "slug": "novonesis",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Oak Ridge National Laboratory": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ornl"
+  "slug": "ornl",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ocean Conservancy": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "oceanconservancy"
+  "slug": "oceanconservancy",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ocean Discovery League": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "oceandiscoveryleague"
+  "slug": "oceandiscoveryleague",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ocean Genomics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "oceangenomics"
+  "slug": "oceangenomics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ocean Infinity": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "oceaninfinity"
+  "slug": "oceaninfinity",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ocean Networks Canada": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "oceannetworkscanada"
+  "slug": "oceannetworkscanada",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ocean Sonics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "oceansonics"
+  "slug": "oceansonics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "OceanX": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 9,
   "provider": "greenhouse",
-  "slug": "oceanx"
+  "slug": "oceanx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Oceana": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "oceana"
+  "slug": "oceana",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Octant Bio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "octant"
+  "slug": "octant",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Octarine Bio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "octarinebio"
+  "slug": "octarinebio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Opentrons": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "opentrons"
+  "slug": "opentrons",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Oregon Health and Science University Genomics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ohsu"
+  "slug": "ohsu",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Oregon Zoo": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "oregonzoo"
+  "slug": "oregonzoo",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Orifarm": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "orifarm"
+  "slug": "orifarm",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Overstory": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 12,
   "provider": "greenhouse",
-  "slug": "overstory"
+  "slug": "overstory",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Owkin": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 7,
   "provider": "ashby",
-  "slug": "owkin"
+  "slug": "owkin",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Oxford Nanopore Technologies": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "nanoporetech"
+  "slug": "nanoporetech",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "PATH": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "path"
+  "slug": "path",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "PLOS": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 5,
   "provider": "greenhouse",
-  "slug": "plos"
+  "slug": "plos",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Pachama": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "lever",
-  "slug": "pachama"
+  "slug": "pachama",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Pacific Biosciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "pacbio"
+  "slug": "pacbio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Pacific Northwest National Laboratory": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "pnnl"
+  "slug": "pnnl",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Pairwise": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "greenhouse",
-  "slug": "pairwise"
+  "slug": "pairwise",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Panthera": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "panthera"
+  "slug": "panthera",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Parexel": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "parexel"
+  "slug": "parexel",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Parse Biosciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 8,
   "provider": "greenhouse",
-  "slug": "parsebiosciences"
+  "slug": "parsebiosciences",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Partners In Health": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "pih"
+  "slug": "pih",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Persistent Systems Life Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "persistent"
+  "slug": "persistent",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Pew Charitable Trusts": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "pewtrusts"
+  "slug": "pewtrusts",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Phase Genomics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "phasegenomics"
+  "slug": "phasegenomics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Planet Labs": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "ashby",
-  "slug": "planet"
+  "slug": "planet",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Point Blue Conservation Science": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "pointblue"
+  "slug": "pointblue",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Prescient Healthcare Group": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "prescienthg"
+  "slug": "prescienthg",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Profluent Bio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 15,
   "provider": "greenhouse",
-  "slug": "profluent"
+  "slug": "profluent",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Psomagen": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "psomagen"
+  "slug": "psomagen",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Putnam Associates": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "putnam"
+  "slug": "putnam",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Qiagen": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "qiagen"
+  "slug": "qiagen",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Quanta Magazine": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 6,
   "provider": "ashby",
-  "slug": "quanta"
+  "slug": "quanta",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "RAND Corporation": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "rand"
+  "slug": "rand",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "RPS Group": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "rpsgroup"
+  "slug": "rpsgroup",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "RSPB": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "rspb"
+  "slug": "rspb",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "RTI International": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 14,
   "provider": "greenhouse",
-  "slug": "rti"
+  "slug": "rti",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Radiometer": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "radiometer"
+  "slug": "radiometer",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Rainforest Alliance": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "rainforestalliance"
+  "slug": "rainforestalliance",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Rainforest Connection": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "rfcx"
+  "slug": "rfcx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ramboll": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ramboll"
+  "slug": "ramboll",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Rare": {
-  "provider": "workable",
-  "slug": "rare"
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
+  "provider": "smartrecruiters",
+  "slug": "rare",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Re:wild": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "rewild"
+  "slug": "rewild",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Real Chemistry": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 76,
   "provider": "greenhouse",
-  "slug": "realchemistry"
+  "slug": "realchemistry",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Recursion Pharmaceuticals": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 19,
   "provider": "greenhouse",
-  "slug": "recursionpharmaceuticals"
+  "slug": "recursionpharmaceuticals",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Red Nucleus": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "rednucleus"
+  "slug": "rednucleus",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Reef Watch Marine Conservation": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "reefwatch"
+  "slug": "reefwatch",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Regeneron": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "workable",
-  "slug": "regeneron"
+  "slug": "regeneron",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Regrow Ag": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "regrow"
+  "slug": "regrow",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Relay Therapeutics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "relaytx"
+  "slug": "relaytx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Reshape Biotech": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "reshapebiotech"
+  "slug": "reshapebiotech",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Resolve to Save Lives": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 4,
   "provider": "greenhouse",
-  "slug": "resolvetosavelives"
+  "slug": "resolvetosavelives",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Resources for the Future": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "rff"
+  "slug": "rff",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Revolution Medicines": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 273,
   "provider": "greenhouse",
-  "slug": "revolutionmedicines"
+  "slug": "revolutionmedicines",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Revvity": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "revvity"
+  "slug": "revvity",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Roche Sequencing": {
-  "provider": "workable",
-  "slug": "roche"
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
+  "provider": "smartrecruiters",
+  "slug": "rochesequencing",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Royal Botanic Gardens Kew": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "kew"
+  "slug": "kew",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "SLR Consulting": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "slrconsulting"
+  "slug": "slrconsulting",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "SNIPR Biome": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "snipr"
+  "slug": "snipr",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "STAT News": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "statnews"
+  "slug": "statnews",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Saildrone": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "saildrone"
+  "slug": "saildrone",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Salk Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "salk"
+  "slug": "salk",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Saltwater Inc": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "saltwaterinc"
+  "slug": "saltwaterinc",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Samplix": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "samplix"
- },
- "Samplix ApS": {
-  "provider": "smartrecruiters",
-  "slug": "samplix"
+  "slug": "samplix",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "San Diego Zoo Wildlife Alliance": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "sdzwa"
+  "slug": "sdzwa",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Sana Biotechnology": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "sanabiotechnology"
+  "slug": "sanabiotechnology",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Sanford Burnham Prebys": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "sbpdiscovery"
+  "slug": "sbpdiscovery",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Sapient Bioanalytics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "sapient"
+  "slug": "sapient",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Sarepta Therapeutics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "sarepta"
+  "slug": "sarepta",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Save the Redwoods League": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "savetheredwoods"
+  "slug": "savetheredwoods",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Schmidt Ocean Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "schmidtocean"
+  "slug": "schmidtocean",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Scorpion Therapeutics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "scorpiontx"
+  "slug": "scorpiontx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Scribe Therapeutics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "scribetx"
+  "slug": "scribetx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Scripps Institution of Oceanography": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "scrippsoceanography"
+  "slug": "scrippsoceanography",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Scripps Research": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 1,
   "provider": "smartrecruiters",
-  "slug": "scrippsresearch"
+  "slug": "scrippsresearch",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Sea6 Energy": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "sea6energy"
+  "slug": "sea6energy",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Seattle Aquarium": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "seattleaquarium"
+  "slug": "seattleaquarium",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Seattle Childrens Research Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "seattlechildrens"
+  "slug": "seattlechildrens",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Seqera Labs": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "seqera"
+  "slug": "seqera",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Serum Institute of India": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "seruminstitute"
+  "slug": "seruminstitute",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Shedd Aquarium": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "sheddaquarium"
+  "slug": "sheddaquarium",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Sierra Club": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 3,
   "provider": "lever",
-  "slug": "sierraclub"
+  "slug": "sierraclub",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Simon-Kucher": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "simon-kucher"
+  "slug": "simon-kucher",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Singular Genomics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 4,
   "provider": "greenhouse",
-  "slug": "singulargenomics"
+  "slug": "singulargenomics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Smithsonian Environmental Research Center": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 62,
   "provider": "greenhouse",
-  "slug": "serc"
+  "slug": "serc",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Smithsonian Institution": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "smithsonian"
+  "slug": "smithsonian",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Smithsonian Magazine": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "smithsonian"
+  "slug": "smithsonianmag",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Smithsonian Tropical Research Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "stri"
+  "slug": "stri",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Sofar Ocean": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 8,
   "provider": "ashby",
-  "slug": "sofarocean"
+  "slug": "sofarocean",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Somite AI": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "somite"
+  "slug": "somite",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "St. Jude Children's Research Hospital": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "stjude"
+  "slug": "stjude",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Stantec": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "stantec"
+  "slug": "stantec",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Statens Serum Institut": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "ashby",
-  "slug": "ssi"
+  "slug": "ssi",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Stowers Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "stowers"
+  "slug": "stowers",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Strand Life Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "strandls"
+  "slug": "strandls",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "String Bio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "stringbio"
+  "slug": "stringbio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Sun Pharma": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "sunpharma"
+  "slug": "sunpharma",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Surfrider Foundation": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "surfrider"
+  "slug": "surfrider",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Sylvera": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 3,
   "provider": "ashby",
-  "slug": "sylvera"
+  "slug": "sylvera",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Syneos Health": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "syneoshealth"
+  "slug": "syneoshealth",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Syngene International": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "syngene"
+  "slug": "syngene",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Syngenta": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "syngenta"
+  "slug": "syngenta",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "TCS Life Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 94,
   "provider": "greenhouse",
-  "slug": "tcs"
+  "slug": "tcs",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Tahoe Therapeutics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "tahoetx"
+  "slug": "tahoetx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Tango Therapeutics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "tangotx"
+  "slug": "tangotx",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Tata Institute of Fundamental Research": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "tifr"
+  "slug": "tifr",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Tempus AI": {
-  "provider": "workable",
-  "slug": "tempus"
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
+  "provider": "smartrecruiters",
+  "slug": "tempus",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Terra Bio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "terrabio"
+  "slug": "terrabio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Terradepth": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "terradepth"
+  "slug": "terradepth",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Terraformation": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "terraformation"
+  "slug": "terraformation",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Tessera Bay Area": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 7,
   "provider": "greenhouse",
-  "slug": "tesseratherapeutics"
+  "slug": "tesseratherapeutics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Teton Biotech": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 21,
   "provider": "ashby",
-  "slug": "teton"
+  "slug": "teton",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Tetra Tech": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "tetratech"
+  "slug": "tetratech",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "The Global Fund": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "theglobalfund"
+  "slug": "theglobalfund",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "The Jackson Laboratory": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "jacksonlaboratory"
+  "slug": "jacksonlaboratory",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "The Marine Mammal Center": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "marinemammalcenter"
+  "slug": "marinemammalcenter",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "The Nature Conservancy": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "nature"
+  "slug": "nature",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "The Scientist": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "thescientist"
+  "slug": "thescientist",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Thermo Fisher Scientific": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "thermofisher"
+  "slug": "thermofisher",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Thyrocare": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "thyrocare"
+  "slug": "thyrocare",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Treeline Biosciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "treelinebio"
+  "slug": "treelinebio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Triangle Insights Group": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "triangleinsights"
+  "slug": "triangleinsights",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Trinity Life Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "trinitylifesciences"
+  "slug": "trinitylifesciences",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Trust for Public Land": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "tpl"
+  "slug": "tpl",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Truveta": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 40,
   "provider": "greenhouse",
-  "slug": "truveta"
+  "slug": "truveta",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Truvian Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "truvian"
+  "slug": "truvian",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Turning Point Therapeutics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "turningpointtherapeutics"
+  "slug": "turningpointtherapeutics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Twist Bioscience": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 32,
   "provider": "greenhouse",
-  "slug": "twistbioscience"
+  "slug": "twistbioscience",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Two Labs": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "twolabs"
+  "slug": "twolabs",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Ultima Genomics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 16,
   "provider": "greenhouse",
-  "slug": "ultimagenomics"
+  "slug": "ultimagenomics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Union of Concerned Scientists": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "ucsusa"
+  "slug": "ucsusa",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Universities Space Research Association": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "usra"
+  "slug": "usra",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Unseen Bio": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "unseenbio"
+  "slug": "unseenbio",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Upstream Tech": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "upstreamtech"
+  "slug": "upstreamtech",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Van Andel Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "vanandel"
+  "slug": "vanandel",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Verily": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "verily"
+  "slug": "verily",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Vertex Pharmaceuticals": {
-  "provider": "smartrecruiters",
-  "slug": "vertex"
- },
- "Vertex San Diego": {
-  "provider": "smartrecruiters",
-  "slug": "vertex"
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
+  "provider": "workable",
+  "slug": "vertex",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Vibrant Planet": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "vibrantplanet"
+  "slug": "vibrantplanet",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Vital Strategies": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "vitalstrategies"
+  "slug": "vitalstrategies",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Vizgen": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "vizgen"
+  "slug": "vizgen",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Vynamic": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 14,
   "provider": "greenhouse",
-  "slug": "vynamic"
+  "slug": "vynamic",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "WSP": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wsp"
- },
- "WSP Denmark": {
-  "provider": "smartrecruiters",
-  "slug": "wsp"
+  "slug": "wsp",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "WWF India": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wwfindia"
+  "slug": "wwfindia",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "WWF International": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wwfinternational"
+  "slug": "wwfinternational",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Watershed": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 8,
   "provider": "greenhouse",
-  "slug": "watershed"
+  "slug": "watershed",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wellcome Sanger Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "sanger"
+  "slug": "sanger",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wellcome Trust": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wellcome"
+  "slug": "wellcome",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Westat": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "westat"
+  "slug": "westat",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wetlands International": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wetlands"
+  "slug": "wetlands",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Whitehead Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "whiteheadinstitute"
+  "slug": "whiteheadinstitute",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wild Salmon Center": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wildsalmoncenter"
+  "slug": "wildsalmoncenter",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wildlife Acoustics": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wildlifeacoustics"
+  "slug": "wildlifeacoustics",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wildlife Alliance": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wildlifealliance"
+  "slug": "wildlifealliance",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wildlife Conservation Society": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wcs"
+  "slug": "wcs",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wildlife Conservation Trust": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wildlifeconservationtrust"
+  "slug": "wildlifeconservationtrust",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wildlife Institute of India": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wii"
+  "slug": "wii",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wildlife Trust of India": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wti"
+  "slug": "wti",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wildlife Trusts": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wildlifetrusts"
+  "slug": "wildlifetrusts",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wired": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "conde"
+  "slug": "conde",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Wistar Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "wistar"
+  "slug": "wistar",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Woods Hole Group": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "woodsholegroup"
+  "slug": "woodsholegroup",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Woods Hole Oceanographic Institution": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "whoi"
+  "slug": "whoi",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "World Resources Institute": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "greenhouse",
-  "slug": "wri"
+  "slug": "wri",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "World Wildlife Fund US": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "worldwildlifefund"
+  "slug": "worldwildlifefund",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Xerces Society": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "xerces"
+  "slug": "xerces",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "ZS Associates": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "zs"
+  "slug": "zs",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Zealand Pharma": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "zealandpharma"
+  "slug": "zealandpharma",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Zoological Society of London": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "zsl"
+  "slug": "zsl",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Zydus Lifesciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "zydus"
+  "slug": "zydus",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "Zymergen": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "zymergen"
+  "slug": "zymergen",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "eLife Sciences": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "elife"
+  "slug": "elife",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "inStem Bangalore": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 0,
   "provider": "smartrecruiters",
-  "slug": "instem"
+  "slug": "instem",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  },
  "insitro": {
+  "last_tried": "2026-08-10",
+  "misses": 0,
+  "posting_count": 13,
   "provider": "ashby",
-  "slug": "insitro"
+  "slug": "insitro",
+  "state": "resolved",
+  "verified_on": "2026-08-10"
  }
 }
