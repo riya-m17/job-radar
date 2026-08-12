@@ -22,6 +22,8 @@ from __future__ import annotations
 import re
 from datetime import date, datetime, timedelta
 
+from .util import text_of
+
 MONTHS = {
     "january": 1, "jan": 1, "february": 2, "feb": 2, "march": 3, "mar": 3,
     "april": 4, "apr": 4, "may": 5, "june": 6, "jun": 6, "july": 7, "jul": 7,
@@ -107,7 +109,7 @@ def _dates_in(window: str, today: date) -> list[date]:
 
 def assess(job: dict) -> dict:
     today = date.today()
-    text = " ".join([job.get("description", "")[:9000], job.get("title", "")])
+    text = " ".join([text_of(job, "description", 9000), text_of(job, "title")])
     low = text.lower()
 
     # A structured field beats anything parsed out of prose. ReliefWeb supplies

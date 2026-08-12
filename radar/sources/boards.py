@@ -18,25 +18,30 @@ from xml.etree import ElementTree as ET
 from ..util import get, log, session, strip_html
 
 # name -> feed url. Add your own; anything returning valid RSS or Atom works.
-RSS_FEEDS = [
-    ("Conservation Job Board", "https://www.conservationjobboard.com/rss"),
-    ("Texas A&M Wildlife and Fisheries", "https://wfscjobs.tamu.edu/feed/"),
-    ("Conservation Careers", "https://www.conservation-careers.com/feed/"),
-    ("Ornithology Exchange", "https://ornithologyexchange.org/jobs/rss/"),
-    ("Society for Conservation Biology", "https://careers.conbio.org/jobs/rss"),
-    ("EnvironmentalCareer", "https://www.environmentalcareer.com/feed/"),
-    ("AZA Job Board", "https://jobs.aza.org/jobs/rss"),
-    ("Ecological Society of America", "https://careers.esa.org/jobs/rss"),
-    ("American Fisheries Society", "https://careers.fisheries.org/jobs/rss"),
-    ("The Wildlife Society", "https://careers.wildlife.org/jobs/rss"),
-    ("Marine Technology Society", "https://careers.mtsociety.org/jobs/rss"),
-    ("Nature Careers", "https://www.nature.com/naturecareers/rss/jobs"),
-    ("New Scientist Jobs", "https://jobs.newscientist.com/en-gb/rss/"),
-    ("HigherEdJobs Biology", "https://www.higheredjobs.com/rss/categoryFeed.cfm?catID=13"),
-    ("Idealist Environment", "https://www.idealist.org/en/jobs.rss"),
-    ("Museum Jobs AAM", "https://careers.aam-us.org/jobs/rss"),
-    ("Botanical Society of America", "https://careers.botany.org/jobs/rss"),
-]
+# RSS FEEDS: DELIBERATELY EMPTY.
+#
+# The first version listed seventeen conservation and science job boards here.
+# When they were finally checked, the picture was bad:
+#
+#   Conservation Job Board offers email alerts, not RSS. Conservation Careers
+#   sits behind a sign-in wall. Most of the other feed URLs were my guesses at
+#   plausible addresses and simply did not exist.
+#
+#   Worse, the handful that did respond served site-wide feeds mixing articles
+#   with jobs, and gave one shared link for every item rather than a link per
+#   posting. That is why a single conservation URL appeared ten times under ten
+#   different titles, and why the employer column showed the board's name
+#   instead of the actual employer.
+#
+# An aggregator feed without a per-posting link and a real employer name cannot
+# produce a usable row, so the list is empty rather than wrong. Conservation and
+# marine coverage now comes from reading those employers' own career pages,
+# including Workday, which is what WHOI and most large NGOs actually use.
+#
+# If you find a board with a genuine per-job feed, add it as (name, url) and the
+# reader below will pick it up. The duplicate-link guard will reject it
+# automatically if it turns out to share one URL across many items.
+RSS_FEEDS: list[tuple[str, str]] = []
 
 # ReliefWeb: international humanitarian, development and environment postings.
 RELIEFWEB = "https://api.reliefweb.int/v1/jobs"
@@ -134,11 +139,30 @@ def _rss_one(name: str, url: str) -> list[dict]:
     return out
 
 
+def _reject_shared_links(items: list[dict], source: str) -> list[dict]:
+    """Throw out feeds that give one link for many postings.
+
+    A feed serving the same URL under ten different titles is not publishing
+    per-job links, so every row it produces is a lie about where it goes. This
+    is what put one conservation link on the dashboard ten times.
+    """
+    counts: dict[str, int] = {}
+    for it in items:
+        counts[it.get("url", "")] = counts.get(it.get("url", ""), 0) + 1
+    shared = {u for u, n in counts.items() if n > 1}
+    if not shared:
+        return items
+    kept = [it for it in items if it.get("url", "") not in shared]
+    log.warning("%s: dropped %d items sharing %d duplicate links",
+                source, len(items) - len(kept), len(shared))
+    return kept
+
+
 def rss() -> list[dict]:
     jobs = []
     for name, url in RSS_FEEDS:
         try:
-            jobs.extend(_rss_one(name, url))
+            jobs.extend(_reject_shared_links(_rss_one(name, url), name))
         except Exception as exc:
             log.debug("feed error %s: %s", name, exc)
     return jobs

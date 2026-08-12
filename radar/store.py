@@ -7,7 +7,16 @@ import re
 from datetime import date
 from pathlib import Path
 
-from .util import ROOT, job_key, log
+from .util import ROOT, job_key, log, settings
+
+
+def _stale_threshold() -> int:
+    """How many missed runs before a posting counts as closed.
+
+    Read from settings rather than hardcoded. It was hardcoded to 3 while the
+    config said 2, so the setting silently did nothing.
+    """
+    return int(settings()["run"].get("stale_runs_before_closed", 2))
 
 DATA = ROOT / "data"
 JOBS = DATA / "jobs.json"
@@ -93,7 +102,7 @@ def merge(fresh: list[dict]) -> tuple[list[dict], list[dict]]:
         if key in seen_now:
             continue
         job["missed_runs"] = job.get("missed_runs", 0) + 1
-        if job["missed_runs"] >= 3:
+        if job["missed_runs"] >= _stale_threshold():
             job["status"] = "closed"
 
     merged = list(archive.values())

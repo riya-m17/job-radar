@@ -10,7 +10,7 @@ overlapping terms on every row so the reason is visible rather than implied.
 
 from __future__ import annotations
 
-from .util import load_config
+from .util import load_config, text_of
 
 PROFILE = load_config("profile")
 
@@ -27,9 +27,9 @@ EDUCATION_WEIGHT = 2
 
 def assess(job: dict) -> dict:
     text = " ".join([
-        job.get("title", ""),
-        job.get("department", ""),
-        job.get("description", "")[:8000],
+        text_of(job, "title"),
+        text_of(job, "department"),
+        text_of(job, "description", 8000),
     ]).lower()
 
     score = 0

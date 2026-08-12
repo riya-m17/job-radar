@@ -29,6 +29,14 @@ run:
   # This does not touch non-university research institutes such as the Broad,
   # the New York Genome Center or Woods Hole.
   drop_academic_bench: true
+  # Research institute RA postings routinely require that you want a PhD
+  # afterwards. Those are dropped. Soft "great stepping stone" language is not
+  # a requirement and is kept, but flagged on the row.
+  drop_phd_intent_required: true
+  # Fetch every posting URL and remove the ones that are provably gone: 404,
+  # redirected to a careers index, or the page itself saying it is closed.
+  # This is the fix for clicking through to dead roles.
+  verify_links: true
   # Roles requiring a master's. Off by default, since some say master's
   # "or equivalent experience" and are worth a look.
   drop_masters_required: false
@@ -40,7 +48,8 @@ run:
   # they stay. Set this to false if you ever want summer roles back.
   exclude_internships: true
   # A posting is marked closed once it stops appearing for this many runs.
-  stale_runs_before_closed: 3
+  # Two, not three: a day of lag is tolerable, three days of dead links is not.
+  stale_runs_before_closed: 2
   # Requests
   timeout_seconds: 25
   max_workers: 12
@@ -71,17 +80,19 @@ priority_locations:
               "dehradun", "mysuru", "mysore"]
 
 geography:
-  # She said anywhere. These only affect the region label and the F-1 logic,
-  # not whether a posting is kept.
-  us_markers: [", ca", ", ny", ", ma", ", md", ", wa", ", tx", ", il", ", pa",
-               ", nc", ", nj", ", co", ", ga", ", va", ", dc", ", fl", ", mn",
-               ", mi", ", oh", ", az", ", or", ", wi", ", ct", ", tn", ", mo",
-               ", ut", ", in", ", ak", ", hi", "united states", "usa", "u.s."]
+  # US state detection lives in radar/classify.py, which matches full state
+  # names and postal abbreviations as tokens. An earlier substring list here
+  # failed on "New York, New York" and is gone rather than left as a knob that
+  # does nothing.
   remote_markers: [remote, "work from home", distributed, anywhere, telework]
 
 sources:
   # Employer career pages. This is the backbone and needs no API keys.
   ats: true
+  # Workday. Slow to discover but it is what WHOI, most large NGOs, hospital
+  # systems and big pharma actually use, so it is where the marine and
+  # conservation employers live.
+  workday: true
   # Free public job feeds, no keys needed.
   remotive: true
   arbeitnow: true
@@ -136,4 +147,3 @@ usajobs:
 output:
   dashboard: docs/index.html
   json_feed: docs/jobs.json
-  data_dir: data

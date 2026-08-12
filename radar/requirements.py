@@ -23,7 +23,7 @@ from __future__ import annotations
 
 import re
 
-from .util import settings
+from .util import settings, text_of
 
 WORD_NUMBERS = {
     "one": 1, "two": 2, "three": 3, "four": 4, "five": 5,
@@ -91,6 +91,40 @@ _DOCTORAL_TITLE = re.compile(
     r"phd fellow|doctoral (?:student|candidate|researcher|fellow|position)|"
     r"graduate research assistantship|graduate assistantship|"
     r"research fellow \(phd|clinical fellow)", re.I)
+
+
+# Wanting a PhD later is a different bar from having one, and research
+# institute RA postings are full of it. "A great stepping stone to graduate
+# school" is a soft sell. "You must explicitly wish to use this experience to
+# gain entry into a PhD program" is a requirement, and Arc's Horns Lab posting
+# says exactly that. She does not want a PhD, so the hard version is a drop.
+_PHD_INTENT_REQUIRED = re.compile(
+    r"(must (?:explicitly )?(?:wish|intend|plan|want) to (?:use this |pursue|apply)"
+    r"|explicitly wish to use this experience"
+    r"|intention of (?:pursuing|applying to) (?:a )?(?:phd|graduate|doctoral)"
+    r"|intend(?:s|ing)? to (?:pursue|apply to) (?:a )?(?:phd|graduate school|doctoral)"
+    r"|committed to (?:pursuing )?(?:a )?(?:phd|graduate school|doctoral)"
+    r"|plan(?:s|ning)? to (?:pursue|apply to) (?:a )?(?:phd|graduate|doctoral)"
+    r"|(?:seeking|looking for) candidates? (?:who|that) (?:wish|intend|plan) to pursue"
+    r"|required?:? .{0,40}(?:phd|graduate school) (?:intent|intention|aspiration)"
+    r"|prior to (?:starting|entering) (?:a )?(?:phd|graduate) program"
+    r"|as a (?:pre-?phd|pre-?doctoral) (?:step|position|role))", re.I)
+
+# The soft version. Not a bar, but worth flagging on the row.
+_PHD_INTENT_PREFERRED = re.compile(
+    r"(stepping stone|springboard|pipeline (?:to|into) (?:graduate|phd)"
+    r"|prepare (?:you )?for (?:graduate school|a phd)"
+    r"|many of our (?:former )?(?:research associates|ras) (?:go on to|have gone)"
+    r"|ideal for (?:someone|candidates) (?:planning|intending) to)", re.I)
+
+
+def phd_intent_required(text: str) -> str | None:
+    m = _PHD_INTENT_REQUIRED.search(text)
+    return f"requires intent to pursue a PhD ({m.group(0)[:60].strip()})" if m else None
+
+
+def phd_intent_flavour(text: str) -> bool:
+    return bool(_PHD_INTENT_PREFERRED.search(text))
 
 
 def doctorate_required(text: str, title: str = "") -> str | None:
@@ -179,8 +213,11 @@ def _hit(text: str, phrases: list[str]) -> str | None:
     return None
 
 
-def is_university(company: str) -> bool:
-    low = (company or "").lower()
+def is_university(company) -> bool:
+    # company can arrive as a dict or a number from a malformed feed record.
+    if not isinstance(company, str):
+        company = "" if company is None else str(company)
+    low = company.lower()
     if any(x in low for x in UNIVERSITY_EXCEPTIONS):
         return False
     return any(m in low for m in UNIVERSITY_MARKERS)
@@ -188,14 +225,15 @@ def is_university(company: str) -> bool:
 
 def assess(job: dict) -> dict:
     text = " ".join([
-        job.get("title", ""),
-        job.get("department", ""),
-        job.get("description", "")[:9000],
+        text_of(job, "title"),
+        text_of(job, "department"),
+        text_of(job, "description", 9000),
     ]).lower()
-    title = (job.get("title") or "").lower()
+    title = text_of(job, "title").lower()
 
     years = years_required(text)
     doctoral = doctorate_required(text, title)
+    phd_intent = phd_intent_required(text)
     masters = _hit(text, MASTERS_REQUIRED)
 
     uni = is_university(job.get("company", ""))
@@ -216,6 +254,8 @@ def assess(job: dict) -> dict:
 
     return {
         "years_required": years,
+        "phd_intent_required": phd_intent,
+        "phd_pipeline_flavour": phd_intent_flavour(text),
         "degree_bar": "doctorate" if doctoral else ("masters" if masters else None),
         "experience_verdict": verdict,
         "experience_detail": detail,
@@ -234,6 +274,9 @@ def rejected(job: dict) -> str | None:
 
     if job.get("degree_bar") == "doctorate":
         return "requires a doctorate"
+
+    if cfg.get("drop_phd_intent_required", True) and job.get("phd_intent_required"):
+        return "requires intent to pursue a PhD"
 
     if cfg.get("drop_masters_required") and job.get("degree_bar") == "masters":
         return "requires a master's"

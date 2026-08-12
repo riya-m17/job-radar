@@ -125,6 +125,21 @@ def job_key(company: str, title: str, url: str) -> str:
     return hashlib.sha1(blob.encode("utf-8")).hexdigest()[:16]
 
 
+def text_of(job: dict, key: str, limit: int | None = None) -> str:
+    """Get a string field safely.
+
+    dict.get(key, "") returns None when the key exists with a null value, which
+    feeds do routinely, and slicing None raises. This coerces properly. Every
+    module reads posting text through here so one null field cannot kill a run.
+    """
+    value = job.get(key)
+    if value is None:
+        return ""
+    if not isinstance(value, str):
+        value = str(value)
+    return value[:limit] if limit else value
+
+
 def first(*vals):
     for v in vals:
         if v:

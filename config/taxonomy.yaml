@@ -57,6 +57,77 @@ include:
     - marine data
     - fisheries data
 
+  # Commercial and customer-facing roles in life sciences. She said she can do
+  # sales for life sciences, and the field application scientist route in
+  # particular is a genuine fit: it wants someone who can run the instrument,
+  # read the data and explain both to a customer, which is exactly her profile.
+  commercial:
+    - field application scientist
+    - field applications scientist
+    - application scientist
+    - applications specialist
+    - technical application
+    - technical sales
+    - sales specialist
+    - scientific sales
+    - life science sales
+    - inside sales
+    - account manager
+    - account executive
+    - business development
+    - sales development
+    - technical support scientist
+    - product specialist
+    - product manager
+    - product marketing
+    - market research
+    - market access
+    - commercial strategy
+    - competitive intelligence
+    - customer experience
+    - client services
+    - partnerships
+    - go to market
+
+  # Creative and design work. She wants these and they are real jobs in her
+  # world: museums, aquaria, publishers and science media all hire for them.
+  creative:
+    - science illustration
+    - scientific illustration
+    - medical illustration
+    - science visualization
+    - data visualization designer
+    - infographic
+    - graphic design
+    - visual design
+    - exhibit design
+    - exhibit developer
+    - exhibition
+    - interpretive
+    - multimedia
+    - video producer
+    - documentary
+    - photography
+    - photo editor
+    - digital storytelling
+    - content designer
+    - content strategist
+    - social media
+    - podcast producer
+    - creative producer
+    - brand
+    - copywriter
+    - editorial assistant
+    - assistant editor
+    - editorial
+    - science writer
+    - science journalist
+    - communications specialist
+    - communications coordinator
+    - public engagement
+    - museum educator
+    - interpretation
+
   domain:          # subject matter, weight 6
     - life science consult
     - life sciences consult
@@ -221,6 +292,39 @@ exclude:
     - cuda kernel
     - model training infrastructure
 
+  # Pure software engineering. She is a scientist who codes, not an engineer,
+  # and these are out of her depth. Note what is NOT here: bioinformatics
+  # engineer, research software engineer, computational biologist and data
+  # analyst all survive, because those are science jobs that involve code.
+  software:
+    - software engineer
+    - software developer
+    - software development engineer
+    - full stack
+    - fullstack
+    - full-stack
+    - backend engineer
+    - back-end engineer
+    - frontend engineer
+    - front-end engineer
+    - web developer
+    - mobile developer
+    - platform engineer
+    - infrastructure engineer
+    - systems engineer
+    - cloud engineer
+    - security engineer
+    - qa engineer
+    - test engineer
+    - embedded engineer
+    - firmware
+    - database administrator
+    - solutions architect
+    - technical program manager
+    - engineering manager
+    - sdet
+    - api engineer
+
   # Off-domain
   off_domain:
     - quantitative
@@ -240,12 +344,6 @@ exclude:
     - semiconductor
     - wireless
     - telecom
-    - advertis
-    - marketing analytics
-    - supply chain
-    - logistics
-    - merchandis
-    - e-commerce
     - customer success
     - hedge fund
     - investment banking

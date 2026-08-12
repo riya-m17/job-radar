@@ -208,6 +208,33 @@ posting.
 | `stale_after_days` | past this a posting is shown but marked ageing |
 | `drop_blocked` | removes roles needing citizenship, permanent residence or a clearance |
 
+**Dead links.** Every posting URL is fetched and the ones provably gone are
+removed: a 404 or 410, a redirect to a generic careers index, or a page whose
+text says the role is closed. Results are cached and re-checked every three days.
+A network failure or a 403 from bot protection is treated as "unknown" and the
+posting is kept, because a blocked request is not evidence a role has closed.
+Use `--recheck-links` to force a full re-verification. Postings also now drop
+off after missing two runs rather than three.
+
+**PhD intent.** Research institute RA postings routinely require that you want
+a doctorate afterwards, which is why so many were flooding the board. Those are
+dropped now. Language that merely describes the role as a route to graduate
+school is kept and tagged PHD PIPELINE, since that is a description rather than
+a requirement.
+
+**Kind of work.** Every posting is tagged with what the work actually is:
+computational, bench, commercial, creative, comms, field. There is a filter row
+for these and a "not bench work" count, because the board should reflect that
+you are more than a pair of hands at a bench. Commercial covers field
+application scientist, technical sales, business development and product roles.
+Creative covers illustration, exhibit design, editorial, science writing,
+multimedia and public engagement.
+
+**Pure software engineering is excluded.** Software engineer, full stack,
+backend, frontend, platform, infrastructure, SRE and QA all drop. Bioinformatics
+engineer, research software engineer, computational biologist and data analyst
+all survive, because those are science jobs that involve code.
+
 **Doctorate filtering.** Roles requiring a PhD are dropped. This is parsed rather
 than phrase-matched: the doctorate mention is found, then the surrounding words
 decide whether it is a bar. "Ph.D. in molecular biology is required" drops.
@@ -253,6 +280,42 @@ got dropped and why, `--digest` writes `digest.md`.
 
 ---
 
+## What was wrong with the conservation and marine sources
+
+Worth recording, because the fix changes the architecture.
+
+The first version pulled conservation and marine roles from seventeen RSS feeds
+I had written from memory. When they were finally checked:
+
+- Conservation Job Board offers email alerts, not RSS. Conservation Careers is
+  behind a sign-in wall. Most of the other feed URLs were plausible guesses that
+  did not exist.
+- The few that answered served site-wide feeds mixing articles with jobs, and
+  gave **one shared link for every item**. That is why a single conservation URL
+  appeared ten times under ten different titles, and why the employer column
+  read "Conservation Job Board" instead of a real employer.
+
+An aggregator feed with no per-posting link and no employer name cannot produce
+a usable row, so `RSS_FEEDS` is now empty rather than wrong. There is also a
+guard that automatically rejects any feed whose items share URLs, so this
+failure cannot recur silently if a feed is added later.
+
+Conservation and marine coverage now comes from reading those employers' own
+career pages. Which required the other fix:
+
+**Workday support.** WHOI runs `whoi.wd5.myworkdayjobs.com`, and Workday was
+completely invisible to the first six providers I built for. That is the main
+reason marine and conservation coverage was thin: the large NGOs, institutes,
+hospital systems and pharma companies mostly run Workday. It has no documented
+public API but every tenant exposes the JSON endpoint its own careers page uses,
+so the pipeline now reads it. WHOI's tenant is verified by hand and recorded in
+the registry; for other employers the prober tries the common tenant, data
+centre and site-name patterns, which costs many requests and so runs only after
+the standard six have failed.
+
+Registry is now 505 employers, 63 marine and 76 conservation, with zero
+duplicates and zero colliding board slugs.
+
 ## How the registry checks itself
 
 I built the 449 employer list from my own knowledge and could not verify it:
@@ -282,6 +345,37 @@ outage recovers on its own.
 Expect the resolve rate to be well short of 100%. Large pharma, most
 universities and many NGOs run Workday or a custom system with no public feed.
 That is a real limit of this approach, not a bug.
+
+## Self test
+
+    python selftest.py
+
+95 assertions covering every filter in both directions: what should drop drops,
+and what should survive survives. The second half matters more, because an
+over-aggressive filter empties the dashboard silently and looks like "no jobs
+today". The daily workflow runs this before publishing, so a broken change
+fails the run instead of quietly wiping the board.
+
+Bugs it was written after finding, all of which had passed casual inspection:
+
+- Five modules crashed when a feed sent `description: null`, because
+  `.get(key, "")` returns None when the key exists with a null value, and
+  slicing None raises. One such posting would have killed an entire run.
+- `stale_runs_before_closed: 2` was in the config while `store.py` hardcoded 3,
+  so the setting did nothing.
+- The pure-software exclusion list existed in `taxonomy.yaml` but was never read
+  by the exclusion function. Software roles were only dropping by accident.
+- Commercial and creative terms qualified a posting on their own, so an
+  integration run filled the board with generic tech Product Manager listings.
+  They now need life science context, because "Product Manager" is only
+  interesting when the product is a sequencer.
+- Work-kind tagging needed two body cues, so "Field Application Scientist" and
+  "Marine Data Analyst" both came out as "other", defeating the filter.
+- `us_markers` matched substrings and failed on "New York, New York".
+
+The pattern in almost all of these: a filter that looked right, passed a
+hand-picked example, and failed on real data. Unit tests missed the last three
+entirely; only running the pipeline end to end caught them.
 
 ## When something looks wrong
 

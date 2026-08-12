@@ -176,7 +176,8 @@ organizations:
   - {name: Environmental Working Group, cat: conservation, country: US, cap_exempt: true, hints: [ewg]}
 
   # ------------------------------------------------------ marine and ocean
-  - {name: Woods Hole Oceanographic Institution, cat: marine, country: US, cap_exempt: true, hints: [whoi, woodshole]}
+  # Workday tenant verified by hand, 12 Aug 2026: whoi.wd5.myworkdayjobs.com/WHOI-External
+  - {name: Woods Hole Oceanographic Institution, cat: marine, country: US, cap_exempt: true, hints: [whoi, woodshole], workday: {tenant: whoi, wd: 5, site: WHOI-External}}
   - {name: MBARI, cat: marine, country: US, cap_exempt: true, hints: [mbari]}
   - {name: Scripps Institution of Oceanography, cat: marine, country: US, cap_exempt: true, hints: [scrippsoceanography, ucsd]}
   - {name: Schmidt Ocean Institute, cat: marine, country: US, cap_exempt: true, hints: [schmidtocean]}
@@ -531,3 +532,70 @@ organizations:
   - {name: Wild Salmon Center, cat: conservation, country: US, cap_exempt: true, hints: [wildsalmoncenter]}
   - {name: Oregon Health and Science University Genomics, cat: institute, country: US, cap_exempt: true, hints: [ohsu]}
   - {name: Oregon Zoo, cat: museum, country: US, cap_exempt: true, hints: [oregonzoo]}
+
+  # =====================================================================
+  # MARINE, expanded. The previous list was thin on the places that
+  # actually employ marine scientists in numbers: state and regional
+  # agencies, sea grant programmes, aquaria, and ocean tech.
+  # =====================================================================
+  - {name: Hopkins Marine Station, cat: marine, country: US, cap_exempt: true, hints: [hopkinsmarine]}
+  - {name: Virginia Institute of Marine Science, cat: marine, country: US, cap_exempt: true, hints: [vims]}
+  - {name: Skidaway Institute of Oceanography, cat: marine, country: US, cap_exempt: true, hints: [skidaway]}
+  - {name: Bermuda Institute of Ocean Sciences, cat: marine, country: US, cap_exempt: true, hints: [bios]}
+  - {name: Harbor Branch Oceanographic Institute, cat: marine, country: US, cap_exempt: true, hints: [harborbranch, fau]}
+  - {name: Gulf of Maine Research Institute, cat: marine, country: US, cap_exempt: true, hints: [gmri]}
+  - {name: Shedd Aquarium Research, cat: marine, country: US, cap_exempt: true, hints: [sheddresearch]}
+  - {name: Aquarium of the Pacific, cat: marine, country: US, cap_exempt: true, hints: [aquariumofpacific, lbaop]}
+  - {name: Texas State Aquarium, cat: marine, country: US, cap_exempt: true, hints: [texasstateaquarium]}
+  - {name: South Carolina Aquarium, cat: marine, country: US, cap_exempt: true, hints: [scaquarium]}
+  - {name: Oregon Coast Aquarium, cat: marine, country: US, cap_exempt: true, hints: [aquarium, oregoncoastaquarium]}
+  - {name: Pacific Whale Foundation, cat: marine, country: US, cap_exempt: true, hints: [pacificwhale]}
+  - {name: Ocean Alliance, cat: marine, country: US, cap_exempt: true, hints: [oceanalliance]}
+  - {name: Cascadia Research Collective, cat: marine, country: US, cap_exempt: true, hints: [cascadiaresearch]}
+  - {name: Oceanic Society, cat: marine, country: US, cap_exempt: true, hints: [oceanicsociety]}
+  - {name: Blue Ventures, cat: marine, country: UK, cap_exempt: true, hints: [blueventures]}
+  - {name: Marine Conservation Society UK, cat: marine, country: UK, cap_exempt: true, hints: [mcsuk]}
+  - {name: Plymouth Marine Laboratory, cat: marine, country: UK, cap_exempt: true, hints: [pml]}
+  - {name: National Oceanography Centre, cat: marine, country: UK, cap_exempt: true, hints: [noc]}
+  - {name: Scottish Association for Marine Science, cat: marine, country: UK, cap_exempt: true, hints: [sams]}
+  - {name: Australian Institute of Marine Science, cat: marine, country: AU, cap_exempt: true, hints: [aims]}
+  - {name: Sea Around Us, cat: marine, country: CA, cap_exempt: true, hints: [seaaroundus, ubc]}
+  - {name: Fugro Marine, cat: marine, country: NL, hints: [fugro]}
+  - {name: Xocean, cat: marine, country: IE, hints: [xocean]}
+  - {name: Nortek, cat: marine, country: NO, hints: [nortek]}
+  - {name: Teledyne Marine, cat: marine, country: US, hints: [teledyne]}
+  - {name: Sonardyne, cat: marine, country: UK, hints: [sonardyne]}
+  - {name: Open Ocean Robotics, cat: marine, country: CA, hints: [openoceanrobotics]}
+
+  # =====================================================================
+  # CONSERVATION, expanded, replacing the aggregator boards that were
+  # producing the duplicate links. These are employers, not job boards.
+  # =====================================================================
+  - {name: Environmental Incentives, cat: conservation, country: US, hints: [enviroincentives]}
+  - {name: Trout Unlimited, cat: conservation, country: US, cap_exempt: true, hints: [troutunlimited, tu]}
+  - {name: Pheasants Forever, cat: conservation, country: US, cap_exempt: true, hints: [pheasantsforever]}
+  - {name: National Fish and Wildlife Foundation, cat: conservation, country: US, cap_exempt: true, hints: [nfwf]}
+  - {name: Land Trust Alliance, cat: conservation, country: US, cap_exempt: true, hints: [landtrustalliance, lta]}
+  - {name: Open Space Institute, cat: conservation, country: US, cap_exempt: true, hints: [osiny]}
+  - {name: Rocky Mountain Elk Foundation, cat: conservation, country: US, cap_exempt: true, hints: [rmef]}
+  - {name: National Forest Foundation, cat: conservation, country: US, cap_exempt: true, hints: [nationalforests]}
+  - {name: American Rivers, cat: conservation, country: US, cap_exempt: true, hints: [americanrivers]}
+  - {name: American Forests, cat: conservation, country: US, cap_exempt: true, hints: [americanforests]}
+  - {name: Conservation Legacy, cat: conservation, country: US, cap_exempt: true, hints: [conservationlegacy]}
+  - {name: Student Conservation Association, cat: conservation, country: US, cap_exempt: true, hints: [thesca, sca]}
+  - {name: NatureServe, cat: conservation, country: US, cap_exempt: true, hints: [natureserve]}
+  - {name: Wildlife Habitat Council, cat: conservation, country: US, cap_exempt: true, hints: [wildlifehc]}
+  - {name: Rainforest Trust, cat: conservation, country: US, cap_exempt: true, hints: [rainforesttrust]}
+  - {name: Amazon Conservation Association, cat: conservation, country: US, cap_exempt: true, hints: [amazonconservation]}
+  - {name: Wildlife Conservation Network, cat: conservation, country: US, cap_exempt: true, hints: [wildnet]}
+  - {name: Save the Elephants, cat: conservation, country: INT, cap_exempt: true, hints: [savetheelephants]}
+  - {name: Elephant Family, cat: conservation, country: UK, cap_exempt: true, hints: [elephantfamily]}
+  - {name: Orangutan Foundation, cat: conservation, country: UK, cap_exempt: true, hints: [orangutan]}
+  - {name: Frankfurt Zoological Society, cat: conservation, country: DE, cap_exempt: true, hints: [fzs]}
+  - {name: Durrell Wildlife Conservation Trust, cat: conservation, country: UK, cap_exempt: true, hints: [durrell]}
+  - {name: Chester Zoo, cat: conservation, country: UK, cap_exempt: true, hints: [chesterzoo]}
+  - {name: Whitley Fund for Nature, cat: conservation, country: UK, cap_exempt: true, hints: [whitleyaward]}
+  - {name: Global Environment Facility, cat: conservation, country: INT, cap_exempt: true, hints: [thegef]}
+  - {name: Wildlife Conservation Network Kenya, cat: conservation, country: INT, cap_exempt: true, hints: [wcnkenya]}
+  - {name: Forest Stewardship Council, cat: conservation, country: INT, cap_exempt: true, hints: [fsc]}
+  - {name: Marine Stewardship Council, cat: marine, country: UK, cap_exempt: true, hints: [msc]}

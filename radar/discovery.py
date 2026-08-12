@@ -90,6 +90,14 @@ def _probe(provider: str, slug: str, sess) -> int | None:
 
 def resolve_one(org: dict) -> dict | None:
     sess = session()
+    # A verified Workday tenant in the registry is checked first, since it is
+    # known good and costs one request instead of dozens.
+    if org.get("workday"):
+        from .sources import workday
+        found = workday.discover(org)
+        if found:
+            log.info("resolved %-46s -> workday/%s", org["name"], found["slug"])
+            return found
     for slug in slug_candidates(org["name"], org.get("hints"))[:6]:
         for provider in ORDER:
             try:
@@ -103,6 +111,16 @@ def resolve_one(org: dict) -> dict | None:
                 return {"provider": provider, "slug": slug,
                         "posting_count": count,
                         "verified_on": date.today().isoformat()}
+
+    # Nothing standard answered. Workday is the common reason, and WHOI is the
+    # proof: it runs whoi.wd5.myworkdayjobs.com and was invisible until now.
+    # Tried last because tenant discovery costs many requests.
+    if settings()["sources"].get("workday", True):
+        from .sources import workday
+        try:
+            return workday.discover(org)
+        except Exception as exc:
+            log.debug("workday probe failed %s: %s", org["name"], exc)
     return None
 
 

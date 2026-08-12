@@ -24,6 +24,8 @@ advantage available, and it is why those employers are scored up.
 
 from __future__ import annotations
 
+from .util import text_of
+
 # Hard stops. If a posting says one of these, you cannot apply, so these are
 # dropped from the dashboard entirely rather than ranked down.
 BLOCKING = [
@@ -96,12 +98,12 @@ def _flag(text: str, phrases: list[str]) -> str | None:
 
 def assess(job: dict) -> dict:
     text = " ".join([
-        job.get("title", ""),
-        job.get("description", "")[:8000],
+        text_of(job, "title"),
+        text_of(job, "description", 8000),
     ]).lower()
 
     # Some feeds state sponsorship as structured data. Trust that first.
-    declared = (job.get("sponsorship_declared") or "").lower()
+    declared = text_of(job, "sponsorship_declared").lower()
     if "does not offer" in declared:
         return _verdict("unlikely", "the posting states it does not sponsor")
     if "citizenship is required" in declared:

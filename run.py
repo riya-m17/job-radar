@@ -13,8 +13,8 @@ import argparse
 import collections
 from pathlib import Path
 
-from radar import (classify, deadlines, discovery, freshness, profile_match,
-                   programs, render, requirements, store, visa)
+from radar import (classify, deadlines, discovery, freshness, liveness,
+                   profile_match, programs, render, requirements, store, visa)
 from radar.sources import ats, boards, feeds
 from radar.util import ROOT, log, setup_logging, settings
 
@@ -24,6 +24,8 @@ def main() -> None:
     ap.add_argument("--rediscover", action="store_true",
                     help="re-probe every career page from scratch")
     ap.add_argument("--verbose", action="store_true")
+    ap.add_argument("--recheck-links", action="store_true",
+                    help="force a fresh liveness check on every posting")
     ap.add_argument("--digest", action="store_true",
                     help="write digest.md listing today's new openings")
     args = ap.parse_args()
@@ -92,7 +94,14 @@ def main() -> None:
     for reason, n in dropped.most_common(8):
         log.info("  dropped %5d  %s", n, reason)
 
-    # 4. Remember, then publish.
+    # 4. Check the links are still live. Done last, on survivors only, since
+    #    it is the one step that costs a request per posting.
+    kept, dead = liveness.verify(
+        kept, aggressive=args.rediscover or args.recheck_links)
+    if dead:
+        log.info("removed %d postings whose links were dead", dead)
+
+    # 5. Remember, then publish.
     open_jobs, new_today = store.merge(kept)
     open_jobs.sort(key=lambda j: (-j.get("visa_rank", 3), -j.get("total_score", 0)))
     log.info("posted dates: %d exact, %d approximate, %d unknown",

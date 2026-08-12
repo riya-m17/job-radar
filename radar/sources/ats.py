@@ -145,6 +145,10 @@ def _recruitee(slug, sess):
     return out
 
 
+def _workday(slug, sess):
+    raise RuntimeError("workday is dispatched on the board dict, not the slug")
+
+
 FETCHERS = {
     "greenhouse": _greenhouse,
     "lever": _lever,
@@ -157,11 +161,15 @@ FETCHERS = {
 
 def _one(org: dict, board: dict) -> list[dict]:
     sess = session()
-    fetch = FETCHERS.get(board["provider"])
-    if not fetch:
-        return []
     try:
-        raw = fetch(board["slug"], sess)
+        if board["provider"] == "workday":
+            from . import workday
+            raw = workday.fetch(board)
+        else:
+            fetch = FETCHERS.get(board["provider"])
+            if not fetch:
+                return []
+            raw = fetch(board["slug"], sess)
     except Exception as exc:
         log.warning("fetch failed %s: %s", org["name"], exc)
         return []
