@@ -43,7 +43,8 @@ TRUSTED_EMPLOYERS = {
     "genomics", "biotech", "health_data", "bio_software", "institute",
     "conservation", "marine", "bioacoustics", "museum", "media", "climate",
     "public_health", "policy", "plant_science", "lab_services",
-    "consulting", "env_consulting",
+    "consulting", "env_consulting", "big_tech", "consumer_health",
+    "brand", "publisher", "venture",
 }
 
 
@@ -133,7 +134,8 @@ def relevance(job: dict) -> tuple[int, list[str]]:
     # Employer-level context. A conservation NGO posting a coordinator role is
     # more interesting than a generic coordinator role somewhere else.
     if job.get("org_cat") in ("conservation", "marine", "bioacoustics",
-                              "museum", "institute", "genomics"):
+                              "museum", "institute", "genomics",
+                              "consumer_health", "publisher"):
         score += 6
     if job.get("cap_exempt"):
         score += 4

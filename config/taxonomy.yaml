@@ -19,6 +19,11 @@ categories:
   lab_services:  Instruments, CROs and lab services
   consulting:    Life science consulting
   env_consulting: Environmental and ecological consulting
+  big_tech:      Big tech science and sustainability teams
+  consumer_health: Consumer health and diagnostics
+  brand:         Consumer brands with science or sustainability teams
+  publisher:     Scientific publishing and science education
+  venture:       Venture capital and science investing
   aggregator:    Found via a job board rather than an employer page
 
 # ---------------------------------------------------------------------------
@@ -92,23 +97,23 @@ include:
   # Creative and design work. She wants these and they are real jobs in her
   # world: museums, aquaria, publishers and science media all hire for them.
   creative:
+    - illustrat
     - science illustration
-    - scientific illustration
-    - medical illustration
-    - science visualization
+    - visualization
+    - visualisation
     - data visualization designer
     - infographic
     - graphic design
     - visual design
-    - exhibit design
-    - exhibit developer
+    - designer
+    - exhibit
     - exhibition
     - interpretive
     - multimedia
-    - video producer
+    - video produc
+    - videograph
     - documentary
-    - photography
-    - photo editor
+    - photograph
     - digital storytelling
     - content designer
     - content strategist
@@ -120,12 +125,13 @@ include:
     - editorial assistant
     - assistant editor
     - editorial
-    - science writer
-    - science journalist
-    - communications specialist
-    - communications coordinator
+    - science writ
+    - science journalis
+    - staff writer
+    - communications
     - public engagement
-    - museum educator
+    - educator
+    - museum educat
     - interpretation
 
   domain:          # subject matter, weight 6

@@ -7,7 +7,8 @@ import re
 from datetime import date
 from pathlib import Path
 
-from .util import ROOT, job_key, log, settings
+from .dedup import identity
+from .util import ROOT, log, settings
 
 
 def _stale_threshold() -> int:
@@ -71,7 +72,10 @@ def merge(fresh: list[dict]) -> tuple[list[dict], list[dict]]:
     new_today = []
 
     for job in fresh:
-        key = job_key(job.get("company", ""), job.get("title", ""), job.get("url", ""))
+        # Identity comes from the requisition, not the URL. The old key hashed
+        # the full URL, so the same job served from two hosts, or with a
+        # tracking parameter attached, became two rows that never merged.
+        key = job.get("key") or identity(job)
         job["key"] = key
         seen_now.add(key)
 

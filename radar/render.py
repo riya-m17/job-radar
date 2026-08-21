@@ -183,6 +183,10 @@ details.drawer[open]>summary::after{content:'close'}
 .tag.flav{color:var(--glacier);border-color:#2A4E60}
 .phdtag{font-family:'IBM Plex Mono',monospace;font-size:9.5px;letter-spacing:.1em;
   border:1px solid #5A452C;color:#C79A5E;padding:2px 6px;border-radius:2px}
+.lowtag{font-family:'IBM Plex Mono',monospace;font-size:9.5px;letter-spacing:.1em;
+  border:1px solid #5A3029;color:#C4614F;padding:2px 6px;border-radius:2px}
+.quote{font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--ice);
+  background:var(--raise);padding:8px 10px;border-radius:2px;margin-top:8px;line-height:1.6}
 .side{padding:15px 0;text-align:right;display:flex;flex-direction:column;
   align-items:flex-end;gap:7px;min-width:104px}
 .score{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--dim)}
@@ -218,6 +222,7 @@ JS = """
 const DATA = __DATA__;
 const state = {q:'', type:new Set(), cat:new Set(), visa:new Set(), region:new Set(),
                fresh:new Set(), exp:new Set(), place:new Set(), flav:new Set(),
+               bucket:new Set(['primary','review']),
                newOnly:false, verifiedOnly:false,
                exemptOnly:false, starOnly:false, closingOnly:false,
                hideApplied:false, hideUndated:false, sort:'best'};
@@ -263,6 +268,7 @@ function matches(j){
   if(state.place.size && !state.place.has(j.priority_place)) return false;
   if(state.closingOnly && !j.closing_soon) return false;
   if(state.flav.size && !(j.flavours||[]).some(f => state.flav.has(f))) return false;
+  if(state.bucket.size && !state.bucket.has(j.bucket)) return false;
   if(state.verifiedOnly && j.link_state !== 'alive') return false;
   if(state.hideUndated && j.posted_confidence === 'unknown') return false;
   if(state.q){
@@ -316,6 +322,8 @@ function render(){
           (j.closing_soon?'<span class="urgenttag">CLOSING</span>':'')+
           (j.priority_place?'<span class="placetag">'+PLACE_LABEL[j.priority_place]+'</span>':'')+
           (j.phd_pipeline?'<span class="phdtag">PHD PIPELINE</span>':'')+
+          (j.bucket==='low'?'<span class="lowtag">LOW PRIORITY</span>':'')+
+          (j.category_mismatch?'<span class="lowtag">MOSTLY TIER D</span>':'')+
         '</div>'+
         '<div class="meta"><span class="co">'+esc(j.company)+'</span>'+
           '<span>'+esc(j.location||j.region||'location not stated')+'</span>'+
@@ -338,7 +346,16 @@ function render(){
           '<div class="why">F-1 read: '+esc(j.visa_reason)+'</div>'+
           '<div class="why" style="margin-top:6px">'+overlap+'</div>'+
           (j.snippet?'<p style="margin-top:8px">'+esc(j.snippet)+'</p>':'')+
-          '<div class="why" style="margin-top:6px">experience: '+esc(j.experience_detail)+'</div>'+
+          '<div class="why" style="margin-top:6px">experience screen: '+
+            esc(j.exp_screen)+', '+esc(j.exp_reason)+'</div>'+
+          (j.exp_quote?'<div class="quote">'+esc(j.exp_quote)+'</div>':'')+
+          ((j.tier_d_terms||[]).length?'<div class="why" style="margin-top:8px">'+
+            'duties you have not done ('+j.tier_d_density+' of the duty list): '+
+            esc((j.tier_d_terms||[]).join(', '))+'</div>':'')+
+          ((j.false_friends||[]).length?'<div class="why" style="margin-top:6px;color:#C79A5E">'+
+            esc((j.false_friends||[]).join(' | '))+'</div>':'')+
+          ((j.also_seen_at||[]).length?'<div class="why" style="margin-top:6px">'+
+            'also listed on: '+esc((j.also_seen_at||[]).join(', '))+'</div>':'')+
           '<div class="why">topic '+j.relevance+', skill '+j.skill_score+
           ', date '+esc(j.posted_confidence)+
           (j.posted_date?' ('+esc(j.posted_date)+')':'')+
@@ -561,6 +578,15 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
             "flavours": j.get("flavours", []),
             "phd_pipeline": bool(j.get("phd_pipeline_flavour")),
             "link_state": j.get("link_state", "unknown"),
+            "bucket": j.get("bucket", "primary"),
+            "exp_screen": j.get("exp_screen", "qualifies"),
+            "exp_reason": j.get("exp_reason", ""),
+            "exp_quote": j.get("exp_quote", ""),
+            "tier_d_terms": j.get("tier_d_terms", []),
+            "tier_d_density": j.get("tier_d_density", 0.0),
+            "category_mismatch": bool(j.get("category_mismatch")),
+            "false_friends": j.get("false_friends", []),
+            "also_seen_at": j.get("also_seen_at", []),
             "experience_verdict": j.get("experience_verdict", "unstated"),
             "experience_detail": j.get("experience_detail", ""),
             "years_required": j.get("years_required"),
@@ -607,6 +633,12 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
     flav_order = ["computational", "bench", "commercial", "creative", "comms", "field"]
     flav_chips = "".join(_chip("flav", f, f, flav_counts[f])
                          for f in flav_order if flav_counts.get(f))
+    bucket_counts = tally("bucket")
+    bucket_labels = {"primary": "worth applying", "review": "needs a look",
+                     "low": "low priority"}
+    bucket_chips = "".join(
+        _chip("bucket", k, bucket_labels.get(k, k), bucket_counts[k])
+        for k in ("primary", "review", "low") if bucket_counts.get(k))
     place_counts = tally("priority_place")
     place_chips = "".join(_chip("place", k, place_labels[k], place_counts[k])
                           for k in ("west_coast", "copenhagen", "india")
@@ -676,6 +708,7 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
   </div>
   <details class="drawer"><summary>filters</summary>
     <div class="drawerbody">
+      <div class="chips"><span class="grouplabel">priority</span>{bucket_chips}</div>
       <div class="chips"><span class="grouplabel">kind of work</span>{flav_chips}</div>
       <div class="chips"><span class="grouplabel">where you want</span>{place_chips}</div>
       <div class="chips"><span class="grouplabel">posted</span>{fresh_chips}</div>
@@ -706,6 +739,12 @@ def build(jobs: list[dict], history: dict, calendar: list[dict] | None = None) -
   needed and the posting says nothing about supporting one.<br>
   Closing dates are only shown when the employer states one. Nothing is inferred
   from the posting date, so "no deadline stated" means exactly that.<br>
+  Screen A reads the experience requirement and says whether undergraduate research
+  counts. Postings that demand industry time or a master's with no equivalence clause
+  are demoted to low priority, not deleted, and the exact clause is quoted under
+  "why this surfaced" so the call can be checked. Screen B counts duties you have not
+  done against the duties list rather than the requirements list, because requirements
+  are joined by "or" and overstate fit.<br>
   Every posting link is fetched and the ones that are provably gone, whether a 404,
   a redirect to a careers index, or a page saying the role is closed, are removed
   rather than shown.<br>

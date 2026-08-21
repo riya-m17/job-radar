@@ -13,9 +13,10 @@ import argparse
 import collections
 from pathlib import Path
 
-from radar import (classify, deadlines, discovery, freshness, liveness,
-                   profile_match, programs, render, requirements, store, visa)
-from radar.sources import ats, boards, feeds
+from radar import (classify, deadlines, dedup, discovery, freshness, liveness,
+                   profile_match, programs, render, requirements, screens,
+                   store, visa)
+from radar.sources import ats, boards, feeds, oceanboards
 from radar.util import ROOT, log, setup_logging, settings
 
 
@@ -46,7 +47,13 @@ def main() -> None:
     raw += feeds.harvest()
     if cfg["specialist_boards"]:
         raw += boards.harvest()
+    if cfg.get("ocean_boards", True):
+        raw += oceanboards.harvest()
     log.info("collected %d raw postings before filtering", len(raw))
+
+    # 2b. Deduplicate before doing any expensive per-posting work. Two layers:
+    #     exact requisition identity, then fuzzy company + title + location.
+    raw, dedup_stats = dedup.deduplicate(raw)
 
     # 3. Filter and score.
     kept, dropped = [], collections.Counter()
@@ -85,6 +92,13 @@ def main() -> None:
 
         result.update(deadlines.assess(result))
         result.update(profile_match.assess(result))
+        # Screens A and B. These demote rather than delete, so the filter is
+        # visible and can be corrected.
+        result.update(screens.apply(result))
+        if (cfg_run.get("delete_excluded_experience")
+                and result["exp_screen"] == "excluded"):
+            dropped["experience bar excludes undergraduate research"] += 1
+            continue
         # Ranking combines topic relevance with how much of the posting she can
         # actually already do. The two are shown separately on the dashboard.
         result["total_score"] = result["relevance"] + result["skill_score"]
@@ -96,6 +110,7 @@ def main() -> None:
 
     # 4. Check the links are still live. Done last, on survivors only, since
     #    it is the one step that costs a request per posting.
+    screens.summarise(kept)
     kept, dead = liveness.verify(
         kept, aggressive=args.rediscover or args.recheck_links)
     if dead:
@@ -123,6 +138,9 @@ def main() -> None:
     if args.digest:
         write_digest(new_today, calendar)
 
+    log.info("dedup summary: %d raw, %d unique, %d removed (%.1f%% duplication)",
+             dedup_stats["before"], dedup_stats["after_fuzzy"],
+             dedup_stats["removed_total"], dedup_stats["pct_duplicate"])
     log.info("done. open %s to look at it", settings()["output"]["dashboard"])
 
 

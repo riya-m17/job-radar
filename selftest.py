@@ -207,6 +207,77 @@ check("no ineligible in act panel",
 check("no internships in act panel",
       all(p.get("type") not in ("internship", "seasonal") for p in programs.act_now(cal)), True)
 
+# ------------------------------------------------------------------- dedup
+from radar import dedup, screens
+
+def _dj(**k):
+    return dict({"title": "", "company": "", "location": "Boston, MA",
+                 "url": "", "source": "greenhouse", "description": "x"}, **k)
+
+for name, a, b, should_merge in [
+    ("greenhouse two hosts",
+     _dj(company="Illumina", title="Analyst I", url="https://boards.greenhouse.io/illumina/jobs/1"),
+     _dj(company="Illumina", title="Analyst I", url="https://job-boards.greenhouse.io/illumina/jobs/1"), True),
+    ("tracking parameter",
+     _dj(company="Arc", title="RA II", url="https://boards.greenhouse.io/arc/jobs/9"),
+     _dj(company="Arc", title="RA II", url="https://boards.greenhouse.io/arc/jobs/9?gh_src=x"), True),
+    ("level variants",
+     _dj(company="Broad", title="Research Associate I/II", url="https://a/1", source="climatebase"),
+     _dj(company="Broad", title="Research Associate II", url="https://b/2", source="remotive"), True),
+    ("roman vs digit",
+     _dj(company="Broad", title="Scientist 2", url="https://a/1", source="climatebase"),
+     _dj(company="Broad", title="Scientist II", url="https://b/2", source="remotive"), True),
+    ("different cities stay split",
+     _dj(company="Illumina", title="FAS", location="San Diego, CA", url="https://boards.greenhouse.io/i/jobs/1"),
+     _dj(company="Illumina", title="FAS", location="Boston, MA", url="https://boards.greenhouse.io/i/jobs/2"), False),
+    ("different roles stay split",
+     _dj(company="Illumina", title="Analyst", url="https://boards.greenhouse.io/i/jobs/1"),
+     _dj(company="Illumina", title="FAS", url="https://boards.greenhouse.io/i/jobs/2"), False),
+]:
+    out, _ = dedup.deduplicate([dict(a), dict(b)])
+    check("dedup: " + name, len(out) == 1, should_merge)
+
+check("dedup is idempotent",
+      len(dedup.deduplicate([_dj(company="X", title="Y",
+                                 url="https://boards.greenhouse.io/x/jobs/1")] * 5)[0]), 1)
+
+# ----------------------------------------------------------------- screens
+ARC = ("Requirements: 2+ years of relevant experience (including independent "
+       "lab work during your undergraduate studies).")
+FREENOME = ("Qualifications: Bachelors with 1+ years of relevant industry "
+            "experience or Masters.")
+NOEXP = "Requirements: BS in biology. No prior industry experience required."
+VAGUE = "Requirements: 3+ years of relevant experience. BS required."
+TWIST = ("What you will do:\n- Perform phage display selections\n"
+         "- Execute yeast display library sorting\n- Run flow cytometry\n"
+         "- Perform protein purification and immunoprecipitation\n"
+         "- Conduct ELISA and SPR assays\n- Prepare NGS libraries\n"
+         "- Perform molecular cloning and Gibson assembly\n"
+         "- Analyse data in Python\n"
+         "Requirements: hands-on experience with cloning, PCR, qPCR, or plasmid preparation.")
+
+check("screenA arc counts undergrad",
+      screens.screen_experience({"description": ARC})["exp_screen"], "qualifies")
+check("screenA freenome excluded",
+      screens.screen_experience({"description": FREENOME})["exp_screen"], "excluded")
+check("screenA no-experience is not a bar",
+      screens.screen_experience({"description": NOEXP})["exp_screen"], "qualifies")
+check("screenA vague is ambiguous",
+      screens.screen_experience({"description": VAGUE})["exp_screen"], "ambiguous")
+check("screenA quotes the clause",
+      len(screens.screen_experience({"description": ARC})["exp_quote"]) > 20, True)
+
+tw = screens.screen_duties({"description": TWIST})
+check("screenB counts tier D duties", tw["tier_d_count"] >= 7, True)
+check("screenB flags category mismatch", tw["category_mismatch"], True)
+check("screenB catches false friends", len(tw["false_friends"]) >= 1, True)
+check("screenB clean role not flagged",
+      screens.screen_duties({"description":
+          "What you will do:\n- Analyse genomics data in Python\n"
+          "- Build pipelines\n- Present findings"})["category_mismatch"], False)
+check("twist lands in low bucket", screens.apply({"description": TWIST})["bucket"], "low")
+check("arc lands in primary bucket", screens.apply({"description": ARC})["bucket"], "primary")
+
 # ------------------------------------------------------------------ config
 check("stale threshold from config", store._stale_threshold(), 2)
 

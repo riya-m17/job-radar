@@ -39,7 +39,15 @@ run:
   verify_links: true
   # Roles requiring a master's. Off by default, since some say master's
   # "or equivalent experience" and are worth a look.
-  drop_masters_required: false
+  # Postings requiring a master's with no equivalent-experience clause. On by
+  # default now: Screen A treats these as excluded, and they were a recurring
+  # complaint.
+  drop_masters_required: true
+
+  # Screen A, the undergraduate research carve-out. Postings that do not count
+  # academic experience are demoted to the low bucket rather than deleted, so
+  # the filter stays visible and correctable. Set to true to delete instead.
+  delete_excluded_experience: false
 
   # You want jobs, not internships. Internships and seasonal roles are dropped.
   # Fellowships and post-bacs are NOT internships: a two year paid post-bac at
@@ -100,6 +108,10 @@ sources:
   simplify_newgrad: true
   # Specialist science and conservation boards.
   specialist_boards: true
+  # Ocean, marine tech, climate and science communication aggregators.
+  # Schmidt Marine is the valuable one: it aggregates ocean employers' career
+  # pages and links straight through to them.
+  ocean_boards: true
   # Optional, only run if the matching secret is set in GitHub.
   adzuna: true        # needs ADZUNA_APP_ID and ADZUNA_APP_KEY
   usajobs: true       # needs USAJOBS_KEY and USAJOBS_EMAIL

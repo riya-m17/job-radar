@@ -316,6 +316,42 @@ the standard six have failed.
 Registry is now 505 employers, 63 marine and 76 conservation, with zero
 duplicates and zero colliding board slugs.
 
+## The big-name employers, and why they are in here
+
+611 employers now. A chunk of them are recognisable companies nobody files
+under "biotech", which is exactly why they are worth watching:
+
+- **Big tech science arms.** Google Research, DeepMind, Microsoft Research,
+  Amazon and Apple sustainability, Nvidia Healthcare, Stripe Climate.
+- **Big pharma.** Pfizer, Merck, AstraZeneca, GSK, Novartis, Sanofi, Takeda,
+  Amgen, Gilead, Biogen, Lilly, BMS, Boehringer. Large graduate intakes and
+  they sponsor as a matter of course, which most startups do not.
+- **Moonshots.** Colossal Biosciences, which is the subject of Wild Type issue
+  01, plus NewLimit, Retro, Arcadia Science, Revive and Restore.
+- **Consumer health.** 23andMe, Oura, Whoop, Function Health, Everlywell,
+  Seed, Viome, Maven, Flo, Zoe.
+- **Animal and zoological science.** Zoetis, IDEXX, the Waltham Petcare Science
+  Institute, Disney Animals Science and Environment, SeaWorld.
+- **Brands with real science teams.** Patagonia, REI, Arc'teryx, Cotopaxi,
+  Allbirds, Unilever R&D, P&G Research, L'Oreal Research and Innovation,
+  Estee Lauder, IKEA, Nike, Parley for the Oceans.
+- **Instruments and reagents.** New England Biolabs, Promega, Sartorius,
+  Cytiva, Waters, Corning, Eppendorf, Zeiss, Leica, Beckman Coulter, Quanterix,
+  Olink, SomaLogic. These hire field application scientists constantly, which
+  wants someone who can run the instrument, read the data and explain both to a
+  customer. That is a genuine description of this profile.
+- **Publishing and science education.** Wiley, Frontiers, OUP, Cambridge,
+  Taylor and Francis, BioRender, Labster, Khan Academy, NYT, The Economist,
+  Vox, Reuters.
+- **Big consulting.** McKinsey, BCG, Bain, Deloitte, Accenture, EY-Parthenon.
+- **Life science venture.** Flagship Pioneering, ARCH, a16z, RA Capital,
+  OrbiMed, Deerfield, SV Health, Y Combinator. A science background plus
+  actual writing ability is rare and directly useful here.
+
+All five new categories count as life-science employers for scoring, so a role
+shape like "Product Manager" anchors at Illumina, Colossal or BioRender but not
+at a random ad-tech company.
+
 ## How the registry checks itself
 
 I built the 449 employer list from my own knowledge and could not verify it:
@@ -345,6 +381,80 @@ outage recovers on its own.
 Expect the resolve rate to be well short of 100%. Large pharma, most
 universities and many NGOs run Workday or a custom system with no public feed.
 That is a real limit of this approach, not a bug.
+
+## Deduplication
+
+The old identity was `sha1(company, title, full_url)`. The URL is not stable
+for one requisition, so the same job appeared as several rows: Greenhouse
+serves from both `boards.greenhouse.io` and `job-boards.greenhouse.io`,
+tracking parameters get appended, and aggregators re-list under their own host.
+
+Two layers now.
+
+**Layer 1, exact.** Primary key is `(ats_system, company_slug, job_id)`, parsed
+out of the URL by a per-provider pattern. Same requisition id means same job
+whatever host served it. This is an upsert with `first_seen` and `last_seen`,
+so a job seen for twenty days is one row, not twenty.
+
+**Layer 2, fuzzy.** Survivors collapse on normalised
+`(company, title, location)`. Title normalisation strips level suffixes, so
+"Research Associate I/II", "Research Associate II" and "Research Associate 2"
+are one posting. Roman numerals, digits and slash ranges all fold together.
+
+**What deliberately does not collapse:** the same title at the same company in
+different cities. Those are separate requisitions upstream and applying to the
+right one matters.
+
+When a job is found on more than one source, the employer's own board wins and
+the others are recorded in `also_seen_at`, shown under "why this surfaced".
+
+On a representative batch of 21 rows containing three daily repeats of five
+jobs plus two genuinely distinct multi-location postings: 21 in, 6 after the
+requisition key, 4 after fuzzy collapse. 81% was duplication.
+
+## The two requirement screens
+
+**Screen A, does undergraduate research count.** Two postings can state the
+same bar and mean opposite things:
+
+- Arc Institute: "2+ years of relevant experience (including independent lab
+  work during your undergraduate studies)". Qualifies.
+- Freenome: "Bachelors with 1+ years of relevant industry experience or
+  Masters". Excluded, and no cover letter fixes it.
+
+Three buckets: qualifies, excluded, ambiguous. Excluded postings are demoted to
+a low-priority bucket rather than deleted, because a filter you cannot see is a
+filter you cannot correct. The exact clause is quoted on the row. Set
+`delete_excluded_experience: true` in settings to drop them instead.
+
+**Screen B, tier D duty density.** Requirements sections are joined by "or" and
+overstate fit; the duties list is what the person actually does. Tier D terms
+are counted in the duties section only. Twist Bioscience Research Associate
+Antibody Engineering passes on requirements because of PCR, but reads 7 of 8
+duties as tier D, so it lands in low priority with the reason shown.
+
+Tier D covers wet-lab cloning, NGS library prep, target capture,
+microtomy/FFPE, flow cytometry, phage and yeast display, ELISA, SPR/BLI,
+iPSC and neural culture, protein purification and immunoprecipitation, and
+CRISPR screens.
+
+There is also a false-friend check, because a shared word is not a shared
+skill: phage genome analysis is not phage display, spatial transcript mapping
+is not spatial multi-omics platform development, analysing sequencing libraries
+is not preparing them, and Benchling construct design is not bench cloning.
+
+## Ocean and science communication sources
+
+Six aggregators outside the biotech ATS circuit: Schmidt Marine (Getro JSON
+API, and the most valuable because it links straight through to employers'
+own postings), ClimateBase, Nature Tech, WiseOceans, Seven Seas Media and
+Ocean Careers.
+
+**Caveat worth reading.** Unlike the ATS providers, none of these is verified
+against a live response, because the build machine cannot reach those hosts.
+Each fails quietly and logs its row count. After the first run, check the log:
+a source reporting zero every day is broken or shaped differently than assumed,
+and should be fixed or removed rather than left in.
 
 ## Self test
 

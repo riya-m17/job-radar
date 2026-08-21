@@ -599,3 +599,142 @@ organizations:
   - {name: Wildlife Conservation Network Kenya, cat: conservation, country: INT, cap_exempt: true, hints: [wcnkenya]}
   - {name: Forest Stewardship Council, cat: conservation, country: INT, cap_exempt: true, hints: [fsc]}
   - {name: Marine Stewardship Council, cat: marine, country: UK, cap_exempt: true, hints: [msc]}
+
+  # =====================================================================
+  # BIG NAMES. Recognisable companies that hire a biology plus computation
+  # profile, and that nobody thinks to check because they are not filed
+  # under "biotech". Several are among the largest employers of life
+  # scientists in the world, and the big pharma ones sponsor routinely.
+  # =====================================================================
+
+  # --- big tech: health, environment and research arms ---
+  - {name: Google Research, cat: big_tech, country: US, hints: [google]}
+  - {name: Google DeepMind, cat: big_tech, country: UK, hints: [deepmind]}
+  - {name: Microsoft Research, cat: big_tech, country: US, hints: [microsoft]}
+  - {name: Amazon Sustainability, cat: big_tech, country: US, hints: [amazon]}
+  - {name: Apple Health and Environment, cat: big_tech, country: US, hints: [apple]}
+  - {name: Meta Research, cat: big_tech, country: US, hints: [metacareers]}
+  - {name: Salesforce Sustainability, cat: big_tech, country: US, hints: [salesforce]}
+  - {name: Stripe Climate, cat: climate, country: US, hints: [stripe]}
+  - {name: Shopify Sustainability, cat: climate, country: CA, hints: [shopify]}
+  - {name: Bloomberg Green, cat: media, country: US, hints: [bloomberg]}
+  - {name: Nvidia Healthcare, cat: big_tech, country: US, hints: [nvidia]}
+
+  # --- big pharma. Enormous graduate intakes, and they sponsor ---
+  - {name: Pfizer, cat: biotech, country: US, hints: [pfizer]}
+  - {name: Merck and Co, cat: biotech, country: US, hints: [merck, msd]}
+  - {name: AstraZeneca, cat: biotech, country: UK, hints: [astrazeneca]}
+  - {name: GSK, cat: biotech, country: UK, hints: [gsk, glaxosmithkline]}
+  - {name: Novartis, cat: biotech, country: CH, hints: [novartis]}
+  - {name: Sanofi, cat: biotech, country: FR, hints: [sanofi]}
+  - {name: Takeda, cat: biotech, country: JP, hints: [takeda]}
+  - {name: Amgen, cat: biotech, country: US, hints: [amgen]}
+  - {name: Gilead Sciences, cat: biotech, country: US, hints: [gilead]}
+  - {name: Biogen, cat: biotech, country: US, hints: [biogen]}
+  - {name: Eli Lilly, cat: biotech, country: US, hints: [lilly, elililly]}
+  - {name: Bristol Myers Squibb, cat: biotech, country: US, hints: [bms, bristolmyerssquibb]}
+  - {name: Boehringer Ingelheim, cat: biotech, country: DE, hints: [boehringer]}
+  - {name: MilliporeSigma, cat: lab_services, country: DE, hints: [milliporesigma, merckgroup]}
+
+  # --- moonshots. Colossal is the subject of Wild Type issue 01 ---
+  - {name: Colossal Biosciences, cat: biotech, country: US, hints: [colossal, colossalbiosciences]}
+  - {name: NewLimit, cat: biotech, country: US, hints: [newlimit]}
+  - {name: Retro Biosciences, cat: biotech, country: US, hints: [retrobio]}
+  - {name: Arcadia Science, cat: institute, country: US, hints: [arcadiascience]}
+  - {name: Revive and Restore, cat: conservation, country: US, cap_exempt: true, hints: [reviverestore]}
+  - {name: Exscientia, cat: biotech, country: UK, hints: [exscientia]}
+  - {name: Insilico Medicine, cat: biotech, country: US, hints: [insilicomedicine]}
+  - {name: Schrodinger, cat: bio_software, country: US, hints: [schrodinger]}
+  - {name: Veeva Systems, cat: bio_software, country: US, hints: [veeva]}
+
+  # --- consumer health and at-home diagnostics ---
+  - {name: 23andMe, cat: consumer_health, country: US, hints: [23andme]}
+  - {name: Oura, cat: consumer_health, country: FI, hints: [ouraring]}
+  - {name: Whoop, cat: consumer_health, country: US, hints: [whoop]}
+  - {name: Function Health, cat: consumer_health, country: US, hints: [functionhealth]}
+  - {name: Everlywell, cat: consumer_health, country: US, hints: [everlywell]}
+  - {name: Seed Health, cat: consumer_health, country: US, hints: [seedhealth]}
+  - {name: Viome, cat: consumer_health, country: US, hints: [viome]}
+  - {name: Maven Clinic, cat: consumer_health, country: US, hints: [mavenclinic]}
+  - {name: Flo Health, cat: consumer_health, country: UK, hints: [flohealth]}
+  - {name: Zoe Health, cat: consumer_health, country: UK, hints: [joinzoe]}
+
+  # --- animal health and zoological science ---
+  - {name: Zoetis, cat: biotech, country: US, hints: [zoetis]}
+  - {name: IDEXX Laboratories, cat: lab_services, country: US, hints: [idexx]}
+  - {name: Waltham Petcare Science Institute, cat: institute, country: UK, hints: [waltham]}
+  - {name: Disney Animals Science and Environment, cat: museum, country: US, hints: [disneycareers]}
+  - {name: SeaWorld Parks and Entertainment, cat: marine, country: US, hints: [seaworld]}
+
+  # --- consumer brands with real science or sustainability teams ---
+  - {name: Patagonia, cat: brand, country: US, hints: [patagonia]}
+  - {name: REI Co-op, cat: brand, country: US, hints: [rei]}
+  - {name: VF Corporation, cat: brand, country: US, hints: [vfc]}
+  - {name: Arcteryx, cat: brand, country: CA, hints: [arcteryx]}
+  - {name: Cotopaxi, cat: brand, country: US, hints: [cotopaxi]}
+  - {name: Allbirds, cat: brand, country: US, hints: [allbirds]}
+  - {name: Unilever Research and Development, cat: brand, country: UK, hints: [unilever]}
+  - {name: Procter and Gamble Research, cat: brand, country: US, hints: [pg]}
+  - {name: LOreal Research and Innovation, cat: brand, country: FR, hints: [loreal]}
+  - {name: Estee Lauder Companies, cat: brand, country: US, hints: [esteelauder]}
+  - {name: IKEA Sustainability, cat: brand, country: SE, hints: [ingka]}
+  - {name: Nike Sustainable Innovation, cat: brand, country: US, hints: [nike]}
+  - {name: Parley for the Oceans, cat: marine, country: US, hints: [parley]}
+
+  # --- instruments and reagents. They hire field application scientists
+  #     constantly, which is a genuine fit for her profile ---
+  - {name: New England Biolabs, cat: lab_services, country: US, hints: [neb]}
+  - {name: Promega, cat: lab_services, country: US, hints: [promega]}
+  - {name: Sartorius, cat: lab_services, country: DE, hints: [sartorius]}
+  - {name: Cytiva, cat: lab_services, country: US, hints: [cytiva]}
+  - {name: Waters Corporation, cat: lab_services, country: US, hints: [waters]}
+  - {name: Corning Life Sciences, cat: lab_services, country: US, hints: [corning]}
+  - {name: Eppendorf, cat: lab_services, country: DE, hints: [eppendorf]}
+  - {name: Carl Zeiss Microscopy, cat: lab_services, country: DE, hints: [zeiss]}
+  - {name: Leica Microsystems, cat: lab_services, country: DE, hints: [leica]}
+  - {name: Beckman Coulter Life Sciences, cat: lab_services, country: US, hints: [beckmancoulter]}
+  - {name: Quanterix, cat: genomics, country: US, hints: [quanterix]}
+  - {name: Olink, cat: genomics, country: SE, hints: [olink]}
+  - {name: SomaLogic, cat: genomics, country: US, hints: [somalogic]}
+  - {name: Standard BioTools, cat: genomics, country: US, hints: [standardbio]}
+  - {name: 908 Devices, cat: lab_services, country: US, hints: [908devices]}
+  - {name: Medpace, cat: lab_services, country: US, hints: [medpace]}
+  - {name: ICON Clinical Research, cat: lab_services, country: IE, hints: [iconplc]}
+  - {name: Fortrea, cat: lab_services, country: US, hints: [fortrea]}
+
+  # --- scientific publishing and science education ---
+  - {name: Wiley, cat: publisher, country: US, hints: [wiley]}
+  - {name: Taylor and Francis, cat: publisher, country: UK, hints: [taylorandfrancis]}
+  - {name: Frontiers, cat: publisher, country: CH, hints: [frontiersin]}
+  - {name: Oxford University Press, cat: publisher, country: UK, hints: [oup]}
+  - {name: Cambridge University Press, cat: publisher, country: UK, hints: [cambridgeuniversitypress]}
+  - {name: BioRender, cat: publisher, country: CA, hints: [biorender]}
+  - {name: Labster, cat: publisher, country: DK, hints: [labster]}
+  - {name: Khan Academy, cat: publisher, country: US, hints: [khanacademy]}
+  - {name: The New York Times, cat: media, country: US, hints: [nytimes]}
+  - {name: The Economist Group, cat: media, country: UK, hints: [economist]}
+  - {name: Vox Media, cat: media, country: US, hints: [voxmedia]}
+  - {name: Thomson Reuters, cat: media, country: UK, hints: [thomsonreuters]}
+
+  # --- big consulting, life science and sustainability practices ---
+  - {name: McKinsey and Company, cat: consulting, country: US, hints: [mckinsey]}
+  - {name: Boston Consulting Group, cat: consulting, country: US, hints: [bcg]}
+  - {name: Bain and Company, cat: consulting, country: US, hints: [bain]}
+  - {name: Deloitte Life Sciences, cat: consulting, country: US, hints: [deloitte]}
+  - {name: Accenture Life Sciences, cat: consulting, country: IE, hints: [accenture]}
+  - {name: EY Parthenon, cat: consulting, country: UK, hints: [ey]}
+
+  # --- life science venture, where science plus writing is a rare combination ---
+  - {name: Flagship Pioneering, cat: venture, country: US, hints: [flagshippioneering]}
+  - {name: ARCH Venture Partners, cat: venture, country: US, hints: [archventure]}
+  - {name: Andreessen Horowitz, cat: venture, country: US, hints: [a16z]}
+  - {name: RA Capital Management, cat: venture, country: US, hints: [racapital]}
+  - {name: OrbiMed, cat: venture, country: US, hints: [orbimed]}
+  - {name: Deerfield Management, cat: venture, country: US, hints: [deerfield]}
+  - {name: SV Health Investors, cat: venture, country: US, hints: [svhealthinvestors]}
+  - {name: Y Combinator, cat: venture, country: US, hints: [ycombinator]}
+
+  # Named in the ocean source request. The other nine on that list (Sofar,
+  # Saildrone, Bedrock, Monterey Bay Aquarium, Scripps, WHOI, MBL, Ocean
+  # Conservancy, MBARI) were already in the registry.
+  - {name: San Francisco Estuary Institute, cat: env_consulting, country: US, cap_exempt: true, hints: [sfei]}
