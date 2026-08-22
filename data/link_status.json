@@ -19,6 +19,11 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
+ "https://caci.wd1.myworkdayjobs.com/external/job/Fort-Collins-CO-US/GIS-Geospatial-Maritime-Analyst---Digitizer---Collections-Analyst_330955": {
+  "checked": "2026-08-22",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
  "https://careers-kaukahi.icims.com/jobs/2984/job?mobile=true&needsRedirect=false": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
@@ -39,15 +44,10 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://himalayas.app/companies/danestreet/jobs/disability-national-account-manager": {
-  "checked": "2026-08-21",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://himalayas.app/companies/ttec-digital/jobs/analytics-consultant": {
-  "checked": "2026-08-21",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
+ "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007338": {
+  "checked": "2026-08-22",
+  "reason": "posting still reachable",
+  "state": "alive"
  },
  "https://job-boards.eu.greenhouse.io/plos/jobs/4920266101": {
   "checked": "2026-08-21",
@@ -144,11 +144,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://job-boards.greenhouse.io/khanacademy/jobs/8056223": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://job-boards.greenhouse.io/khanacademy/jobs/8056270": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
@@ -201,6 +196,11 @@
  },
  "https://job-boards.greenhouse.io/metropolis/jobs/7785698003": {
   "checked": "2026-08-21",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/metropolis/jobs/7872024003": {
+  "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -259,11 +259,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://job-boards.greenhouse.io/natera/jobs/6130285004": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://job-boards.greenhouse.io/natera/jobs/6134203004": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
@@ -289,8 +284,8 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://job-boards.greenhouse.io/natera/jobs/6146756004": {
-  "checked": "2026-08-21",
+ "https://job-boards.greenhouse.io/natera/jobs/6150022004": {
+  "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -414,11 +409,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://job-boards.greenhouse.io/singulargenomics/jobs/7820974003": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://job-boards.greenhouse.io/singulargenomics/jobs/7860122003": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
@@ -461,6 +451,11 @@
  },
  "https://job-boards.greenhouse.io/truveta/jobs/6122414004": {
   "checked": "2026-08-21",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/truveta/jobs/6150147004": {
+  "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -674,6 +669,11 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
+ "https://jobs.lever.co/sierraclub/15941a26-a60b-4d91-a669-fbb95633ff96": {
+  "checked": "2026-08-22",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
  "https://jobs.lever.co/sierraclub/1fc0544a-bc33-4256-bc22-b3fe3c420ca4": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
@@ -874,21 +874,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://jobs.smartrecruiters.com/eurofins/744000143261130": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://jobs.smartrecruiters.com/eurofins/744000143275888": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://jobs.smartrecruiters.com/eurofins/744000143376989": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://jobs.smartrecruiters.com/eurofins/744000143377639": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
@@ -1044,6 +1029,31 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
+ "https://jobs.smartrecruiters.com/eurofins/744000144762785": {
+  "checked": "2026-08-22",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://jobs.smartrecruiters.com/eurofins/744000144779289": {
+  "checked": "2026-08-22",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://jobs.smartrecruiters.com/eurofins/744000144837340": {
+  "checked": "2026-08-22",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://jobs.smartrecruiters.com/eurofins/744000144841539": {
+  "checked": "2026-08-22",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://jobs.smartrecruiters.com/eurofins/744000144848410": {
+  "checked": "2026-08-22",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
  "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Korean-Toponymist---TS-SCI-Required_R-00185905-1": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
@@ -1069,11 +1079,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://wd5.myworkdaysite.com/recruiting/angc/ANGC/job/Augusta-Office/GIS-Analyst_R11657": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://whoi.wd5.myworkdayjobs.com/WHOI-External/job/Clark---4th-Floor/Research-Associate-III_JR100619": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
@@ -1094,18 +1099,18 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/everquote/data-scientist-belfast-northern-ireland-165930": {
-  "checked": "2026-08-21",
+ "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-110837": {
+  "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/operations-manager-london-473382": {
-  "checked": "2026-08-21",
+ "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/procurement-administrator-london-268126": {
+  "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineer-keynsham-bristol-england-420378": {
-  "checked": "2026-08-21",
+ "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/data-engineer-global-client-solutions-london-278301": {
+  "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1114,42 +1119,22 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/autarcenergy/go-to-market-engineer-ai-automation-berlin-400699": {
-  "checked": "2026-08-21",
+ "https://www.arbeitnow.com/jobs/companies/brighter-ai-technologies-gmbh/solution-architect-ai-berlin-155916": {
+  "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/blickfeld-gmbh/working-student-idp-software-development-munich-418698": {
-  "checked": "2026-08-21",
+ "https://www.arbeitnow.com/jobs/companies/celonis/application-product-manager-ai-system-transformations-munich-437790": {
+  "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-field-engineer-cologne-232238": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/flatironhealth/werkstudent-481703": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/flip-gmbh/lead-ai-engineer-stuttgart-300585": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/kraken/client-enablement-coaching-lead-berlin-225281": {
-  "checked": "2026-08-21",
+ "https://www.arbeitnow.com/jobs/companies/chaos/remote-working-student-growth-strategy-karlsruhe-497631": {
+  "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-257623": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/moverloop-gmbh/projektingenieur-batteriespeicher-planung-und-umsetzung-munich-4810": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
   "state": "alive"
@@ -1159,18 +1144,8 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/sumup/staff-product-manager-berlin-252423": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/yepoda/trainee-influencer-marketing-us-market-berlin-39568": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/junior-data-analyst-mainz-oder-berlin-409872": {
-  "checked": "2026-08-21",
+ "https://www.arbeitnow.com/jobs/companies/sumup/android-engineer-engagement-mission-berlin-498573": {
+  "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
  },
