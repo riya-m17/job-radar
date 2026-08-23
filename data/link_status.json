@@ -354,16 +354,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://job-boards.greenhouse.io/serc/jobs/5158933007": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://job-boards.greenhouse.io/serc/jobs/5159299007": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://job-boards.greenhouse.io/serc/jobs/5164026007": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
@@ -456,11 +446,6 @@
  },
  "https://job-boards.greenhouse.io/truveta/jobs/6150147004": {
   "checked": "2026-08-22",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://job-boards.greenhouse.io/twistbioscience/jobs/487462": {
-  "checked": "2026-08-21",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -764,17 +749,7 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://jobs.lever.co/veeva/74a36110-ca27-4806-81dc-ca3d3416b09a": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://jobs.lever.co/veeva/8656d6d9-c9be-4966-8980-e1451ca0a9be": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://jobs.lever.co/veeva/8ce6d550-5018-4ba0-beed-a73693b002e8": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
   "state": "alive"
@@ -829,11 +804,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://jobs.lever.co/veeva/d7001e2a-50f3-436c-8d81-908fdd172461": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://jobs.lever.co/veeva/ef7cf4a6-2a18-4d79-8e59-645369ebf2b5": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
@@ -870,11 +840,6 @@
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/dnanexus/744000143758436": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://jobs.smartrecruiters.com/eurofins/744000143377639": {
   "checked": "2026-08-21",
   "reason": "posting still reachable",
   "state": "alive"
@@ -1099,13 +1064,38 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
+ "https://www.arbeitnow.co.uk/jobs/companies/bjak/associate-talent-acquisition-london-69674": {
+  "checked": "2026-08-23",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-recruiter-london-435367": {
+  "checked": "2026-08-23",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
  "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-110837": {
   "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
  },
+ "https://www.arbeitnow.co.uk/jobs/companies/everfield/software-support-technician-london-173023": {
+  "checked": "2026-08-23",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
  "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/procurement-administrator-london-268126": {
   "checked": "2026-08-22",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/neko-health/data-scientist-london-347976": {
+  "checked": "2026-08-23",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/shifttechnology/graduate-data-scientist-342540": {
+  "checked": "2026-08-23",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1116,6 +1106,16 @@
  },
  "https://www.arbeitnow.com/jobs/companies/albert-schweitzer-stiftung/data-analystin-fundraising-berlin-69945": {
   "checked": "2026-08-21",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.com/jobs/companies/autarcenergy/go-to-market-engineer-ai-automation-berlin-400699": {
+  "checked": "2026-08-23",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.com/jobs/companies/blickfeld-gmbh/working-student-idp-software-development-munich-418698": {
+  "checked": "2026-08-23",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1134,13 +1134,28 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-257623": {
-  "checked": "2026-08-21",
+ "https://www.arbeitnow.com/jobs/companies/emidat-gmbh/lca-working-student-munich-210314": {
+  "checked": "2026-08-23",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.com/jobs/companies/moverloop-gmbh/projektingenieur-batteriespeicher-planung-und-umsetzung-munich-4810": {
+  "checked": "2026-08-23",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://www.arbeitnow.com/jobs/companies/muvn/data-analyst-all-genders-hamburg-222708": {
   "checked": "2026-08-21",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.com/jobs/companies/rox-health/rox-student-talent-pool-werkstudent-in-oder-praktikant-in-fur-digital-health-projekt-remote-berlin-255895": {
+  "checked": "2026-08-23",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.com/jobs/companies/sumup/android-engineer-engagement-mission-berlin-211984": {
+  "checked": "2026-08-23",
   "reason": "posting still reachable",
   "state": "alive"
  },
