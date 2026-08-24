@@ -14,11 +14,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://boards.greenhouse.io/parsebiosciences/jobs/7767789003?gh_jid=7767789003": {
-  "checked": "2026-08-21",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://caci.wd1.myworkdayjobs.com/external/job/Fort-Collins-CO-US/GIS-Geospatial-Maritime-Analyst---Digitizer---Collections-Analyst_330955": {
   "checked": "2026-08-22",
   "reason": "posting still reachable",
@@ -48,6 +43,11 @@
   "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
+ },
+ "https://himalayas.app/companies/datakrew-pvt-ltd/jobs/pre-sales-specialist": {
+  "checked": "2026-08-24",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
  },
  "https://job-boards.eu.greenhouse.io/plos/jobs/4920266101": {
   "checked": "2026-08-21",
@@ -436,6 +436,61 @@
  },
  "https://job-boards.greenhouse.io/tcs/jobs/7891693003": {
   "checked": "2026-08-21",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/tcs/jobs/7917659003": {
+  "checked": "2026-08-24",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/tcs/jobs/7917877003": {
+  "checked": "2026-08-24",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/tcs/jobs/7927164003": {
+  "checked": "2026-08-24",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/tcs/jobs/7957539003": {
+  "checked": "2026-08-24",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/tcs/jobs/7957540003": {
+  "checked": "2026-08-24",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/tcs/jobs/7957562003": {
+  "checked": "2026-08-24",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/tcs/jobs/7957629003": {
+  "checked": "2026-08-24",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/tcs/jobs/7957642003": {
+  "checked": "2026-08-24",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/tcs/jobs/7957660003": {
+  "checked": "2026-08-24",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/tcs/jobs/7957663003": {
+  "checked": "2026-08-24",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://job-boards.greenhouse.io/tcs/jobs/7957672003": {
+  "checked": "2026-08-24",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1074,18 +1129,8 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-110837": {
-  "checked": "2026-08-22",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://www.arbeitnow.co.uk/jobs/companies/everfield/software-support-technician-london-173023": {
   "checked": "2026-08-23",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/procurement-administrator-london-268126": {
-  "checked": "2026-08-22",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1099,13 +1144,8 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/data-engineer-global-client-solutions-london-278301": {
-  "checked": "2026-08-22",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/albert-schweitzer-stiftung/data-analystin-fundraising-berlin-69945": {
-  "checked": "2026-08-21",
+ "https://www.arbeitnow.com/jobs/companies/1komma5grad/working-student-product-management-energy-products-tariffs-berlin-113160": {
+  "checked": "2026-08-24",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1144,8 +1184,8 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/muvn/data-analyst-all-genders-hamburg-222708": {
-  "checked": "2026-08-21",
+ "https://www.arbeitnow.com/jobs/companies/public-cloud-group/sales-development-representative-sdr-germany-219078": {
+  "checked": "2026-08-24",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1161,6 +1201,16 @@
  },
  "https://www.arbeitnow.com/jobs/companies/sumup/android-engineer-engagement-mission-berlin-498573": {
   "checked": "2026-08-22",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-358872": {
+  "checked": "2026-08-24",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.com/jobs/companies/vida-place/remote-geospatial-data-engineer-customer-ai-solutions-176072": {
+  "checked": "2026-08-24",
   "reason": "posting still reachable",
   "state": "alive"
  },
