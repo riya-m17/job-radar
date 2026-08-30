@@ -35,7 +35,7 @@
   "state": "alive"
  },
  "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007338": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -43,11 +43,6 @@
   "checked": "2026-08-29",
   "reason": "posting still reachable",
   "state": "alive"
- },
- "https://himalayas.app/companies/budderfly/jobs/associate-project-engagement-manager-remote": {
-  "checked": "2026-08-29",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
  },
  "https://job-boards.eu.greenhouse.io/plos/jobs/4920266101": {
   "checked": "2026-08-29",
@@ -129,11 +124,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://job-boards.greenhouse.io/inizio/jobs/8007373": {
-  "checked": "2026-08-29",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://job-boards.greenhouse.io/inizio/jobs/8076658": {
   "checked": "2026-08-29",
   "reason": "posting still reachable",
@@ -145,7 +135,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6161117004": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -215,7 +205,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/metropolis/jobs/7872024003": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -290,7 +280,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/natera/jobs/6150022004": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -530,7 +520,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/truveta/jobs/6150147004": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -624,6 +614,11 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
+ "https://jobs.ashbyhq.com/latchbio/3986901e-d1a1-4c66-abe2-05b2bc17605e": {
+  "checked": "2026-08-30",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
  "https://jobs.ashbyhq.com/latchbio/5a946a99-cdd0-45e7-b96e-a3fa2844a9fa": {
   "checked": "2026-08-29",
   "reason": "posting still reachable",
@@ -690,7 +685,7 @@
   "state": "alive"
  },
  "https://jobs.lever.co/avalerehealth/8dbec7ea-17b4-4f2f-9572-0b777b43cd80": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -725,7 +720,7 @@
   "state": "alive"
  },
  "https://jobs.lever.co/sierraclub/15941a26-a60b-4d91-a669-fbb95633ff96": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -735,7 +730,7 @@
   "state": "alive"
  },
  "https://jobs.lever.co/sierraclub/388ef48b-58d8-4d46-9d7f-39a6f73896c9": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -975,7 +970,7 @@
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000144762785": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -995,32 +990,32 @@
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000145493219": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000145500435": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000145549639": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000145586928": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000145599529": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000145615019": {
-  "checked": "2026-08-26",
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1199,8 +1194,8 @@
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/kraken/privacy-analyst-london-101029": {
-  "checked": "2026-08-28",
+ "https://www.arbeitnow.co.uk/jobs/companies/goodlord/b2cp-growth-analyst-london-394608": {
+  "checked": "2026-08-30",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
@@ -1209,63 +1204,13 @@
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/tala-we-are-tala-ltd/retail-store-operations-manager-bicester-village-476266": {
-  "checked": "2026-08-28",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-head-hunter-at-united-media-london-231703": {
-  "checked": "2026-08-28",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-partnership-manager-at-united-media-london-300195": {
-  "checked": "2026-08-28",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-sales-development-representative-at-united-media-london-31344": {
-  "checked": "2026-08-28",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-sales-specialist-at-united-media-london-368356": {
-  "checked": "2026-08-28",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.co.uk/jobs/companies/united-media/management-graduate-program-at-united-media-london-337931": {
-  "checked": "2026-08-28",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.co.uk/jobs/companies/united-media/talent-acquisition-specialist-at-united-media-london-458673": {
-  "checked": "2026-08-28",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.com/jobs/companies/autarcenergy/go-to-market-engineer-ai-automation-berlin-273685": {
-  "checked": "2026-08-27",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://www.arbeitnow.com/jobs/companies/axon/dsp-engineer-werkstudent-kassel-hesse-101776": {
   "checked": "2026-08-28",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/graphene-photonics-data-analyst-aachen-68709": {
-  "checked": "2026-08-27",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/applied-ai-engineer-cologne-54540": {
-  "checked": "2026-08-27",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/knime-ag/working-student-data-analytics-berlin-316151": {
-  "checked": "2026-08-27",
+ "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/working-student-in-sales-excellence-commercial-operations-karlsruhe-13566": {
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1284,18 +1229,13 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/business-development-bdr-dach-remote-383692": {
-  "checked": "2026-08-27",
+ "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-270225": {
+  "checked": "2026-08-30",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://www.arbeitnow.com/jobs/companies/lyceum/compute-markets-associate-berlin-159415": {
   "checked": "2026-08-28",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/nomios/werkstudent-business-development-frankfurt-am-main-324132": {
-  "checked": "2026-08-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1309,6 +1249,11 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
+ "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-276326": {
+  "checked": "2026-08-30",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
  "https://www.arbeitnow.com/jobs/companies/vida-place/remote-geospatial-data-engineer-customer-ai-solutions-13757": {
   "checked": "2026-08-28",
   "reason": "posting still reachable",
@@ -1316,16 +1261,6 @@
  },
  "https://www.arbeitnow.com/jobs/companies/yepoda/junior-influencer-marketing-us-market-berlin-358903": {
   "checked": "2026-08-29",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/yepoda/performance-marketing-manager-maternity-cover-berlin-66435": {
-  "checked": "2026-08-27",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/zekju-gmbh/data-analyst-revenue-operations-engineer-munich-449016": {
-  "checked": "2026-08-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
