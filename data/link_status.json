@@ -25,7 +25,7 @@
   "state": "alive"
  },
  "https://careers.itw.com/global/en/job/JR7973": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -49,11 +49,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://himalayas.app/companies/doola/jobs/affiliate-manager": {
-  "checked": "2026-09-19",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
  "https://job-boards.eu.greenhouse.io/plos/jobs/4920266101": {
   "checked": "2026-09-18",
   "reason": "posting still reachable",
@@ -65,12 +60,12 @@
   "state": "alive"
  },
  "https://job-boards.eu.greenhouse.io/plos/jobs/4972374101": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.eu.greenhouse.io/plos/jobs/4972375101": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -145,7 +140,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/inizio/jobs/8146596": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -265,7 +260,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/natera/jobs/6179612004": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -275,12 +270,12 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/natera/jobs/6187351004": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/natera/jobs/6190381004": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -295,7 +290,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/profluent/jobs/5425382008": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -335,12 +330,12 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/serc/jobs/5223155007": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/serc/jobs/5223412007": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -450,7 +445,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/7927271003": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -475,22 +470,22 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/7985444003": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/7985447003": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/7985503003": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/7985509003": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -505,7 +500,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/truveta/jobs/6184187004": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -605,7 +600,7 @@
   "state": "alive"
  },
  "https://jobs.ashbyhq.com/insitro/f036efe2-1edf-4452-bad0-113eb584184c": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -630,7 +625,7 @@
   "state": "alive"
  },
  "https://jobs.ashbyhq.com/sylvera/5e4aa32a-e919-4490-823f-6ca03ae73149": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -655,7 +650,7 @@
   "state": "alive"
  },
  "https://jobs.lever.co/avalerehealth/3eb9ca83-01be-4a5f-b27c-9fd932acbeea": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -665,7 +660,7 @@
   "state": "alive"
  },
  "https://jobs.lever.co/avalerehealth/60b7ae4e-5330-436b-a156-5098e4550a68": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -900,7 +895,7 @@
   "state": "alive"
  },
  "https://jobs.lever.co/veeva/ae5977fa-0b3b-4293-ba77-a355f94f7b69": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -935,7 +930,7 @@
   "state": "alive"
  },
  "https://jobs.lever.co/veeva/d34bc298-682e-4201-97b3-7f4a5831b5b3": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -984,33 +979,28 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://jobs.smartrecruiters.com/eurofins/744000149066189": {
-  "checked": "2026-09-16",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://jobs.smartrecruiters.com/eurofins/744000149097199": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000149112739": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000149113519": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000149114429": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000149123799": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1030,27 +1020,27 @@
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000149606738": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000149675310": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000149698139": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000149714259": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000149805934": {
-  "checked": "2026-09-16",
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1164,68 +1154,258 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/remote-commercial-finance-business-development-manager-334868": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/bookkeeper-and-credit-controller-at-retail-insights-london-241904": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/artificial-labs/it-manager-london-104464": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/brand-management-associate-at-retail-insights-london-454314": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/artificial-labs/security-operations-manager-london-386417": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/conference-marketing-associate-at-retail-insights-london-1327": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/cyclepharmaceuticals/regulatory-affairs-associate-labelling-cambridge-211949": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/content-marketing-specialist-at-retail-insights-london-174618": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/dept/paid-search-manager-89677": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/crm-email-strategist-at-retail-insights-london-119516": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/kraken/fpa-analyst-london-176859": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/digital-marketing-coordinator-at-retail-insights-london-357859": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-business-analyst-london-478755": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-campaign-associate-at-retail-insights-london-20769": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/smartsheet/sr-product-marketing-manager-ai-gtm-strategy-emea-london-170354": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-campaign-manager-at-retail-insights-london-278969": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/blockchain-expansion-manager-100-remote-london-233994": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-campaign-specialist-at-retail-insights-london-378284": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/multi-skilled-maintenance-engineer-electrical-frome-155452": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-channel-manager-at-retail-insights-london-218742": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/thenewyorktimes/campaign-manager-audience-development-and-insights-london-187295": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-content-manager-at-retail-insights-london-44499": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/ultralytics/solutions-engineer-london-104310": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-marketing-analyst-at-retail-insights-london-85493": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/account-manager-paid-search-manchester-374074": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-marketing-associate-at-retail-insights-london-355021": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/entry-level-content-writer-at-retail-insights-london-171748": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/finance-associate-at-retail-insights-london-329857": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/finance-junior-at-retail-insights-london-376366": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/financial-accountant-at-retail-insights-london-183063": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-partnerships-manager-at-retail-insights-london-430632": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/linkedin-content-associate-at-retail-insights-london-100725": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/linkedin-copywriting-associate-at-retail-insights-london-114310": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/marketing-associate-at-retail-insights-london-2992": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/recruiter-associate-at-retail-insights-london-93734": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/recruiter-at-retail-insights-london-458881": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/recruiter-consultant-at-retail-insights-london-431000": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/recruiter-coordinator-at-retail-insights-london-306451": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sales-development-representative-at-retail-insights-london-315045": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sdr-at-retail-insights-london-126388": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/social-media-associate-at-retail-insights-london-85645": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/social-media-coordinator-at-retail-insights-london-157110": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/social-media-growth-associate-at-retail-insights-london-197820": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sponsorship-sales-manager-at-retail-insights-london-387837": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/talent-recruiter-at-retail-insights-london-141992": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/university-recruiter-at-retail-insights-london-1903": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/setsales/crm-email-strategist-at-setsales-london-102655": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-campaign-associate-at-setsales-london-427022": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-campaign-manager-at-setsales-london-291099": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-campaign-specialist-at-setsales-london-235783": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-channel-manager-at-setsales-london-232111": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-content-manager-at-setsales-london-138884": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-marketing-analyst-at-setsales-london-283948": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/setsales/email-marketing-associate-at-setsales-london-140383": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/cx-apprentice-claims-post-dispatch-returns-northwich-241551": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/gym-instructor-manchester-165092": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/crm-email-strategist-at-united-media-london-279653": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-campaign-associate-at-united-media-london-86225": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-campaign-manager-at-united-media-london-308843": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-campaign-specialist-at-united-media-london-208219": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-channel-manager-at-united-media-london-217404": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-content-manager-at-united-media-london-100233": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-marketing-analyst-at-united-media-london-462857": {
+  "checked": "2026-09-20",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-marketing-associate-at-united-media-london-459746": {
+  "checked": "2026-09-20",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
@@ -1244,18 +1424,33 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
+ "https://www.arbeitnow.com/jobs/companies/dida/ai-consultant-all-genders-hybrid-berlin-frankfurt-374854": {
+  "checked": "2026-09-20",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
  "https://www.arbeitnow.com/jobs/companies/gropyus/product-manager-production-platform-all-genders-berlin-berlin-308548": {
   "checked": "2026-09-19",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/product-manager-autonomous-trucking-gilching-423098": {
-  "checked": "2026-09-18",
+ "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-engineer-munchen-367847": {
+  "checked": "2026-09-20",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.com/jobs/companies/proglove/product-manager-android-integration-ecosystem-munich-office-442971": {
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://www.arbeitnow.com/jobs/companies/secfix/business-development-representative-smb-english-speaking-berlin-472883": {
   "checked": "2026-09-19",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.com/jobs/companies/southwestx/business-industry-co-founder-role-at-startup-guardsphere-saarbrucken-490044": {
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1269,43 +1464,53 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/vireo-ventures/working-student-investor-relations-fundraising-all-genders-berlin-413992": {
-  "checked": "2026-09-19",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://www.arbeitnow.com/jobs/companies/whalar-group/junior-campaign-manager-dach-berlin-165252": {
   "checked": "2026-09-19",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.fr/jobs/companies/doctrine/growth-marketing-germany-paris-300342": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.fr/jobs/companies/alan/organic-social-media-manager-anywhere-in-france-275283": {
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-responsable-qualite-h-f-paris-hq-ile-de-france-390894": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.fr/jobs/companies/backmarket/events-operations-apprentice-paris-436294": {
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/seo-ai-content-specialist-nice-90683": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.fr/jobs/companies/backmarket/product-operations-management-apprentice-bordeaux-404289": {
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/seo-ai-content-specialist-paris-458862": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-business-data-analyst-janvier-2027-paris-paris-34860": {
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.fr/jobs/companies/pigment/epm-technical-account-manager-paris-53784": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieure-plateforme-cdd-12-mois-evry-458997": {
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.fr/jobs/companies/vocca/gtm-engineer-paris-93916": {
-  "checked": "2026-09-19",
+ "https://www.arbeitnow.fr/jobs/companies/lexroom/bdr-team-manager-french-market-paris-31715": {
+  "checked": "2026-09-20",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-platform-management-paris-176979": {
+  "checked": "2026-09-20",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.fr/jobs/companies/oliver/ai-producer-h-f-paris-208659": {
+  "checked": "2026-09-20",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.fr/jobs/companies/veeamsoftware/technical-account-manager-paris-230759": {
+  "checked": "2026-09-20",
   "reason": "posting still reachable",
   "state": "alive"
  },
