@@ -1,16 +1,16 @@
 {
  "http://boards.greenhouse.io/voxmedia/jobs/8282000?gh_jid=8282000": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://a16z.com/about/jobs/?gh_jid=7985022003": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://a16z.com/about/jobs/?gh_jid=8042143003": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -30,7 +30,7 @@
   "state": "alive"
  },
  "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007138": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -39,23 +39,28 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://himalayas.app/companies/info-resume-edge/jobs/customer-experience-cloud-ai-sme?utm_source=api": {
-  "checked": "2026-10-26",
+ "https://himalayas.app/companies/newsquest-media-group/jobs/designer-part-time-print-hub?utm_source=api": {
+  "checked": "2026-10-27",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://himalayas.app/companies/zinda-law-group/jobs/seo-specialist-ai-legal-tech-startup?utm_source=api": {
-  "checked": "2026-10-26",
+ "https://himalayas.app/companies/recidiviz/jobs/impact-analytics-data-analyst?utm_source=api": {
+  "checked": "2026-10-27",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Geospatial-Systems-Developer-I_R-32091": {
+ "https://himalayas.app/companies/university-of-saint-mary/jobs/adjunct-instructor-social-work?utm_source=api": {
+  "checked": "2026-10-27",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/New-Grad-GIS-Analyst-I_R-32164-1": {
   "checked": "2026-10-24",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/New-Grad-GIS-Analyst-I_R-32164-1": {
-  "checked": "2026-10-24",
+ "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Denver-CO/Analyst--Geospatial--GIS-_R11267-1": {
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -80,12 +85,12 @@
   "state": "alive"
  },
  "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4978732101": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/altoslabs/jobs/6179158004": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -99,18 +104,23 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
+ "https://job-boards.greenhouse.io/arcinstitute/jobs/6233934004": {
+  "checked": "2026-10-27",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
  "https://job-boards.greenhouse.io/elementbiosciences/jobs/6196222004": {
   "checked": "2026-10-24",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/elementbiosciences/jobs/6214062004": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/elsevier/jobs/8041992003": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -130,7 +140,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/khanacademy/jobs/8204881": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -194,11 +204,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://job-boards.greenhouse.io/natera/jobs/6216375004": {
-  "checked": "2026-10-26",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://job-boards.greenhouse.io/natera/jobs/6217254004": {
   "checked": "2026-10-24",
   "reason": "posting still reachable",
@@ -215,12 +220,12 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/natera/jobs/6226379004": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/natera/jobs/6226381004": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -230,17 +235,17 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/natera/jobs/6229671004": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/newlimit/jobs/6224558004": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/profluent/jobs/5436260008": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -250,17 +255,17 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/realchemistry/jobs/5216284008": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/realchemistry/jobs/5394122008": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/realchemistry/jobs/5418626008": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -270,11 +275,6 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/realchemistry/jobs/5445753008": {
-  "checked": "2026-10-26",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://job-boards.greenhouse.io/realchemistry/jobs/5448748008": {
   "checked": "2026-10-26",
   "reason": "posting still reachable",
   "state": "alive"
@@ -299,6 +299,11 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
+ "https://job-boards.greenhouse.io/realchemistry/jobs/5463917008": {
+  "checked": "2026-10-27",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
  "https://job-boards.greenhouse.io/serc/jobs/5225600007": {
   "checked": "2026-10-24",
   "reason": "posting still reachable",
@@ -310,7 +315,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/serc/jobs/5226479007": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -320,7 +325,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/serc/jobs/5243663007": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -345,12 +350,12 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/serc/jobs/5255260007": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/serc/jobs/5255464007": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -385,7 +390,7 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/singulargenomics/jobs/8004007003": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -400,42 +405,42 @@
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/8006837003": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/8006838003": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/8007931003": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/8007932003": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/8007933003": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/8007934003": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/8007938003": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://job-boards.greenhouse.io/tcs/jobs/8007939003": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -480,7 +485,7 @@
   "state": "alive"
  },
  "https://jobs.ashbyhq.com/benchling/1a6a2f2e-b0e7-43b1-a985-d1e27ddb0d2e": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -495,7 +500,17 @@
   "state": "alive"
  },
  "https://jobs.ashbyhq.com/benchling/6a18cd23-4c31-4df5-b321-442037b48b3a": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://jobs.ashbyhq.com/benchling/714ea82b-2255-4ce1-abf0-800a5be460b5": {
+  "checked": "2026-10-27",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://jobs.ashbyhq.com/benchling/ad3970dc-1dc5-4cb7-b0f0-2adcfeda19ce": {
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -520,7 +535,7 @@
   "state": "alive"
  },
  "https://jobs.ashbyhq.com/cradlebio/9bfb1d5e-92e1-487b-aa05-633d1b8da50c": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -545,7 +560,7 @@
   "state": "alive"
  },
  "https://jobs.ashbyhq.com/owkin/0fce1733-ca11-4c21-b0c5-60f20d9e95d3": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -555,7 +570,7 @@
   "state": "alive"
  },
  "https://jobs.ashbyhq.com/sylvera/06e928c6-a28a-42c1-8e11-6a4832f1e72a": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -565,17 +580,17 @@
   "state": "alive"
  },
  "https://jobs.ashbyhq.com/sylvera/cfd5cca1-6264-48a1-b68c-a95bfa0db577": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.ashbyhq.com/ycombinator/83ce7ac0-159a-4fa7-8145-0848affe3d0a": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.ashbyhq.com/ycombinator/e3b471e6-1870-4f7b-bf75-a9f5dcfdb982": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -620,12 +635,12 @@
   "state": "alive"
  },
  "https://jobs.lever.co/everlywell/4706bcfe-2619-4d7c-8646-7112c64e44b1": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.lever.co/everlywell/80e35f2b-d044-437c-a392-146daa6e6cba": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -645,7 +660,7 @@
   "state": "alive"
  },
  "https://jobs.lever.co/veeva/0382fb4f-23fe-4ae6-90bc-7f6f3257e585": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -695,7 +710,7 @@
   "state": "alive"
  },
  "https://jobs.lever.co/veeva/38e05d84-6102-4dfa-8da1-096abf825679": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -720,7 +735,7 @@
   "state": "alive"
  },
  "https://jobs.lever.co/veeva/4fe98d2b-cf78-42b9-818c-23a6ba7c0c71": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -731,6 +746,11 @@
  },
  "https://jobs.lever.co/veeva/51967157-70f7-40fd-9044-12b39b5a5d1b": {
   "checked": "2026-10-26",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://jobs.lever.co/veeva/54a2639b-d62f-4c03-ba39-7b5ca811e59e": {
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -810,12 +830,12 @@
   "state": "alive"
  },
  "https://jobs.lever.co/veeva/9c8ca31a-d631-42b0-89cc-2caaf016dcd7": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.lever.co/veeva/9e66f563-e3ea-4587-a691-80ca3b3836de": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -845,7 +865,7 @@
   "state": "alive"
  },
  "https://jobs.lever.co/veeva/af808366-3ad5-4d30-8960-72ca8530d916": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -895,7 +915,7 @@
   "state": "alive"
  },
  "https://jobs.lever.co/veeva/d2af3300-1eb4-47ab-a198-5031e6f366ba": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -915,12 +935,12 @@
   "state": "alive"
  },
  "https://jobs.lever.co/veeva/ea970c9f-0c11-4039-be8c-bee3e11aaaa0": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.lever.co/veeva/ead5492b-0265-4d74-a630-100c5cd54e9a": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -936,6 +956,11 @@
  },
  "https://jobs.smartrecruiters.com/HarvardUniversity/3743990015216006": {
   "checked": "2026-10-24",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://jobs.smartrecruiters.com/eurofins/744000156062890": {
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -955,11 +980,6 @@
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000156404630": {
-  "checked": "2026-10-25",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://jobs.smartrecruiters.com/eurofins/744000156430589": {
   "checked": "2026-10-25",
   "reason": "posting still reachable",
   "state": "alive"
@@ -1094,11 +1114,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://jobs.smartrecruiters.com/eurofins/744000156587629": {
-  "checked": "2026-10-25",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://jobs.smartrecruiters.com/eurofins/744000156645157": {
   "checked": "2026-10-25",
   "reason": "posting still reachable",
@@ -1144,16 +1159,6 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://jobs.smartrecruiters.com/eurofins/744000156880619": {
-  "checked": "2026-10-26",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://jobs.smartrecruiters.com/eurofins/744000156881464": {
-  "checked": "2026-10-26",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
  "https://jobs.smartrecruiters.com/eurofins/744000156911979": {
   "checked": "2026-10-26",
   "reason": "posting still reachable",
@@ -1170,52 +1175,52 @@
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000157103079": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000157104934": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000157108992": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000157134289": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000157157346": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000157202289": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000157228369": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000157240589": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000157401260": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
  "https://jobs.smartrecruiters.com/eurofins/744000157409103": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1239,8 +1244,13 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://lifeattiktok.com/search/7667472978298767621": {
-  "checked": "2026-10-24",
+ "https://jobs.smartrecruiters.com/eurofins/744000157881209": {
+  "checked": "2026-10-27",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://jobs.smartrecruiters.com/eurofins/744000157881359": {
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1260,7 +1270,7 @@
   "state": "alive"
  },
  "https://stripe.com/jobs/search?gh_jid=8221776": {
-  "checked": "2026-10-23",
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1314,6 +1324,11 @@
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
+ "https://www.arbeitnow.ch/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-switzerland-434020": {
+  "checked": "2026-10-27",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
  "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-494295": {
   "checked": "2026-10-25",
   "reason": "HTTP 403, blocked",
@@ -1326,6 +1341,11 @@
  },
  "https://www.arbeitnow.co.uk/jobs/companies/addepar1/technical-data-analyst-edinburgh-406094": {
   "checked": "2026-10-25",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.co.uk/jobs/companies/carwow/business-development-manager-greater-manchester-79338": {
+  "checked": "2026-10-27",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
@@ -1349,18 +1369,8 @@
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-broker-terms-london-325989": {
-  "checked": "2026-10-24",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-credit-cards-london-347362": {
-  "checked": "2026-10-24",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-third-party-acquisition-london-385024": {
-  "checked": "2026-10-24",
+ "https://www.arbeitnow.co.uk/jobs/companies/heidi/commercial-lead-clinical-trials-london-3470": {
+  "checked": "2026-10-27",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
@@ -1376,11 +1386,6 @@
  },
  "https://www.arbeitnow.co.uk/jobs/companies/mammutmarsch-ug/junior-marketing-manager-london-44573": {
   "checked": "2026-10-26",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.co.uk/jobs/companies/moss/business-development-representative-uk-london-368031": {
-  "checked": "2026-10-24",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
@@ -1434,18 +1439,13 @@
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
+ "https://www.arbeitnow.co.uk/jobs/companies/wolt-english/staff-engineer-eu-infrastructure-london-91046": {
+  "checked": "2026-10-27",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
  "https://www.arbeitnow.com/jobs/companies/agilerobotsse/robot-service-engineer-data-collection-fixed-term-18-months-munich-bavaria-136566": {
   "checked": "2026-10-24",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/atira/product-munich-490248": {
-  "checked": "2026-10-23",
-  "reason": "posting still reachable",
-  "state": "alive"
- },
- "https://www.arbeitnow.com/jobs/companies/comena/founders-associate-munich-82869": {
-  "checked": "2026-10-23",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1459,13 +1459,13 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/emotion-gmbh/commercial-strategy-project-manager-berlin-435738": {
-  "checked": "2026-10-24",
+ "https://www.arbeitnow.com/jobs/companies/engcmbluenergyag/product-owner-negolyte-all-genders-alzenau-bavaria-210651": {
+  "checked": "2026-10-26",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/engcmbluenergyag/product-owner-negolyte-all-genders-alzenau-bavaria-210651": {
-  "checked": "2026-10-26",
+ "https://www.arbeitnow.com/jobs/companies/gokixx-gmbh/praktikant-business-development-ai-cologne-430713": {
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1474,18 +1474,28 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/machine-learning-consultant-munich-150083": {
-  "checked": "2026-10-24",
+ "https://www.arbeitnow.com/jobs/companies/prior-labs/technical-product-manager-integrations-berlin-5388": {
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/nextcloud/vp-finance-berlin-248963": {
-  "checked": "2026-10-24",
+ "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/lab-technican-munich-266312": {
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/talent-acquisition-specialist-germany-89169": {
-  "checked": "2026-10-23",
+ "https://www.arbeitnow.com/jobs/companies/telli/enterprise-business-development-representative-berlin-68185": {
+  "checked": "2026-10-27",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.com/jobs/companies/voize/sales-development-representative-saas-berlin-150678": {
+  "checked": "2026-10-27",
+  "reason": "posting still reachable",
+  "state": "alive"
+ },
+ "https://www.arbeitnow.com/jobs/companies/wolt-english/staff-engineer-eu-infrastructure-berlin-258514": {
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
@@ -1519,38 +1529,13 @@
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.fr/jobs/companies/avisia/data-analyst-confirmee-h-f-lille-34846": {
-  "checked": "2026-10-23",
+ "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-474730": {
+  "checked": "2026-10-27",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.fr/jobs/companies/avisia/data-analyst-confirmee-h-f-paris-233016": {
-  "checked": "2026-10-23",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.fr/jobs/companies/avisia/data-analyst-h-f-paris-207445": {
-  "checked": "2026-10-23",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.fr/jobs/companies/avisia/data-scientist-confirmee-h-f-lyon-162700": {
-  "checked": "2026-10-23",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.fr/jobs/companies/avisia/data-scientist-h-f-nantes-217294": {
-  "checked": "2026-10-23",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.fr/jobs/companies/avisia/data-scientist-h-f-paris-293734": {
-  "checked": "2026-10-23",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.fr/jobs/companies/coreview/solution-implementation-consultant-french-speaking-344263": {
-  "checked": "2026-10-23",
+ "https://www.arbeitnow.fr/jobs/companies/deephealth/data-manager-paris-352177": {
+  "checked": "2026-10-27",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
@@ -1559,28 +1544,23 @@
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
+ "https://www.arbeitnow.fr/jobs/companies/hexa/acoustic-researcher-paris-214541": {
+  "checked": "2026-10-27",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
  "https://www.arbeitnow.fr/jobs/companies/jobgether/account-manager-france-59922": {
   "checked": "2026-10-25",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.fr/jobs/companies/ledger/amazon-performance-ppc-automation-manager-paris-48766": {
-  "checked": "2026-10-24",
+ "https://www.arbeitnow.fr/jobs/companies/mistralai/talent-acquisition-specialist-gtm-corporate-emea-paris-63330": {
+  "checked": "2026-10-27",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.fr/jobs/companies/mirakl/solution-consultant-connect-emea-paris-403734": {
-  "checked": "2026-10-23",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.fr/jobs/companies/mirakl/solution-consultant-connect-emea-paris-458924": {
-  "checked": "2026-10-24",
-  "reason": "HTTP 403, blocked",
-  "state": "unknown"
- },
- "https://www.arbeitnow.fr/jobs/companies/novar-nederland-bv/stage-developpement-de-projets-de-stockage-denergie-par-batteries-bess-avignon-412832": {
-  "checked": "2026-10-24",
+ "https://www.arbeitnow.fr/jobs/companies/mondaycom/sales-manager-mid-market-paris-11467": {
+  "checked": "2026-10-27",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
@@ -1596,6 +1576,11 @@
  },
  "https://www.arbeitnow.fr/jobs/companies/pigment/rpo-talent-acquisition-manager-gtm-paris-101467": {
   "checked": "2026-10-25",
+  "reason": "HTTP 403, blocked",
+  "state": "unknown"
+ },
+ "https://www.arbeitnow.fr/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-france-365338": {
+  "checked": "2026-10-27",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
@@ -1649,13 +1634,13 @@
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.nl/jobs/companies/lleverage/go-to-market-associate-uk-amsterdam-21308": {
-  "checked": "2026-10-26",
+ "https://www.arbeitnow.nl/jobs/companies/taggrs/lifecycle-marketeer-part-time-fulltime-heerenveen-102377": {
+  "checked": "2026-10-25",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
- "https://www.arbeitnow.nl/jobs/companies/taggrs/lifecycle-marketeer-part-time-fulltime-heerenveen-102377": {
-  "checked": "2026-10-25",
+ "https://www.arbeitnow.nl/jobs/companies/tebi/events-community-manager-amsterdam-4220": {
+  "checked": "2026-10-27",
   "reason": "HTTP 403, blocked",
   "state": "unknown"
  },
@@ -1669,8 +1654,8 @@
   "reason": "posting still reachable",
   "state": "alive"
  },
- "https://www.dotmatics.com/jobs/apply?gh_jid=4740317005": {
-  "checked": "2026-10-26",
+ "https://www.dotmatics.com/jobs/apply?gh_jid=4737942005": {
+  "checked": "2026-10-27",
   "reason": "posting still reachable",
   "state": "alive"
  },
